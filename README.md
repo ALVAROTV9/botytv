@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 1
 http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , EVENTOS 1
-http://cord-cutter.net:8080/live/Y3DvY8/934867/78717.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692700.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
-http://cord-cutter.net:8080/live/Y3DvY8/934867/78697.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692702.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
@@ -31,6 +31,9 @@ http://cord-cutter.net:8080/live/Y3DvY8/934867/167748.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 9
 http://cord-cutter.net:8080/live/Y3DvY8/934867/137720.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 2
+http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
 http://cord-cutter.net:8080/live/Y3DvY8/934867/86765.ts
@@ -63,12 +66,13 @@ http://fullgo.xyz:8880/live/DeimonTV103/5HPGc6yTcTyr/418592.ts
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 18
 http://fullgo.xyz:8880/live/DeimonTV103/5HPGc6yTcTyr/167725.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION2
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
-
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 19
 http://fullgo.xyz:8880/live/DeimonTV103/5HPGc6yTcTyr/394821.ts
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 3
+http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 20
 http://593zona.live:8080/live/cristian1/cristian1/531755.ts
@@ -103,6 +107,9 @@ http://593zona.live:8080/live/cristian1/cristian1/822836.ts
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 29
 http://593zona.live:8080/live/cristian1/cristian1/822839.ts
 
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 4
+http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
+
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 30
 http://593zona.live:8080/live/cristian1/cristian1/822858.ts
 
@@ -126,15 +133,15 @@ http://593zona.live:8080/live/cristian1/cristian1/525791.ts
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 36
 http://593zona.live:8080/live/cristian1/cristian1/525794.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 3
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
-
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 38
 http://home-playtv.com/live/ZMHZE/YFKQW/516932.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 39
 http://home-playtv.com/live/ZMHZE/YFKQW/516933.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 5
+http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 40
@@ -170,13 +177,46 @@ http://home-playtv.com/live/ZMHZE/YFKQW/149063.ts
 http://nxt.plus:8080/live/dimasxt/331120/1164.ts
 
 
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 6
+http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
+
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 50
-http://nxt.plus:8080/live/dimasxt/331120/46973.ts
+http://205.235.6.29:8000/play/a0kq/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 51
+http://205.235.6.29:8000/play/a0mt/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 52
+http://205.235.6.29:8000/play/a0oc/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 53
+http://205.235.6.29:8000/play/a0jk/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 54
+http://205.235.6.29:8000/play/a0kr/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 55
+http://205.235.6.29:8000/play/a0kr/index.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 56
+http://205.235.6.29:8000/play/a0o5/index.m3u8
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 57
+http://205.235.6.29:8000/play/a0jt/index.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 58
+http://205.235.6.29:8000/play/a0nq/index.m3u8
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 59
+http://205.235.6.29:8000/play/a0ns/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 60
+http://205.235.6.29:8000/play/a0oc/index.m3u8
 
 
 
