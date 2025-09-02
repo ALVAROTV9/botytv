@@ -131,47 +131,47 @@ http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 38
-http://embed-cloudfront.wistia.com/deliveries/100294fc956c6d49a9e617410e3b75b7f2fc93ab.m3u8
+http://home-playtv.com/live/ZMHZE/YFKQW/516932.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 39
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/516931.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/516933.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 40
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/516934.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/36401.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 41
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/228360.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/228360.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 42 
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/158511.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/518960.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 43
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/257326.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/19632.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 44
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/310535.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/186606.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 45
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/439754.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/19495.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 46
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/519821.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/9538.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 47
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/9380.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/158454.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 48
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/439757.ts
+http://home-playtv.com/live/ZMHZE/YFKQW/149063.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 49
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/518965.ts
+http://nxt.plus:8080/live/dimasxt/331120/1164.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 50
-http://dinozord.centai.eu:8080/live/usergm31/8uZ9rfGRxe/21220.ts
+http://nxt.plus:8080/live/dimasxt/331120/46973.ts
 
 
 
