@@ -4,7 +4,7 @@ http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , EVENTOS 1
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692700.ts
+http://sonymax.org:8080/HelmutKurtDrtmnd/y2ENCn2NbW/552760
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692702.ts
