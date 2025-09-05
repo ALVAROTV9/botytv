@@ -32,8 +32,6 @@ http://cord-cutter.net:8080/live/Y3DvY8/934867/167748.ts
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 9
 http://cord-cutter.net:8080/live/Y3DvY8/934867/137720.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 2
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
 http://cord-cutter.net:8080/live/Y3DvY8/934867/86765.ts
@@ -71,8 +69,6 @@ http://directo.ddns.me:33200/live/stkzapa/6392/3077.ts
 http://directo.ddns.me:33200/live/stkzapa/6392/50372.ts
 
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 3
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 20
 http://directo.ddns.me:33200/live/stkzapa/6392/3084.ts
@@ -140,8 +136,6 @@ http://directo.ddns.me:33200/live/stkzapa/6392/56940.ts
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 39
 http://directo.ddns.me:33200/live/stkzapa/6392/76241.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 5
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 40
@@ -177,8 +171,6 @@ http://home-playtv.com/live/ZMHZE/YFKQW/149063.ts
 http://nxt.plus:8080/live/dimasxt/331120/1164.ts
 
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 6
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 50
 http://205.235.6.29:8000/play/a0kq/index.m3u8
@@ -220,6 +212,8 @@ http://205.235.6.29:8000/play/a0oc/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 2
+http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
 
 
 
