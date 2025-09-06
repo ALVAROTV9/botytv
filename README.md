@@ -38,10 +38,10 @@ http://cord-cutter.net:8080/live/Y3DvY8/934867/86765.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 11
-http://directo.ddns.me:33200/live/stkzapa/6392/47580.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/418199.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 12
-http://directo.ddns.me:33200/live/stkzapa/6392/31759.ts
+http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/418211.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 13
