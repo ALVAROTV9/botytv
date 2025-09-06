@@ -212,8 +212,8 @@ http://205.235.6.29:8000/play/a0oc/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 2
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV P
+http://clubtv.link/my0505/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
 
 
 
