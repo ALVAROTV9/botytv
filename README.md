@@ -4,7 +4,7 @@ http://embed-cloudfront.wistia.com/deliveries/5a15e5e3ed51e5ce0b0a77448b8f979994
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , EVENTOS 1
-http://directo.ddns.me:33200/live/stkzapa/6392/50262.ts
+http://embed-cloudfront.wistia.com/deliveries/38c1f93c6e1a9d4883f86e93c8f83fcb3dabe7c7.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
 http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692702.ts
