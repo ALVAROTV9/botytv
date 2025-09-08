@@ -75,13 +75,13 @@ http://embed-cloudfront.wistia.com/deliveries/c11d7672a95c7fee6fa6a1a1f110090cd4
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 21
-http://directo.ddns.me:33200/live/stkzapa/6392/3083.ts
+http://v4.agenciav4.top/live/648866758/722737417/4231122.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 22
-http://593zona.live:8080/live/cristian1/cristian1/437291.ts
+http://v4.agenciav4.top/live/648866758/722737417/4231123.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 23 
-http://593zona.live:8080/live/cristian1/cristian1/585300.ts
+http://v4.agenciav4.top/live/648866758/722737417/4231678.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 24
 http://593zona.live:8080/live/cristian1/cristian1/531763.ts
