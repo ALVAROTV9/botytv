@@ -179,36 +179,36 @@ http://205.235.6.29:8000/play/a0kq/index.m3u8
 http://205.235.6.29:8000/play/a0mt/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 52
-http://205.235.6.29:8000/play/a0oc/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/2824.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 53
-http://205.235.6.29:8000/play/a0jk/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/1654.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 54
-http://205.235.6.29:8000/play/a0kr/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/1653.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 55
-http://205.235.6.29:8000/play/a0kr/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/337.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 56
-http://205.235.6.29:8000/play/a0o5/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/361.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 57
-http://205.235.6.29:8000/play/a0jt/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/360.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 58
-http://205.235.6.29:8000/play/a0nq/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/66.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 59
-http://205.235.6.29:8000/play/a0ns/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/65.ts
 
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 60
-http://205.235.6.29:8000/play/a0oc/index.m3u8
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/64.ts
 
 
 
