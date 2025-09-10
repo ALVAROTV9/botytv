@@ -7,14 +7,14 @@ http://embed-cloudfront.wistia.com/deliveries/c11d7672a95c7fee6fa6a1a1f110090cd4
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692702.ts
+http://nxt.plus:8080/live/dimasxt/331120/206190.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
 http://nxt.plus:8080/live/dimasxt/331120/46973.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4
-http://nxt.plus:8080/live/dimasxt/331120/23424.ts
+http://nxt.plus:8080/live/dimasxt/331120/65691.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
@@ -66,106 +66,105 @@ http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692371.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 19
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692375.ts
+http://nxt.plus:8080/live/dimasxt/331120/59084.ts
 
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 20
-http://embed-cloudfront.wistia.com/deliveries/c11d7672a95c7fee6fa6a1a1f110090cd44b149f.m3u8
+http://nxt.plus:8080/live/dimasxt/331120/103887.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 21
-http://v4.agenciav4.top/live/648866758/722737417/4231122.ts
+http://nxt.plus:8080/live/dimasxt/331120/15318.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 22
-http://v4.agenciav4.top/live/648866758/722737417/4231123.ts
+http://nxt.plus:8080/live/dimasxt/331120/261626.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 23 
-http://v4.agenciav4.top/live/648866758/722737417/4231678.ts
+http://nxt.plus:8080/live/dimasxt/331120/261626.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 24
-http://593zona.live:8080/live/cristian1/cristian1/531763.ts
+http://nxt.plus:8080/live/dimasxt/331120/60673.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 25
-http://593zona.live:8080/live/cristian1/cristian1/822831.ts
+http://nxt.plus:8080/live/dimasxt/331120/190052.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 26
-http://593zona.live:8080/live/cristian1/cristian1/822832.ts
+http://nxt.plus:8080/live/dimasxt/331120/191452.tstgr
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 27
-http://593zona.live:8080/live/cristian1/cristian1/822835.ts
+http://nxt.plus:8080/live/dimasxt/331120/191452.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 28
-http://593zona.live:8080/live/cristian1/cristian1/822836.ts
+http://nxt.plus:8080/live/dimasxt/331120/25121.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 29
-http://593zona.live:8080/live/cristian1/cristian1/822839.ts
+http://nxt.plus:8080/live/dimasxt/331120/56957.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 4
-http://embed-cloudfront.wistia.com/deliveries/70d8dc945a0a727e49ed218d08dbf46731ebf46c.m3u8
+http://nxt.plus:8080/live/dimasxt/331120/201471.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 30
-http://directo.ddns.me:33200/live/stkzapa/6392/81516.ts
+http://nxt.plus:8080/live/dimasxt/331120/256560.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 31
-http://directo.ddns.me:33200/live/stkzapa/6392/81513.ts
+http://nxt.plus:8080/live/dimasxt/331120/25277.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 32
-http://directo.ddns.me:33200/live/stkzapa/6392/81515.ts
+http://nxt.plus:8080/live/dimasxt/331120/28955.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 33
-http://directo.ddns.me:33200/live/stkzapa/6392/81521.ts
+http://nxt.plus:8080/live/dimasxt/331120/28956.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 34
-http://directo.ddns.me:33200/live/stkzapa/6392/3082.ts
+http://nxt.plus:8080/live/dimasxt/331120/56866.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 35
-http://directo.ddns.me:33200/live/stkzapa/6392/3090.ts
+http://nxt.plus:8080/live/dimasxt/331120/187904.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 36
-http://directo.ddns.me:33200/live/stkzapa/6392/56940.ts
+http://nxt.plus:8080/live/dimasxt/331120/265003.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 38
-http://directo.ddns.me:33200/live/stkzapa/6392/56940.ts
+http://nxt.plus:8080/live/dimasxt/331120/167070.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 39
-http://directo.ddns.me:33200/live/stkzapa/6392/76241.ts
-
+http://nxt.plus:8080/live/dimasxt/331120/766.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 40
-http://directo.ddns.me:33200/live/stkzapa/6392/81708.ts
+http://nxt.plus:8080/live/dimasxt/331120/16497.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 41
-http://directo.ddns.me:33200/live/stkzapa/6392/51267.ts
+http://nxt.plus:8080/live/dimasxt/331120/166748.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 42 
-http://directo.ddns.me:33200/live/stkzapa/6392/51267.ts
+http://nxt.plus:8080/live/dimasxt/331120/81343.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 43
-http://directo.ddns.me:33200/live/stkzapa/6392/51269.ts
+http://nxt.plus:8080/live/dimasxt/331120/56902.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 44
-http://home-playtv.com/live/ZMHZE/YFKQW/186606.ts
+http://nxt.plus:8080/live/dimasxt/331120/134386.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 45
-http://home-playtv.com/live/ZMHZE/YFKQW/19495.ts
+http://nxt.plus:8080/live/dimasxt/331120/117637.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 46
-http://home-playtv.com/live/ZMHZE/YFKQW/9538.ts
+http://nxt.plus:8080/live/dimasxt/331120/29764.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 47
-http://home-playtv.com/live/ZMHZE/YFKQW/158454.ts
+http://nxt.plus:8080/live/dimasxt/331120/160760.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 48
-http://home-playtv.com/live/ZMHZE/YFKQW/149063.ts
+http://nxt.plus:8080/live/dimasxt/331120/221218.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 49
 http://nxt.plus:8080/live/dimasxt/331120/1164.ts
@@ -173,42 +172,42 @@ http://nxt.plus:8080/live/dimasxt/331120/1164.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 50
-http://205.235.6.29:8000/play/a0kq/index.m3u8
+http://nxt.plus:8080/live/dimasxt/331120/11476.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 51
-http://205.235.6.29:8000/play/a0mt/index.m3u8
+http://nxt.plus:8080/live/dimasxt/331120/24404.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 52
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/63.ts
+http://nxt.plus:8080/live/dimasxt/331120/58063.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 53
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/64.ts
+http://nxt.plus:8080/live/dimasxt/331120/206190.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 54
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/65.ts
+http://nxt.plus:8080/live/dimasxt/331120/26924.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 55
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/66.ts
+http://nxt.plus:8080/live/dimasxt/331120/58606.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 56
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/360.ts
+http://nxt.plus:8080/live/dimasxt/331120/58606.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 57
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/361.ts
+http://nxt.plus:8080/live/dimasxt/331120/197315.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 58
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/5617.ts
+http://nxt.plus:8080/live/dimasxt/331120/81341.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 59
-
+http://nxt.plus:8080/live/dimasxt/331120/29783.ts
 
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 60
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/64.ts
+http://nxt.plus:8080/live/dimasxt/331120/29785.ts
 
 
 
