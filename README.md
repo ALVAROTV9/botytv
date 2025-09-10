@@ -34,7 +34,7 @@ http://cord-cutter.net:8080/live/Y3DvY8/934867/137720.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
-http://embed-cloudfront.wistia.com/deliveries/c11d7672a95c7fee6fa6a1a1f110090cd44b149f.m3u8
+http://g-med.xyz:25461/live/nihada.sehovic/qBURQj4eAZes/38465.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 11
