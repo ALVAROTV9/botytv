@@ -179,44 +179,36 @@ http://205.235.6.29:8000/play/a0kq/index.m3u8
 http://205.235.6.29:8000/play/a0mt/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 52
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/2824.ts
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/63.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 53
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/1654.ts
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/64.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 54
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/1653.ts
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/65.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 55
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/337.ts
-
-
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 56
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/361.ts
-
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 57
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/360.ts
-
-
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 58
 http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/66.ts
 
 
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 56
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/360.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 57
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/361.ts
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 58
+http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/5617.ts
+
+
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 59
-http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/65.ts
+
 
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 60
 http://cm1.portaltv.info:777/live/XhemajlAlija/EvtIsnNN3b/64.ts
-
-
-
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV P
-http://clubtv.link/my0505/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
-
-
-
 
 
 
