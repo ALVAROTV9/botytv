@@ -310,8 +310,8 @@ http://nxt.plus:8080/live/dimasxt/331120/53695.ts
 #EXTINF:-1 group-title="🟢NOTICIAS🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , FOX NEWS
 http://nxt.plus:8080/live/dimasxt/331120/187910.ts
 
-
-
+#EXTINF:-1 group-title="🟢NOTICIAS🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NTN24
+http://nxt.plus:8080/live/dimasxt/331120/227044.ts
 
 
 
