@@ -211,3 +211,134 @@ http://nxt.plus:8080/live/dimasxt/331120/29785.ts
 
 
 
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HISTORY
+http://nxt.plus:8080/live/dimasxt/331120/16917.ts
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HISTORY 2
+http://nxt.plus:8080/live/dimasxt/331120/9783.ts
+
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , INVESTIGATION DISCOVEEY
+http://nxt.plus:8080/live/dimasxt/331120/9784.ts
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVEEY CHANNEL
+http://nxt.plus:8080/live/dimasxt/331120/2826.ts
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY THEATER
+http://nxt.plus:8080/live/dimasxt/331120/13969.ts
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ANIMAL PLANET
+http://nxt.plus:8080/live/dimasxt/331120/242683.ts
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY WORLD
+http://nxt.plus:8080/live/dimasxt/331120/1639.ts
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NATGEO
+http://nxt.plus:8080/live/dimasxt/331120/43549.ts
+
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NATGEO WILD
+http://nxt.plus:8080/live/dimasxt/331120/167088.ts
+
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , LOVE NATURE
+http://nxt.plus:8080/live/dimasxt/331120/118112.ts
+
+
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , LOVE THE PLANET
+http://nxt.plus:8080/live/dimasxt/331120/264875.ts
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
