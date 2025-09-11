@@ -257,6 +257,39 @@ http://nxt.plus:8080/live/dimasxt/331120/118112.ts
 #EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , LOVE THE PLANET
 http://nxt.plus:8080/live/dimasxt/331120/264875.ts
 
+#EXTINF:-1 group-title="🟢CULTURA🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY FAMILIA 
+http://nxt.plus:8080/live/dimasxt/331120/29723.ts
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO PLUS
+http://nxt.plus:8080/live/dimasxt/331120/16900.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+HBO
+http://nxt.plus:8080/live/dimasxt/331120/16897.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+HBO 2
+http://nxt.plus:8080/live/dimasxt/331120/7090.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+HBO FAMILY
+http://nxt.plus:8080/live/dimasxt/331120/3273.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+HBO POP
+http://nxt.plus:8080/live/dimasxt/331120/16902.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+HBO SIGNATURE
+http://nxt.plus:8080/live/dimasxt/331120/16898.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+HBO XTREME
+http://nxt.plus:8080/live/dimasxt/331120/169451.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+UNIVERSAL 
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
 
@@ -267,38 +300,15 @@ http://nxt.plus:8080/live/dimasxt/331120/264875.ts
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
 
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+#EXTINF:-1 group-title="🟢NOTICIAS🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , CNN ESP
+http://nxt.plus:8080/live/dimasxt/331120/59075.ts
+
+#EXTINF:-1 group-title="🟢NOTICIAS🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , CNN INTER
+http://nxt.plus:8080/live/dimasxt/331120/53695.ts
 
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" ,
+#EXTINF:-1 group-title="🟢NOTICIAS🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , FOX NEWS
+http://nxt.plus:8080/live/dimasxt/331120/187910.ts
 
 
 
