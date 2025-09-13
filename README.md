@@ -7,14 +7,14 @@ http://embed-cloudfront.wistia.com/deliveries/c11d7672a95c7fee6fa6a1a1f110090cd4
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
-http://185.236.230.212:9981/play/a0bu
+http://181.188.216.5:18000/play/a0nv/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
 http://185.236.230.212:9982/play/a0b9
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4
-http://181.188.216.5:18000/play/a0ch/index.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
@@ -59,86 +59,86 @@ http://181.188.216.5:18000/play/a0i6/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 17
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692380.ts
+http://181.188.216.5:18000/play/a0fe/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 18
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/692371.ts
+http://205.235.6.29:8000/play/a0ns/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 19
-http://nxt.plus:8080/live/dimasxt/331120/59084.ts
+http://205.235.6.29:8000/play/a0nq/index.m3u8
 
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 20
-http://nxt.plus:8080/live/dimasxt/331120/103887.ts
+http://205.235.6.29:8000/play/a0vh/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 21
-http://nxt.plus:8080/live/dimasxt/331120/15318.ts
+http://205.235.6.29:8000/play/a0pz/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 22
-http://nxt.plus:8080/live/dimasxt/331120/261626.ts
+http://205.235.6.29:8000/play/a0ny/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 23 
-http://nxt.plus:8080/live/dimasxt/331120/261626.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/828.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 24
-http://nxt.plus:8080/live/dimasxt/331120/60673.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/739.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 25
-http://nxt.plus:8080/live/dimasxt/331120/190052.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/765.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 26
-http://nxt.plus:8080/live/dimasxt/331120/191452.tstgr
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3065.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 27
-http://nxt.plus:8080/live/dimasxt/331120/191452.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3069.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 28
-http://nxt.plus:8080/live/dimasxt/331120/25121.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3060.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 29
-http://nxt.plus:8080/live/dimasxt/331120/56957.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3061.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 4
-http://nxt.plus:8080/live/dimasxt/331120/201471.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3070.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 30
-http://nxt.plus:8080/live/dimasxt/331120/256560.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3645.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 31
-http://nxt.plus:8080/live/dimasxt/331120/25277.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1077.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 32
-http://nxt.plus:8080/live/dimasxt/331120/28955.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/4336.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 33
-http://nxt.plus:8080/live/dimasxt/331120/28956.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1078.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 34
-http://nxt.plus:8080/live/dimasxt/331120/56866.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1079.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 35
-http://nxt.plus:8080/live/dimasxt/331120/187904.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1027.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 36
-http://nxt.plus:8080/live/dimasxt/331120/265003.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1094.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 38
-http://nxt.plus:8080/live/dimasxt/331120/167070.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/352.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 39
-http://nxt.plus:8080/live/dimasxt/331120/766.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3845.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 40
-http://nxt.plus:8080/live/dimasxt/331120/16497.ts
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3814.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 41
 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3279.ts
