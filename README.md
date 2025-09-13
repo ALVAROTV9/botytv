@@ -7,14 +7,14 @@ http://embed-cloudfront.wistia.com/deliveries/c11d7672a95c7fee6fa6a1a1f110090cd4
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
-http://nxt.plus:8080/live/dimasxt/331120/206190.ts
+http://185.236.230.212:9981/play/a0bu
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
-http://nxt.plus:8080/live/dimasxt/331120/46973.ts
+http://185.236.230.212:9982/play/a0b9
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4
-http://nxt.plus:8080/live/dimasxt/331120/65691.ts
+http://181.188.216.5:18000/play/a0ch/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
@@ -34,28 +34,28 @@ http://cord-cutter.net:8080/live/Y3DvY8/934867/137720.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
-http://nxt.plus:8080/live/dimasxt/331120/58191.ts
+http://181.188.216.5:18000/play/a0ch/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 11
-http://nxt.plus:8080/live/dimasxt/331120/766.ts
+http://181.188.216.5:18000/play/a0jz/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 12
-http://nxt.plus:8080/live/dimasxt/331120/166748.ts
+http://181.188.216.5:18000/play/a0dm/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 13
-http://nxt.plus:8080/live/dimasxt/331120/81343.ts
+http://181.188.216.5:18000/play/a0bh/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 14
-http://nxt.plus:8080/live/dimasxt/331120/134386.ts
+http://181.188.216.5:18000/play/a0ml/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 15
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/691799.ts
+http://181.188.216.5:18000/play/a0a9/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 16
-http://bedroombullyonline.com:8880/live/MauriceFigaroa/6ggSKB2DPM/691877.ts
+http://181.188.216.5:18000/play/a0i6/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 17
