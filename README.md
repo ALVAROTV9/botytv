@@ -8,62 +8,63 @@ http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
-http://181.188.216.5:18000/play/a0nv/index.m3u8
-
-
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
-http://185.236.230.212:9982/play/a0b9
-
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167742.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 6
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167743.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 7
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167744.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 8
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
 http://cord-cutter.net:8080/live/Y3DvY8/934867/167745.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 6
+http://cord-cutter.net:8080/live/Y3DvY8/934867/137720.ts
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 7
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/54533.ts
+
+
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/158511.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 9
-http://cord-cutter.net:8080/live/Y3DvY8/934867/137720.ts
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/518959.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
-http://181.188.216.5:18000/play/a0ch/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/456658.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 11
-http://181.188.216.5:18000/play/a0jz/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/36401.ts
+
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 12
-http://181.188.216.5:18000/play/a0dm/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/259731.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 13
-http://181.188.216.5:18000/play/a0bh/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/519821.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 14
-http://181.188.216.5:18000/play/a0ml/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/439757.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 15
-http://181.188.216.5:18000/play/a0a9/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/36391.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 16
-http://181.188.216.5:18000/play/a0i6/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/518962.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 17
-http://181.188.216.5:18000/play/a0fe/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/21229.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 18
-http://205.235.6.29:8000/play/a0ns/index.m3u8
+http://195.66.210.10:8080/live/MauriSesin/TZAKG/168997.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 19
