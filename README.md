@@ -188,27 +188,25 @@ http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1417.ts
 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3645.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 55
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3848.ts
+http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/36057.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 56
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/416.ts
+http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/209621.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 57
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3845.ts
-
+http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/215439.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 58
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/415.ts
+http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/215437.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 59
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/349.ts
+http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/590091.ts
 
 
-
-#TINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 60
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3825.ts
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 60
+http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/590087.ts
 
 
 
