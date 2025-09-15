@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION Y CONTACTO
-http://fast.wistia.com/embed/medias/5m1gmrwde6.m3u8
-
+http://embed-cloudfront.wistia.com/deliveries/aeb667b2d226d225d719c148c5e5f625109b228a.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , EVENTOS 1
@@ -188,25 +187,25 @@ http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1417.ts
 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3645.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 55
-http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/36057.ts
+http://embed-cloudfront.wistia.com/deliveries/aeb667b2d226d225d719c148c5e5f625109b228a.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 56
-http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/209621.ts
+http://embed-cloudfront.wistia.com/deliveries/aeb667b2d226d225d719c148c5e5f625109b228a.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 57
-http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/215439.ts
+http://embed-cloudfront.wistia.com/deliveries/aeb667b2d226d225d719c148c5e5f625109b228a.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 58
-http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/215437.ts
+http://embed-cloudfront.wistia.com/deliveries/aeb667b2d226d225d719c148c5e5f625109b228a.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 59
-http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/590091.ts
+http://embed-cloudfront.wistia.com/deliveries/aeb667b2d226d225d719c148c5e5f625109b228a.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 60
-http://dinozord.centai.eu:8080/live/ZRNKK/NDKCS/590087.ts
+http://embed-cloudfront.wistia.com/deliveries/aeb667b2d226d225d719c148c5e5f625109b228a.m3u8
 
 
 
