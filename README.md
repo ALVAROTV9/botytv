@@ -64,7 +64,7 @@ http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9552.ts
 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9553.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 18
-http://195.66.210.10:8080/live/MauriSesin/TZAKG/168997.ts
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/94467.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 19
@@ -105,8 +105,8 @@ http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3060.ts
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 29
 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3061.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 4
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3070.ts
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 
+
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 30
 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3645.ts
