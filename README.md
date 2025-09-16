@@ -144,12 +144,41 @@ http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3845.ts
 
 
 
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
+http://38.41.8.1:8000/play/a0us
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO 2
+http://143.0.67.77:8000/play/a06r/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Plus
+http://38.41.8.1:8000/play/a0ro
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Family
+http://143.0.67.77:8000/play/a06r/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Xtreme
+
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Pop
+http://38.41.8.1:8000/play/a0rq
+
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
+
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
+
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
 
 
 
