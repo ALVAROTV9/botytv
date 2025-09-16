@@ -7,7 +7,7 @@ http://embed-cloudfront.wistia.com/deliveries/0eeed1647b20841504b2fc0e9461297737
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 2
-http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9557.ts
+http://cord-cutter.net:8080/live/Y3DvY8/934867/78717.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
 http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9563.ts
