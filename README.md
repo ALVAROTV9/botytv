@@ -145,40 +145,51 @@ http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3845.ts
 
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
-http://38.41.8.1:8000/play/a0us
+http://directo.ddns.me:33200/live/stkzapa/6392/7010.ts
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO 2
-http://143.0.67.77:8000/play/a06r/index.m3u8
+http://directo.ddns.me:33200/live/stkzapa/6392/2643.ts
 
 
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Plus
-http://38.41.8.1:8000/play/a0ro
+http://directo.ddns.me:33200/live/stkzapa/6392/2645.ts
 
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Family
-http://143.0.67.77:8000/play/a06r/index.m3u8
+http://directo.ddns.me:33200/live/stkzapa/6392/2644.ts
 
 
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Xtreme
-
+http://directo.ddns.me:33200/live/stkzapa/6392/2695.ts
 
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Pop
-http://38.41.8.1:8000/play/a0rq
+http://directo.ddns.me:33200/live/stkzapa/6392/30416.ts
 
 
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Signature
+http://directo.ddns.me:33200/live/stkzapa/6392/2646.ts
 
 
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Mundi
+http://directo.ddns.me:33200/live/stkzapa/6392/30415.ts
 
 
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , UNIVERSAL Cinema
+http://directo.ddns.me:33200/live/stkzapa/6392/50467.ts
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , UNIVERSAL Premier
+http://directo.ddns.me:33200/live/stkzapa/6392/56569.ts
+
+
+
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , UNIVERSAL Crime
+http://directo.ddns.me:33200/live/stkzapa/6392/50468.ts
 
 
 
