@@ -142,57 +142,39 @@ http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3845.ts
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 40
 
 
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 1
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200985.ts
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 2
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200986.ts
 
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO
-http://directo.ddns.me:33200/live/stkzapa/6392/7010.ts
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO 2
-http://directo.ddns.me:33200/live/stkzapa/6392/2643.ts
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 3
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200992.ts
 
 
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Plus
-http://directo.ddns.me:33200/live/stkzapa/6392/2645.ts
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Family
-http://directo.ddns.me:33200/live/stkzapa/6392/2644.ts
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 4
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200990.ts
 
 
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Xtreme
-http://directo.ddns.me:33200/live/stkzapa/6392/2695.ts
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Pop
-http://directo.ddns.me:33200/live/stkzapa/6392/30416.ts
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 5
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200995.ts
 
 
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 6
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200993.ts
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Signature
-http://directo.ddns.me:33200/live/stkzapa/6392/2646.ts
-
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HBO Mundi
-http://directo.ddns.me:33200/live/stkzapa/6392/30415.ts
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 7
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200988.ts
 
 
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 8
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200996.ts
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , UNIVERSAL Cinema
-http://directo.ddns.me:33200/live/stkzapa/6392/50467.ts
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 9
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200987.ts
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , UNIVERSAL Premier
-http://directo.ddns.me:33200/live/stkzapa/6392/56569.ts
-
-
-
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , UNIVERSAL Crime
-http://directo.ddns.me:33200/live/stkzapa/6392/50468.ts
-
-
-
+#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 10
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200989.ts
 
 
 
