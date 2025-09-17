@@ -82,38 +82,38 @@ http://38.41.8.1:8000/play/a0u8
 http://38.41.8.1:8000/play/a0wi
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 23 
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200623.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 24
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200646.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 25
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200621.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 26
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200689.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 27
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200691.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 28
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200695.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 29
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200585.ts
 
-#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION 
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
+#EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV DEPORTES
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200585.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 30
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200600.ts
 
-http://embed-cloudfront.wistia.com/deliveries/942e2d3686846f4e87216544dea22a600c157f19.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 31
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1077.ts
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200578.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 32
 http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/4336.ts
