@@ -176,8 +176,58 @@ http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200987.ts
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 10
 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200989.ts
 
-#EXTINF:0 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EL CONJURO el diablo me obligo hscerlo (2021)
-http://tv.proyectox.vip:8080/movie/jimmendez1/Qw7NVQE6Ns/46278.mkv
 
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , ANIMAL PLANET
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9811.ts
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY CHANNEL
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9815.ts
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY FAMILIA
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9817.ts
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY SCIENCE
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9786.ts
+
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY TEATHER
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9824.ts
+
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY WORLD
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9832.ts
+
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , DISCOVERY INVESTIGATION
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9785.ts
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HISTORY 2
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9837.ts
+
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HISTORY
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9797.ts
+
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , HISTORIA
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200531.ts
+
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NATGEO
+http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9847.ts
+
+
+#EXTINF:0 group-title="🟢DOCUMENTAL🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NATIONAL GEOGRPHIC
+http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200514.ts
 
 
