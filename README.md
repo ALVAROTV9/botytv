@@ -176,7 +176,7 @@ http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200987.ts
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 10
 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200989.ts
 
-#EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EL CONJURO el diablo me obligo hscerlo (2021)
+#EXTINF:0 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EL CONJURO el diablo me obligo hscerlo (2021)
 http://tv.proyectox.vip:8080/movie/jimmendez1/Qw7NVQE6Ns/46278.mkv
 
 
