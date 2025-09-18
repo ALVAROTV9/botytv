@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION Y CONTACTO
-http://embed-cloudfront.wistia.com/deliveries/0eeed1647b20841504b2fc0e9461297737d8f578.m3u8
+http://embed-cloudfront.wistia.com/deliveries/55b08cfd6194bfbdca056ad4a910cddc0637e486.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , EVENTOS 1
