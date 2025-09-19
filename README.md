@@ -231,3 +231,16 @@ http://tv.zapping.life:8080/live/mayleenfunez1/135535683598/9847.ts
 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200514.ts
 
 
+#EXTINF:0 group-title="🟢VARIADOS🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , 
+
+
+
+#EXTINF:0 group-title="🟢VARIADOS🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , 
+
+
+
+#EXTINF:0 group-title="🟢VARIADOS🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , 
+
+
+
+
