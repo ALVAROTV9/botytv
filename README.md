@@ -16,86 +16,86 @@ http://38.41.8.1:8000/play/a06r
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
-http://38.41.8.1:8000/play/a0t7
+http://38.56.113.170:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 6
-http://181.188.216.5:18000/play/a0jz/index.m3u8
+http://38.56.113.170:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 7
-http://38.41.8.1:8000/play/a0ul
+http://38.56.113.170:8000/play/a070/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 8
-http://38.41.8.1:8000/play/a0sm
+http://38.56.113.170:8000/play/a071/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 9
-http://38.41.8.1:8000/play/a0sv
+http://38.56.113.170:8000/play/a01q/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
-http://38.41.8.1:8000/play/a07b
+http://38.56.113.170:8000/play/a05t/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 11
-http://38.41.8.1:8000/play/a0sx
+http://38.56.113.170:8000/play/a01t/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 12
-http://38.41.8.1:8000/play/a0tl
+http://38.56.113.170:8000/play/a01u/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 13
-http://38.41.8.1:8000/play/a0tp
+http://38.56.113.170:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 14
-http://38.41.8.1:8000/play/a050
+http://38.56.113.170:8000/play/a06q/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 15
-http://38.41.8.1:8000/play/a0yi
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/10641.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 16
-http://38.41.8.1:8000/play/a0rn
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/10639.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 17
-http://38.41.8.1:8000/play/a0wj
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/10640.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 18
-http://205.235.6.29:8000/play/a0ns/index.m3u8
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/8489.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 19
-http://38.41.8.1:8000/play/a0ye
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/8511.m3u8
 
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 20
-http://38.41.8.1:8000/play/a0ry
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/8130.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 21
-http://38.41.8.1:8000/play/a0u8
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9557.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 22
-http://38.41.8.1:8000/play/a0wi
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9560.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 23 
-http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200623.ts
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9561.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 24
-http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200646.ts
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9566.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 25
-http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200621.ts
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9599.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 26
-http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200689.ts
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9601.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 27
-http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200691.ts
+http://tv.masterplaytv.club:8080/live/Elcaleno25/wvdQwjUR7H/9553.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 28
 http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200695.ts
