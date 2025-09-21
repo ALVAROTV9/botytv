@@ -10,10 +10,10 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 http://38.41.8.1:8000/play/a06r
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 3
-http://38.41.8.1:8000/play/a06r
+http://205.235.6.29:8000/play/a0pz/index.m3u8
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 4
-http://205.235.6.29:8000/play/a0pz/index.m3u8
+http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1078.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 5 
 http://38.56.113.170:8000/play/a06v/index.m3u8
