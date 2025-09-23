@@ -26,11 +26,11 @@ http://a4d2f927.amazzin.pw/iptv/LN73B6Q5U2R39M/19113/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 8
-http://38.56.113.170:8000/play/a071/index.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 9
-http://38.56.113.170:8000/play/a01q/index.m3u8
+http://78.130.250.2:8023/play/a02w/index.m3u8
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 10
