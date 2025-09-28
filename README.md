@@ -885,3 +885,356 @@ http://190.0.247.38:8000/play/a04p
 
 
 
+
+
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:PPV
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
+#EXTINF:0,EVENTOS 1
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0ve/index.m3u8
+#EXTINF:0,EVENTOS 2
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0vh/index.m3u8
+#EXTINF:0,EVENTOS 3
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a06r
+#EXTINF:0,EVENTOS 4
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/302967.ts
+#EXTINF:0,EVENTOS 5
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/302966.ts
+#EXTINF:0,EVENTOS 6
+#EXTGRP:PPV
+http://cord-cutter.net:8080/live/Y3DvY8/934867/53706.ts
+#EXTINF:0,EVENTOS 7
+#EXTGRP:PPV
+http://cord-cutter.net:8080/live/Y3DvY8/934867/35243.ts
+#EXTINF:0,EVENTOS 8
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sm
+#EXTINF:0,EVENTOS 9
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sv
+#EXTINF:0,EVENTOS 10
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/293609.ts
+#EXTINF:0,BAYERN MUNICH luis diaz
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/293596.ts
+#EXTINF:0,ITALIA CALCIO
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/293273.ts
+#EXTINF:0,LA LIGA
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/292980.ts
+#EXTINF:0,FRANCUA LIGUE ONE
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/301961.ts
+#EXTINF:0,BRASIL FUTBOL
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/304357.ts
+#EXTINF:0,FRANCUA LIGUE ONE
+#EXTGRP:PPV
+http://ip96.uk:8080/live/Ghosia104/pathan104/291615.ts
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a010
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a03u
+#EXTINF:0,ESPN 4 HD
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a069
+#EXTINF:0,ESPN 5 HD
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a012
+#EXTINF:0,ESPN 6 HD
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a013
+#EXTINF:0,ESPN 7 HD
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a014
+#EXTINF:0,ESPN HD
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a00z
+#EXTINF:0,WIN SPORTS HD
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a06a
+#EXTINF:0,WIN SPORTS HD IN
+#EXTGRP:PPV
+http://190.0.247.38:8000/play/a068
+#EXTINF:0,AM Sports
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a01v/index.m3u8
+#EXTINF:0,DeporTV
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a06h/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a059/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a05b/index.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a076/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a05a/index.m3u8
+#EXTINF:0,ESPN Premium HD
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a078/index.m3u8
+#EXTINF:0,Eventos HD
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a0af/index.m3u8
+#EXTINF:0,TNT Sports HD
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a0bc/index.m3u8
+#EXTINF:0,TyC Sports HD
+#EXTGRP:PPV
+http://143.0.67.77:8000/play/a02s/index.m3u8
+#EXTINF:0,DTV
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0ok/index.m3u8
+#EXTINF:0,ESPN Premium HD
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:0,Win Sports+ HD
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0ve/index.m3u8
+#EXTINF:0,ZAPPING
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0ny/index.m3u8
+#EXTINF:0,DIRECTV
+#EXTGRP:PPV
+http://205.235.6.29:8000/play/a0vh/index.m3u8
+#EXTINF:0,Azteca Deportes
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0ye
+#EXTINF:0,Claro Sports
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a050
+#EXTINF:0,DTV
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0b0
+#EXTINF:0,ESPN
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sg
+#EXTINF:0,ESPN 2
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0ul
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0rp
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0t0
+#EXTINF:0,ESPN 2 Latin
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a07q
+#EXTINF:0,ESPN 3
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sm
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sw
+#EXTINF:0,ESPN 4
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a07b
+#EXTINF:0,ESPN 4HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sv
+#EXTINF:0,ESPN 5HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0rm
+#EXTINF:0,ESPN 6
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sk
+#EXTINF:0,ESPN 6HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sx
+#EXTINF:0,ESPN 7
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0tl
+#EXTINF:0,ESPN CO
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a06r
+#EXTINF:0,ESPN HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0rv
+#EXTINF:0,ESPN HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0t3
+#EXTINF:0,ESPN Premium HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0t7
+#EXTINF:0,GOLPERU
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0u8
+#EXTINF:0,Gol TV
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0wi
+#EXTINF:0,Golf Channel
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0to
+#EXTINF:0,Meridiano
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a03w
+#EXTINF:0,Movistar Deportes
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0ry
+#EXTINF:0,TNT SPORTS
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0yi
+#EXTINF:0,TNT Sports Premiun HD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0rn
+#EXTINF:0,TNT Sports Premiun SD
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0sf
+#EXTINF:0,TyC Sports
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0wj
+#EXTINF:0,UCL
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0v5
+#EXTINF:0,Via X Esports
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0wk
+#EXTINF:0,Win Sports
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0un
+#EXTINF:0,Win Sports+
+#EXTGRP:PPV
+http://38.41.8.1:8000/play/a0tp
+#EXTINF:0,Deportes
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Azteca Deportes
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Claro Sports Mexico
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,ITV Deportes
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Peleas
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Lucha Libre AAA
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,DAZN Combat
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,UFC
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,FIFA+
+#EXTGRP:PPV
+https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:PELIS2025
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
+#EXTINF:0,28 años despues
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/137753.mkv
+#EXTINF:0,Agarralo como puedas
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/144691.mkv
+#EXTINF:0,Ajuste de cuentas
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/145215.mkv
+#EXTINF:0,Amenaza en el aire
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/106932.mkv
+#EXTINF:0,Boda Letal
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/147003.mkv
+#EXTINF:0,Cobtrastsque
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/132716.mkv
+#EXTINF:0,Control Room
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/137926.mkv
+#EXTINF:0,Criatura Voraz
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/131924.mkv
+#EXTINF:0,Del Cielo al Infierno
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/145480.mkv
+#EXTINF:0,Destino Final lazos de Sangre
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/121858.mkv
+#EXTINF:0,Rakuten Top Movies
+#EXTGRP:Rakuten  Runtime
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=2623c586-fdee-4c64-97e6-03f8b045814e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
+#EXTINF:0,Rakuten Accion
+#EXTGRP:Rakuten  Runtime
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=8ae278b5-6a3f-4700-8933-a51ac3ac3d4d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
+#EXTINF:0,Rakuten Drama
+#EXTGRP:Rakuten  Runtime
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=46e54f25-3aa3-4c02-aae1-b46d42a6b213&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
+#EXTINF:0,Rakuten Romance
+#EXTGRP:Rakuten  Runtime
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=e2ad9d4a-0d17-4610-b173-609a86626f02&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
+#EXTINF:0,Rakuten Trailers
+#EXTGRP:Rakuten  Runtime
+https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=7090ff5e-6256-4007-bc30-2d8d01031d1e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452
+#EXTINF:0,Rakuten Viki
+#EXTGRP:Rakuten  Runtime
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=30f7f753-8a6e-4a2c-aac0-c76e887845dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
+#EXTINF:0,Rakuten FIFA+
+#EXTGRP:Rakuten  Runtime
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=829dcd30-3206-4482-a4ee-07a9e430737a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
+#EXTINF:0,Rakuten Mr Bean
+#EXTGRP:Rakuten  Runtime
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?ads_amagi_channel=934&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6165&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e84063a8-03bb-4181-b6ce-4882f2a78e1c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:0,Rakuten Vive Kanal D
+#EXTGRP:Rakuten  Runtime
+https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=0f1ed54a-ebdb-47d0-b784-14d8430dcaa6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:0,Runtime
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:0,Runtime Familia
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+#EXTINF:0,Runtime Clasicos
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+#EXTINF:0,Runtime Accion
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6125
+#EXTINF:0,Runtime Comedia
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131
+#EXTINF:0,Runtime Thriller
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
+#EXTINF:0,Runtime Romance
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+#EXTINF:0,Runtime Series
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
+#EXTINF:0,Runtime Trash
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+#EXTINF:0,Runtime Crimen
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:0,adn40
+#EXTGRP:Noticias
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0,Foro TV
+#EXTGRP:Noticias
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:0,Estrella News
+#EXTGRP:Noticias
+
+
+
+
