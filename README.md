@@ -133,13 +133,14 @@ http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/1094.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 38
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/352.ts
+http://p2king.redemais.click:80/live/Melgomes387/29753870/4230991.ts
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/1GgjVzj4/ALVAROTVPPV.png" , EVENTOS 39
-http://ugeen.live:8080/live/exskypeleoshare-jordansat4u/50/3845.ts
+http://p2king.redemais.click:80/live/Melgomes387/29753870/4230992.ts
 
 
 #EXTINF:-1 group-title="🟢FUT⚽PPV🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , EVENTOS 40
+http://p2king.redemais.click:80/live/Melgomes387/29753870/4230993.ts
 
 
 #EXTINF:-1 group-title="🟢CINE🔵" tvg-logo="https://i.ibb.co/0RVsvV3K/ALVAROTViptv.png" , NETFLIX 1
