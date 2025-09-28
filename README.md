@@ -244,4 +244,228 @@ http://a1.24tv.tn:2052/live/juan_eurotaller/06278593/200514.ts
 
 
 
+#EXTINF:0,15.3 RTS - LIKE TV
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/11/index.m3u8
+#EXTINF:0,20.5 ESTRELLAS HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/13/index.m3u8
+#EXTINF:0,27.4 LA VOZ DE MARIA
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0md/index.m3u8
+#EXTINF:0,30.1 DEPORTES 1
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0ns/index.m3u8
+#EXTINF:0,31.1 DEPORTES 2
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0nq/index.m3u8
+#EXTINF:0,311-UNSION TV
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vi/index.m3u8
+#EXTINF:0,312 - TELERAMA ONCEPLAY
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vg/index.m3u8
+#EXTINF:0,313-TLNOVELAS HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vb/index.m3u8
+#EXTINF:0,315 - ZAPPING DGN
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vk/index.m3u8
+#EXTINF:0,316 - VITO TVO
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vx/index.m3u8
+#EXTINF:0,321- LIGAPRO
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vl/index.m3u8
+#EXTINF:0,322 ROSA DE GUADLUPE 24/7
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vj/index.m3u8
+#EXTINF:0,323 - DIRECTV
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vh/index.m3u8
+#EXTINF:0,351 - France 24
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vd/index.m3u8
+#EXTINF:0,352- ESPN APP
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vn/index.m3u8
+#EXTINF:0,360 - ESPN HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vs/index.m3u8
+#EXTINF:0,361 - ESPN 2 HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vr/index.m3u8
+#EXTINF:0,362 - ESPN 3 HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vp/index.m3u8
+#EXTINF:0,363 - ESPN 4HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vo/index.m3u8
+#EXTINF:0,364 - ESPN 6HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vq/index.m3u8
+#EXTINF:0,Adult Swim
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0qt/index.m3u8
+#EXTINF:0,America TV HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0ut/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0nb/index.m3u8
+#EXTINF:0,Antena 3
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0ru/index.m3u8
+#EXTINF:0,CARACOL HD LIKETV
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vf/index.m3u8
+#EXTINF:0,CNN Espaæol
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0qb/index.m3u8
+#EXTINF:0,Caracol HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0v6/index.m3u8
+#EXTINF:0,DHE
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0py/index.m3u8
+#EXTINF:0,DTV
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0ok/index.m3u8
+#EXTINF:0,DW Espaæol
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0s2/index.m3u8
+#EXTINF:0,De PelŦcula
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0p8/index.m3u8
+#EXTINF:0,Discovery Channel  HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0nc/index.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0m3/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0qk/index.m3u8
+#EXTINF:0,Discovery Theater HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0pj/index.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0qf/index.m3u8
+#EXTINF:0,Distrito Comedia
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0mr/index.m3u8
+#EXTINF:0,ECU RTU
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0ma/index.m3u8
+#EXTINF:0,ECUAVISA WEB
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0nt/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0w0/index.m3u8
+#EXTINF:0,ESPN 5 HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vw/index.m3u8
+#EXTINF:0,ESPN 6 HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vy/index.m3u8
+#EXTINF:0,ESPN 7 HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vu/index.m3u8
+#EXTINF:0,ESPN Premium HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:0,ESPN Premium HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0vt/index.m3u8
+#EXTINF:0,Food Network
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0px/index.m3u8
+#EXTINF:0,France 24
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0rz/index.m3u8
+#EXTINF:0,Golden HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0oq/index.m3u8
+#EXTINF:0,HGTV
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0qo/index.m3u8
+#EXTINF:0,HTV
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0oy/index.m3u8
+#EXTINF:0,Home & Health HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0qa/index.m3u8
+#EXTINF:0,ID HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0r6/index.m3u8
+#EXTINF:0,Las Estrellas HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0n3/index.m3u8
+#EXTINF:0,Latina HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0uw/index.m3u8
+#EXTINF:0,MEGA HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0pq/index.m3u8
+#EXTINF:0,ORO MAR WEB
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0nw/index.m3u8
+#EXTINF:0,PLIM PLIM
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0mp/index.m3u8
+#EXTINF:0,Pasiones HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0pl/index.m3u8
+#EXTINF:0,RTS
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0o6/index.m3u8
+#EXTINF:0,SPACE
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0oi/index.m3u8
+#EXTINF:0,STAR CHANEL
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0oj/index.m3u8
+#EXTINF:0,Space HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0r7/index.m3u8
+#EXTINF:0,Stingray Concerts
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0ur/index.m3u8
+#EXTINF:0,Sun Channel HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0q2/index.m3u8
+#EXTINF:0,TC Televisiðn
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0m8/index.m3u8
+#EXTINF:0,TLC
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0qj/index.m3u8
+#EXTINF:0,TNT HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0r4/index.m3u8
+#EXTINF:0,Telerama XUI
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0va/index.m3u8
+#EXTINF:0,Tlnovelas
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0ow/index.m3u8
+#EXTINF:0,Venus
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0pb/index.m3u8
+#EXTINF:0,WUAN+
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0pd/index.m3u8
+#EXTINF:0,WUAN+
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0mq/index.m3u8
+#EXTINF:0,Warner TV HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0r5/index.m3u8
+#EXTINF:0,Win Sports+ HD
+#EXTGRP:LATINA
+http://205.235.6.29:8000/play/a0ve/index.m3u8
+
+
 
