@@ -1,5 +1,4 @@
-#N
-EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="PPV" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , BOTYTV INFORMACION Y CONTACTO
 http://embed-cloudfront.wistia.com/deliveries/7f84833386b5af88621d0d3d5e4fb684ad44f6e5.m3u8
 
@@ -216,7 +215,23 @@ http://205.235.6.29:8000/play/a0r5/index.m3u8
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 
+#EXTINF:0, HBO
+#EXTGRP:LATINA
+http://88.212.7.11/live/test_hbo_hd_hevc/playlist.m3u8
 
+
+
+#EXTINF:0, HBO 2
+#EXTGRP:LATINA
+http://88.212.7.11/live/test_hbo2_hd_hevc/playlist.m3u8
+
+
+#EXTINF:0,
+#EXTGRP:LATINA
+
+
+#EXTINF:0,
+#EXTGRP:LATINA
 
 
 #EXTINF:0,A&E HD
