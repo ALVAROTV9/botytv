@@ -662,45 +662,9 @@ http://205.235.6.29:8000/play/a0vh/index.m3u8
 #EXTINF:0,EVENTOS 3
 #EXTGRP:PPV
 http://38.41.8.1:8000/play/a06r
-#EXTINF:0,EVENTOS 4
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/302967.ts
-#EXTINF:0,EVENTOS 5
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/302966.ts
-#EXTINF:0,EVENTOS 6
-#EXTGRP:PPV
-http://cord-cutter.net:8080/live/Y3DvY8/934867/53706.ts
-#EXTINF:0,EVENTOS 7
-#EXTGRP:PPV
-http://cord-cutter.net:8080/live/Y3DvY8/934867/35243.ts
-#EXTINF:0,EVENTOS 8
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0sm
-#EXTINF:0,EVENTOS 9
-#EXTGRP:PPV
-http://38.41.8.1:8000/play/a0sv
-#EXTINF:0,EVENTOS 10
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/293609.ts
-#EXTINF:0,BAYERN MUNICH luis diaz
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/293596.ts
-#EXTINF:0,ITALIA CALCIO
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/293273.ts
-#EXTINF:0,LA LIGA
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/292980.ts
-#EXTINF:0,FRANCUA LIGUE ONE
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/301961.ts
-#EXTINF:0,BRASIL FUTBOL
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/304357.ts
-#EXTINF:0,FRANCUA LIGUE ONE
-#EXTGRP:PPV
-http://ip96.uk:8080/live/Ghosia104/pathan104/291615.ts
+
+
+
 #EXTINF:0,ESPN 2 HD
 #EXTGRP:PPV
 http://190.0.247.38:8000/play/a010
@@ -728,48 +692,33 @@ http://190.0.247.38:8000/play/a06a
 #EXTINF:0,WIN SPORTS HD IN
 #EXTGRP:PPV
 http://190.0.247.38:8000/play/a068
-#EXTINF:0,AM Sports
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a01v/index.m3u8
-#EXTINF:0,DeporTV
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a06h/index.m3u8
-#EXTINF:0,ESPN 2 HD
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a059/index.m3u8
-#EXTINF:0,ESPN 3 HD
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a05b/index.m3u8
-#EXTINF:0,ESPN 4 HD
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a076/index.m3u8
+
+
+
+
+
+
 #EXTINF:0,ESPN HD
 #EXTGRP:PPV
 http://143.0.67.77:8000/play/a05a/index.m3u8
-#EXTINF:0,ESPN Premium HD
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a078/index.m3u8
-#EXTINF:0,Eventos HD
-#EXTGRP:PPV
-http://143.0.67.77:8000/play/a0af/index.m3u8
+
+
 #EXTINF:0,TNT Sports HD
 #EXTGRP:PPV
 http://143.0.67.77:8000/play/a0bc/index.m3u8
 #EXTINF:0,TyC Sports HD
 #EXTGRP:PPV
 http://143.0.67.77:8000/play/a02s/index.m3u8
-#EXTINF:0,DTV
-#EXTGRP:PPV
-http://205.235.6.29:8000/play/a0ok/index.m3u8
+
 #EXTINF:0,ESPN Premium HD
 #EXTGRP:PPV
 http://205.235.6.29:8000/play/a0pz/index.m3u8
-#EXTINF:0,Win Sports+ HD
+#EXTINF:0,Win Sports plus HD
 #EXTGRP:PPV
 http://205.235.6.29:8000/play/a0ve/index.m3u8
-#EXTINF:0,ZAPPING
-#EXTGRP:PPV
-http://205.235.6.29:8000/play/a0ny/index.m3u8
+
+
+
 #EXTINF:0,DIRECTV
 #EXTGRP:PPV
 http://205.235.6.29:8000/play/a0vh/index.m3u8
