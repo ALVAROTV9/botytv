@@ -846,10 +846,150 @@ https://stitcher.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u
 #EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
+BBBBBB
 
 
-
-
+#EXTINF:0,BOTYTV Pasese a PREMIUM y siga Disfrutando
+#EXTGRP:VIDEOS
+http://embed-cloudfront.wistia.com/deliveries/7f84833386b5af88621d0d3d5e4fb684ad44f6e5.m3u8
+#EXTINF:0,VIDEO PEDIDO 1
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11380839.mp4
+#EXTINF:0,VIDEO PEDIDO 2
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11379982.mp4
+#EXTINF:0,VIDEO PEDIDO 3
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11379404.mp4
+#EXTINF:0,VIDEO PEDIDO 4
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11379471.mp4
+#EXTINF:0,VIDEO PEDIDO 5
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11379479.mp4
+#EXTINF:0,VIDEO PEDIDO 6
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11379486.mp4
+#EXTINF:0,VIDEO PEDIDO 7
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11380097.mp4
+#EXTINF:0,VIDEO PEDIDO 8
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11380204.mp4
+#EXTINF:0,VIDEO PEDIDO 9
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11379586.mp4
+#EXTINF:0,VIDEO PEDIDO 10
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11383393.mp4
+#EXTINF:0,VIDEO PEDIDO 11
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11383502.mp4
+#EXTINF:0,VIDEO PEDIDO 12
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11380924.mp4
+#EXTINF:0,VIDEO PEDIDO 13
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11379593.mp4
+#EXTINF:0,VIDEO PEDIDO 14
+#EXTGRP:VIDEOS
+http://facilita.fun:80/movie/md964a/abc125ad/11384016.mp4
+#EXTINF:0,VIDEO PEDIDO 15
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/132631.mp4
+#EXTINF:0,VIDEO PEDIDO 16
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/132588.mp4
+#EXTINF:0,VIDEO PEDIDO 17
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/132623.mp4
+#EXTINF:0,VIDEO PEDIDO 18
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/132576.mp4
+#EXTINF:0,VIDEO PEDIDO 19
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/10504.mp4
+#EXTINF:0,VIDEO PEDIDO 20
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/126158.mp4
+#EXTINF:0,VIDEO PEDIDO 38
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/126156.mp4
+#EXTINF:0,VIDEO PEDIDO 339
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/126174.mp4
+#EXTINF:0,VIDEO PEDIDO 40
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/126179.mp4
+#EXTINF:0,VIDEO PEDIDO 41
+#EXTGRP:VIDEOS
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/10510.mp4
+#EXTINF:0,VIDEO PEDIDO 42
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160549.mkv
+#EXTINF:0,VIDEO PEDIDO 43
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160550.mkv
+#EXTINF:0,VIDEO PEDIDO 44
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160551.mp4
+#EXTINF:0,VIDEO PEDIDO 44
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160553.mkv
+#EXTINF:0,VIDEO PEDIDO 46
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160555.mp4
+#EXTINF:0,VIDEO PEDIDO 47
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160566.mp4
+#EXTINF:0,VIDEO PEDIDO 48
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160567.mp4
+#EXTINF:0,VIDEO PEDIDO 49
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160560.mp4
+#EXTINF:0,VIDEO PEDIDO 50
+#EXTGRP:VIDEOS
+http://nxt.plus:8080/movie/dimasxt/331120/160570.mkv
+#EXTINF:0,BOTYTV INFORMACION
+#EXTGRP:CANALES
+http://embed-cloudfront.wistia.com/deliveries/7f84833386b5af88621d0d3d5e4fb684ad44f6e5.m3u8
+#EXTINF:0,CANAL PEDIDO 1
+#EXTGRP:CANALES
+http://facilita.fun:80/live/md964a/abc125ad/9514383.ts
+#EXTINF:0,CANAL PEDIDO 2
+#EXTGRP:CANALES
+http://facilita.fun:80/live/md964a/abc125ad/9514374.ts
+#EXTINF:0,VID 1
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11407606.mp4
+#EXTINF:0,VID 2
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11387265.mp4
+#EXTINF:0,VID 3
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11387201.mp4
+#EXTINF:0,VID 4
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11392868.mp4
+#EXTINF:0,VID 5
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11393075.mp4
+#EXTINF:0,VID 6
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11387081.mp4
+#EXTINF:0,VID 7
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11387108.mp4
+#EXTINF:0,VID 8
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11387309.mp4
+#EXTINF:0,VID 9
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11393041.mp4
+#EXTINF:0,VID 10
+#EXTGRP:LGBT
+http://facilita.fun:80/movie/md964a/abc125ad/11393043.mp4
 
 
 
