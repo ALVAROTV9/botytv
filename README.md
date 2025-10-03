@@ -846,7 +846,2653 @@ https://stitcher.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u
 #EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
-BBBBBB
+
+
+#EXTINF:0,28 años despues
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/137753.mkv
+#EXTINF:0,Agarralo como puedas
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/144691.mkv
+#EXTINF:0,Ajuste de cuentas
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/145215.mkv
+#EXTINF:0,Amenaza en el aire
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/106932.mkv
+#EXTINF:0,Boda Letal
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/147003.mkv
+#EXTINF:0,Cobtrastsque
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/132716.mkv
+#EXTINF:0,Control Room
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/137926.mkv
+#EXTINF:0,Criatura Voraz
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/131924.mkv
+#EXTINF:0,Del Cielo al Infierno
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/145480.mkv
+#EXTINF:0,Destino Final lazos de Sangre
+#EXTGRP:PELIS2025
+http://tv.masterplaytv.club:8080/movie/Elcaleno25/wvdQwjUR7H/121858.mkv
+#EXTINF:0,APARTAMENTO 7A 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124452.mkv
+#EXTINF:0,Cuckook 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124449.mkv
+#EXTINF:0,El Barrio del Diablo 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124455.mkv
+#EXTINF:0,Estacion Rocafort 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124460.mkv
+#EXTINF:0,La Casa de los Susurros 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124474.mkv
+#EXTINF:0,En el Reino de las Sombras 2025
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/141437.mkv
+#EXTINF:0,Poseida 2025
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/125961.mkv
+#EXTINF:0,Presencia 2025
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/118895.mkv
+#EXTINF:0,Se lo que Hiciste el ultimo Verano 2025
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/145006.mkv
+#EXTINF:0,Jugaremos en el Bosque 2024
+#EXTGRP:PELISTERROR
+http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124472.mkv
+#EXTINF:0,HBO Mundi#
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a02a/index.m3u8
+#EXTINF:0,De Pelicula#
+#EXTGRP:CINE
+http://205.235.6.29:8000/play/a0p8/index.m3u8
+#EXTINF:0,A&E HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a05i/index.m3u8
+#EXTINF:0,A&E HD IN
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a04y
+#EXTINF:0,AXN HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a05f/index.m3u8
+#EXTINF:0,AXN HD IN
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a04x
+#EXTINF:0,CINE FAMILIAR HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a01l
+#EXTINF:0,CINE HISPANO HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a01m
+#EXTINF:0,CINE PREMIUM HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a01k
+#EXTINF:0,DEPELICULA HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a01j
+#EXTINF:0,DEPELICULA HD IN
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a04z
+#EXTINF:0,FX HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0ru
+#EXTINF:0,GOLDEN EDGE HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a01b
+#EXTINF:0,GOLDEN EDGE HD IN
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a04v
+#EXTINF:0,GOLDEN HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a01a
+#EXTINF:0,GOLDEN HD IN
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a04u
+#EXTINF:0,SONY CHANNEL HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a018
+#EXTINF:0,SONY CHANNEL HD IN
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a04s
+#EXTINF:0,SONY MOVIES HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a019
+#EXTINF:0,SONY MOVIES HD IN
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a04t
+#EXTINF:0,STAR CHANNEL HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0ri
+#EXTINF:0,STUDIO UNIVERSAL HD
+#EXTGRP:CINE
+http://190.0.247.38:8000/play/a017
+#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0u2
+#EXTINF:0,A24
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a01o/index.m3u8
+#EXTINF:0,AMC
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0tx
+#EXTINF:0,Cine.AR
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a024/index.m3u8
+#EXTINF:0,Cinecanal HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0rl
+#EXTINF:0,Cinemax
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a05v
+#EXTINF:0,Comedy Central HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a02x/index.m3u8
+#EXTINF:0,E! Entertainment
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a050/index.m3u8
+#EXTINF:0,Film & Arts HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a030/index.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0vq
+#EXTINF:0,HBO Family
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0ty
+#EXTINF:0,HBO Plus
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0u0
+#EXTINF:0,HBO Signature
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a02c/index.m3u8
+#EXTINF:0,HBO Xtreme
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a02b/index.m3u8
+#EXTINF:0,Paramount HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0t2
+#EXTINF:0,Sony HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a05d/index.m3u8
+#EXTINF:0,Sony Movies HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a05k/index.m3u8
+#EXTINF:0,Star Channel HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a079/index.m3u8
+#EXTINF:0,Studio Universal
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a05n
+#EXTINF:0,TCM
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a04x
+#EXTINF:0,TNT HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0su
+#EXTINF:0,TNT Novelas HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a07g/index.m3u8
+#EXTINF:0,TNT Series HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0t1
+#EXTINF:0,Universal HD
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a05j/index.m3u8
+#EXTINF:0,Venus
+#EXTGRP:CINE
+http://143.0.67.77:8000/play/a033/index.m3u8
+#EXTINF:0,Warner Channel HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0rj
+#EXTINF:0,Adult Swim
+#EXTGRP:CINE
+http://205.235.6.29:8000/play/a0qt/index.m3u8
+#EXTINF:0,Golden HD
+#EXTGRP:CINE
+http://205.235.6.29:8000/play/a0oq/index.m3u8
+#EXTINF:0,SPACE
+#EXTGRP:CINE
+http://205.235.6.29:8000/play/a0oi/index.m3u8
+#EXTINF:0,STAR CHANEL
+#EXTGRP:CINE
+http://205.235.6.29:8000/play/a0oj/index.m3u8
+#EXTINF:0,Space HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0rk
+#EXTINF:0,Warner TV HD
+#EXTGRP:CINE
+http://205.235.6.29:8000/play/a0r5/index.m3u8
+#EXTINF:0,AXN
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0tr
+#EXTINF:0,CCS MOVIE
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0y4
+#EXTINF:0,CINEVIP
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0aw
+#EXTINF:0,Cinecanal
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0rc
+#EXTINF:0,Comedy Central
+#EXTGRP:CINE
+https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,FX
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a05z
+#EXTINF:0,Film&Arts
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0w7
+#EXTINF:0,HBO
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0us
+#EXTINF:0,HBO HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0ro
+#EXTINF:0,HBO MUNDI
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0wn
+#EXTINF:0,HBO POP HD
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0rq
+#EXTINF:0,Paramount Channel
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0sp
+#EXTINF:0,STAR CHANNEL
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a04w
+#EXTINF:0,Sony
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0tq
+#EXTINF:0,Space
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0ra
+#EXTINF:0,SyFy
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a057
+#EXTINF:0,TBS
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a074
+#EXTINF:0,TNT
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0sn
+#EXTINF:0,Universal
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a04r
+#EXTINF:0,Warner
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a07n
+#EXTINF:0,Warner Channel
+#EXTGRP:CINE
+http://38.41.8.1:8000/play/a0r9
+#EXTINF:0,ANIMAL PLANET HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00p
+#EXTINF:0,ANIMAL PLANET IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04g
+#EXTINF:0,DHE HD
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0u7
+#EXTINF:0,DISCOVERY CHANNEL HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00m
+#EXTINF:0,DISCOVERY CHANNEL IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04i
+#EXTINF:0,DISCOVERY H&H SD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00n
+#EXTINF:0,DISCOVERY KIDS HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00l
+#EXTINF:0,DISCOVERY SCIENCE HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00s
+#EXTINF:0,DISCOVERY SCIENCE IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04h
+#EXTINF:0,DISCOVERY TLC HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00v
+#EXTINF:0,DISCOVERY TLC IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04l
+#EXTINF:0,DISCOVERY TURBO HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00o
+#EXTINF:0,DISCOVERY TURBO IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04j
+#EXTINF:0,DW HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00y
+#EXTINF:0,FOOD NETWORKS HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00r
+#EXTINF:0,HGTV HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00u
+#EXTINF:0,HGTV IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04m
+#EXTINF:0,HISTORY 2 HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00x
+#EXTINF:0,HISTORY 2 HD IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04r
+#EXTINF:0,HISTORY CHANNEL HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00w
+#EXTINF:0,HISTORY CHANNEL HD IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04q
+#EXTINF:0,HOGAR TV HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a004
+#EXTINF:0,HOGAR TV HD IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a05a
+#EXTINF:0,ID DISCOVERY HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00t
+#EXTINF:0,ID DISCOVERY IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a04k
+#EXTINF:0,LIFE TIME HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a01e
+#EXTINF:0,MUNDO + HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00a
+#EXTINF:0,NATGEO HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a00q
+#EXTINF:0,TV AGRO HD
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a024
+#EXTINF:0,TV AGRO HD IN
+#EXTGRP:CULTURAL
+http://190.0.247.38:8000/play/a05d
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:CULTURAL
+http://143.0.67.77:8000/play/a07i/index.m3u8
+#EXTINF:0,Discovery H&H HD
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0ss
+#EXTINF:0,Discovery Kids
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a058
+#EXTINF:0,Discovery Science
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0qk/index.m3u8
+#EXTINF:0,Discovery Theater HD
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0st
+#EXTINF:0,Discovery Turbo
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0sa
+#EXTINF:0,Discovery World HD
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0rh
+#EXTINF:0,El Gourmet
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0tf
+#EXTINF:0,Europa Europa
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0wm
+#EXTINF:0,HGTV
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0qo/index.m3u8
+#EXTINF:0,History 2
+#EXTGRP:CULTURAL
+http://143.0.67.77:8000/play/a0ab/index.m3u8
+#EXTINF:0,History Channel
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a04p
+#EXTINF:0,Lifetime
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a056
+#EXTINF:0,Nat Geo HD
+#EXTGRP:CULTURAL
+http://143.0.67.77:8000/play/a05g/index.m3u8
+#EXTINF:0,Rural
+#EXTGRP:CULTURAL
+http://143.0.67.77:8000/play/a02f/index.m3u8
+#EXTINF:0,The History Channel HD
+#EXTGRP:CULTURAL
+http://143.0.67.77:8000/play/a05h/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0nb/index.m3u8
+#EXTINF:0,Discovery Channel  HD
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0nc/index.m3u8
+#EXTINF:0,Food Network
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0px/index.m3u8
+#EXTINF:0,Home & Health HD
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0qa/index.m3u8
+#EXTINF:0,ID HD
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0tg
+#EXTINF:0,Sun Channel HD
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0q2/index.m3u8
+#EXTINF:0,TC Television
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0m8/index.m3u8
+#EXTINF:0,TLC
+#EXTGRP:CULTURAL
+http://205.235.6.29:8000/play/a0qj/index.m3u8
+#EXTINF:0,AE Mundo
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a07v
+#EXTINF:0,Animal Planet
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0tc
+#EXTINF:0,CGTN Documentary
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a03z
+#EXTINF:0,Discovery Channel
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a07l
+#EXTINF:0,Discovery H&H
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0si
+#EXTINF:0,Discovery HD
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0rw
+#EXTINF:0,Discovery ID
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a071
+#EXTINF:0,Discovery World
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0r8
+#EXTINF:0,Eurochannel
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0uj
+#EXTINF:0,HomeandHealth
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a076
+#EXTINF:0,Nat Geo
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a04o
+#EXTINF:0,National Geographic
+#EXTGRP:CULTURAL
+http://38.41.8.1:8000/play/a0td
+#EXTINF:0,TNT Series#
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0so
+#EXTINF:0,BANDAMAX HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a020
+#EXTINF:0,BANDAMAX_IN
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a047
+#EXTINF:0,E! HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a02v
+#EXTINF:0,E! HD IN
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a050
+#EXTINF:0,LIFE TIME HD IN
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a04w
+#EXTINF:0,MIMUSICA HITS HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a01v
+#EXTINF:0,MIMUSICA POPULAR HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a01y
+#EXTINF:0,MIMUSICA REGGAETON HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a01u
+#EXTINF:0,MIMUSICA ROMANTICA HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a01w
+#EXTINF:0,RUMBATV HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a023
+#EXTINF:0,RUMBATV HD IN
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a05b
+#EXTINF:0,TELEHIT HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a021
+#EXTINF:0,TELEHIT IN
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a049
+#EXTINF:0,TELEHIT MUSICA HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a022
+#EXTINF:0,TELEHIT MUSICA IN
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a04a
+#EXTINF:0,TELEVID HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a02o
+#EXTINF:0,TLNOVELAS HD
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a01r
+#EXTINF:0,TLNOVELAS HD IN
+#EXTGRP:VARIADOS
+http://190.0.247.38:8000/play/a053
+#EXTINF:0,Encuentro
+#EXTGRP:VARIADOS
+http://143.0.67.77:8000/play/a01m/index.m3u8
+#EXTINF:0,HTV
+#EXTGRP:VARIADOS
+http://205.235.6.29:8000/play/a0oy/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a04t
+#EXTINF:0,MTV0
+#EXTGRP:VARIADOS
+http://143.0.67.77:8000/play/a053/index.m3u8
+#EXTINF:0,Quiero Musica
+#EXTGRP:VARIADOS
+http://143.0.67.77:8000/play/a02n/index.m3u8
+#EXTINF:0,Stingray Concerts
+#EXTGRP:VARIADOS
+http://205.235.6.29:8000/play/a0ur/index.m3u8
+#EXTINF:0,NITRO
+#EXTGRP:VARIADOS
+http://205.235.6.29:8000/play/a0vj/index.m3u8
+#EXTINF:0,ConCiencia TV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a03q
+#EXTINF:0,Cristovision
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0sd
+#EXTINF:0,GLOBAL
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0s6
+#EXTINF:0,GLOBOVISION
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a03u
+#EXTINF:0,Gamavision
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0dh
+#EXTINF:0,HispanTV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a03g
+#EXTINF:0,Hola TV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0ti
+#EXTINF:0,Kanal D Drama
+#EXTGRP:VARIADOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:0,Las Estrellas
+#EXTGRP:VARIADOS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,Latina
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0rx
+#EXTINF:0,MEGA
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0u9
+#EXTINF:0,MTV 00s
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0u6
+#EXTINF:0,MTV LIVE HD
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0u3
+#EXTINF:0,MUSIC TV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0au
+#EXTINF:0,Movistar TV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0uu
+#EXTINF:0,MÃ†sChic
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0w9
+#EXTINF:0,NTV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0vr
+#EXTINF:0,Oromar TV
+#EXTGRP:VARIADOS
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:0,Pasiones
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0tv
+#EXTINF:0,Sin Limites
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a07e
+#EXTINF:0,TLT
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a03y
+#EXTINF:0,TLT HD
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a044
+#EXTINF:0,TNT NOVELAS
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0tk
+#EXTINF:0,VPACO TV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a043
+#EXTINF:0,Via X
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a0uz
+#EXTINF:0,Vive TV
+#EXTGRP:VARIADOS
+http://38.41.8.1:8000/play/a03j
+#EXTINF:0,Aragon Internacional (ES)
+#EXTGRP:VARIADOS
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:0,TeleMadrid Internacional (ES)
+#EXTGRP:VARIADOS
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:0,AmÃ©rica TV (EU)
+#EXTGRP:VARIADOS
+https://live.gideo.video:443/americateve2/HD720/HD720.m3u8
+#EXTINF:0,Canal 57 (EU)
+#EXTGRP:VARIADOS
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/playlist.m3u8
+#EXTINF:0,Glewed TV Spanish (EU)
+#EXTGRP:VARIADOS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
+#EXTINF:0,Canela TV
+#EXTGRP:VARIADOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:0,Canela Cine Picante
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Canela ClÃ¡sicos
+#EXTGRP:VARIADOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:0,Canela Cinema
+#EXTGRP:VARIADOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:0,Canela Accion Mexicana
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Canela Cine Romantico
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/master.m3u8
+#EXTINF:0,Canela Pelimex
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:0,Caracol Mix
+#EXTGRP:VARIADOS
+https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,TV Publica
+#EXTGRP:VARIADOS
+https://g4.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+#EXTINF:0,Cali TV
+#EXTGRP:VARIADOS
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:0,Estrella TV
+#EXTGRP:VARIADOS
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,FreeTV
+#EXTGRP:VARIADOS
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+#EXTINF:0,FreeTV AcciÃ³n
+#EXTGRP:VARIADOS
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+#EXTINF:0,FreeTV Banda
+#EXTGRP:VARIADOS
+https://amg01024-olympusat-mmcfreetv-ono-ad-kj.amagi.tv/playlist/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
+#EXTINF:0,FreeTV Drama
+#EXTGRP:VARIADOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+#EXTINF:0,FreeTV Estelar
+#EXTGRP:VARIADOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+#EXTINF:0,FreeTV Familia
+#EXTGRP:VARIADOS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
+#EXTINF:0,FreeTV Hits
+#EXTGRP:VARIADOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
+#EXTINF:0,FreeTV Live
+#EXTGRP:VARIADOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:0,FreeTV SureÃ±o
+#EXTGRP:VARIADOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
+#EXTINF:0,FreeTV Saber Mas
+#EXTGRP:VARIADOS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
+#EXTINF:0,tve
+#EXTGRP:VARIADOS
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
+#EXTINF:0,Runtime MX
+#EXTGRP:VARIADOS
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx.m3u8
+#EXTINF:0,Es Tu Tele
+#EXTGRP:VARIADOS
+https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:0,13C Cultura Chile
+#EXTGRP:VARIADOS
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:0,13 Festival Chile
+#EXTGRP:VARIADOS
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:0,13 Realities Chile
+#EXTGRP:VARIADOS
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:0,13 Teleseries Chile
+#EXTGRP:VARIADOS
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:0,13Max TelevisiÃ³n Chile
+#EXTGRP:VARIADOS
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:0,Pride TV Latam
+#EXTGRP:VARIADOS
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:0,ITV
+#EXTGRP:VARIADOS
+https://redirector.dps.live/hls/itv/playlist.m3u8
+#EXTINF:0,Latina Peru
+#EXTGRP:VARIADOS
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:0,Motorvision
+#EXTGRP:VARIADOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
+#EXTINF:0,RT EspaÃ±ol
+#EXTGRP:VARIADOS
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0,Taste Made
+#EXTGRP:VARIADOS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+#EXTINF:0,Ecuavisa
+#EXTGRP:VARIADOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1400
+#EXTINF:0,Canal 7 - Ecuador TV
+#EXTGRP:VARIADOS
+https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:0,El Pinguino TV
+#EXTGRP:VARIADOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
+#EXTINF:0,Venevision Internacional
+#EXTGRP:VARIADOS
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:0,TV Marti - Cuba
+#EXTGRP:VARIADOS
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:0,Telemundo Puerto Rico
+#EXTGRP:VARIADOS
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0,Tele 11 Puerto Rico
+#EXTGRP:VARIADOS
+https://na.gt-app.com:2083/live/UIapp/qLzpvNzf04JgYjTvKbGjMnRoLgXf/3.ts
+#EXTINF:0,Villa TV
+#EXTGRP:VARIADOS
+https://inliveserver.com:1936/10016/10016/chunklist_w1357319705.m3u8
+#EXTINF:0,TeleNovelas
+#EXTGRP:VARIADOS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,AFV
+#EXTGRP:VARIADOS
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:0,Bolivision
+#EXTGRP:VARIADOS
+https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
+#EXTINF:0,Bolivia TV
+#EXTGRP:VARIADOS
+https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/.m3u8
+#EXTINF:0,TV Peru Internacional
+#EXTGRP:VARIADOS
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:0,RCN+ MÃ¡s
+#EXTGRP:VARIADOS
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0,Hola TV Play
+#EXTGRP:VARIADOS
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:0,Film & Co.
+#EXTGRP:VARIADOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5625
+#EXTINF:0,TV Azteca Guatemala
+#EXTGRP:VARIADOS
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:0,Novelas | Pasiones Legendarias
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Novelas | Novelas Turcas
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Novelas | Pasion Latina
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Novelas | Mas Pasiones
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
+#EXTINF:0,Novelas | Pasion BrasileÃ±a
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c107-canelatv-international-7981.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Novelas | Sony Novelas
+#EXTGRP:VARIADOS
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:0,Novelas | Novelisima 2
+#EXTGRP:VARIADOS
+https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
+#EXTINF:0,Novelas | Stormcast
+#EXTGRP:VARIADOS
+https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,CANAL 19 - Megavision El Salvador
+#EXTGRP:VARIADOS
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+#EXTINF:0,CANAL 21 El Salvador
+#EXTGRP:VARIADOS
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+#EXTINF:0,CANAL 57 El Salvador
+#EXTGRP:VARIADOS
+https://stream.giostreaming.net:19360/canal57/canal57.m3u8
+#EXTINF:0,TCS+
+#EXTGRP:VARIADOS
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live/live-audio_0=64000-video=2000000.m3u8
+#EXTINF:0,Telecentro (Ven)
+#EXTGRP:VARIADOS
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:0,Canal 5 del Pueblo
+#EXTGRP:VARIADOS
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:0,Naturaleza Salvaje
+#EXTGRP:VARIADOS
+https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+#EXTINF:0,Radio RNV Informativo#
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0y8
+#EXTINF:0,CANAL CAPITAL SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02b
+#EXTINF:0,CANAL CONGRESO SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02h
+#EXTINF:0,CANAL DE LAS ESTRELLAS HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01q
+#EXTINF:0,CANAL DE LAS ESTRELLAS HD IN
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a052
+#EXTINF:0,CANAL INSTITUCIONAL SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a002
+#EXTINF:0,CANAL TRECE SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02g
+#EXTINF:0,CANAL TRO SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a025
+#EXTINF:0,CANAL UNO SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a005
+#EXTINF:0,CARACOL TV 2 HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a04c
+#EXTINF:0,CARACOL TV HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a009
+#EXTINF:0,CINE CANAL HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01i
+#EXTINF:0,CITYTV SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a026
+#EXTINF:0,CNC HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02a
+#EXTINF:0,DISTRITO COMEDIA HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01n
+#EXTINF:0,DISTRITO COMEDIA IN
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a048
+#EXTINF:0,IVC HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01s
+#EXTINF:0,IVC HD IN
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a054
+#EXTINF:0,LA KALLE HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01z
+#EXTINF:0,RCN HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0t4
+#EXTINF:0,RCN HD2
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a065
+#EXTINF:0,RCN SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a067
+#EXTINF:0,SENAL COLOMBIA SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a006
+#EXTINF:0,TELEANTIOQUIA GO HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a00c
+#EXTINF:0,TELEANTIOQUIA HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a007
+#EXTINF:0,TELECAFE SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02e
+#EXTINF:0,TELECARIBE SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02c
+#EXTINF:0,TELEISLAS HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02f
+#EXTINF:0,TELEMEDELLIN HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a008
+#EXTINF:0,TELEMUNDO HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01t
+#EXTINF:0,TELEMUNDO HD IN
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a055
+#EXTINF:0,TELENOSTALGIA HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01x
+#EXTINF:0,TELENOSTALGIA HD IN
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a05c
+#EXTINF:0,TELEPACIFICO SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02d
+#EXTINF:0,UNIVISION HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01p
+#EXTINF:0,UNIVISION HD IN
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a051
+#EXTINF:0,USA HD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a01f
+#EXTINF:0,ZOOM SD
+#EXTGRP:NACIONALES
+http://190.0.247.38:8000/play/a02i
+#EXTINF:0,America TV HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0t6
+#EXTINF:0,Canal a
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a09j/index.m3u8
+#EXTINF:0,Canal de la Ciudad
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a06e/index.m3u8
+#EXTINF:0,El Canal  de las Estrellas
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a06z/index.m3u8
+#EXTINF:0,Galicia TV
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a02q/index.m3u8
+#EXTINF:0,La Nacion TV
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a01s/index.m3u8
+#EXTINF:0,Metro
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a02g/index.m3u8
+#EXTINF:0,RAI Italia
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a02p/index.m3u8
+#EXTINF:0,RT en EspaÃ¦ol
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a0ac/index.m3u8
+#EXTINF:0,TLNovelas
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0df
+#EXTINF:0,TV Publica HD
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a056/index.m3u8
+#EXTINF:0,TVE
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a054
+#EXTINF:0,Telefe HD
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a06c/index.m3u8
+#EXTINF:0,USA Network
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a023/index.m3u8
+#EXTINF:0,Volver
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a021/index.m3u8
+#EXTINF:0,ciudad magazine
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a02h/index.m3u8
+#EXTINF:0,el nueve HD
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a04h/index.m3u8
+#EXTINF:0,el trece HD
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a0bg/index.m3u8
+#EXTINF:0,folklorisima
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a0df/index.m3u8
+#EXTINF:0,t5 satelital
+#EXTGRP:NACIONALES
+http://143.0.67.77:8000/play/a0de/index.m3u8
+#EXTINF:0,20.5 ESTRELLAS HD
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/13/index.m3u8
+#EXTINF:0,27.4 LA VOZ DE MARIA
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0md/index.m3u8
+#EXTINF:0,312-TLNOVELAS HD
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0vb/index.m3u8
+#EXTINF:0,Antena 3
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0ru/index.m3u8
+#EXTINF:0,Caracol
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0v7/index.m3u8
+#EXTINF:0,Caracol HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0t5
+#EXTINF:0,DHE
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0py/index.m3u8
+#EXTINF:0,DW Esp
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0wh
+#EXTINF:0,Distrito Comedia
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0mr/index.m3u8
+#EXTINF:0,ECU RTU
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0ma/index.m3u8
+#EXTINF:0,ECUAVISA WEB
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0nt/index.m3u8
+#EXTINF:0,France 24
+#EXTGRP:NACIONALES
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:0,Las Estrellas HD
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0n3/index.m3u8
+#EXTINF:0,Latina HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0t8
+#EXTINF:0,MEGA HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0rd
+#EXTINF:0,ORO MAR WEB
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0nw/index.m3u8
+#EXTINF:0,Pasiones HD
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0pl/index.m3u8
+#EXTINF:0,RTS
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0o6/index.m3u8
+#EXTINF:0,Telerama XUI
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0va/index.m3u8
+#EXTINF:0,Tlnovelas
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0ow/index.m3u8
+#EXTINF:0,WUAN+
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0mq/index.m3u8
+#EXTINF:0,TELERAMA ONCEPLAY 312
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0vg/index.m3u8
+#EXTINF:0,UNSION TV
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0vi/index.m3u8
+#EXTINF:0,15.3 RTS - LIKE TV
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/11/index.m3u8
+#EXTINF:0,CARACOL HD LIKETV
+#EXTGRP:NACIONALES
+http://205.235.6.29:8000/play/a0vf/index.m3u8
+#EXTINF:0,123 TV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03o
+#EXTINF:0,ALBA TV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03p
+#EXTINF:0,AME CH47
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0cq
+#EXTINF:0,ANTV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03m
+#EXTINF:0,ATRES SERIES
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0tw
+#EXTINF:0,ATV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0s4
+#EXTINF:0,America Television
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0rz
+#EXTINF:0,Avila TV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03t
+#EXTINF:0,Az Corazon
+#EXTGRP:NACIONALES
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
+#EXTINF:0,Azteca Internacional
+#EXTGRP:NACIONALES
+https://stitcher.pluto.tv/stitch/hls/channel/646cce4d1593940008a33f09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,BOLIVIA TV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0ar
+#EXTINF:0,CANAL HABANA
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0ax
+#EXTINF:0,CANAL I
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a046
+#EXTINF:0,CGTN
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03h
+#EXTINF:0,CHV HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0sr
+#EXTINF:0,CUBAVISION INTERNACIONAL
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0av
+#EXTINF:0,Canal  Capital
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0w1
+#EXTINF:0,Canal 1
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0uc
+#EXTINF:0,Canal 13
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0ub
+#EXTINF:0,Canal 13 HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0re
+#EXTINF:0,Canal Caracol
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a06i
+#EXTINF:0,Canal Claro
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a073
+#EXTINF:0,Canal Estrellas
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a080
+#EXTINF:0,Canal Institucional
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0vt
+#EXTINF:0,Canal N
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0s3
+#EXTINF:0,Canal Publico de Argentina
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a040
+#EXTINF:0,Canal RCN
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a06j
+#EXTINF:0,Canal TRO
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0vz
+#EXTINF:0,Canal Uno
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a06g
+#EXTINF:0,Canal Vasco
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a041
+#EXTINF:0,Canal del Congreso
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a06n
+#EXTINF:0,EWTN EN ESP
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0xr
+#EXTINF:0,Esne TV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a069
+#EXTINF:0,Nuestra Tele
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0v3
+#EXTINF:0,Panamericana
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0s0
+#EXTINF:0,Peru Magico
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0we
+#EXTINF:0,RAI
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0wg
+#EXTINF:0,RCN Novelas
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a070
+#EXTINF:0,RED Television
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0uw
+#EXTINF:0,RTV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0cu
+#EXTINF:0,SEOTV HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0xz
+#EXTINF:0,STAR TVE
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0uq
+#EXTINF:0,Show Ven TV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03s
+#EXTINF:0,TELEANTILLAS
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0y3
+#EXTINF:0,TELESUR
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03l
+#EXTINF:0,TRO
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a06v
+#EXTINF:0,TV Galicia
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a042
+#EXTINF:0,TV PERU
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0s2
+#EXTINF:0,TV+
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0ux
+#EXTINF:0,TVES
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03k
+#EXTINF:0,TVFANB
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03r
+#EXTINF:0,TVN HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0sq
+#EXTINF:0,Telecafe
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0w0
+#EXTINF:0,Telecaribe
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0vw
+#EXTINF:0,Telemundo
+#EXTGRP:NACIONALES
+https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951227|User-Agent=Dalvik/2.1.0
+#EXTINF:0,Telenovelas
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0w8
+#EXTINF:0,UNITEL HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0d7
+#EXTINF:0,VEN-News Radio
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0ya
+#EXTINF:0,VTV
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03i
+#EXTINF:0,VTV HD
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0xq
+#EXTINF:0,Venevision
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a03v
+#EXTINF:0,Zona Latina
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a0uy
+#EXTINF:0,Zoom
+#EXTGRP:NACIONALES
+http://38.41.8.1:8000/play/a06u
+#EXTINF:0,Azteca Uno Op1
+#EXTGRP:NACIONALES
+https://mdstrm.commm/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0,Azteca Uno -1h
+#EXTGRP:NACIONALES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+#EXTINF:0,Azteca 7
+#EXTGRP:NACIONALES
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0,Canal 5
+#EXTGRP:NACIONALES
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278329.m3u8
+#EXTINF:0,Las Estrellas Internacional
+#EXTGRP:NACIONALES
+http://181.119.86.68:8000/play/b059/index.m3u8
+#EXTINF:0,Imagen TV (-1 h)
+#EXTGRP:NACIONALES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+#EXTINF:0,Canal Once Op1
+#EXTGRP:NACIONALES
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:0,Canal 14 | CDMX
+#EXTGRP:NACIONALES
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+#EXTINF:0,Mexiquense | EDO MEX
+#EXTGRP:NACIONALES
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist.m3u8
+#EXTINF:0,Capital 21 | CDMX
+#EXTGRP:NACIONALES
+https://video.cdmx.gob.mx/debatechilango/stream.m3u8
+#EXTINF:0,Multimedios 6
+#EXTGRP:NACIONALES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
+#EXTINF:0,Telemax | Hermosillo
+#EXTGRP:NACIONALES
+https://s5.mexside.net:1936/telemax/telemax/chunklist_w578501013.m3u8
+#EXTINF:0,Teleplay | MÃ©rida
+#EXTGRP:NACIONALES
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:0,TVP | Culiacan
+#EXTGRP:NACIONALES
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/.m3u8
+#EXTINF:0,TVP | Mazatlan
+#EXTGRP:NACIONALES
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:0,TVP | Mochis
+#EXTGRP:NACIONALES
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:0,TVP | ObregÃ³n
+#EXTGRP:NACIONALES
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
+#EXTINF:0,TV Mas | Veracruz
+#EXTGRP:NACIONALES
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
+#EXTINF:0,4.1 | Guanajuato
+#EXTGRP:NACIONALES
+https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
+#EXTINF:0,4.2 | Guanajuato
+#EXTGRP:NACIONALES
+https://5f1af61612fb5.streamlock.net:443/tv42/videotv42/playlist.m3u8
+#EXTINF:0,TV UNAM
+#EXTGRP:NACIONALES
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w869437634_DVR.m3u8
+#EXTINF:0,TV Puebla
+#EXTGRP:NACIONALES
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/chunklist_w703263260.m3u8
+#EXTINF:0,Ultra TV | Puebla
+#EXTGRP:NACIONALES
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:0,Az Mundo
+#EXTGRP:NACIONALES
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
+#EXTINF:0,Az Clic
+#EXTGRP:NACIONALES
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+#EXTINF:0,Jalisco TV
+#EXTGRP:NACIONALES
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:0,VA+
+#EXTGRP:NACIONALES
+https://60417ddeaf0d9.streamlock.net:443/telemetrika3/telemetrika3.smil/playlist.m3u8
+#EXTINF:0,Justicia TV | SCJN
+#EXTGRP:NACIONALES
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:0,Canal 12 | Coahuila
+#EXTGRP:NACIONALES
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:0,TV Tlaxcala
+#EXTGRP:NACIONALES
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+#EXTINF:0,Canal 28 | Nuevo Leon
+#EXTGRP:NACIONALES
+https://s5.mexside.net:1936/canal28/canal28/chunklist_w1265115829.m3u8
+#EXTINF:0,Multimedios | BajÃ­o
+#EXTGRP:NACIONALES
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:0,Multimedios | Cd JuÃ¡rez
+#EXTGRP:NACIONALES
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:0,Multimedios | Guadalajara
+#EXTGRP:NACIONALES
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:0,Multimedios | Laguna
+#EXTGRP:NACIONALES
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0,Multimedios | Monterrey
+#EXTGRP:NACIONALES
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,AVIVAMIENTO HD
+#EXTGRP:RELIGION
+http://190.0.247.38:8000/play/a02q
+#EXTINF:0,CRISTOVISION SD
+#EXTGRP:RELIGION
+http://190.0.247.38:8000/play/a02k
+#EXTINF:0,EJTV HD
+#EXTGRP:RELIGION
+http://190.0.247.38:8000/play/a02n
+#EXTINF:0,ENLACE HD
+#EXTGRP:RELIGION
+http://190.0.247.38:8000/play/a02p
+#EXTINF:0,EWTN SD
+#EXTGRP:RELIGION
+http://190.0.247.38:8000/play/a02l
+#EXTINF:0,MARIA VISION HD
+#EXTGRP:RELIGION
+http://190.0.247.38:8000/play/a02j
+#EXTINF:0,TELEAMIGA HD
+#EXTGRP:RELIGION
+http://190.0.247.38:8000/play/a02m
+#EXTINF:0,BABY TV HD
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a00d
+#EXTINF:0,CANAL INFANTIL HD
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a00e
+#EXTINF:0,DISNEY CHANNEL HD
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a00g
+#EXTINF:0,DISNEY JUNIOR HD
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a00f
+#EXTINF:0,DREAMWORKS HD
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a00k
+#EXTINF:0,PLIM PLIM HD
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a00i
+#EXTINF:0,PLIM PLIM HD IN
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a04o
+#EXTINF:0,ZOOMOO HD
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a00j
+#EXTINF:0,ZOOMOO HD IN
+#EXTGRP:INFANTIL
+http://190.0.247.38:8000/play/a04p
+#EXTINF:0,Baby TV
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0ug
+#EXTINF:0,Cartoon Network HD
+#EXTGRP:INFANTIL
+http://143.0.67.77:8000/play/a075/index.m3u8
+#EXTINF:0,Disney Channel HD
+#EXTGRP:INFANTIL
+http://143.0.67.77:8000/play/a02r/index.m3u8
+#EXTINF:0,Disney Junior
+#EXTGRP:INFANTIL
+http://143.0.67.77:8000/play/a04y/index.m3u8
+#EXTINF:0,Nick Jr
+#EXTGRP:INFANTIL
+http://143.0.67.77:8000/play/a06u/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0r6
+#EXTINF:0,Pakapaka
+#EXTGRP:INFANTIL
+http://143.0.67.77:8000/play/a01n/index.m3u8
+#EXTINF:0,PLIM PLIM
+#EXTGRP:INFANTIL
+http://205.235.6.29:8000/play/a0mp/index.m3u8
+#EXTINF:0,BabyFirst
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a055
+#EXTINF:0,Cartoon Network
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0tb
+#EXTINF:0,Cartoonito
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0v9
+#EXTINF:0,Discovery Kids HD
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0rg
+#EXTINF:0,Disney Channel
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0r7
+#EXTINF:0,Disney HD
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0rf
+#EXTINF:0,Disney Jr
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a05l
+#EXTINF:0,E! Entertainment TV
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0vc
+#EXTINF:0,Lolly Kids
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0v7
+#EXTINF:0,Nick HD
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0rt
+#EXTINF:0,Nick Music
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0v6
+#EXTINF:0,Teen Nick
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0v8
+#EXTINF:0,Tooncast
+#EXTGRP:INFANTIL
+http://38.41.8.1:8000/play/a0vb
+#EXTINF:0,Baby Shark
+#EXTGRP:INFANTIL
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Dios TeVe Kids
+#EXTGRP:INFANTIL
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:0,Alabanza y Palabra
+#EXTGRP:INFANTIL
+https://5bf8041cb3fed.streamlock.net/alabanzaypalabrakids/alabanzaypalabrakids/playlist.m3u8
+#EXTINF:0,Soldaditos de Jesus
+#EXTGRP:INFANTIL
+https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8
+#EXTINF:0,PequeRadio
+#EXTGRP:INFANTIL
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0,Angry Birds
+#EXTGRP:INFANTIL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+#EXTINF:0,Canela Kids
+#EXTGRP:INFANTIL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:0,Toon Goggles
+#EXTGRP:INFANTIL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:0,Pitufo TV
+#EXTGRP:INFANTIL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
+#EXTINF:0,PocoyO
+#EXTGRP:INFANTIL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626
+#EXTINF:0,Zoo Moo
+#EXTGRP:INFANTIL
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:0,Nick Latino
+#EXTGRP:INFANTIL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0,Dreamworks (Portugues)
+#EXTGRP:INFANTIL
+https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v1a1/mono.m3u8
+#EXTINF:0,Los Tres Chiflados
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Popeye
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/677d93afe650a700081e5f18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Hells Kitchen
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,South Park: ColecciÃ³n Cartman
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/65df731cec9fda0008b7aa8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,South Park: ColecciÃ³n Kenny
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/65df7272ec9fda0008b7a970/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,South Park: ColecciÃ³n Kyle
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/65df73520d4561000817c29b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,South Park: ColecciÃ³n Stan
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/65df72db18036500081a8292/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Naruto
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Naruto Shippuden
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Nickelodeon Teen
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Nickelodeon iCarly
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Nick Jr. Club
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Baby Shark TV
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Babyfirst
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Junior
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Barney
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,El Reino Infantil
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Nickelodeon ClÃ¡sico
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Hey Arnold!
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Rugrats
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Bob Esponja
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Los Padrinos MÃ¡gicos
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Las Tortugas Ninja
+#EXTGRP:INFANTIL
+https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,CABLE NOTICIAS HD
+#EXTGRP:NOTICIAS
+http://190.0.247.38:8000/play/a028
+#EXTINF:0,C5N
+#EXTGRP:NOTICIAS
+http://143.0.67.77:8000/play/a01p/index.m3u8
+#EXTINF:0,CNN en EspaÃ¦ol
+#EXTGRP:NOTICIAS
+http://143.0.67.77:8000/play/a054/index.m3u8
+#EXTINF:0,Cronica
+#EXTGRP:NOTICIAS
+http://143.0.67.77:8000/play/a01q/index.m3u8
+#EXTINF:0,TN HD
+#EXTGRP:NOTICIAS
+http://143.0.67.77:8000/play/a058/index.m3u8
+#EXTINF:0,CNN Esp
+#EXTGRP:NOTICIAS
+http://205.235.6.29:8000/play/a0qb/index.m3u8
+#EXTINF:0,BBC NEWS
+#EXTGRP:NOTICIAS
+http://38.41.8.1:8000/play/a0wa
+#EXTINF:0,ET Canal El Tiempo
+#EXTGRP:NOTICIAS
+http://38.41.8.1:8000/play/a0wc
+#EXTINF:0,Fox News
+#EXTGRP:NOTICIAS
+http://38.41.8.1:8000/play/a0ww
+#EXTINF:0,RELIGION
+#EXTGRP:BOTYTV
+http://190.0.247.38:8000/play/a029
+#EXTINF:0,DISCOVERY KIDS IN
+#EXTGRP:BOTYTV
+http://190.0.247.38:8000/play/a04f
+#EXTINF:0,Rakuten Trailers
+#EXTGRP:Rakuten  Runtime
+https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=7090ff5e-6256-4007-bc30-2d8d01031d1e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452
+#EXTINF:0,Rakuten Viki
+#EXTGRP:Rakuten  Runtime
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=30f7f753-8a6e-4a2c-aac0-c76e887845dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
+#EXTINF:0,Rakuten FIFA+
+#EXTGRP:Rakuten  Runtime
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=829dcd30-3206-4482-a4ee-07a9e430737a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
+#EXTINF:0,Rakuten Mr Bean
+#EXTGRP:Rakuten  Runtime
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8?ads_amagi_channel=934&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6165&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=e84063a8-03bb-4181-b6ce-4882f2a78e1c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:0,Rakuten Vive Kanal D
+#EXTGRP:Rakuten  Runtime
+https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=0f1ed54a-ebdb-47d0-b784-14d8430dcaa6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:0,Runtime
+#EXTGRP:Rakuten  Runtime
+https://stitcher.pluto.tv/stitch/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Runtime Familia
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+#EXTINF:0,Runtime Clasicos
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+#EXTINF:0,Runtime Accion
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6125
+#EXTINF:0,Runtime Comedia
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6131
+#EXTINF:0,Runtime Thriller
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
+#EXTINF:0,Runtime Romance
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
+#EXTINF:0,Runtime Series
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
+#EXTINF:0,Runtime Trash
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+#EXTINF:0,Runtime Crimen
+#EXTGRP:Rakuten  Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:0,adn40
+#EXTGRP:Noticias
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0,Foro TV
+#EXTGRP:Noticias
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:0,Estrella News
+#EXTGRP:Noticias
+https://estrellanews-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Telesur
+#EXTGRP:Noticias
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0,RTVE 24h
+#EXTGRP:Noticias
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0,N+ Monterrey
+#EXTGRP:Noticias
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+#EXTINF:0,Teleformula
+#EXTGRP:Noticias
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+#EXTINF:0,Telediario Now
+#EXTGRP:Noticias
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
+#EXTINF:0,Milenio TV
+#EXTGRP:Noticias
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:0,El Pais
+#EXTGRP:Noticias
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:0,rtve Play
+#EXTGRP:Noticias
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:0,The Guardian (En Ingles)
+#EXTGRP:Noticias
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:0,CNN (En Ingles)
+#EXTGRP:Noticias
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,CNN EspaÃ±ol (Fast)
+#EXTGRP:Noticias
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Bloomberg (En Ingles)
+#EXTGRP:Noticias
+https://bloomberg-bloombergtv-1-mx.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,40 Principales VER
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
+#EXTINF:0,Amor 95.3 CDMX
+#EXTGRP:Radio
+https://19473.live.streamtheworld.com/XHSHFMAAC/HLS/playlist.m3u8
+#EXTINF:0,Mas Latina 96.5 VER
+#EXTGRP:Radio
+https://cast3.my-control-panel.com/proxy/maslatina/stream.mp3
+#EXTINF:0,La Primerisima 92.7 VER
+#EXTGRP:Radio
+https://s1.reliastream.com/proxy/emalpi00/stream.mp3
+#EXTINF:0,El Patron 94.5 VER
+#EXTGRP:Radio
+http://ssc.cnwks.ws:8365/;
+#EXTINF:0,Ori Stereo 99.3 VER
+#EXTGRP:Radio
+http://streamingcwsradio30.com:8204/stream/;
+#EXTINF:0,Amor 91.7 VER
+#EXTGRP:Radio
+http://streaming.servicioswebmx.com:8126/stream.mp3
+#EXTINF:0,TriÃ³n FM 106.1 VER
+#EXTGRP:Radio
+http://stream.radiojar.com/a5qpu2en3p8uv.mp3
+#EXTINF:0,Mezkla FM VER
+#EXTGRP:Radio
+http://198.7.59.28:8104/;
+#EXTINF:0,XEU La "U" VER
+#EXTGRP:Radio
+https://xeu.centrocibernetico.com/xeu.mp3
+#EXTINF:0,Fusion 90.1 VER
+#EXTGRP:Radio
+https://sg.centrocibernetico.com/fusion
+#EXTINF:0,Ya FM 102.9 VER
+#EXTGRP:Radio
+https://yafm.centrocibernetico.com/
+#EXTINF:0,Maquina 97.7 VER
+#EXTGRP:Radio
+https://cast3.my-control-panel.com/proxy/xhot/stream.mp3
+#EXTINF:0,Radio Mas VER
+#EXTGRP:Radio
+https://streamingcwsradio30.com/8228/stream.mp3
+#EXTINF:0,La Ke Buena CDMX
+#EXTGRP:Radio
+http://sigmaradio.stream:9002/index.mp3
+#EXTINF:0,Digital 96.9 VER
+#EXTGRP:Radio
+https://cast3.my-control-panel.com/proxy/xhtz/stream.mp3
+#EXTINF:0,Magia 93.7 VER
+#EXTGRP:Radio
+https://cast3.my-control-panel.com/proxy/xekl/stream.mp3
+#EXTINF:0,Sensacion 95.5 VER
+#EXTGRP:Radio
+http://ssc.cnwks.ws:8322/;
+#EXTINF:0,Radio Disney 92.1
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFM.mp3?dist=redirect_m
+#EXTINF:0,EXA 104.9 CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC.mp3
+#EXTINF:0,La Mejor 97.7 CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC_SC.mp3
+#EXTINF:0,La Comadre CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC.m3u8
+#EXTINF:0,La Neta 102.5 VER
+#EXTGRP:Radio
+https://cast3.my-control-panel.com/proxy/xeja/stream.mp3
+#EXTINF:0,Joya 93.7 CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC_SC.mp3
+#EXTINF:0,La Ranchera 106.1
+#EXTGRP:Radio
+https://cast.zuperdns.net/8022/stream/;
+#EXTINF:0,Mix 106.5 CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC_SC.mp3
+#EXTINF:0,Oye 89.7 CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC.mp3
+#EXTINF:0,La Sabrosita CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC_SC.mp3
+#EXTINF:0,W Radio CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC.mp3
+#EXTINF:0,La Z 107.3 CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FM_SC.mp3
+#EXTINF:0,El FonÃ³grafo 690 CDMX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC_SC.mp3
+#EXTINF:0,24/7 100 Hitz
+#EXTGRP:Radio
+http://gr02.cdnstream.com:8290/;
+#EXTINF:0,24/7 Banda Grupera
+#EXTGRP:Radio
+https://stream9.mexiserver.com:7090/stream.mp3
+#EXTINF:0,24/7 Pop Dance
+#EXTGRP:Radio
+https://stream.zeno.fm/zw8bzfsgqm0uv.mp3
+#EXTINF:0,24/7 Electro
+#EXTGRP:Radio
+https://stream.zeno.fm/6q4qw4aw2ehvv.mp3
+#EXTINF:0,24/7 Salsa
+#EXTGRP:Radio
+https://stream.zeno.fm/suqa16dw2ehvv.mp3
+#EXTINF:0,24/7 Pop Rock
+#EXTGRP:Radio
+https://stream.zeno.fm/e37m779v2ehvv.mp3
+#EXTINF:0,24/7 Rock en EspaÃ±ol
+#EXTGRP:Radio
+https://stream.zeno.fm/cdey4pbw2ehvv.mp3
+#EXTINF:0,24/7 Regional MX
+#EXTGRP:Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR49_S01AAC_SC.mp3
+#EXTINF:0,24/7 Virtual DJ Radio
+#EXTGRP:Radio
+http://virtualdjradio.com:8000/;
+#EXTINF:0,AMC en EspaÃ±ol
+#EXTGRP:Cine y Series
+https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:0,Butaca TV 1
+#EXTGRP:Cine y Series
+https://linear-651.frequency.stream/mt/plex/651/hls/master/playlist.m3u8
+#EXTINF:0,Butaca TV 2
+#EXTGRP:Cine y Series
+https://linear-645.frequency.stream/mt/plex/645/hls/master/playlist.m3u8
+#EXTINF:0,PopCorn Central
+#EXTGRP:Cine y Series
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+#EXTINF:0,Cine Estrella
+#EXTGRP:Cine y Series
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+#EXTINF:0,My Time Movie 1
+#EXTGRP:Cine y Series
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0,My Time Movie 2
+#EXTGRP:Cine y Series
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,Orbit TV
+#EXTGRP:Cine y Series
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+#EXTINF:0,Cosmos
+#EXTGRP:Cine y Series
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0,Moni TV
+#EXTGRP:Cine y Series
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+#EXTINF:0,Cinelife
+#EXTGRP:Cine y Series
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
+#EXTINF:0,T-R-A-I-L-E-R-S
+#EXTGRP:Cine y Series
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
+#EXTINF:0,Kanal D - Drama
+#EXTGRP:Cine y Series
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:0,Pelis Gratis (B1gTime)
+#EXTGRP:Cine y Series
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+#EXTINF:0,Pelis Latino
+#EXTGRP:Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1297
+#EXTINF:0,Todo Cine
+#EXTGRP:Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:0,MX Nuestro Cine
+#EXTGRP:Cine y Series
+https://5fc584f3f19c9.streamlock.net:443/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDIzIDE6MjU6NTMgQU0maGFzaF92YWx1ZT1xUzJSUlVxK3RpdVM4OFBqN1lvWHNBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#EXTINF:0,VideoClub (ARG)
+#EXTGRP:Cine y Series
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+#EXTINF:0,Cinerama
+#EXTGRP:Cine y Series
+https://owncloud1692001.fasthostunlimited.com/hls/0/stream.m3u8
+#EXTINF:0,MegaCine
+#EXTGRP:Cine y Series
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:0,Telenovisa 43
+#EXTGRP:Cine y Series
+https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
+#EXTINF:0,The Big Channel
+#EXTGRP:Cine y Series
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
+#EXTINF:0,Cine AcciÃ³n
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Estrellas de AcciÃ³n
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Adrenalina Pura TV
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine Comedia
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine Drama
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine Romance
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine Suspenso
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine Crimen
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine Terror
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Sci-Fi
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Nuestro Cine
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine Inspirador
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6806d519fea7414f33f57016/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,A La Mexicana
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dfcde52d28b09000a42d7a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine ClÃ¡sico
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cine Familia
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Pluto TV Series de Crimen
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/655f62ff954b020008c91ec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,CSI: Miami
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,NCIS
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,NCIS: Lo Mejor de Tony & Ziva
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/68811c9252a0e381f140bcf0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Los Asesinatos de Midsomer
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6764203df433320008836bc6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,NÃºmeros
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/67f960680072d6b187a0682e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Series de AcciÃ³n
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Rookie Blue: PolicÃ­as Novatos
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/64ff270f30ab3300084e259c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,The Walking Dead by AMC
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/678aa0b3680721c77c5035dd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Star Trek
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Series de Sci-Fi
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Andromeda
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/67e598e28b99330f75b4c629/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Z Nation
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/66b3af1c3a4ad200081c7d03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Relic Hunter
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/67e5941f0812459cb682d9c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Series
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Series de Comedia
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/655f626d57fe4a00085c7c3e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Series de Drama
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/655f636d954b020008c93299/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Doc Martin
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/67e5987eef24f48ffca08fd7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Series de Otros Continentes
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6806d570c178637410ae4962/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Dramas Coreanos
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Dramas Coreanos Teen
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6661d5424b10960008599fa3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Vive Kanal D Drama
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Series Latinas
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Series Retro
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Hechizada
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MacGyver
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Baywatch
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Novelas
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Novelas de Mexico
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,CorazÃ³n
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Sin Tetas No Hay ParaÃ­so
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,La SelecciÃ³n
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Novelas de Venezuela
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Reality
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Drag
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/64510d3ad3fdde00080951f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Pluto TV
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Reality
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Dating
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6851b909954170e0128bc71d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Acapulco Shore
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Con Mi Ex
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/638693db857364000781b471/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Ridiculousness
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Teen Mom
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Catfish
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Competencias
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Sony One Shark Tank MÃ©xico
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6647c02422494d000804b13a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MasterChef
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Minuto Para Ganar
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Sony One Competencias
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/662bf39756fc840008f25cb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Wipe Out
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,DesafÃ­o Super Humanos
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6495af324c014a000842e923/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Pluto TV Naturaleza
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Monstruos de Rio
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/66a92375cd0d31000847b219/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,NatureTime
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/681ba2729624e6275efe0044/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Paisajes por Stingray
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,El Encantador de Perros
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Aventura
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Ice Pilots
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Velocidad
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,ObsesiÃ³n por los Autos
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Mi Coche ClÃ¡sico
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Motorvision TV
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Vida Real
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,COPS
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Dog el cazarrecompensas
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,EmpeÃ±os a lo bestia
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Mi ObsesiÃ³n Favorita
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Untold Stories of the ER
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/678533155e0e6a000828cd48/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Misterios Medicos
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Smithsonian Channel
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Historia
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Misterios
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Historias de Ultratumba
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Archivos Extraterrestres
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Investiga
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cazador de Homicidas
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Los archivos del FBI
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Archivos Forenses
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,The New Detectives
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Misterios sin Resolver
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Zona InvestigaciÃ³n TV
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/680bdaf54d7cf165c705f91e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,CBS News
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Euronews EspaÃ±ol
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,RCN Noticias
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/67d9b0ebc290c9499046e88f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,ADN 40
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,TeleFÃ³rmula
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Milenio TelevisiÃ³n
+#EXTGRP:Pluto TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:0,C4 en Alerta
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,PFL MMA
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/64f6163a30ab3300083d870e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Comedy Central South Park
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Daria
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,La Familia del Barrio
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Humor
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,FailArmy
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,The Pet Collective
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Bromas Gags - Just for Laughs
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/678029c654f43dad4b5c1ec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,PRIDEtv
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6643b8c42eafd40008daab8b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Azteca UNO -1 hora
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/646ccc7a2858cb0008127367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Imagen TV
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008ea8441/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Canal 6 CdMX
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/652e91fd6208700008dcaf7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Viajes
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Hogar
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Homeful
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/64fb1f6e6625510008c00848/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Cocina
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Tastemade
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Anime
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Boruto: Naruto Next Generations
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Hunter x Hunter
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Death Note
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,JoJoâ€™s Bizarre Adventure
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/66c790f780a0af0008583aa4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Yu-Gi-Oh
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Captain Tsubasa
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Inuyasha
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/66b26665d512590008c507b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,One Piece
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Tokusato
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,E-Sports
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Kenan y Kel
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Avatar: La Leyenda de Aang
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Nickelodeon Toons
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Pluto TV Kids
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Biggest Pop
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Classic
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Rocks
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV Flow Latino
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,MTV on Tour!
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Conciertos por Stingray
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Karaoke por Stingray
+#EXTGRP:Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Run Time Latino
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:0,Run Time Films
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:0,Run Time Espanyol
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:0,Run Time Cine y Series
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:0,Run Time Familia
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:0,Run Time Terror
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:0,Run Time Romance
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
+#EXTINF:0,Run Time Crimen
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:0,Run Time Comedia
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:0,Run Time AcciÃ³n
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:0,Canela Network
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:0,Canela Novelas
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:0,Canela Hits
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:0,Canela Music
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:0,Canela Novelisima
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:0,ITV DEPORTES
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:0,AYM Sports
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:0,Combate Global
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:0,CorazÃ³n Fast
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:0,Clic Fast
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:0,Cinema Fast
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:0,AcciÃ³n Mexicana
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:0,CombaTV
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+#EXTINF:0,WPT
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
+#EXTINF:0,C4 En Alerta
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:0,Canal 6 CDMX
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
+#EXTINF:0,Azteca Uno (-1h)
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:0,Imagen TV+ (-1h)
+#EXTGRP:24-7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+#EXTINF:0,PIDE TU CUENTA PERSONALIZADA
+#EXTGRP:
+http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
+#EXTINF:0,EVENTOS 1
+#EXTGRP:
+http://205.235.6.29:8000/play/a0ve/index.m3u8
+#EXTINF:0,EVENTOS 2
+#EXTGRP:
+http://205.235.6.29:8000/play/a0vh/index.m3u8
+#EXTINF:0,EVENTOS 3
+#EXTGRP:
+http://38.41.8.1:8000/play/a06r
+#EXTINF:0,EVENTOS 4
+#EXTGRP:
+http://ip96.uk:8080/live/Ghosia104/pathan104/302967.ts
+#EXTINF:0,EVENTOS 5
+#EXTGRP:
+http://ip96.uk:8080/live/Ghosia104/pathan104/302966.ts
+#EXTINF:0,EVENTOS 6
+#EXTGRP:
+http://cord-cutter.net:8080/live/Y3DvY8/934867/53706.ts
+#EXTINF:0,EVENTOS 7
+#EXTGRP:
+http://cord-cutter.net:8080/live/Y3DvY8/934867/35243.ts
+#EXTINF:0,EVENTOS 8
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sm
+#EXTINF:0,EVENTOS 9
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sv
+#EXTINF:0,EVENTOS 10
+#EXTGRP:
+http://ip96.uk:8080/live/Ghosia104/pathan104/293609.ts
+#EXTINF:0,BAYERN MUNICH luis diaz
+#EXTGRP:
+http://ip96.uk:8080/live/Ghosia104/pathan104/293596.ts
+#EXTINF:0,ITALIA CALCIO
+#EXTGRP:
+http://ip96.uk:8080/live/Ghosia104/pathan104/293273.ts
+#EXTINF:0,LA LIGA
+#EXTGRP:
+http://ip96.uk:8080/live/Ghosia104/pathan104/292980.ts
+#EXTINF:0,FRANCUA LIGUE ONE
+#EXTGRP:
+http://ip96.uk:8080/live/Ghosia104/pathan104/291615.ts
+#EXTINF:0,BRASIL FUTBOL
+#EXTGRP:
+http://ip96.uk:8080/live/Ghosia104/pathan104/304357.ts
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0t0
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sw
+#EXTINF:0,ESPN 4 HD
+#EXTGRP:
+http://143.0.67.77:8000/play/a076/index.m3u8
+#EXTINF:0,ESPN 5 HD
+#EXTGRP:
+http://190.0.247.38:8000/play/a012
+#EXTINF:0,ESPN 6 HD
+#EXTGRP:
+http://190.0.247.38:8000/play/a013
+#EXTINF:0,ESPN 7 HD
+#EXTGRP:
+http://190.0.247.38:8000/play/a014
+#EXTINF:0,ESPN HD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0t3
+#EXTINF:0,WIN SPORTS HD
+#EXTGRP:
+http://190.0.247.38:8000/play/a06a
+#EXTINF:0,WIN SPORTS HD IN
+#EXTGRP:
+http://190.0.247.38:8000/play/a068
+#EXTINF:0,AM Sports
+#EXTGRP:
+http://143.0.67.77:8000/play/a01v/index.m3u8
+#EXTINF:0,DeporTV
+#EXTGRP:
+http://143.0.67.77:8000/play/a06h/index.m3u8
+#EXTINF:0,ESPN Premium HD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0t7
+#EXTINF:0,Eventos HD
+#EXTGRP:
+http://143.0.67.77:8000/play/a0af/index.m3u8
+#EXTINF:0,TNT Sports HD
+#EXTGRP:
+http://143.0.67.77:8000/play/a0bc/index.m3u8
+#EXTINF:0,TyC Sports HD
+#EXTGRP:
+http://143.0.67.77:8000/play/a02s/index.m3u8
+#EXTINF:0,DTV
+#EXTGRP:
+http://38.41.8.1:8000/play/a0b0
+#EXTINF:0,Win Sports+ HD
+#EXTGRP:
+http://205.235.6.29:8000/play/a0ve/index.m3u8
+#EXTINF:0,ZAPPING
+#EXTGRP:
+http://205.235.6.29:8000/play/a0ny/index.m3u8
+#EXTINF:0,DIRECTV
+#EXTGRP:
+http://205.235.6.29:8000/play/a0vh/index.m3u8
+#EXTINF:0,Azteca Deportes
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Claro Sports
+#EXTGRP:
+http://38.41.8.1:8000/play/a050
+#EXTINF:0,ESPN
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sg
+#EXTINF:0,ESPN 2
+#EXTGRP:
+http://38.41.8.1:8000/play/a0ul
+#EXTINF:0,ESPN 2 Latin
+#EXTGRP:
+http://38.41.8.1:8000/play/a07q
+#EXTINF:0,ESPN 3
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sm
+#EXTINF:0,ESPN 4
+#EXTGRP:
+http://38.41.8.1:8000/play/a07b
+#EXTINF:0,ESPN 4HD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sv
+#EXTINF:0,ESPN 5HD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0rm
+#EXTINF:0,ESPN 6
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sk
+#EXTINF:0,ESPN 6HD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sx
+#EXTINF:0,ESPN 7
+#EXTGRP:
+http://38.41.8.1:8000/play/a0tl
+#EXTINF:0,ESPN CO
+#EXTGRP:
+http://38.41.8.1:8000/play/a06r
+#EXTINF:0,GOLPERU
+#EXTGRP:
+http://38.41.8.1:8000/play/a0u8
+#EXTINF:0,Gol TV
+#EXTGRP:
+http://38.41.8.1:8000/play/a0wi
+#EXTINF:0,Golf Channel
+#EXTGRP:
+http://38.41.8.1:8000/play/a0to
+#EXTINF:0,Meridiano
+#EXTGRP:
+http://38.41.8.1:8000/play/a03w
+#EXTINF:0,Movistar Deportes
+#EXTGRP:
+http://38.41.8.1:8000/play/a0ry
+#EXTINF:0,TNT SPORTS
+#EXTGRP:
+http://38.41.8.1:8000/play/a0yi
+#EXTINF:0,TNT Sports Premiun HD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0rn
+#EXTINF:0,TNT Sports Premiun SD
+#EXTGRP:
+http://38.41.8.1:8000/play/a0sf
+#EXTINF:0,TyC Sports
+#EXTGRP:
+http://38.41.8.1:8000/play/a0wj
+#EXTINF:0,UCL
+#EXTGRP:
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:0,Via X Esports
+#EXTGRP:
+http://38.41.8.1:8000/play/a0wk
+#EXTINF:0,Win Sports
+#EXTGRP:
+http://38.41.8.1:8000/play/a0un
+#EXTINF:0,Win Sports+
+#EXTGRP:
+http://38.41.8.1:8000/play/a0tp
+#EXTINF:0,Deportes
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Claro Sports Mexico
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,ITV Deportes
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Peleas
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,Lucha Libre AAA
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,DAZN Combat
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,UFC
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+#EXTINF:0,FIFA+
+#EXTGRP:
+https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
+
+
 
 
 #EXTINF:0,BOTYTV Pasese a PREMIUM y siga Disfrutando
