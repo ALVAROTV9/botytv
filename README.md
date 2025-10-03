@@ -908,12 +908,11 @@ http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/145006.mkv
 #EXTINF:0,Jugaremos en el Bosque 2024
 #EXTGRP:PELISTERROR
 http://tv.zapping.life:8080/movie/mayleenfunez1/135535683598/124472.mkv
-#EXTINF:0,HBO Mundi#
-#EXTGRP:CINE
-http://143.0.67.77:8000/play/a02a/index.m3u8
-#EXTINF:0,De Pelicula#
-#EXTGRP:CINE
-http://205.235.6.29:8000/play/a0p8/index.m3u8
+
+
+
+
+
 #EXTINF:0,A&E HD
 #EXTGRP:CINE
 http://143.0.67.77:8000/play/a05i/index.m3u8
@@ -1133,6 +1132,10 @@ http://38.41.8.1:8000/play/a07n
 #EXTINF:0,Warner Channel
 #EXTGRP:CINE
 http://38.41.8.1:8000/play/a0r9
+
+
+
+
 #EXTINF:0,ANIMAL PLANET HD
 #EXTGRP:CULTURAL
 http://190.0.247.38:8000/play/a00p
@@ -1332,6 +1335,9 @@ http://38.41.8.1:8000/play/a04o
 #EXTGRP:CULTURAL
 http://38.41.8.1:8000/play/a0td
 #EXTINF:0,TNT Series#
+
+
+
 #EXTGRP:VARIADOS
 http://38.41.8.1:8000/play/a0so
 #EXTINF:0,BANDAMAX HD
@@ -3285,211 +3291,101 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTGRP:24-7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:0,PIDE TU CUENTA PERSONALIZADA
-#EXTGRP:
-http://embed-cloudfront.wistia.com/deliveries/c3e1795eb910ef703f0ad18bf2c253ed436fe5ea.m3u8
-#EXTINF:0,EVENTOS 1
-#EXTGRP:
-http://205.235.6.29:8000/play/a0ve/index.m3u8
-#EXTINF:0,EVENTOS 2
-#EXTGRP:
-http://205.235.6.29:8000/play/a0vh/index.m3u8
-#EXTINF:0,EVENTOS 3
-#EXTGRP:
-http://38.41.8.1:8000/play/a06r
-#EXTINF:0,EVENTOS 4
-#EXTGRP:
-http://ip96.uk:8080/live/Ghosia104/pathan104/302967.ts
-#EXTINF:0,EVENTOS 5
-#EXTGRP:
-http://ip96.uk:8080/live/Ghosia104/pathan104/302966.ts
-#EXTINF:0,EVENTOS 6
-#EXTGRP:
-http://cord-cutter.net:8080/live/Y3DvY8/934867/53706.ts
-#EXTINF:0,EVENTOS 7
-#EXTGRP:
-http://cord-cutter.net:8080/live/Y3DvY8/934867/35243.ts
-#EXTINF:0,EVENTOS 8
-#EXTGRP:
-http://38.41.8.1:8000/play/a0sm
-#EXTINF:0,EVENTOS 9
-#EXTGRP:
-http://38.41.8.1:8000/play/a0sv
-#EXTINF:0,EVENTOS 10
-#EXTGRP:
-http://ip96.uk:8080/live/Ghosia104/pathan104/293609.ts
-#EXTINF:0,BAYERN MUNICH luis diaz
-#EXTGRP:
-http://ip96.uk:8080/live/Ghosia104/pathan104/293596.ts
-#EXTINF:0,ITALIA CALCIO
-#EXTGRP:
-http://ip96.uk:8080/live/Ghosia104/pathan104/293273.ts
-#EXTINF:0,LA LIGA
-#EXTGRP:
-http://ip96.uk:8080/live/Ghosia104/pathan104/292980.ts
-#EXTINF:0,FRANCUA LIGUE ONE
-#EXTGRP:
-http://ip96.uk:8080/live/Ghosia104/pathan104/291615.ts
-#EXTINF:0,BRASIL FUTBOL
-#EXTGRP:
-http://ip96.uk:8080/live/Ghosia104/pathan104/304357.ts
-#EXTINF:0,ESPN 2 HD
-#EXTGRP:
-http://38.41.8.1:8000/play/a0t0
-#EXTINF:0,ESPN 3 HD
-#EXTGRP:
-http://38.41.8.1:8000/play/a0sw
-#EXTINF:0,ESPN 4 HD
-#EXTGRP:
-http://143.0.67.77:8000/play/a076/index.m3u8
-#EXTINF:0,ESPN 5 HD
-#EXTGRP:
-http://190.0.247.38:8000/play/a012
-#EXTINF:0,ESPN 6 HD
-#EXTGRP:
-http://190.0.247.38:8000/play/a013
-#EXTINF:0,ESPN 7 HD
-#EXTGRP:
-http://190.0.247.38:8000/play/a014
-#EXTINF:0,ESPN HD
-#EXTGRP:
-http://38.41.8.1:8000/play/a0t3
-#EXTINF:0,WIN SPORTS HD
-#EXTGRP:
-http://190.0.247.38:8000/play/a06a
-#EXTINF:0,WIN SPORTS HD IN
-#EXTGRP:
-http://190.0.247.38:8000/play/a068
-#EXTINF:0,AM Sports
-#EXTGRP:
-http://143.0.67.77:8000/play/a01v/index.m3u8
-#EXTINF:0,DeporTV
-#EXTGRP:
-http://143.0.67.77:8000/play/a06h/index.m3u8
-#EXTINF:0,ESPN Premium HD
-#EXTGRP:
-http://38.41.8.1:8000/play/a0t7
-#EXTINF:0,Eventos HD
-#EXTGRP:
-http://143.0.67.77:8000/play/a0af/index.m3u8
-#EXTINF:0,TNT Sports HD
-#EXTGRP:
-http://143.0.67.77:8000/play/a0bc/index.m3u8
-#EXTINF:0,TyC Sports HD
-#EXTGRP:
-http://143.0.67.77:8000/play/a02s/index.m3u8
-#EXTINF:0,DTV
-#EXTGRP:
-http://38.41.8.1:8000/play/a0b0
-#EXTINF:0,Win Sports+ HD
-#EXTGRP:
-http://205.235.6.29:8000/play/a0ve/index.m3u8
-#EXTINF:0,ZAPPING
-#EXTGRP:
-http://205.235.6.29:8000/play/a0ny/index.m3u8
-#EXTINF:0,DIRECTV
-#EXTGRP:
-http://205.235.6.29:8000/play/a0vh/index.m3u8
-#EXTINF:0,Azteca Deportes
-#EXTGRP:
-https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
-#EXTINF:0,Claro Sports
-#EXTGRP:
-http://38.41.8.1:8000/play/a050
-#EXTINF:0,ESPN
-#EXTGRP:
-http://38.41.8.1:8000/play/a0sg
-#EXTINF:0,ESPN 2
-#EXTGRP:
-http://38.41.8.1:8000/play/a0ul
+
+
+
+
+
+
 #EXTINF:0,ESPN 2 Latin
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a07q
 #EXTINF:0,ESPN 3
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0sm
 #EXTINF:0,ESPN 4
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a07b
 #EXTINF:0,ESPN 4HD
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0sv
 #EXTINF:0,ESPN 5HD
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0rm
 #EXTINF:0,ESPN 6
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0sk
 #EXTINF:0,ESPN 6HD
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0sx
 #EXTINF:0,ESPN 7
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0tl
 #EXTINF:0,ESPN CO
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a06r
 #EXTINF:0,GOLPERU
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0u8
 #EXTINF:0,Gol TV
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0wi
 #EXTINF:0,Golf Channel
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0to
 #EXTINF:0,Meridiano
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a03w
 #EXTINF:0,Movistar Deportes
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0ry
 #EXTINF:0,TNT SPORTS
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0yi
 #EXTINF:0,TNT Sports Premiun HD
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0rn
 #EXTINF:0,TNT Sports Premiun SD
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0sf
 #EXTINF:0,TyC Sports
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0wj
 #EXTINF:0,UCL
-#EXTGRP:
+#EXTGRP:PPV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:0,Via X Esports
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0wk
 #EXTINF:0,Win Sports
-#EXTGRP:
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0un
-#EXTINF:0,Win Sports+
-#EXTGRP:
+#EXTINF:0,Win SportsPLUS
+#EXTGRP:PPV
 http://38.41.8.1:8000/play/a0tp
 #EXTINF:0,Deportes
-#EXTGRP:
+#EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Claro Sports Mexico
-#EXTGRP:
+#EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,ITV Deportes
-#EXTGRP:
+#EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Peleas
-#EXTGRP:
+#EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Lucha Libre AAA
-#EXTGRP:
+#EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,DAZN Combat
-#EXTGRP:
+#EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,UFC
-#EXTGRP:
+#EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,FIFA+
-#EXTGRP:
+#EXTGRP:PPV
 https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 
 
@@ -3598,43 +3494,43 @@ http://nxt.plus:8080/movie/dimasxt/331120/160560.mp4
 #EXTGRP:VIDEOS
 http://nxt.plus:8080/movie/dimasxt/331120/160570.mkv
 #EXTINF:0,BOTYTV INFORMACION
-#EXTGRP:CANALES
+#EXTGRP:VIDEOS
 http://embed-cloudfront.wistia.com/deliveries/7f84833386b5af88621d0d3d5e4fb684ad44f6e5.m3u8
 #EXTINF:0,CANAL PEDIDO 1
-#EXTGRP:CANALES
+#EXTGRP:VIDEOS
 http://facilita.fun:80/live/md964a/abc125ad/9514383.ts
 #EXTINF:0,CANAL PEDIDO 2
-#EXTGRP:CANALES
+#EXTGRP:VIDEOS
 http://facilita.fun:80/live/md964a/abc125ad/9514374.ts
 #EXTINF:0,VID 1
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11407606.mp4
 #EXTINF:0,VID 2
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11387265.mp4
 #EXTINF:0,VID 3
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11387201.mp4
 #EXTINF:0,VID 4
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11392868.mp4
 #EXTINF:0,VID 5
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11393075.mp4
 #EXTINF:0,VID 6
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11387081.mp4
 #EXTINF:0,VID 7
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11387108.mp4
 #EXTINF:0,VID 8
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11387309.mp4
 #EXTINF:0,VID 9
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11393041.mp4
 #EXTINF:0,VID 10
-#EXTGRP:LGBT
+#EXTGRP:VIDEOS
 http://facilita.fun:80/movie/md964a/abc125ad/11393043.mp4
 
 
