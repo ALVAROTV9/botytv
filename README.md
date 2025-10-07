@@ -6,12 +6,12 @@ http://embed-cloudfront.wistia.com/deliveries/7f84833386b5af88621d0d3d5e4fb684ad
 
 #EXTGRP:BOTYTV1
 http://205.235.6.29:8000/play/a0nq/index.m3u8
-#EXTINF:0,311-UNSION TV
+#EXTINF:0,NSTGEO AMB
 #EXTGRP:BOTYTV1
-http://205.235.6.29:8000/play/a0vi/index.m3u8
-#EXTINF:0,312 - TELERAMA ONCEPLAY BU L
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:0,HISTORIA AMB
 #EXTGRP:BOTYTV1
-http://205.235.6.29:8000/play/a0vg/index.m3u8
+http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:0,313-TLNOVELAS HD
 #EXTGRP:BOTYTV1
 http://205.235.6.29:8000/play/a0vb/index.m3u8
