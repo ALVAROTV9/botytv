@@ -72,6 +72,12 @@ http://205.235.6.29:8000/play/a0qb/index.m3u8
 #EXTINF:0,Caracol HD
 #EXTGRP:BOTYTV1
 http://205.235.6.29:8000/play/a0v6/index.m3u8
+
+#EXTINF:0,CITYTV AMB
+#EXTGRP:BOTYTV1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+
 #EXTINF:0,DHE
 #EXTGRP:BOTYTV1
 http://205.235.6.29:8000/play/a0py/index.m3u8
