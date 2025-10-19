@@ -1,5 +1,634 @@
-
 #EXTM3U
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 1 HD
+http://fultv.me:80/yuri/12345/9369
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 1 SD
+http://fultv.me:80/yuri/12345/9372
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 1 H264
+http://fultv.me:80/yuri/12345/484151
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 2 HD
+http://fultv.me:80/yuri/12345/380829
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 2 SD
+http://fultv.me:80/yuri/12345/380830
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 3 HD (Evento Triple)
+http://fultv.me:80/yuri/12345/488581
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 3 SD (Evento Triple)
+http://fultv.me:80/yuri/12345/498570
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" ,T1GO 1 HD
+http://fultv.me:80/yuri/12345/277732
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" ,T1GO 1 SD
+http://fultv.me:80/yuri/12345/493187
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" ,T1GO 2 HD
+http://fultv.me:80/yuri/12345/490968
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" ,T1GO 2 SD
+http://fultv.me:80/yuri/12345/492588
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/sfBDm54c/TNT-SPORT-ARGENTINA.jpg" ,TNT SPORTS PREMIUM HD ARG
+http://fultv.me:80/yuri/12345/45962
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/QNRNyV6r/TNT-SPORT-CHILE.jpg" ,TNT SPORTS PREMIUM HD CHILE
+http://fultv.me:80/yuri/12345/46516
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/QNRNyV6r/TNT-SPORT-CHILE.jpg" ,TNT SPORTS CHILE
+http://fultv.me:80/yuri/12345/375387
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/43NX9c3p/TYC-SPORTS.jpg" ,TYC SPORTS HD ARG
+http://fultv.me:80/yuri/12345/45963
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/43NX9c3p/TYC-SPORTS.jpg" ,TYC SPORTS HD INTERNACIONAL
+http://fultv.me:80/yuri/12345/46520
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" ,D SPORTS HD (Arg)
+http://fultv.me:80/yuri/12345/373328
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/k4zYq0ZB/DIRECTV-2.jpg" ,D SPORTS 2 HD (Arg)
+http://fultv.me:80/yuri/12345/45943
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/BQW7yGHz/DIRECTV-MAS.jpg" ,D SPORTS + HD (Arg)
+http://fultv.me:80/yuri/12345/45942
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/LsQpN0K3/DIRECTV-EVENTOS.png" ,D SPORTS HD (Peru)
+http://fultv.me:80/yuri/12345/362017
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/3xZKN13K/WIN-SPORTS.jpg" ,WIN SPORTS HD
+http://fultv.me:80/yuri/12345/46117
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/VNGmBNSp/WIN-SPORTS-MAS.jpg" ,WIN SPORTS + HD
+http://fultv.me:80/yuri/12345/46119
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MKy3JrYp/ECDF.jpg" ,EL CANAL DEL FUTBOL HD (Ecuador) ECDF
+http://fultv.me:80/yuri/12345/46602
+#EXTINF:-1 group-title="DEPORTES" ,EL CANAL DEL FUTBOL - ECDF SD
+http://fultv.me:80/yuri/12345/492589
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MT2jwt5z/MOVISTAR-DEPORTES.jpg" ,MOVISTAR DEPORTES
+http://fultv.me:80/yuri/12345/46591
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/m2bChXsD/GOLPERU.jpg" ,GOL PERU
+http://fultv.me:80/yuri/12345/46590
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/3xNGFkWQ/GOLTV.jpg" ,GOL TV HD
+http://fultv.me:80/yuri/12345/46601
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/KY9sskD7/CLARO-SPORTS.jpg" ,CLARO SPORTS HD
+http://fultv.me:80/yuri/12345/109785
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/dVjfrS7x/CLARO-SPORTS-2.jpg" ,CLARO SPORTS 2 HD
+http://fultv.me:80/yuri/12345/109786
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/C119FHx6/TIGO-HONDURAS.jpg" ,T1GO HD HONDURAS
+http://fultv.me:80/yuri/12345/288310
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Kvv3m1P3/BEIN-SPORTS.jpg" ,be iN SPORTS ES HD
+http://fultv.me:80/yuri/12345/45976
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cLSjKNJ3/BEINSPORTS-LIGA.jpg" ,BEIN SPORTS Ñ
+http://fultv.me:80/yuri/12345/360303
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cLSjKNJ3/BEINSPORTS-LIGA.jpg" ,BEIN SPORTS XTRA Ñ
+http://fultv.me:80/yuri/12345/381561
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/qvK3XB5n/UFC-PASS.jpg" ,UFC FIGHT PASS
+http://fultv.me:80/yuri/12345/49002
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/k57kHd3C/TD.jpg" ,TD+HD
+http://fultv.me:80/yuri/12345/288530
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/TPQZMHfD/TD-2.jpg" ,TD+2 HD
+http://fultv.me:80/yuri/12345/288531
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/5tnN8ZbL/LIGA-1-PERU.jpg" ,LIGA 1 Peru
+http://fultv.me:80/yuri/12345/375423
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/pddX7LSQ/LIGA-1-MAX.jpg" ,LIGA 1 MAX
+http://fultv.me:80/yuri/12345/278040
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Vv9BD4HX/tubi.png" ,TUBI (Solo Eventos)
+http://fultv.me:80/yuri/12345/381015
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" ,TUDN MEXICO HD
+http://fultv.me:80/yuri/12345/360304
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" ,TUDN DEPORTES USA HD
+http://fultv.me:80/yuri/12345/409328
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" ,TUDN
+http://fultv.me:80/yuri/12345/409329
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" ,TUDN    Opc 2
+http://fultv.me:80/yuri/12345/420239
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/7hfLWBw9/SKY-SPORTLALIGA.jpg" ,SKY SPORTS LA LIGA
+http://fultv.me:80/yuri/12345/381563
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/7hfLWBw9/SKY-SPORTLALIGA.jpg" ,SKY SPORTS (Bundesliga)
+http://fultv.me:80/yuri/12345/381564
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/YqbgF6rx/ITV-DEPORTES.jpg" ,- ITV DEPORTES
+http://fultv.me:80/yuri/12345/277309
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MTMZ6rqv/CNBC.jpg" ,CNBC
+http://fultv.me:80/yuri/12345/288528
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/C119FHx6/TIGO-HONDURAS.jpg" ,TIGO SPORTS GUATEMALA
+http://fultv.me:80/yuri/12345/362974
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/8zLS3H7R/NHL-NETWORK.jpg" ,NHL NETWORK
+http://fultv.me:80/yuri/12345/363007
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/HnJGt4G7/REDBULL-TV.jpg" ,RED BULL TV
+http://fultv.me:80/yuri/12345/282695
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/bYMfwMb0/REAL-MADRI-TV.jpg" ,REAL MADRID TV
+http://fultv.me:80/yuri/12345/197509
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Mpqyn1cW/LATIN-SPORTS.jpg" ,LATIN AMERICA SPORT
+http://fultv.me:80/yuri/12345/288537
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/vTwT35xd/AYM-SPORTS.jpg" ,AYM SPORTS TV
+http://fultv.me:80/yuri/12345/373845
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/T3fkBSvK/COMBA-TV.jpg" ,COMBATV
+http://fultv.me:80/yuri/12345/373846
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/tRWBryn3/GOLF-CHANEL.jpg" ,GOLF CHANNEL
+http://fultv.me:80/yuri/12345/285794
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://icomplay.net:80/images/EFuEEgW5Z2mGowqQ2iBbinr7ptvcb9dmVQj1lGOt7hkJI1rmpfjPQX0GLRPfDp9JMVWfoIeNd54MivOno20gEZqJuEhA_WrJOkhH3ilMTgShVFcXysLSx5h5BTI5XjDLNe8FHPcvoULuw0ECtWzF4NGk535iHChMex2I5Hk1xBQ.png" ,_ TENNIS CHANNEL
+http://fultv.me:80/yuri/12345/375385
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Z5GcPMY7/VIA-X.jpg" ,VIA X SPORTS
+http://fultv.me:80/yuri/12345/373838
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/5NMtJWhs/CALIENTE-TV.jpg" ,CALIENTE TV HD Mexico
+http://fultv.me:80/yuri/12345/375415
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/N0xQ2ZjD/descarga.jpg" ,ONETORO-TV
+http://fultv.me:80/yuri/12345/467892
+#EXTINF:-1 group-title="DEPORTES" ,SKY SPORTS
+http://fultv.me:80/yuri/12345/479331
+#EXTINF:-1 group-title="DEPORTES" ,FUTV
+http://fultv.me:80/yuri/12345/488691
+#EXTINF:-1 group-title="DEPORTES" ,AYM
+http://fultv.me:80/yuri/12345/493184
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/W3p91gQc/ZAPPING-SPORTS.png" ,ZAPPING SPORTS ECUADOR (Solo Eventos)
+http://fultv.me:80/yuri/12345/496058
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/905F9t7M/ANIMAL-PLANET.jpg" ,ANIMAL Planet HD
+http://fultv.me:80/yuri/12345/45982
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/G3VpwRgR/Discoveri-Espa-ol.jpg" ,DISCOVERY CHANNEL HD
+http://fultv.me:80/yuri/12345/45984
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/BQfXPsTg/NATIONAL-GEOGRAPHIA.jpg" ,NAT GEO HD
+http://fultv.me:80/yuri/12345/45985
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/wjVydPsk/H-H-DISCOVERY.jpg" ,DISCOVERY H&H HD
+http://fultv.me:80/yuri/12345/45986
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/Hk4WyyYW/DISCOVERY-ID.jpg" ,DISCOVERY ID HD
+http://fultv.me:80/yuri/12345/45987
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/pLtXrZt1/DISCOVERY-CIENCIA.jpg" ,DISCOVERY SCIENCE
+http://fultv.me:80/yuri/12345/45988
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/pT7PHQZC/DISCOVERY-THEATER.jpg" ,DISCOVERY THEATHER HD
+http://fultv.me:80/yuri/12345/45989
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/GtydhBgC/DISCOVERY-TURBO.jpg" ,DISCOVERY TURBO
+http://fultv.me:80/yuri/12345/45990
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/5jW1HxDF/DISCOVERY-WORLD.jpg" ,DISCOVERY WORLD HD
+http://fultv.me:80/yuri/12345/45991
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/hPVQ2hD6/ENTERMAINMENT.jpg" ,E! Entertainment
+http://fultv.me:80/yuri/12345/45993
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/7ZDGdDb6/FOOD-NTWORK.jpg" ,Food Network HD
+http://fultv.me:80/yuri/12345/45996
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/xjJzbtW0/EL-GOURTMET.jpg" ,GOURMET HD
+http://fultv.me:80/yuri/12345/45997
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/pdcmmFCh/HISTORY.jpg" ,History HD
+http://fultv.me:80/yuri/12345/46000
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/k4VBKgYj/HISTORY-2.jpg" ,History 2 HD
+http://fultv.me:80/yuri/12345/46001
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/9MvzpHvc/LOVE-NATURE.jpg" ,LOVE NATURE HD
+http://fultv.me:80/yuri/12345/46004
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/mrnrLGZ7/TRU-TV.jpg" ,truTV HD
+http://fultv.me:80/yuri/12345/46005
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/0NjQ1Nv8/TLC.jpg" ,TLC HD
+http://fultv.me:80/yuri/12345/46008
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/3rsDj2T2/FILME-Y-ART.jpg" ,FILM & ARTS HD
+http://fultv.me:80/yuri/12345/45994
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/4xBd09rL/SUN.jpg" ,SUN CHANNEL HD
+http://fultv.me:80/yuri/12345/110549
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/R0Z3CR7x/HGTV.jpg" ,HOME GARDEN
+http://fultv.me:80/yuri/12345/285795
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/htSvMr3Q/STAR-TV-HD.jpg" ,STAR TVE HD
+http://fultv.me:80/yuri/12345/285796
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/d32Qjk29/CLIC.jpg" ,AZ CLICK HD
+http://fultv.me:80/yuri/12345/285797
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/m29gTnKH/CONCERT.jpg" ,CONCERT CHANNEL
+http://fultv.me:80/yuri/12345/288458
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/3NmNfbTm/MAS-CHIC.jpg" ,MAS CHIC
+http://fultv.me:80/yuri/12345/288529
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/FFLYK1Lz/MUNDOVISION.jpg" ,MUNDO VISION TV
+http://fultv.me:80/yuri/12345/373847
+#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/rFGzSbgL/NAT-WILD.jpg" ,NAT GEO WILD
+http://fultv.me:80/yuri/12345/375411
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/FRzCvxPJ/CARACOL-TV.jpg" ,CARACOL HD.
+http://fultv.me:80/yuri/12345/46108
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/FsXty2WW/RCN.jpg" ,RCN HD
+http://fultv.me:80/yuri/12345/46112
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/L4fw8x9z/TELEPACIFICO.jpg" ,TELEPACIFICO
+http://fultv.me:80/yuri/12345/46116
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/g0J1cdjJ/SE-AL-COLOMBIA.jpg" ,Señal Colombia
+http://fultv.me:80/yuri/12345/42644
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/g0J1cdjJ/SE-AL-COLOMBIA.jpg" ,SEÑAL COLOMBIA
+http://fultv.me:80/yuri/12345/46115
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/VNR2mvm2/ATV-COLOMBIA.jpg" ,ATV
+http://fultv.me:80/yuri/12345/43523
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/hjYyt7wZ/CLABLENOTICIAS.jpg" ,Cablenoticias
+http://fultv.me:80/yuri/12345/43526
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/hGgNkTW9/CALITV.jpg" ,CaliTV
+http://fultv.me:80/yuri/12345/43527
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Jnzvn8h0/CANAL-2.jpg" ,Canal 2
+http://fultv.me:80/yuri/12345/43531
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/63bS4P70/CANAL2-ALPAVISION.jpg" ,Canal 2 Alpavision
+http://fultv.me:80/yuri/12345/43532
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/cCKzRcwN/CANALC.jpg" ,Canal C
+http://fultv.me:80/yuri/12345/43534
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/LsH0CSLD/CAPITAL-TV.jpg" ,Canal Capital
+http://fultv.me:80/yuri/12345/43535
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/0jLBcJ0K/CANAL-INSTITUSIONAL.jpg" ,Canal Institucional TV
+http://fultv.me:80/yuri/12345/43536
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Pfc9tBnf/CANAL-TELEFAMILIA.jpg" ,Canal Telefamilia
+http://fultv.me:80/yuri/12345/43540
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Z5zQNpq1/CANAL-VISION-DORADA.jpg" ,Canal Vision Dorada
+http://fultv.me:80/yuri/12345/43544
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/8sQZhgTh/COSMOVISION.jpg" ,Cosmovision
+http://fultv.me:80/yuri/12345/43549
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/6pwXXDC2/MAS-TV.jpg" ,Mas TV
+http://fultv.me:80/yuri/12345/43555
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/02YTcch8/RCN.jpg" ,RCN Mas
+http://fultv.me:80/yuri/12345/43567
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/qvp9Y2d2/REDMAS.jpg" ,Red+
+http://fultv.me:80/yuri/12345/43568
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/3x9PHWKV/SURAN-TV.jpg" ,Suram TV
+http://fultv.me:80/yuri/12345/43570
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/MTf4RDyJ/TELEISLAS.jpg" ,Teleislas
+http://fultv.me:80/yuri/12345/43578
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/L4fw8x9z/TELEPACIFICO.jpg" ,Telepacifico
+http://fultv.me:80/yuri/12345/43580
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/j2zF3Sg8/TELE-SANJACIENTO.jpg" ,Tele San Jacinto
+http://fultv.me:80/yuri/12345/43582
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/0y5BZxpf/TV-PENOL.jpg" ,TV Penol
+http://fultv.me:80/yuri/12345/43588
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/PrwcN2dW/CANAL-UNO.jpg" ,CANAL UNO
+http://fultv.me:80/yuri/12345/46107
+#EXTINF:-1 group-title="COLOMBIA" ,TELEANTIOQUIA
+http://fultv.me:80/yuri/12345/432710
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/7hK5pMMm/AZTECA-DEP-RTES.jpg" ,MX: AZTECA DEPORTES
+http://fultv.me:80/yuri/12345/377670
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/hP4xphb2/8NTV.jpg" ,8NTV (1080p)
+http://fultv.me:80/yuri/12345/202658
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/tg6VY6p4/ADN40.jpg" ,ADN 40 (720p)
+http://fultv.me:80/yuri/12345/202661
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/GhMDNrXd/ALCANCE-TV.jpg" ,Alcance TV (720p)
+http://fultv.me:80/yuri/12345/202663
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/3xVv81Mq/AMX-NOTICIAS.jpg" ,AMX Noticias (720p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202664
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/gjzwSBRx/AZTECA-INTERNACIONAL.jpg" ,Azteca Internacional (1080p)
+http://fultv.me:80/yuri/12345/202667
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/jqcnwt0P/CALIFORNIA-MEDIOS.jpg" ,California Medios TV (720p)
+http://fultv.me:80/yuri/12345/202672
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/LXRh50xx/CANAL10-CANCUN.jpg" ,Canal 10 Cancún (720p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202679
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/7ZfzrcR7/15-TV-SABINAS.jpg" ,Canal 15 ILCE Summa Sabres (720p)
+http://fultv.me:80/yuri/12345/202693
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/BZ7Qf6fY/CANAL-44.jpg" ,Canal 44 Chihuahua (720p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202702
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/VL3f5V6X/JUSTICIA-TV.jpg" ,Justicia TV (720p)
+http://fultv.me:80/yuri/12345/202738
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/RhWmZ7xP/LAVOZ-GRUPERA.jpg" ,La Voz Grupera TV (720p)
+http://fultv.me:80/yuri/12345/202744
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/B6Ys3hkL/LOBO-TV.jpg" ,Lobo TV (720p)
+http://fultv.me:80/yuri/12345/202749
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/KcWFsHtC/MEXIQUENSE.jpg" ,Mexiquense TV (720p)
+http://fultv.me:80/yuri/12345/202755
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/hGCP4P7t/RALY-TV.jpg" ,Raly TV (720p)
+http://fultv.me:80/yuri/12345/202775
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Cxsxt4hD/RCG-TV.jpg" ,RCG TV (1080p)
+http://fultv.me:80/yuri/12345/202776
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/wv7x18hc/SIPSE-TV.jpg" ,SIPSE TV 8.1 (1080p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202785
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/HnMptwvr/TELEMAX.jpg" ,Telemax (XEWH-TDT) (1080p)
+http://fultv.me:80/yuri/12345/202793
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/wjg6hsXB/TLAXALA.jpg" ,Tlaxcala Televisión (360p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202797
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/gjzwSBRx/AZTECA-INTERNACIONAL.jpg" ,TV Azteca Noreste (Info7 Monterrey) (720p)
+http://fultv.me:80/yuri/12345/202804
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/t4k9DCkN/TV-CUATRO.jpg" ,TV Cuatro 4.1 (1080p)
+http://fultv.me:80/yuri/12345/202806
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/RhwBtMqf/TV-MAR.jpg" ,TV Mar La Paz (1080p)
+http://fultv.me:80/yuri/12345/202813
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/RhwBtMqf/TV-MAR.jpg" ,TV Mar Los Cabos (1080p)
+http://fultv.me:80/yuri/12345/202814
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/ry4c39gm/TV-NUEVOLEON28.jpg" ,TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
+http://fultv.me:80/yuri/12345/202817
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/mgLscW4z/TV-UJAT.jpg" ,TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202819
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Prkhj8FM/TVP.jpg" ,TVP Culiacán (720p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202822
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Prkhj8FM/TVP.jpg" ,TVP Mazatlán (720p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202824
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Prkhj8FM/TVP.jpg" ,TVP Obregón (720p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202825
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/CxcVkrMv/UMTV.jpg" ,UMTV (1080p) [Not 24/7]
+http://fultv.me:80/yuri/12345/202829
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/JhgVdykZ/VB-MEDIA.jpg" ,VB Media TV (1080p)
+http://fultv.me:80/yuri/12345/202832
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/brx7J3F9/VISION-TELEVISION.jpg" ,Visión Televisión (720p)
+http://fultv.me:80/yuri/12345/202835
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/pTqVTVhd/CONECTA-TV.jpg" ,Conecta TV
+http://fultv.me:80/yuri/12345/202843
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/t4jg2cjp/RTQ-QUERETARO.jpg" ,RTQ Queretaro
+http://fultv.me:80/yuri/12345/202844
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/gkD9bthY/ZAZ.jpg" ,ZAZ
+http://fultv.me:80/yuri/12345/202846
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/P5YtDQp9/ITV-DEPORTES.jpg" ,ITV Deportes
+http://fultv.me:80/yuri/12345/202847
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/DwrT0fRK/MILENIO-TELEVISION.jpg" ,Milenio Television
+http://fultv.me:80/yuri/12345/202849
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/3Jw42VY6/CANAL6-CDMX.jpg" ,Canal 6 CDMX
+http://fultv.me:80/yuri/12345/202850
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/7Z84qJsV/NAYARIT-COMUNICA.jpg" ,Nayarit Comunica
+http://fultv.me:80/yuri/12345/202851
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/TPnpRXJy/CANAL10-DUARANGO.jpg" ,Canal 10 Durango
+http://fultv.me:80/yuri/12345/202852
+#EXTINF:-1 group-title="MEXICO" ,TV AZTECA
+http://fultv.me:80/yuri/12345/496868
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/g2mSzqMq/ESPN-ARG-1.jpg" ,ESPN HD (ARG)
+http://fultv.me:80/yuri/12345/45946
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/RVzGdLz5/ESPN-CL-1.jpg" ,ESPN HD (CHI)
+http://fultv.me:80/yuri/12345/45948
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/y6Rv0rty/ESPN-COL-1.jpg" ,ESPN HD (COL)
+http://fultv.me:80/yuri/12345/109775
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/h4V1XQQC/ESPN-MEXICO-1.jpg" ,ESPN HD (MEX)
+http://fultv.me:80/yuri/12345/45967
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/cLkQpQPJ/ESPN-PERU.jpg" ,ESPN HD (PE)
+http://fultv.me:80/yuri/12345/67387
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/fRCHJtp4/ESPN-ARG-2.jpg" ,ESPN 2 HD (ARG)
+http://fultv.me:80/yuri/12345/45950
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/fTf7K3s8/ESPN-CL-2.jpg" ,ESPN 2 HD (CHI)
+http://fultv.me:80/yuri/12345/45949
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/GhJK5TcB/ESPN-COL-2.jpg" ,ESPN 2 HD (COL)
+http://fultv.me:80/yuri/12345/73511
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/sDy97fp3/ESPN-MEXICO-2.jpg" ,ESPN 2 HD (MEX)
+http://fultv.me:80/yuri/12345/45968
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/XYjLSNJs/ESPN-LATINO-3.jpg" ,ESPN 3 HD
+http://fultv.me:80/yuri/12345/69504
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/5tknmcfn/ESPN-ARG-3.jpg" ,ESPN 3 HD (ARG)
+http://fultv.me:80/yuri/12345/45952
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/qMLcLfLy/ESPN-MEXICO-3.jpg" ,ESPN 3 HD (MEX)
+http://fultv.me:80/yuri/12345/45969
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" ,ESPN 4 HD
+http://fultv.me:80/yuri/12345/69505
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/5ttsv9WX/ESPN-ARG-4.jpg" ,ESPN 4 HD ARG
+http://fultv.me:80/yuri/12345/45953
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/zGGC2dtM/ESPN-MEXICO-4.jpg" ,ESPN 4 HD MEX
+http://fultv.me:80/yuri/12345/285800
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" ,ESPN 5 HD ARG
+http://fultv.me:80/yuri/12345/109908
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" ,ESPN 5 HD
+http://fultv.me:80/yuri/12345/109909
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/prQf43tN/ESPN-MEX-5.jpg" ,ESPN 5 HD MEX
+http://fultv.me:80/yuri/12345/288309
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" ,ESPN 6 HD
+http://fultv.me:80/yuri/12345/45961
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/2yNdHrMF/ESPN-LATINO-07.jpg" ,ESPN 7 HD
+http://fultv.me:80/yuri/12345/45959
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/d378b24N/ESPN-DEPORTES.jpg" ,ESPN DEPORTES HD
+http://fultv.me:80/yuri/12345/377764
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/W3FSW93j/ESPN-ARG-PREMIUM.jpg" ,ESPN PREMIUM ARG HD
+http://fultv.me:80/yuri/12345/45955
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/JnqmwJfd/espnpremium.png" ,ESPN PREMIUM HD CHILE
+http://fultv.me:80/yuri/12345/45957
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/W3ggqxzD/FOX-SPORTS.jpg" ,FOX SPORTS ARG HD.
+http://fultv.me:80/yuri/12345/45956
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/kGySf8xq/FOX-SPORTS-2.jpg" ,FOX SPORTS 2 ARG HD
+http://fultv.me:80/yuri/12345/45958
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/Y2NQrcTZ/FOX-SPORTS-3.jpg" ,FOX SPORTS 3 ARG HD
+http://fultv.me:80/yuri/12345/45960
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" ,FOX SPORTS HD Mexico
+http://fultv.me:80/yuri/12345/375416
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" ,FOX SPORTS 2 HD Mexico
+http://fultv.me:80/yuri/12345/375417
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" ,FOX SPORTS 3 HD Mexico
+http://fultv.me:80/yuri/12345/375418
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/j594M3tk/FOX-SPORTS-MEXICOPREMIUM.jpg" ,FOX SPORTS PREMIUM Mexico
+http://fultv.me:80/yuri/12345/375414
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/3NhpX90t/FOX-DEPORTES.jpg" ,FOX DEPORTES USA
+http://fultv.me:80/yuri/12345/360245
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/GhJK5TcB/ESPN-COL-2.jpg" ,ESPN 2 SD (COL)
+http://fultv.me:80/yuri/12345/469828
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" ,ESPN 5 SD
+http://fultv.me:80/yuri/12345/469829
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/y6Rv0rty/ESPN-COL-1.jpg" ,ESPN SD (COL)
+http://fultv.me:80/yuri/12345/469831
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/2yNdHrMF/ESPN-LATINO-07.jpg" ,ESPN 7 SD
+http://fultv.me:80/yuri/12345/469832
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/cLkQpQPJ/ESPN-PERU.jpg" ,ESPN SD (PE)
+http://fultv.me:80/yuri/12345/472835
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/fTf7K3s8/ESPN-CL-2.jpg" ,ESPN 2 SD (CHI)
+http://fultv.me:80/yuri/12345/472836
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/RVzGdLz5/ESPN-CL-1.jpg" ,ESPN SD (CHI)
+http://fultv.me:80/yuri/12345/472837
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" ,ESPN 4 SD
+http://fultv.me:80/yuri/12345/472939
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" ,ESPN 6 SD
+http://fultv.me:80/yuri/12345/472940
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/TPyrfKXJ/ESPN-PREMIUM-CHILE.jpg" ,ESPN PREMIUM SD CHILE
+http://fultv.me:80/yuri/12345/472941
+#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/XYjLSNJs/ESPN-LATINO-3.jpg" ,ESPN 3 SD
+http://fultv.me:80/yuri/12345/472951
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/KYZSgLR5/ROCKY_BALBOA.png" tvg-id="2696912e-c0b9-41d7-9806-5ea2f710dc1f" ,1 ROCKY BALBOA
+http://fultv.me:80/yuri/12345/197034
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/XYn5JwR8/RAMBO.png" tvg-id="75ea8dc8-770a-46c2-80cb-f511bb24fe1f" ,2 RAMBO
+http://fultv.me:80/yuri/12345/197040
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/0j1b23jQ/rapidos_y_furiosos.png" tvg-id="3e282465-0fb4-4fcd-8d0f-1885166caf52" ,3 RAPIDOS Y FURIOSOS
+http://fultv.me:80/yuri/12345/197041
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Y08g44R4/cine_boliviano.png" tvg-id="671cc325-35fa-4ea5-a376-b05403840ef4" ,4 CINE BOLIVIANO
+http://fultv.me:80/yuri/12345/197481
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/dVTsqGv6/jurassic_park.png" tvg-id="deaa823b-fa0b-4f22-a58c-aeee156099b7" ,5 JURASSIC PARK
+http://fultv.me:80/yuri/12345/197497
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/k4GhmvPX/señor_de_los_anillos.png" tvg-id="bb9d22a5-c78e-457f-814e-ed773c5d01f4" ,6 EL SEÑOR DE LOS ANILLOS
+http://fultv.me:80/yuri/12345/197498
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/j508mw4L/volver_al_futuro.png" tvg-id="39e5f764-b9ea-43e2-931a-ccb48c03eab2" ,8 VOLVER AL FUTURO
+http://fultv.me:80/yuri/12345/197500
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/hjmZvPvH/hobbit.png" tvg-id="9f152ca3-814d-4a7b-bf37-36d7ed263ba2" ,7 HOBBIT (señor de los anillos)
+http://fultv.me:80/yuri/12345/197499
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/g0sgf6Gd/chucky.png" tvg-id="7c62e47d-0527-4e8d-b518-b5c0bde67fa5" ,9 CHUCKY
+http://fultv.me:80/yuri/12345/197969
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Ghs6YZtw/los_indestructibles.png" tvg-id="353de686-05b4-42c6-b0c3-e60309322ed1" ,10 LOS INDESTRUCTIBLES
+http://fultv.me:80/yuri/12345/197970
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/FzJdh9ZH/john_wick.png" tvg-id="9c022696-717e-4527-ace2-f100972dad49" ,11 JOHN WICK
+http://fultv.me:80/yuri/12345/197971
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/63x5CdLt/america_pie.png" tvg-id="9d5bd3c0-c40f-435a-893a-ddad3128e8b5" ,12 AMERICAN PIE
+http://fultv.me:80/yuri/12345/197972
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/NMJBfMkv/cronicas_de_narnia.png" tvg-id="15f5d6fe-c8e3-4771-8b44-72dded11010a" ,13 LAS CRONICAS DE NARNIA
+http://fultv.me:80/yuri/12345/197973
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/sDF3ySbW/karate_kid.png" tvg-id="aef0451f-131c-40fb-8358-a9825f3cfb9f" ,15 KARATE KID
+http://fultv.me:80/yuri/12345/197975
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/WbvfGLzd/piratas_del_caribe.png" tvg-id="6425efe7-bf1c-47f2-be13-2d544fba0187" ,16 PIRATAS DEL CARIBE
+http://fultv.me:80/yuri/12345/197976
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/280FVPZR/jean_claude_van_damme.png" tvg-id="da9c963c-0df3-4594-b2b8-564800f59cdd" ,17 JEAN CLAUDE VAN DAMME
+http://fultv.me:80/yuri/12345/197977
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/vTygfxqS/belica.png" tvg-id="195b08a1-6549-4ff5-8751-527de8b919c7" ,18 PELICULAS DE GUERRAS - BELICAS
+http://fultv.me:80/yuri/12345/198253
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/wMFVDHpS/viernes_13.png" tvg-id="0e6b7ef5-d4df-4a0f-9070-2b557ff70912" ,20 VIERNES 13
+http://fultv.me:80/yuri/12345/199155
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/YS8Jqc4y/peliculas_cristianas.png" tvg-id="d7a3c541-1940-4df1-9e7c-f9570dc4b435" ,19 PELICULAS CRISTIANAS
+http://fultv.me:80/yuri/12345/199154
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/ZRPKBFzK/camino_hacia_el_terrror.png" tvg-id="3a0f1446-fdaa-41b1-9d3a-490ad8608624" ,21 CAMINO HACIA EL TERROR
+http://fultv.me:80/yuri/12345/199772
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/ydR3yTM5/terminator.png" tvg-id="fb16c24d-3a76-4f82-a14b-d8b6b0116ab7" ,22 TERMINATOR
+http://fultv.me:80/yuri/12345/202639
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/qRcM7ZVk/actividad_paranormal.png" tvg-id="bb4ee8fb-cf30-4a1b-9272-8db9f938afb5" ,23 ACTIVIDAD PARANORMAL
+http://fultv.me:80/yuri/12345/202640
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/WzDFRgXP/pandemia.png" tvg-id="17e51cdb-e17a-4937-a8ce-09c4c71e86e5" ,24 PANDEMIAS
+http://fultv.me:80/yuri/12345/202641
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/W1ckR8z7/alvin_y_las_ardillas.png" tvg-id="3e2c2e4b-6339-48e5-a6c9-7202d8953e07" ,25 ALVIN Y LAS ARDILLAS
+http://fultv.me:80/yuri/12345/202642
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" tvg-id="198a9519-020d-4aec-a230-9589129bf11c" ,26 PELICULAS 2024 pt. 1
+http://fultv.me:80/yuri/12345/202857
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/VL4kDXZw/mission_imposible.png" tvg-id="9a8d2a72-a076-40a9-9a13-98c746297bf9" ,27 MISION IMPOSIBLE
+http://fultv.me:80/yuri/12345/202858
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/YCVQtmNg/halloween.png" tvg-id="ab7c59b8-9fdd-4c02-a670-1a6a126b0010" ,28 HALLOWEEN
+http://fultv.me:80/yuri/12345/202878
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JLmMDAJ8qrIKKM4BjjFDGgXdf2kyQ3GCAfpLxSroD1jR.png" tvg-id="44ce8b16-863b-4440-8595-c0953de8691e" ,29 DUENDE MALDITO - LEPRECHAUN
+http://fultv.me:80/yuri/12345/202879
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" tvg-id="f2c5a1a9-3b23-4ba5-a563-be46bf407b88" ,30 PELICULAS 2024 pt. 2
+http://fultv.me:80/yuri/12345/203001
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" tvg-id="dba35a1e-c0a0-4894-867f-1f734e63416e" ,31 PELICULAS 2024 pt.3
+http://fultv.me:80/yuri/12345/213030
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" tvg-id="5893190e-a18e-4150-a9ed-5d1efd5d701f" ,32 PELICULAS 2024 pt.4
+http://fultv.me:80/yuri/12345/213031
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/XYVZFFQD/mad_max.png" tvg-id="d71c8075-80cc-4c42-a3fa-3f9569557828" ,33 MAD MAX SAGA
+http://fultv.me:80/yuri/12345/215856
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="032c7416-d955-4587-bec9-9d932d6e2638" ,35 HARRY POTTER
+http://fultv.me:80/yuri/12345/357508
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="f1e8dbef-f651-45af-95fc-96ec09ac29fc" ,36 PELICULAS MARVEL TODAS
+http://fultv.me:80/yuri/12345/357507
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="579e02c6-684c-46f9-b388-529235835e70" ,37 FREDDY KRUGER
+http://fultv.me:80/yuri/12345/357506
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="c86aa251-4b1c-4601-a0b5-be78257dcc89" ,38 WILL SMITH
+http://fultv.me:80/yuri/12345/357505
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="9cfa9efa-ec64-43e1-9f07-6ed66ca7548c" ,39 LA INDIA MARIA
+http://fultv.me:80/yuri/12345/357510
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="5002ce73-2b13-462b-9311-2c1e06876e34" ,40 PEDRO INFANTE
+http://fultv.me:80/yuri/12345/357509
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="5cd01c62-855c-4015-9a4a-c6582e32c047" ,41 VICENTE FERNANDEZ
+http://fultv.me:80/yuri/12345/357513
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="0444523e-152b-4c03-a973-87b22909da5b" ,42 AL PACINO
+http://fultv.me:80/yuri/12345/357512
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="d37fbd11-db2f-4ec3-9970-3cbdf5d55bde" ,43 ANGELINA JOLIE
+http://fultv.me:80/yuri/12345/357511
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="3d3d1751-9e53-41f1-9378-3ca3ead51d03" ,44 ARNOLD SCHWARZENEGGER
+http://fultv.me:80/yuri/12345/357514
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="a8fcb163-e06f-4c71-b9f5-a624dc0b1d0a" ,45 CANTINFLAS
+http://fultv.me:80/yuri/12345/357520
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="b21ed468-8781-4c86-aa63-c308f177d797" ,46 JACKIE CHAN
+http://fultv.me:80/yuri/12345/357519
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="b0fe4839-ff1a-49dc-a391-ae34fc3e2e0e" ,47 JIM CARREY
+http://fultv.me:80/yuri/12345/357518
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="6ec0289d-b830-4553-8f04-d77d55881d2a" ,48 MEL GIBSON
+http://fultv.me:80/yuri/12345/357517
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="8bd8aa24-fa78-44a5-b4f7-6e298152145e" ,49 MORGAN FREEMAN
+http://fultv.me:80/yuri/12345/357516
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="7508baba-267b-47f8-beba-60191ce33b65" ,50 WILL SMITH
+http://fultv.me:80/yuri/12345/357515
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="66dc9c56-3bdf-4cf2-a617-fe47cc1773fa" ,51 INFRAMUNDO
+http://fultv.me:80/yuri/12345/359000
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/VLVDv2BR/frando.png" tvg-id="ad7d9022-7075-43d1-ba03-e91e8ca57834" ,34 FRANCO ESCAMILLA 24/7
+http://fultv.me:80/yuri/12345/216086
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/ZnPtzt1N/padre-no-hay-mas-que-uno.jpg" tvg-id="68c7a2a0-5e26-47a9-83d0-5bc7e41a28bb" ,52 Padre No Hay Mas Que Uno
+http://fultv.me:80/yuri/12345/415750
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://th.bing.com/th/id/R.26b6bd23f3281bcaed1b4377a1ee4755?rik=vcAHT1N51FYjqw&pid=ImgRaw&r=0" tvg-id="44b35270-dabf-4dcd-9ecb-74bec8547668" ,53 Adam Sandler
+http://fultv.me:80/yuri/12345/433196
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/HkFZj74D/palito-ortega-24-7.jpg" tvg-id="bff88c2f-4d3f-4df3-8047-faf020c0bfb4" ,54 palito ortega 24-7
+http://fultv.me:80/yuri/12345/457627
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="e43ad512-e240-45df-9020-b1e000ceedb9" ,55 Coleccion Peliculas Navidad 1
+http://fultv.me:80/yuri/12345/483430
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="11ece781-0766-4160-9fa6-bbd575c9b2b6" ,56 Coleccion Navidad 2
+http://fultv.me:80/yuri/12345/483431
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="05949b8b-977e-437d-a938-7b652942f199" ,57 Coleccion Navidad 3
+http://fultv.me:80/yuri/12345/483432
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="beef9642-c5f9-4734-8236-6921c0e42a7a" ,58 Coleccion Navidad 4
+http://fultv.me:80/yuri/12345/483433
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="9931d16e-8918-45b7-b9fd-7d897e64010a" ,59 Coleccion Navidad 5
+http://fultv.me:80/yuri/12345/483434
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/rFc9JgPM/beethoven.jpg" tvg-id="60d72252-c60b-4a5c-b3a8-e7c4477a70db" ,60 Beethoven
+http://fultv.me:80/yuri/12345/485058
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/W1ckR8z7/alvin-y-las-ardillas.png" tvg-id="29c8f972-c77c-40c8-a8de-e67e493477ef" ,61 Alvin y las ardillas
+http://fultv.me:80/yuri/12345/487728
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/2ygxGqHd/depredador-24-7.jpg" tvg-id="43121911-d465-4878-a623-7f2139574e4b" ,62 Depredador peliculas 24-7
+http://fultv.me:80/yuri/12345/489252
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/C1pjtTYD/spy-kids-24-7.jpg" tvg-id="b775af69-89aa-4ee0-9141-75a45b1bfbac" ,63 Spy kids- mini espias peliculas 24-7
+http://fultv.me:80/yuri/12345/489340
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/NFNMTVxZ/peliculas-de-superman-24-7.jpg" tvg-id="65bae094-408f-4920-88f1-324fb8e1409f" ,64 superman peliculas 24-7
+http://fultv.me:80/yuri/12345/489344
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.pinimg.com/originals/55/6f/b2/556fb27ed44f1211e0f5ba6a89770d68.jpg" tvg-id="8337bed7-5726-4b92-a468-8337bbde0fb2" ,65 El Conjuro Orden Cronologico
+http://fultv.me:80/yuri/12345/497106
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w400/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" tvg-id="0e435df7-0215-4df6-8bbc-8602770fb34c" ,66 Destino Final
+http://fultv.me:80/yuri/12345/498149
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w400/nzVkXj1IX0BNoYzpTVogtkcCStf.jpg" tvg-id="2626b008-3dc1-49aa-8931-3efd0faaa84f" ,67 SAW
+http://fultv.me:80/yuri/12345/498395
+#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/4N4kz7BZ/culpa-mia.jpg" tvg-id="74170017-7b82-45f3-973d-ab04c1ffcc00" ,68 Trilogia Culpa mia
+http://fultv.me:80/yuri/12345/502324
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" tvg-id="05911910-0e35-4cc9-a795-b17d9f89b9fd" ,UFC TEM 23 PARTE 1
+http://fultv.me:80/yuri/12345/446453
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" tvg-id="407e601f-72c6-43bf-8b94-1c92b707985e" ,UFC TEM 23 PARTE 2
+http://fultv.me:80/yuri/12345/447329
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" tvg-id="4bdb8224-3e2e-4ce7-8f71-2ed572933827" ,UFC TEM 24 PARTE 1
+http://fultv.me:80/yuri/12345/448503
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" tvg-id="ccc6339c-73ed-4028-acde-87b66e035516" ,UFC TEM 24 PARTE 2
+http://fultv.me:80/yuri/12345/448506
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/s2BYvd9j/navidad.png" tvg-id="cee1dd4f-d71e-44e5-9a06-4224373be5bb" ,PELICULAS DE NAVIDAD 3
+http://fultv.me:80/yuri/12345/347897
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/s2BYvd9j/navidad.png" tvg-id="86875226-9b6d-47e6-a56f-2840b784c318" ,PELICULAS DE NAVIDAD 2
+http://fultv.me:80/yuri/12345/347898
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/s2BYvd9j/navidad.png" tvg-id="d6de0a32-d6c0-4f4b-a827-c798fa7f60ad" ,PELICULAS DE NAVIDAD 1
+http://fultv.me:80/yuri/12345/347896
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JHHqj6ZttKLjVCwib34cz_CIO524kL2azyPPjmSvJHdt.jpg" tvg-id="1ba5517e-c422-4cf4-b7a0-d202d2e4f732" ,NETFLIX HD
+http://fultv.me:80/yuri/12345/109778
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="39b94e78-912f-465b-92bb-b178cfb8980b" ,TERROR 1
+http://fultv.me:80/yuri/12345/202853
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="12d8517b-118b-4738-9c2b-41ce1e318bc3" ,TERROR 2
+http://fultv.me:80/yuri/12345/202854
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="6471f003-d6f3-4096-8fa2-2d6fd08f110f" ,TERROR 3
+http://fultv.me:80/yuri/12345/202855
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="6908ddb8-eef2-458a-8f7b-26f2cf2a77a1" ,TERROR 4
+http://fultv.me:80/yuri/12345/202884
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="749d3033-7e0a-4f3d-b47e-136b61e9b4a3" ,TERROR 5
+http://fultv.me:80/yuri/12345/202885
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="2944c4ba-9ee1-41b5-86b4-67e7939fe791" ,ACCION 1
+http://fultv.me:80/yuri/12345/202900
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="91419508-3460-4395-997a-af6230531210" ,ACCION 2
+http://fultv.me:80/yuri/12345/202901
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="ce66759e-2723-496d-a01a-44d74a0a8ffc" ,ACCION 3
+http://fultv.me:80/yuri/12345/202902
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="87a0cdc2-f417-4bf1-a7a2-5a17f5aa1e39" ,ACCION 4
+http://fultv.me:80/yuri/12345/202903
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="81e4886a-3233-448e-974c-ba724b1c3173" ,ACCION 5
+http://fultv.me:80/yuri/12345/202904
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="6fd252b4-8520-4106-b962-4f8dc052220f" ,COMEDIAS 1
+http://fultv.me:80/yuri/12345/202976
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="71116ad4-8956-475c-9f7e-e323d518a34f" ,COMEDIAS 2
+http://fultv.me:80/yuri/12345/202977
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="070bf381-c263-4e9b-b8f6-b7c65b3fb51a" ,COMEDIAS 3
+http://fultv.me:80/yuri/12345/203024
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="d6fb6965-75bf-47ed-aa78-670d89043751" ,COMEDIAS 4
+http://fultv.me:80/yuri/12345/203025
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="fe5a28eb-4356-495b-98cf-7a42996e1071" ,COMEDIAS 5
+http://fultv.me:80/yuri/12345/203026
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/jdnCZcff/images.jpg" tvg-id="13e99420-d285-4d26-907a-d09ae9cc9721" ,Peliculas Biblicas Parte 1
+http://fultv.me:80/yuri/12345/469330
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="60b9b5bf-67ce-4cb9-a737-11502221f195" ,HboMax 1
+http://fultv.me:80/yuri/12345/479302
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="b50eebc6-b7d7-4c2f-9172-22bf4784fd77" ,HboMax 2
+http://fultv.me:80/yuri/12345/479304
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="e5365c86-4908-46eb-bb1c-3c9320bce8f1" ,HboMax 3
+http://fultv.me:80/yuri/12345/479307
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="27c2dc58-00a9-4b5e-b935-a2b1978d2268" ,HboMax 4
+http://fultv.me:80/yuri/12345/479376
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="db23f4b0-3054-4c64-9e69-70de19592c98" ,HboMax 5
+http://fultv.me:80/yuri/12345/479397
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="3a4e1bc6-7e38-4d2f-9841-416e02a090ea" ,Vix 1
+http://fultv.me:80/yuri/12345/480231
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="7bd499c3-98ca-422e-a8fc-664c6d8f29b0" ,Vix 2
+http://fultv.me:80/yuri/12345/485056
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="6bb68b0f-6d91-4d96-b82d-017713d8dea5" ,Vix 3
+http://fultv.me:80/yuri/12345/485055
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="b227f910-0723-4fa3-9772-f025b5453f21" ,Vix 4
+http://fultv.me:80/yuri/12345/485054
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="76027f12-b2da-474e-9ba2-b8312a26ec06" ,Vix 5
+http://fultv.me:80/yuri/12345/485053
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/mDdPMt3M/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="3515eb1c-1eff-4d06-b925-43033740b7a5" ,Netflix 1
+http://fultv.me:80/yuri/12345/485654
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/mDdPMt3M/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="71f478ce-2f28-4b60-ad9f-3ab1ce0ba0c3" ,Netflix 2
+http://fultv.me:80/yuri/12345/485655
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/mDdPMt3M/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="0a283b99-a5ca-4f06-8f6e-998431669c7c" ,Netflix 3
+http://fultv.me:80/yuri/12345/485656
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/PxZDwmf7/Captura-de-pantalla-2025-09-02-080521.png" tvg-id="90932556-db5f-4d55-b079-b1441ccfa9c9" ,Disney 1
+http://fultv.me:80/yuri/12345/485657
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/GtxW91Sm/Captura-de-pantalla-2025-09-02-080521.png" tvg-id="cf95ae38-7ec0-483e-8356-d12d0ff9dd60" ,Disney 2
+http://fultv.me:80/yuri/12345/495518
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/GtxW91Sm/Captura-de-pantalla-2025-09-02-080521.png" tvg-id="44475ae4-56e4-44d8-86ec-cd9169470ff5" ,Disney 3
+http://fultv.me:80/yuri/12345/495519
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/6Q7TZHKX/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="e5c46e6d-843a-417a-99a6-7affb082dd4b" ,Netflix 4
+http://fultv.me:80/yuri/12345/495520
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/6Q7TZHKX/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="574fc72f-5092-4993-afaa-59b960aa5d28" ,Netflix 5
+http://fultv.me:80/yuri/12345/496825
+#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/7YXpmgGs/Captura-de-pantalla-2025-09-30-211848.png" tvg-id="70c124d1-ba18-4e31-ae14-a6765ee68f9a" ,Peliculas 1
+http://fultv.me:80/yuri/12345/496826
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/9098Mx51/DAZN-F1.jpg" ,DAZN F1
+http://fultv.me:80/yuri/12345/375422
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" ,DAZN 1 HD
+http://fultv.me:80/yuri/12345/375419
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/Bb8Vm1D4/DAZN-LIGA-2.jpg" ,DAZN 2 HD
+http://fultv.me:80/yuri/12345/375420
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" ,DAZN 3
+http://fultv.me:80/yuri/12345/409330
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" ,DAZN 4
+http://fultv.me:80/yuri/12345/409331
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/Bb8Vm1D4/DAZN-LIGA-2.jpg" ,DAZN LA LIGA
+http://fultv.me:80/yuri/12345/409332
+#EXTINF:-1 group-title="DAZN EVENTOS" ,DAZN COMBAT
+http://fultv.me:80/yuri/12345/484630
+
+
 
 #EXTINF:0,INFORMACION
 #EXTGRP:BOTYTV
