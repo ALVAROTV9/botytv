@@ -1,390 +1,149 @@
 #EXTM3U
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 1 HD
-http://fultv.me:80/yuri/12345/9369
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 1 SD
-http://fultv.me:80/yuri/12345/9372
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 1 H264
-http://fultv.me:80/yuri/12345/484151
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 2 HD
-http://fultv.me:80/yuri/12345/380829
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 2 SD
-http://fultv.me:80/yuri/12345/380830
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 3 HD (Evento Triple)
-http://fultv.me:80/yuri/12345/488581
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/jjz4Sfqp/FUTBOL-CANAL.jpg" ,FUTBOL CANAL 3 SD (Evento Triple)
-http://fultv.me:80/yuri/12345/498570
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" ,T1GO 1 HD
-http://fultv.me:80/yuri/12345/277732
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/4yHMcft6/TIGO-SPORTS-1-BO.jpg" ,T1GO 1 SD
-http://fultv.me:80/yuri/12345/493187
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" ,T1GO 2 HD
-http://fultv.me:80/yuri/12345/490968
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/NMzSL9yG/TIGO-SPORTS-2-BO.jpg" ,T1GO 2 SD
-http://fultv.me:80/yuri/12345/492588
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/sfBDm54c/TNT-SPORT-ARGENTINA.jpg" ,TNT SPORTS PREMIUM HD ARG
-http://fultv.me:80/yuri/12345/45962
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/QNRNyV6r/TNT-SPORT-CHILE.jpg" ,TNT SPORTS PREMIUM HD CHILE
-http://fultv.me:80/yuri/12345/46516
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/QNRNyV6r/TNT-SPORT-CHILE.jpg" ,TNT SPORTS CHILE
-http://fultv.me:80/yuri/12345/375387
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/43NX9c3p/TYC-SPORTS.jpg" ,TYC SPORTS HD ARG
-http://fultv.me:80/yuri/12345/45963
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/43NX9c3p/TYC-SPORTS.jpg" ,TYC SPORTS HD INTERNACIONAL
-http://fultv.me:80/yuri/12345/46520
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/05KHcNMm/DIRECTV-1.jpg" ,D SPORTS HD (Arg)
-http://fultv.me:80/yuri/12345/373328
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/k4zYq0ZB/DIRECTV-2.jpg" ,D SPORTS 2 HD (Arg)
-http://fultv.me:80/yuri/12345/45943
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/BQW7yGHz/DIRECTV-MAS.jpg" ,D SPORTS + HD (Arg)
-http://fultv.me:80/yuri/12345/45942
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/LsQpN0K3/DIRECTV-EVENTOS.png" ,D SPORTS HD (Peru)
-http://fultv.me:80/yuri/12345/362017
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/3xZKN13K/WIN-SPORTS.jpg" ,WIN SPORTS HD
-http://fultv.me:80/yuri/12345/46117
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/VNGmBNSp/WIN-SPORTS-MAS.jpg" ,WIN SPORTS + HD
-http://fultv.me:80/yuri/12345/46119
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MKy3JrYp/ECDF.jpg" ,EL CANAL DEL FUTBOL HD (Ecuador) ECDF
-http://fultv.me:80/yuri/12345/46602
-#EXTINF:-1 group-title="DEPORTES" ,EL CANAL DEL FUTBOL - ECDF SD
-http://fultv.me:80/yuri/12345/492589
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MT2jwt5z/MOVISTAR-DEPORTES.jpg" ,MOVISTAR DEPORTES
-http://fultv.me:80/yuri/12345/46591
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/m2bChXsD/GOLPERU.jpg" ,GOL PERU
-http://fultv.me:80/yuri/12345/46590
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/3xNGFkWQ/GOLTV.jpg" ,GOL TV HD
-http://fultv.me:80/yuri/12345/46601
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/KY9sskD7/CLARO-SPORTS.jpg" ,CLARO SPORTS HD
-http://fultv.me:80/yuri/12345/109785
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/dVjfrS7x/CLARO-SPORTS-2.jpg" ,CLARO SPORTS 2 HD
-http://fultv.me:80/yuri/12345/109786
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/C119FHx6/TIGO-HONDURAS.jpg" ,T1GO HD HONDURAS
-http://fultv.me:80/yuri/12345/288310
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Kvv3m1P3/BEIN-SPORTS.jpg" ,be iN SPORTS ES HD
-http://fultv.me:80/yuri/12345/45976
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cLSjKNJ3/BEINSPORTS-LIGA.jpg" ,BEIN SPORTS Ñ
-http://fultv.me:80/yuri/12345/360303
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/cLSjKNJ3/BEINSPORTS-LIGA.jpg" ,BEIN SPORTS XTRA Ñ
-http://fultv.me:80/yuri/12345/381561
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/qvK3XB5n/UFC-PASS.jpg" ,UFC FIGHT PASS
-http://fultv.me:80/yuri/12345/49002
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/k57kHd3C/TD.jpg" ,TD+HD
-http://fultv.me:80/yuri/12345/288530
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/TPQZMHfD/TD-2.jpg" ,TD+2 HD
-http://fultv.me:80/yuri/12345/288531
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/5tnN8ZbL/LIGA-1-PERU.jpg" ,LIGA 1 Peru
-http://fultv.me:80/yuri/12345/375423
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/pddX7LSQ/LIGA-1-MAX.jpg" ,LIGA 1 MAX
-http://fultv.me:80/yuri/12345/278040
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Vv9BD4HX/tubi.png" ,TUBI (Solo Eventos)
-http://fultv.me:80/yuri/12345/381015
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" ,TUDN MEXICO HD
-http://fultv.me:80/yuri/12345/360304
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" ,TUDN DEPORTES USA HD
-http://fultv.me:80/yuri/12345/409328
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" ,TUDN
-http://fultv.me:80/yuri/12345/409329
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/J4Z7VmgH/TUDN.jpg" ,TUDN    Opc 2
-http://fultv.me:80/yuri/12345/420239
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/7hfLWBw9/SKY-SPORTLALIGA.jpg" ,SKY SPORTS LA LIGA
-http://fultv.me:80/yuri/12345/381563
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/7hfLWBw9/SKY-SPORTLALIGA.jpg" ,SKY SPORTS (Bundesliga)
-http://fultv.me:80/yuri/12345/381564
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/YqbgF6rx/ITV-DEPORTES.jpg" ,- ITV DEPORTES
-http://fultv.me:80/yuri/12345/277309
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MTMZ6rqv/CNBC.jpg" ,CNBC
-http://fultv.me:80/yuri/12345/288528
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/C119FHx6/TIGO-HONDURAS.jpg" ,TIGO SPORTS GUATEMALA
-http://fultv.me:80/yuri/12345/362974
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/8zLS3H7R/NHL-NETWORK.jpg" ,NHL NETWORK
-http://fultv.me:80/yuri/12345/363007
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/HnJGt4G7/REDBULL-TV.jpg" ,RED BULL TV
-http://fultv.me:80/yuri/12345/282695
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/bYMfwMb0/REAL-MADRI-TV.jpg" ,REAL MADRID TV
-http://fultv.me:80/yuri/12345/197509
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Mpqyn1cW/LATIN-SPORTS.jpg" ,LATIN AMERICA SPORT
-http://fultv.me:80/yuri/12345/288537
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/vTwT35xd/AYM-SPORTS.jpg" ,AYM SPORTS TV
-http://fultv.me:80/yuri/12345/373845
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/T3fkBSvK/COMBA-TV.jpg" ,COMBATV
-http://fultv.me:80/yuri/12345/373846
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/tRWBryn3/GOLF-CHANEL.jpg" ,GOLF CHANNEL
-http://fultv.me:80/yuri/12345/285794
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://icomplay.net:80/images/EFuEEgW5Z2mGowqQ2iBbinr7ptvcb9dmVQj1lGOt7hkJI1rmpfjPQX0GLRPfDp9JMVWfoIeNd54MivOno20gEZqJuEhA_WrJOkhH3ilMTgShVFcXysLSx5h5BTI5XjDLNe8FHPcvoULuw0ECtWzF4NGk535iHChMex2I5Hk1xBQ.png" ,_ TENNIS CHANNEL
-http://fultv.me:80/yuri/12345/375385
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/Z5GcPMY7/VIA-X.jpg" ,VIA X SPORTS
-http://fultv.me:80/yuri/12345/373838
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/5NMtJWhs/CALIENTE-TV.jpg" ,CALIENTE TV HD Mexico
-http://fultv.me:80/yuri/12345/375415
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/N0xQ2ZjD/descarga.jpg" ,ONETORO-TV
-http://fultv.me:80/yuri/12345/467892
-#EXTINF:-1 group-title="DEPORTES" ,SKY SPORTS
-http://fultv.me:80/yuri/12345/479331
-#EXTINF:-1 group-title="DEPORTES" ,FUTV
-http://fultv.me:80/yuri/12345/488691
-#EXTINF:-1 group-title="DEPORTES" ,AYM
-http://fultv.me:80/yuri/12345/493184
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/W3p91gQc/ZAPPING-SPORTS.png" ,ZAPPING SPORTS ECUADOR (Solo Eventos)
-http://fultv.me:80/yuri/12345/496058
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/905F9t7M/ANIMAL-PLANET.jpg" ,ANIMAL Planet HD
-http://fultv.me:80/yuri/12345/45982
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/G3VpwRgR/Discoveri-Espa-ol.jpg" ,DISCOVERY CHANNEL HD
-http://fultv.me:80/yuri/12345/45984
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/BQfXPsTg/NATIONAL-GEOGRAPHIA.jpg" ,NAT GEO HD
-http://fultv.me:80/yuri/12345/45985
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/wjVydPsk/H-H-DISCOVERY.jpg" ,DISCOVERY H&H HD
-http://fultv.me:80/yuri/12345/45986
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/Hk4WyyYW/DISCOVERY-ID.jpg" ,DISCOVERY ID HD
-http://fultv.me:80/yuri/12345/45987
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/pLtXrZt1/DISCOVERY-CIENCIA.jpg" ,DISCOVERY SCIENCE
-http://fultv.me:80/yuri/12345/45988
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/pT7PHQZC/DISCOVERY-THEATER.jpg" ,DISCOVERY THEATHER HD
-http://fultv.me:80/yuri/12345/45989
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/GtydhBgC/DISCOVERY-TURBO.jpg" ,DISCOVERY TURBO
-http://fultv.me:80/yuri/12345/45990
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/5jW1HxDF/DISCOVERY-WORLD.jpg" ,DISCOVERY WORLD HD
-http://fultv.me:80/yuri/12345/45991
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/hPVQ2hD6/ENTERMAINMENT.jpg" ,E! Entertainment
-http://fultv.me:80/yuri/12345/45993
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/7ZDGdDb6/FOOD-NTWORK.jpg" ,Food Network HD
-http://fultv.me:80/yuri/12345/45996
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/xjJzbtW0/EL-GOURTMET.jpg" ,GOURMET HD
-http://fultv.me:80/yuri/12345/45997
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/pdcmmFCh/HISTORY.jpg" ,History HD
-http://fultv.me:80/yuri/12345/46000
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/k4VBKgYj/HISTORY-2.jpg" ,History 2 HD
-http://fultv.me:80/yuri/12345/46001
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/9MvzpHvc/LOVE-NATURE.jpg" ,LOVE NATURE HD
-http://fultv.me:80/yuri/12345/46004
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/mrnrLGZ7/TRU-TV.jpg" ,truTV HD
-http://fultv.me:80/yuri/12345/46005
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/0NjQ1Nv8/TLC.jpg" ,TLC HD
-http://fultv.me:80/yuri/12345/46008
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/3rsDj2T2/FILME-Y-ART.jpg" ,FILM & ARTS HD
-http://fultv.me:80/yuri/12345/45994
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/4xBd09rL/SUN.jpg" ,SUN CHANNEL HD
-http://fultv.me:80/yuri/12345/110549
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/R0Z3CR7x/HGTV.jpg" ,HOME GARDEN
-http://fultv.me:80/yuri/12345/285795
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/htSvMr3Q/STAR-TV-HD.jpg" ,STAR TVE HD
-http://fultv.me:80/yuri/12345/285796
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/d32Qjk29/CLIC.jpg" ,AZ CLICK HD
-http://fultv.me:80/yuri/12345/285797
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/m29gTnKH/CONCERT.jpg" ,CONCERT CHANNEL
-http://fultv.me:80/yuri/12345/288458
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/3NmNfbTm/MAS-CHIC.jpg" ,MAS CHIC
-http://fultv.me:80/yuri/12345/288529
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/FFLYK1Lz/MUNDOVISION.jpg" ,MUNDO VISION TV
-http://fultv.me:80/yuri/12345/373847
-#EXTINF:-1 group-title="CULTURA-DOCUMENTALES" tvg-logo="https://i.postimg.cc/rFGzSbgL/NAT-WILD.jpg" ,NAT GEO WILD
-http://fultv.me:80/yuri/12345/375411
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/FRzCvxPJ/CARACOL-TV.jpg" ,CARACOL HD.
-http://fultv.me:80/yuri/12345/46108
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/FsXty2WW/RCN.jpg" ,RCN HD
-http://fultv.me:80/yuri/12345/46112
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/L4fw8x9z/TELEPACIFICO.jpg" ,TELEPACIFICO
-http://fultv.me:80/yuri/12345/46116
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/g0J1cdjJ/SE-AL-COLOMBIA.jpg" ,Señal Colombia
-http://fultv.me:80/yuri/12345/42644
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/g0J1cdjJ/SE-AL-COLOMBIA.jpg" ,SEÑAL COLOMBIA
-http://fultv.me:80/yuri/12345/46115
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/VNR2mvm2/ATV-COLOMBIA.jpg" ,ATV
-http://fultv.me:80/yuri/12345/43523
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/hjYyt7wZ/CLABLENOTICIAS.jpg" ,Cablenoticias
-http://fultv.me:80/yuri/12345/43526
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/hGgNkTW9/CALITV.jpg" ,CaliTV
-http://fultv.me:80/yuri/12345/43527
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Jnzvn8h0/CANAL-2.jpg" ,Canal 2
-http://fultv.me:80/yuri/12345/43531
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/63bS4P70/CANAL2-ALPAVISION.jpg" ,Canal 2 Alpavision
-http://fultv.me:80/yuri/12345/43532
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/cCKzRcwN/CANALC.jpg" ,Canal C
-http://fultv.me:80/yuri/12345/43534
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/LsH0CSLD/CAPITAL-TV.jpg" ,Canal Capital
-http://fultv.me:80/yuri/12345/43535
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/0jLBcJ0K/CANAL-INSTITUSIONAL.jpg" ,Canal Institucional TV
-http://fultv.me:80/yuri/12345/43536
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Pfc9tBnf/CANAL-TELEFAMILIA.jpg" ,Canal Telefamilia
-http://fultv.me:80/yuri/12345/43540
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Z5zQNpq1/CANAL-VISION-DORADA.jpg" ,Canal Vision Dorada
-http://fultv.me:80/yuri/12345/43544
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/8sQZhgTh/COSMOVISION.jpg" ,Cosmovision
-http://fultv.me:80/yuri/12345/43549
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/6pwXXDC2/MAS-TV.jpg" ,Mas TV
-http://fultv.me:80/yuri/12345/43555
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/02YTcch8/RCN.jpg" ,RCN Mas
-http://fultv.me:80/yuri/12345/43567
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/qvp9Y2d2/REDMAS.jpg" ,Red+
-http://fultv.me:80/yuri/12345/43568
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/3x9PHWKV/SURAN-TV.jpg" ,Suram TV
-http://fultv.me:80/yuri/12345/43570
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/MTf4RDyJ/TELEISLAS.jpg" ,Teleislas
-http://fultv.me:80/yuri/12345/43578
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/L4fw8x9z/TELEPACIFICO.jpg" ,Telepacifico
-http://fultv.me:80/yuri/12345/43580
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/j2zF3Sg8/TELE-SANJACIENTO.jpg" ,Tele San Jacinto
-http://fultv.me:80/yuri/12345/43582
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/0y5BZxpf/TV-PENOL.jpg" ,TV Penol
-http://fultv.me:80/yuri/12345/43588
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/PrwcN2dW/CANAL-UNO.jpg" ,CANAL UNO
-http://fultv.me:80/yuri/12345/46107
-#EXTINF:-1 group-title="COLOMBIA" ,TELEANTIOQUIA
-http://fultv.me:80/yuri/12345/432710
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/7hK5pMMm/AZTECA-DEP-RTES.jpg" ,MX: AZTECA DEPORTES
-http://fultv.me:80/yuri/12345/377670
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/hP4xphb2/8NTV.jpg" ,8NTV (1080p)
-http://fultv.me:80/yuri/12345/202658
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/tg6VY6p4/ADN40.jpg" ,ADN 40 (720p)
-http://fultv.me:80/yuri/12345/202661
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/GhMDNrXd/ALCANCE-TV.jpg" ,Alcance TV (720p)
-http://fultv.me:80/yuri/12345/202663
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/3xVv81Mq/AMX-NOTICIAS.jpg" ,AMX Noticias (720p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202664
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/gjzwSBRx/AZTECA-INTERNACIONAL.jpg" ,Azteca Internacional (1080p)
-http://fultv.me:80/yuri/12345/202667
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/jqcnwt0P/CALIFORNIA-MEDIOS.jpg" ,California Medios TV (720p)
-http://fultv.me:80/yuri/12345/202672
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/LXRh50xx/CANAL10-CANCUN.jpg" ,Canal 10 Cancún (720p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202679
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/7ZfzrcR7/15-TV-SABINAS.jpg" ,Canal 15 ILCE Summa Sabres (720p)
-http://fultv.me:80/yuri/12345/202693
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/BZ7Qf6fY/CANAL-44.jpg" ,Canal 44 Chihuahua (720p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202702
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/VL3f5V6X/JUSTICIA-TV.jpg" ,Justicia TV (720p)
-http://fultv.me:80/yuri/12345/202738
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/RhWmZ7xP/LAVOZ-GRUPERA.jpg" ,La Voz Grupera TV (720p)
-http://fultv.me:80/yuri/12345/202744
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/B6Ys3hkL/LOBO-TV.jpg" ,Lobo TV (720p)
-http://fultv.me:80/yuri/12345/202749
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/KcWFsHtC/MEXIQUENSE.jpg" ,Mexiquense TV (720p)
-http://fultv.me:80/yuri/12345/202755
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/hGCP4P7t/RALY-TV.jpg" ,Raly TV (720p)
-http://fultv.me:80/yuri/12345/202775
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Cxsxt4hD/RCG-TV.jpg" ,RCG TV (1080p)
-http://fultv.me:80/yuri/12345/202776
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/wv7x18hc/SIPSE-TV.jpg" ,SIPSE TV 8.1 (1080p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202785
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/HnMptwvr/TELEMAX.jpg" ,Telemax (XEWH-TDT) (1080p)
-http://fultv.me:80/yuri/12345/202793
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/wjg6hsXB/TLAXALA.jpg" ,Tlaxcala Televisión (360p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202797
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/gjzwSBRx/AZTECA-INTERNACIONAL.jpg" ,TV Azteca Noreste (Info7 Monterrey) (720p)
-http://fultv.me:80/yuri/12345/202804
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/t4k9DCkN/TV-CUATRO.jpg" ,TV Cuatro 4.1 (1080p)
-http://fultv.me:80/yuri/12345/202806
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/RhwBtMqf/TV-MAR.jpg" ,TV Mar La Paz (1080p)
-http://fultv.me:80/yuri/12345/202813
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/RhwBtMqf/TV-MAR.jpg" ,TV Mar Los Cabos (1080p)
-http://fultv.me:80/yuri/12345/202814
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/ry4c39gm/TV-NUEVOLEON28.jpg" ,TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
-http://fultv.me:80/yuri/12345/202817
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/mgLscW4z/TV-UJAT.jpg" ,TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202819
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Prkhj8FM/TVP.jpg" ,TVP Culiacán (720p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202822
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Prkhj8FM/TVP.jpg" ,TVP Mazatlán (720p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202824
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/Prkhj8FM/TVP.jpg" ,TVP Obregón (720p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202825
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/CxcVkrMv/UMTV.jpg" ,UMTV (1080p) [Not 24/7]
-http://fultv.me:80/yuri/12345/202829
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/JhgVdykZ/VB-MEDIA.jpg" ,VB Media TV (1080p)
-http://fultv.me:80/yuri/12345/202832
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/brx7J3F9/VISION-TELEVISION.jpg" ,Visión Televisión (720p)
-http://fultv.me:80/yuri/12345/202835
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/pTqVTVhd/CONECTA-TV.jpg" ,Conecta TV
-http://fultv.me:80/yuri/12345/202843
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/t4jg2cjp/RTQ-QUERETARO.jpg" ,RTQ Queretaro
-http://fultv.me:80/yuri/12345/202844
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/gkD9bthY/ZAZ.jpg" ,ZAZ
-http://fultv.me:80/yuri/12345/202846
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/P5YtDQp9/ITV-DEPORTES.jpg" ,ITV Deportes
-http://fultv.me:80/yuri/12345/202847
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/DwrT0fRK/MILENIO-TELEVISION.jpg" ,Milenio Television
-http://fultv.me:80/yuri/12345/202849
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/3Jw42VY6/CANAL6-CDMX.jpg" ,Canal 6 CDMX
-http://fultv.me:80/yuri/12345/202850
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/7Z84qJsV/NAYARIT-COMUNICA.jpg" ,Nayarit Comunica
-http://fultv.me:80/yuri/12345/202851
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/TPnpRXJy/CANAL10-DUARANGO.jpg" ,Canal 10 Durango
-http://fultv.me:80/yuri/12345/202852
-#EXTINF:-1 group-title="MEXICO" ,TV AZTECA
-http://fultv.me:80/yuri/12345/496868
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/g2mSzqMq/ESPN-ARG-1.jpg" ,ESPN HD (ARG)
-http://fultv.me:80/yuri/12345/45946
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/RVzGdLz5/ESPN-CL-1.jpg" ,ESPN HD (CHI)
-http://fultv.me:80/yuri/12345/45948
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/y6Rv0rty/ESPN-COL-1.jpg" ,ESPN HD (COL)
-http://fultv.me:80/yuri/12345/109775
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/h4V1XQQC/ESPN-MEXICO-1.jpg" ,ESPN HD (MEX)
-http://fultv.me:80/yuri/12345/45967
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/cLkQpQPJ/ESPN-PERU.jpg" ,ESPN HD (PE)
-http://fultv.me:80/yuri/12345/67387
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/fRCHJtp4/ESPN-ARG-2.jpg" ,ESPN 2 HD (ARG)
-http://fultv.me:80/yuri/12345/45950
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/fTf7K3s8/ESPN-CL-2.jpg" ,ESPN 2 HD (CHI)
-http://fultv.me:80/yuri/12345/45949
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/GhJK5TcB/ESPN-COL-2.jpg" ,ESPN 2 HD (COL)
-http://fultv.me:80/yuri/12345/73511
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/sDy97fp3/ESPN-MEXICO-2.jpg" ,ESPN 2 HD (MEX)
-http://fultv.me:80/yuri/12345/45968
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/XYjLSNJs/ESPN-LATINO-3.jpg" ,ESPN 3 HD
-http://fultv.me:80/yuri/12345/69504
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/5tknmcfn/ESPN-ARG-3.jpg" ,ESPN 3 HD (ARG)
-http://fultv.me:80/yuri/12345/45952
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/qMLcLfLy/ESPN-MEXICO-3.jpg" ,ESPN 3 HD (MEX)
-http://fultv.me:80/yuri/12345/45969
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" ,ESPN 4 HD
-http://fultv.me:80/yuri/12345/69505
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/5ttsv9WX/ESPN-ARG-4.jpg" ,ESPN 4 HD ARG
-http://fultv.me:80/yuri/12345/45953
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/zGGC2dtM/ESPN-MEXICO-4.jpg" ,ESPN 4 HD MEX
-http://fultv.me:80/yuri/12345/285800
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" ,ESPN 5 HD ARG
-http://fultv.me:80/yuri/12345/109908
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" ,ESPN 5 HD
-http://fultv.me:80/yuri/12345/109909
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/prQf43tN/ESPN-MEX-5.jpg" ,ESPN 5 HD MEX
-http://fultv.me:80/yuri/12345/288309
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" ,ESPN 6 HD
-http://fultv.me:80/yuri/12345/45961
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/2yNdHrMF/ESPN-LATINO-07.jpg" ,ESPN 7 HD
-http://fultv.me:80/yuri/12345/45959
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/d378b24N/ESPN-DEPORTES.jpg" ,ESPN DEPORTES HD
-http://fultv.me:80/yuri/12345/377764
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/W3FSW93j/ESPN-ARG-PREMIUM.jpg" ,ESPN PREMIUM ARG HD
-http://fultv.me:80/yuri/12345/45955
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/JnqmwJfd/espnpremium.png" ,ESPN PREMIUM HD CHILE
-http://fultv.me:80/yuri/12345/45957
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/W3ggqxzD/FOX-SPORTS.jpg" ,FOX SPORTS ARG HD.
-http://fultv.me:80/yuri/12345/45956
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/kGySf8xq/FOX-SPORTS-2.jpg" ,FOX SPORTS 2 ARG HD
-http://fultv.me:80/yuri/12345/45958
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/Y2NQrcTZ/FOX-SPORTS-3.jpg" ,FOX SPORTS 3 ARG HD
-http://fultv.me:80/yuri/12345/45960
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" ,FOX SPORTS HD Mexico
-http://fultv.me:80/yuri/12345/375416
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" ,FOX SPORTS 2 HD Mexico
-http://fultv.me:80/yuri/12345/375417
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/6q2tNgrJ/FOX-SPORTS-MEXICO.jpg" ,FOX SPORTS 3 HD Mexico
-http://fultv.me:80/yuri/12345/375418
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/j594M3tk/FOX-SPORTS-MEXICOPREMIUM.jpg" ,FOX SPORTS PREMIUM Mexico
-http://fultv.me:80/yuri/12345/375414
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/3NhpX90t/FOX-DEPORTES.jpg" ,FOX DEPORTES USA
-http://fultv.me:80/yuri/12345/360245
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/GhJK5TcB/ESPN-COL-2.jpg" ,ESPN 2 SD (COL)
-http://fultv.me:80/yuri/12345/469828
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/B6KccXYn/ESPN-LATINO-5.jpg" ,ESPN 5 SD
-http://fultv.me:80/yuri/12345/469829
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/y6Rv0rty/ESPN-COL-1.jpg" ,ESPN SD (COL)
-http://fultv.me:80/yuri/12345/469831
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/2yNdHrMF/ESPN-LATINO-07.jpg" ,ESPN 7 SD
-http://fultv.me:80/yuri/12345/469832
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/cLkQpQPJ/ESPN-PERU.jpg" ,ESPN SD (PE)
-http://fultv.me:80/yuri/12345/472835
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/fTf7K3s8/ESPN-CL-2.jpg" ,ESPN 2 SD (CHI)
-http://fultv.me:80/yuri/12345/472836
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/RVzGdLz5/ESPN-CL-1.jpg" ,ESPN SD (CHI)
-http://fultv.me:80/yuri/12345/472837
+
+#EXTINF:-1 group-title="-",15.3 RTS - LIKE TV 
+http://205.235.6.29:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="-",1531 - WUAN+
+http://205.235.6.29:8000/play/a0mq/index.m3u8
+#EXTINF:-1 group-title="-",20.5 ESTRELLAS HD
+http://205.235.6.29:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="-",202 TYC SPORT
+http://205.235.6.29:8000/play/a0oi/index.m3u8
+#EXTINF:-1 group-title="-",27.4 LA VOZ DE MARIA
+http://205.235.6.29:8000/play/a0md/index.m3u8
+#EXTINF:-1 group-title="-",30.1 DEPORTES 1
+http://205.235.6.29:8000/play/a0ns/index.m3u8
+#EXTINF:-1 group-title="-",31.1 LIGA PRO
+http://205.235.6.29:8000/play/a0nq/index.m3u8
+#EXTINF:-1 group-title="-",310 Telerama XUI
+http://205.235.6.29:8000/play/a0va/index.m3u8
+#EXTINF:-1 group-title="-",312 - TELERAMA ONCEPLAY 
+http://205.235.6.29:8000/play/a0vg/index.m3u8
+#EXTINF:-1 group-title="-",313-TLNOVELAS HD
+http://205.235.6.29:8000/play/a0vb/index.m3u8
+#EXTINF:-1 group-title="-",315 - ZAPPING DGN
+http://205.235.6.29:8000/play/a0vk/index.m3u8
+#EXTINF:-1 group-title="-",322 ROSA DE GUADLUPE 24/7
+http://205.235.6.29:8000/play/a0vj/index.m3u8
+#EXTINF:-1 group-title="-",323 - DIRECTV
+http://205.235.6.29:8000/play/a0vh/index.m3u8
+#EXTINF:-1 group-title="-",351 - France 24
+http://205.235.6.29:8000/play/a0vd/index.m3u8
+#EXTINF:-1 group-title="-",352- ESPN APP
+http://205.235.6.29:8000/play/a0vn/index.m3u8
+#EXTINF:-1 group-title="-",353 - CANAL NITRO
+http://205.235.6.29:8000/play/a0w5/index.m3u8
+#EXTINF:-1 group-title="-",354 - CANAL MUSICA
+http://205.235.6.29:8000/play/a0w6/index.m3u8
+#EXTINF:-1 group-title="-",355 - 30.1 CANAL DEPORTES
+http://205.235.6.29:8000/play/a0w7/index.m3u8
+#EXTINF:-1 group-title="-",356-CANAL SIGSIG
+http://205.235.6.29:8000/play/a0wa/index.m3u8
+#EXTINF:-1 group-title="-",357-UNSION TV
+http://205.235.6.29:8000/play/a0vi/index.m3u8
+#EXTINF:-1 group-title="-",358 - UNSION PARA TV
+http://205.235.6.29:8000/play/a0wb/index.m3u8
+#EXTINF:-1 group-title="-",Adult Swim
+http://205.235.6.29:8000/play/a0qt/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+http://205.235.6.29:8000/play/a0ut/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet HD
+http://205.235.6.29:8000/play/a0nb/index.m3u8
+#EXTINF:-1 group-title="-",Antena 3
+http://205.235.6.29:8000/play/a0ru/index.m3u8
+#EXTINF:-1 group-title="-",CARACOL HD LIKETV
+http://205.235.6.29:8000/play/a0vf/index.m3u8
+#EXTINF:-1 group-title="-",CNN Espaæol
+http://205.235.6.29:8000/play/a0qb/index.m3u8
+#EXTINF:-1 group-title="-",DHE 
+http://205.235.6.29:8000/play/a0py/index.m3u8
+#EXTINF:-1 group-title="-",DTV
+http://205.235.6.29:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="-",DW Espaæol
+http://205.235.6.29:8000/play/a0s2/index.m3u8
+#EXTINF:-1 group-title="-",De PelŦcula
+http://205.235.6.29:8000/play/a0p8/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel  HD
+http://205.235.6.29:8000/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+http://205.235.6.29:8000/play/a0m3/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+http://205.235.6.29:8000/play/a0qk/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://205.235.6.29:8000/play/a0pj/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://205.235.6.29:8000/play/a0qf/index.m3u8
+#EXTINF:-1 group-title="-",Distrito Comedia
+http://205.235.6.29:8000/play/a0mr/index.m3u8
+#EXTINF:-1 group-title="-",ECU RTU
+http://205.235.6.29:8000/play/a0ma/index.m3u8
+#EXTINF:-1 group-title="-",ECUAVISA WEB
+http://205.235.6.29:8000/play/a0nt/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://205.235.6.29:8000/play/a0w0/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 HD
+http://205.235.6.29:8000/play/a0vw/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6 HD
+http://205.235.6.29:8000/play/a0vy/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7 HD
+http://205.235.6.29:8000/play/a0vu/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1 group-title="-",Food Network
+http://205.235.6.29:8000/play/a0px/index.m3u8
+#EXTINF:-1 group-title="-",France 24
+http://205.235.6.29:8000/play/a0rz/index.m3u8
+#EXTINF:-1 group-title="-",Golden HD
+http://205.235.6.29:8000/play/a0oq/index.m3u8
+#EXTINF:-1 group-title="-",HGTV
+http://205.235.6.29:8000/play/a0qo/index.m3u8
+#EXTINF:-1 group-title="-",HTV
+http://205.235.6.29:8000/play/a0oy/index.m3u8
+#EXTINF:-1 group-title="-",Home & Health HD
+http://205.235.6.29:8000/play/a0qa/index.m3u8
+#EXTINF:-1 group-title="-",ID HD
+http://205.235.6.29:8000/play/a0r6/index.m3u8
+#EXTINF:-1 group-title="-",Las Estrellas HD
+http://205.235.6.29:8000/play/a0n3/index.m3u8
+#EXTINF:-1 group-title="-",Latina HD
+http://205.235.6.29:8000/play/a0uw/index.m3u8
+#EXTINF:-1 group-title="-",MEGA HD
+http://205.235.6.29:8000/play/a0pq/index.m3u8
+#EXTINF:-1 group-title="-",ORO MAR WEB
+http://205.235.6.29:8000/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="-",PLIM PLIM
+http://205.235.6.29:8000/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="-",Pasiones HD
+http://205.235.6.29:8000/play/a0pl/index.m3u8
+#EXTINF:-1 group-title="-",RTS
+http://205.235.6.29:8000/play/a0o6/index.m3u8
+#EXTINF:-1 group-title="-",STAR CHANEL
+http://205.235.6.29:8000/play/a0oj/index.m3u8
+#EXTINF:-1 group-title="-",Space HD
+http://205.235.6.29:8000/play/a0r7/index.m3u8
+#EXTINF:-1 group-title="-",Stingray Concerts 
+http://205.235.6.29:8000/play/a0ur/index.m3u8
+#EXTINF:-1 group-title="-",Sun Channel HD
+http://205.235.6.29:8000/play/a0q2/index.m3u8
+#EXTINF:-1 group-title="-",TC Televisiðn
+http://205.235.6.29:8000/play/a0m8/index.m3u8
+#EXTINF:-1 group-title="-",TLC
+http://205.235.6.29:8000/play/a0qj/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+http://205.235.6.29:8000/play/a0r4/index.m3u8
+#EXTINF:-1 group-title="-",Tlnovelas 
+http://205.235.6.29:8000/play/a0ow/index.m3u8
+#EXTINF:-1 group-title="-",Venus
+http://205.235.6.29:8000/play/a0pb/index.m3u8
+#EXTINF:-1 group-title="-",WUAN+
+http://205.235.6.29:8000/play/a0pd/index.m3u8
+#EXTINF:-1 group-title="-",Warner TV HD
+http://205.235.6.29:8000/play/a0r5/index.m3u8
+#EXTINF:-1 group-title="-",Win Sports+ HD
+http://205.235.6.29:8000/play/a0ve/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" ,ESPN 4 SD
 http://fultv.me:80/yuri/12345/472939
 #EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" ,ESPN 6 SD
