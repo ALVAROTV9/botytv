@@ -10,400 +10,146 @@ http://embed-cloudfront.wistia.com/deliveries/2af25e23042dc1bfc5421da4e65668e716
 
 #EXTINF:-1 group-title="-",15.3 RTS - LIKE TV 
 http://205.235.6.29:8000/play/11/index.m3u8
-#EXTINF:-1 group-title="-",1531 - WUAN+
-http://205.235.6.29:8000/play/a0mq/index.m3u8
-#EXTINF:-1 group-title="-",20.5 ESTRELLAS HD
+
+
+#EXTINF:-1 group-title="NACIONALES",20.5 ESTRELLAS HD
 http://205.235.6.29:8000/play/13/index.m3u8
-#EXTINF:-1 group-title="-",202 TYC SPORT
+#EXTINF:-1 group-title="DEPORTES",202 TYC SPORT
 http://205.235.6.29:8000/play/a0oi/index.m3u8
-#EXTINF:-1 group-title="-",27.4 LA VOZ DE MARIA
-http://205.235.6.29:8000/play/a0md/index.m3u8
-#EXTINF:-1 group-title="-",30.1 DEPORTES 1
-http://205.235.6.29:8000/play/a0ns/index.m3u8
-#EXTINF:-1 group-title="-",31.1 LIGA PRO
+
+
+
+#EXTINF:-1 group-title="DEPORTES",31.1 LIGA PRO
 http://205.235.6.29:8000/play/a0nq/index.m3u8
-#EXTINF:-1 group-title="-",310 Telerama XUI
+#EXTINF:-1 group-title="VARIADOS",310 Telerama XUI
 http://205.235.6.29:8000/play/a0va/index.m3u8
-#EXTINF:-1 group-title="-",312 - TELERAMA ONCEPLAY 
+#EXTINF:-1 group-title="VARIADOS",312 - TELERAMA ONCEPLAY 
 http://205.235.6.29:8000/play/a0vg/index.m3u8
-#EXTINF:-1 group-title="-",313-TLNOVELAS HD
+#EXTINF:-1 group-title="VARIADOS",313-TLNOVELAS HD
 http://205.235.6.29:8000/play/a0vb/index.m3u8
-#EXTINF:-1 group-title="-",315 - ZAPPING DGN
+#EXTINF:-1 group-title="DEPORTES",315 - ZAPPING DGN
 http://205.235.6.29:8000/play/a0vk/index.m3u8
-#EXTINF:-1 group-title="-",322 ROSA DE GUADLUPE 24/7
+#EXTINF:-1 group-title="VARIADOS",322 ROSA DE GUADLUPE 24/7
 http://205.235.6.29:8000/play/a0vj/index.m3u8
-#EXTINF:-1 group-title="-",323 - DIRECTV
+#EXTINF:-1 group-title="DEPORTES",323 - DIRECTV
 http://205.235.6.29:8000/play/a0vh/index.m3u8
-#EXTINF:-1 group-title="-",351 - France 24
+#EXTINF:-1 group-title="VARIADOS",351 - France 24
 http://205.235.6.29:8000/play/a0vd/index.m3u8
-#EXTINF:-1 group-title="-",352- ESPN APP
+#EXTINF:-1 group-title="DEPORTES",352- ESPN APP
 http://205.235.6.29:8000/play/a0vn/index.m3u8
-#EXTINF:-1 group-title="-",353 - CANAL NITRO
+#EXTINF:-1 group-title="VARIADOS",353 - CANAL NITRO
 http://205.235.6.29:8000/play/a0w5/index.m3u8
-#EXTINF:-1 group-title="-",354 - CANAL MUSICA
+#EXTINF:-1 group-title="VARIADOS",354 - CANAL MUSICA
 http://205.235.6.29:8000/play/a0w6/index.m3u8
-#EXTINF:-1 group-title="-",355 - 30.1 CANAL DEPORTES
+#EXTINF:-1 group-title="DEPORTES",355 - 30.1 CANAL DEPORTES
 http://205.235.6.29:8000/play/a0w7/index.m3u8
-#EXTINF:-1 group-title="-",356-CANAL SIGSIG
+#EXTINF:-1 group-title="VARIADOS",356-CANAL SIGSIG
 http://205.235.6.29:8000/play/a0wa/index.m3u8
-#EXTINF:-1 group-title="-",357-UNSION TV
+#EXTINF:-1 group-title="VARIADOS",357-UNSION TV
 http://205.235.6.29:8000/play/a0vi/index.m3u8
-#EXTINF:-1 group-title="-",358 - UNSION PARA TV
+#EXTINF:-1 group-title="VARIADOS",358 - UNSION PARA TV
 http://205.235.6.29:8000/play/a0wb/index.m3u8
-#EXTINF:-1 group-title="-",Adult Swim
+#EXTINF:-1 group-title="VARIADOS",Adult Swim
 http://205.235.6.29:8000/play/a0qt/index.m3u8
-#EXTINF:-1 group-title="-",America TV HD
+#EXTINF:-1 group-title="NACIONALES",America TV HD
 http://205.235.6.29:8000/play/a0ut/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet HD
+#EXTINF:-1 group-title="CULTURALES",Animal Planet HD
 http://205.235.6.29:8000/play/a0nb/index.m3u8
-#EXTINF:-1 group-title="-",Antena 3
+#EXTINF:-1 group-title="NACIONALES",Antena 3
 http://205.235.6.29:8000/play/a0ru/index.m3u8
-#EXTINF:-1 group-title="-",CARACOL HD LIKETV
+#EXTINF:-1 group-title="NACIONALES",CARACOL HD LIKETV
 http://205.235.6.29:8000/play/a0vf/index.m3u8
-#EXTINF:-1 group-title="-",CNN Espaæol
+#EXTINF:-1 group-title="NOTICIAS",CNN Espaæol
 http://205.235.6.29:8000/play/a0qb/index.m3u8
-#EXTINF:-1 group-title="-",DHE 
+#EXTINF:-1 group-title="VARIADOS",DHE 
 http://205.235.6.29:8000/play/a0py/index.m3u8
-#EXTINF:-1 group-title="-",DTV
+#EXTINF:-1 group-title="VARIADOS",DTV
 http://205.235.6.29:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="-",DW Espaæol
+#EXTINF:-1 group-title="VARIADOS",DW Espaæol
 http://205.235.6.29:8000/play/a0s2/index.m3u8
-#EXTINF:-1 group-title="-",De PelŦcula
+#EXTINF:-1 group-title="CINE",De PelŦcula
 http://205.235.6.29:8000/play/a0p8/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel  HD
+#EXTINF:-1 group-title="CULTURALES",Discovery Channel  HD
 http://205.235.6.29:8000/play/a0nc/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids
 http://205.235.6.29:8000/play/a0m3/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
+#EXTINF:-1 group-title="CULTURALES",Discovery Science
 http://205.235.6.29:8000/play/a0qk/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Theater HD
+#EXTINF:-1 group-title="CULTURALES",Discovery Theater HD
 http://205.235.6.29:8000/play/a0pj/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
+#EXTINF:-1 group-title="CULTURALES",Discovery Turbo
 http://205.235.6.29:8000/play/a0qf/index.m3u8
-#EXTINF:-1 group-title="-",Distrito Comedia
+#EXTINF:-1 group-title="VARIADOS",Distrito Comedia
 http://205.235.6.29:8000/play/a0mr/index.m3u8
-#EXTINF:-1 group-title="-",ECU RTU
+#EXTINF:-1 group-title="NACIONALES",ECU RTU
 http://205.235.6.29:8000/play/a0ma/index.m3u8
-#EXTINF:-1 group-title="-",ECUAVISA WEB
+#EXTINF:-1 group-title="NACIONALES",ECUAVISA WEB
 http://205.235.6.29:8000/play/a0nt/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
 http://205.235.6.29:8000/play/a0w0/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
 http://205.235.6.29:8000/play/a0vw/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 6 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
 http://205.235.6.29:8000/play/a0vy/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 7 HD
+#EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
 http://205.235.6.29:8000/play/a0vu/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
+#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
 http://205.235.6.29:8000/play/a0pz/index.m3u8
-#EXTINF:-1 group-title="-",Food Network
+#EXTINF:-1 group-title="VARIADOS",Food Network
 http://205.235.6.29:8000/play/a0px/index.m3u8
-#EXTINF:-1 group-title="-",France 24
+#EXTINF:-1 group-title="NOTICIAS",France 24
 http://205.235.6.29:8000/play/a0rz/index.m3u8
-#EXTINF:-1 group-title="-",Golden HD
+#EXTINF:-1 group-title="CINE",Golden HD
 http://205.235.6.29:8000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="-",HGTV
+#EXTINF:-1 group-title="CULTURALES",HGTV
 http://205.235.6.29:8000/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="-",HTV
+#EXTINF:-1 group-title="VARIADOS",HTV
 http://205.235.6.29:8000/play/a0oy/index.m3u8
-#EXTINF:-1 group-title="-",Home & Health HD
+#EXTINF:-1 group-title="CULTURALES",Home & Health HD
 http://205.235.6.29:8000/play/a0qa/index.m3u8
-#EXTINF:-1 group-title="-",ID HD
+#EXTINF:-1 group-title="CULTURALES",ID HD
 http://205.235.6.29:8000/play/a0r6/index.m3u8
-#EXTINF:-1 group-title="-",Las Estrellas HD
+#EXTINF:-1 group-title="NACIONALES",Las Estrellas HD
 http://205.235.6.29:8000/play/a0n3/index.m3u8
-#EXTINF:-1 group-title="-",Latina HD
+#EXTINF:-1 group-title="NACIONALES",Latina HD
 http://205.235.6.29:8000/play/a0uw/index.m3u8
-#EXTINF:-1 group-title="-",MEGA HD
+#EXTINF:-1 group-title="NACIONALES",MEGA HD
 http://205.235.6.29:8000/play/a0pq/index.m3u8
-#EXTINF:-1 group-title="-",ORO MAR WEB
+#EXTINF:-1 group-title="VARIADOS",ORO MAR WEB
 http://205.235.6.29:8000/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="-",PLIM PLIM
+#EXTINF:-1 group-title="INFANTILES",PLIM PLIM
 http://205.235.6.29:8000/play/a0mp/index.m3u8
-#EXTINF:-1 group-title="-",Pasiones HD
+#EXTINF:-1 group-title="VARIADOS",Pasiones HD
 http://205.235.6.29:8000/play/a0pl/index.m3u8
-#EXTINF:-1 group-title="-",RTS
+#EXTINF:-1 group-title="VARIADOS",RTS
 http://205.235.6.29:8000/play/a0o6/index.m3u8
-#EXTINF:-1 group-title="-",STAR CHANEL
+#EXTINF:-1 group-title="CINE",STAR CHANEL
 http://205.235.6.29:8000/play/a0oj/index.m3u8
-#EXTINF:-1 group-title="-",Space HD
+#EXTINF:-1 group-title="CINE",Space HD
 http://205.235.6.29:8000/play/a0r7/index.m3u8
-#EXTINF:-1 group-title="-",Stingray Concerts 
+#EXTINF:-1 group-title="VARIADOS",Stingray Concerts 
 http://205.235.6.29:8000/play/a0ur/index.m3u8
-#EXTINF:-1 group-title="-",Sun Channel HD
+#EXTINF:-1 group-title="CULTURALES",Sun Channel HD
 http://205.235.6.29:8000/play/a0q2/index.m3u8
-#EXTINF:-1 group-title="-",TC Televisiðn
+#EXTINF:-1 group-title="NACIONALES",TC Televisiðn
 http://205.235.6.29:8000/play/a0m8/index.m3u8
-#EXTINF:-1 group-title="-",TLC
+#EXTINF:-1 group-title="NACIONALES",TLC
 http://205.235.6.29:8000/play/a0qj/index.m3u8
-#EXTINF:-1 group-title="-",TNT HD
+#EXTINF:-1 group-title="CINE",TNT HD
 http://205.235.6.29:8000/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="-",Tlnovelas 
+#EXTINF:-1 group-title="VARIADOS",Tlnovelas 
 http://205.235.6.29:8000/play/a0ow/index.m3u8
-#EXTINF:-1 group-title="-",Venus
+#EXTINF:-1 group-title="ADULTOS",Venus
 http://205.235.6.29:8000/play/a0pb/index.m3u8
-#EXTINF:-1 group-title="-",WUAN+
+#EXTINF:-1 group-title="VARIADOS",WUAN+
 http://205.235.6.29:8000/play/a0pd/index.m3u8
-#EXTINF:-1 group-title="-",Warner TV HD
+#EXTINF:-1 group-title="CINE",Warner TV HD
 http://205.235.6.29:8000/play/a0r5/index.m3u8
-#EXTINF:-1 group-title="-",Win Sports+ HD
+#EXTINF:-1 group-title="DEPORTES",Win Sports+ HD
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/wB3kMWDJ/ESPN-LATINO-4.jpg" ,ESPN 4 SD
-http://fultv.me:80/yuri/12345/472939
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/hGw1d90Y/ESPN-LATINO-6.jpg" ,ESPN 6 SD
-http://fultv.me:80/yuri/12345/472940
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/TPyrfKXJ/ESPN-PREMIUM-CHILE.jpg" ,ESPN PREMIUM SD CHILE
-http://fultv.me:80/yuri/12345/472941
-#EXTINF:-1 group-title="ESPN & FOX SPORTS" tvg-logo="https://i.postimg.cc/XYjLSNJs/ESPN-LATINO-3.jpg" ,ESPN 3 SD
-http://fultv.me:80/yuri/12345/472951
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/KYZSgLR5/ROCKY_BALBOA.png" tvg-id="2696912e-c0b9-41d7-9806-5ea2f710dc1f" ,1 ROCKY BALBOA
-http://fultv.me:80/yuri/12345/197034
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/XYn5JwR8/RAMBO.png" tvg-id="75ea8dc8-770a-46c2-80cb-f511bb24fe1f" ,2 RAMBO
-http://fultv.me:80/yuri/12345/197040
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/0j1b23jQ/rapidos_y_furiosos.png" tvg-id="3e282465-0fb4-4fcd-8d0f-1885166caf52" ,3 RAPIDOS Y FURIOSOS
-http://fultv.me:80/yuri/12345/197041
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Y08g44R4/cine_boliviano.png" tvg-id="671cc325-35fa-4ea5-a376-b05403840ef4" ,4 CINE BOLIVIANO
-http://fultv.me:80/yuri/12345/197481
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/dVTsqGv6/jurassic_park.png" tvg-id="deaa823b-fa0b-4f22-a58c-aeee156099b7" ,5 JURASSIC PARK
-http://fultv.me:80/yuri/12345/197497
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/k4GhmvPX/señor_de_los_anillos.png" tvg-id="bb9d22a5-c78e-457f-814e-ed773c5d01f4" ,6 EL SEÑOR DE LOS ANILLOS
-http://fultv.me:80/yuri/12345/197498
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/j508mw4L/volver_al_futuro.png" tvg-id="39e5f764-b9ea-43e2-931a-ccb48c03eab2" ,8 VOLVER AL FUTURO
-http://fultv.me:80/yuri/12345/197500
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/hjmZvPvH/hobbit.png" tvg-id="9f152ca3-814d-4a7b-bf37-36d7ed263ba2" ,7 HOBBIT (señor de los anillos)
-http://fultv.me:80/yuri/12345/197499
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/g0sgf6Gd/chucky.png" tvg-id="7c62e47d-0527-4e8d-b518-b5c0bde67fa5" ,9 CHUCKY
-http://fultv.me:80/yuri/12345/197969
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Ghs6YZtw/los_indestructibles.png" tvg-id="353de686-05b4-42c6-b0c3-e60309322ed1" ,10 LOS INDESTRUCTIBLES
-http://fultv.me:80/yuri/12345/197970
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/FzJdh9ZH/john_wick.png" tvg-id="9c022696-717e-4527-ace2-f100972dad49" ,11 JOHN WICK
-http://fultv.me:80/yuri/12345/197971
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/63x5CdLt/america_pie.png" tvg-id="9d5bd3c0-c40f-435a-893a-ddad3128e8b5" ,12 AMERICAN PIE
-http://fultv.me:80/yuri/12345/197972
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/NMJBfMkv/cronicas_de_narnia.png" tvg-id="15f5d6fe-c8e3-4771-8b44-72dded11010a" ,13 LAS CRONICAS DE NARNIA
-http://fultv.me:80/yuri/12345/197973
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/sDF3ySbW/karate_kid.png" tvg-id="aef0451f-131c-40fb-8358-a9825f3cfb9f" ,15 KARATE KID
-http://fultv.me:80/yuri/12345/197975
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/WbvfGLzd/piratas_del_caribe.png" tvg-id="6425efe7-bf1c-47f2-be13-2d544fba0187" ,16 PIRATAS DEL CARIBE
-http://fultv.me:80/yuri/12345/197976
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/280FVPZR/jean_claude_van_damme.png" tvg-id="da9c963c-0df3-4594-b2b8-564800f59cdd" ,17 JEAN CLAUDE VAN DAMME
-http://fultv.me:80/yuri/12345/197977
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/vTygfxqS/belica.png" tvg-id="195b08a1-6549-4ff5-8751-527de8b919c7" ,18 PELICULAS DE GUERRAS - BELICAS
-http://fultv.me:80/yuri/12345/198253
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/wMFVDHpS/viernes_13.png" tvg-id="0e6b7ef5-d4df-4a0f-9070-2b557ff70912" ,20 VIERNES 13
-http://fultv.me:80/yuri/12345/199155
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/YS8Jqc4y/peliculas_cristianas.png" tvg-id="d7a3c541-1940-4df1-9e7c-f9570dc4b435" ,19 PELICULAS CRISTIANAS
-http://fultv.me:80/yuri/12345/199154
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/ZRPKBFzK/camino_hacia_el_terrror.png" tvg-id="3a0f1446-fdaa-41b1-9d3a-490ad8608624" ,21 CAMINO HACIA EL TERROR
-http://fultv.me:80/yuri/12345/199772
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/ydR3yTM5/terminator.png" tvg-id="fb16c24d-3a76-4f82-a14b-d8b6b0116ab7" ,22 TERMINATOR
-http://fultv.me:80/yuri/12345/202639
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/qRcM7ZVk/actividad_paranormal.png" tvg-id="bb4ee8fb-cf30-4a1b-9272-8db9f938afb5" ,23 ACTIVIDAD PARANORMAL
-http://fultv.me:80/yuri/12345/202640
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/WzDFRgXP/pandemia.png" tvg-id="17e51cdb-e17a-4937-a8ce-09c4c71e86e5" ,24 PANDEMIAS
-http://fultv.me:80/yuri/12345/202641
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/W1ckR8z7/alvin_y_las_ardillas.png" tvg-id="3e2c2e4b-6339-48e5-a6c9-7202d8953e07" ,25 ALVIN Y LAS ARDILLAS
-http://fultv.me:80/yuri/12345/202642
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" tvg-id="198a9519-020d-4aec-a230-9589129bf11c" ,26 PELICULAS 2024 pt. 1
-http://fultv.me:80/yuri/12345/202857
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/VL4kDXZw/mission_imposible.png" tvg-id="9a8d2a72-a076-40a9-9a13-98c746297bf9" ,27 MISION IMPOSIBLE
-http://fultv.me:80/yuri/12345/202858
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/YCVQtmNg/halloween.png" tvg-id="ab7c59b8-9fdd-4c02-a670-1a6a126b0010" ,28 HALLOWEEN
-http://fultv.me:80/yuri/12345/202878
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JLmMDAJ8qrIKKM4BjjFDGgXdf2kyQ3GCAfpLxSroD1jR.png" tvg-id="44ce8b16-863b-4440-8595-c0953de8691e" ,29 DUENDE MALDITO - LEPRECHAUN
-http://fultv.me:80/yuri/12345/202879
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" tvg-id="f2c5a1a9-3b23-4ba5-a563-be46bf407b88" ,30 PELICULAS 2024 pt. 2
-http://fultv.me:80/yuri/12345/203001
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" tvg-id="dba35a1e-c0a0-4894-867f-1f734e63416e" ,31 PELICULAS 2024 pt.3
-http://fultv.me:80/yuri/12345/213030
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/26L3fhcp/peliculas_2024_pt_1.png" tvg-id="5893190e-a18e-4150-a9ed-5d1efd5d701f" ,32 PELICULAS 2024 pt.4
-http://fultv.me:80/yuri/12345/213031
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/XYVZFFQD/mad_max.png" tvg-id="d71c8075-80cc-4c42-a3fa-3f9569557828" ,33 MAD MAX SAGA
-http://fultv.me:80/yuri/12345/215856
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="032c7416-d955-4587-bec9-9d932d6e2638" ,35 HARRY POTTER
-http://fultv.me:80/yuri/12345/357508
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="f1e8dbef-f651-45af-95fc-96ec09ac29fc" ,36 PELICULAS MARVEL TODAS
-http://fultv.me:80/yuri/12345/357507
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="579e02c6-684c-46f9-b388-529235835e70" ,37 FREDDY KRUGER
-http://fultv.me:80/yuri/12345/357506
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="c86aa251-4b1c-4601-a0b5-be78257dcc89" ,38 WILL SMITH
-http://fultv.me:80/yuri/12345/357505
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="9cfa9efa-ec64-43e1-9f07-6ed66ca7548c" ,39 LA INDIA MARIA
-http://fultv.me:80/yuri/12345/357510
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="5002ce73-2b13-462b-9311-2c1e06876e34" ,40 PEDRO INFANTE
-http://fultv.me:80/yuri/12345/357509
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="5cd01c62-855c-4015-9a4a-c6582e32c047" ,41 VICENTE FERNANDEZ
-http://fultv.me:80/yuri/12345/357513
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="0444523e-152b-4c03-a973-87b22909da5b" ,42 AL PACINO
-http://fultv.me:80/yuri/12345/357512
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="d37fbd11-db2f-4ec3-9970-3cbdf5d55bde" ,43 ANGELINA JOLIE
-http://fultv.me:80/yuri/12345/357511
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="3d3d1751-9e53-41f1-9378-3ca3ead51d03" ,44 ARNOLD SCHWARZENEGGER
-http://fultv.me:80/yuri/12345/357514
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="a8fcb163-e06f-4c71-b9f5-a624dc0b1d0a" ,45 CANTINFLAS
-http://fultv.me:80/yuri/12345/357520
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="b21ed468-8781-4c86-aa63-c308f177d797" ,46 JACKIE CHAN
-http://fultv.me:80/yuri/12345/357519
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="b0fe4839-ff1a-49dc-a391-ae34fc3e2e0e" ,47 JIM CARREY
-http://fultv.me:80/yuri/12345/357518
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="6ec0289d-b830-4553-8f04-d77d55881d2a" ,48 MEL GIBSON
-http://fultv.me:80/yuri/12345/357517
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="8bd8aa24-fa78-44a5-b4f7-6e298152145e" ,49 MORGAN FREEMAN
-http://fultv.me:80/yuri/12345/357516
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="7508baba-267b-47f8-beba-60191ce33b65" ,50 WILL SMITH
-http://fultv.me:80/yuri/12345/357515
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-id="66dc9c56-3bdf-4cf2-a617-fe47cc1773fa" ,51 INFRAMUNDO
-http://fultv.me:80/yuri/12345/359000
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/VLVDv2BR/frando.png" tvg-id="ad7d9022-7075-43d1-ba03-e91e8ca57834" ,34 FRANCO ESCAMILLA 24/7
-http://fultv.me:80/yuri/12345/216086
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/ZnPtzt1N/padre-no-hay-mas-que-uno.jpg" tvg-id="68c7a2a0-5e26-47a9-83d0-5bc7e41a28bb" ,52 Padre No Hay Mas Que Uno
-http://fultv.me:80/yuri/12345/415750
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://th.bing.com/th/id/R.26b6bd23f3281bcaed1b4377a1ee4755?rik=vcAHT1N51FYjqw&pid=ImgRaw&r=0" tvg-id="44b35270-dabf-4dcd-9ecb-74bec8547668" ,53 Adam Sandler
-http://fultv.me:80/yuri/12345/433196
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/HkFZj74D/palito-ortega-24-7.jpg" tvg-id="bff88c2f-4d3f-4df3-8047-faf020c0bfb4" ,54 palito ortega 24-7
-http://fultv.me:80/yuri/12345/457627
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="e43ad512-e240-45df-9020-b1e000ceedb9" ,55 Coleccion Peliculas Navidad 1
-http://fultv.me:80/yuri/12345/483430
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="11ece781-0766-4160-9fa6-bbd575c9b2b6" ,56 Coleccion Navidad 2
-http://fultv.me:80/yuri/12345/483431
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="05949b8b-977e-437d-a938-7b652942f199" ,57 Coleccion Navidad 3
-http://fultv.me:80/yuri/12345/483432
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="beef9642-c5f9-4734-8236-6921c0e42a7a" ,58 Coleccion Navidad 4
-http://fultv.me:80/yuri/12345/483433
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/Gtmcwgvt/f1ff4088a18112c5fb9216d48258cc54.jpg" tvg-id="9931d16e-8918-45b7-b9fd-7d897e64010a" ,59 Coleccion Navidad 5
-http://fultv.me:80/yuri/12345/483434
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/rFc9JgPM/beethoven.jpg" tvg-id="60d72252-c60b-4a5c-b3a8-e7c4477a70db" ,60 Beethoven
-http://fultv.me:80/yuri/12345/485058
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/W1ckR8z7/alvin-y-las-ardillas.png" tvg-id="29c8f972-c77c-40c8-a8de-e67e493477ef" ,61 Alvin y las ardillas
-http://fultv.me:80/yuri/12345/487728
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/2ygxGqHd/depredador-24-7.jpg" tvg-id="43121911-d465-4878-a623-7f2139574e4b" ,62 Depredador peliculas 24-7
-http://fultv.me:80/yuri/12345/489252
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/C1pjtTYD/spy-kids-24-7.jpg" tvg-id="b775af69-89aa-4ee0-9141-75a45b1bfbac" ,63 Spy kids- mini espias peliculas 24-7
-http://fultv.me:80/yuri/12345/489340
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/NFNMTVxZ/peliculas-de-superman-24-7.jpg" tvg-id="65bae094-408f-4920-88f1-324fb8e1409f" ,64 superman peliculas 24-7
-http://fultv.me:80/yuri/12345/489344
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.pinimg.com/originals/55/6f/b2/556fb27ed44f1211e0f5ba6a89770d68.jpg" tvg-id="8337bed7-5726-4b92-a468-8337bbde0fb2" ,65 El Conjuro Orden Cronologico
-http://fultv.me:80/yuri/12345/497106
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w400/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" tvg-id="0e435df7-0215-4df6-8bbc-8602770fb34c" ,66 Destino Final
-http://fultv.me:80/yuri/12345/498149
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w400/nzVkXj1IX0BNoYzpTVogtkcCStf.jpg" tvg-id="2626b008-3dc1-49aa-8931-3efd0faaa84f" ,67 SAW
-http://fultv.me:80/yuri/12345/498395
-#EXTINF:-1 group-title="24/7 PELICULAS" tvg-logo="https://i.postimg.cc/4N4kz7BZ/culpa-mia.jpg" tvg-id="74170017-7b82-45f3-973d-ab04c1ffcc00" ,68 Trilogia Culpa mia
-http://fultv.me:80/yuri/12345/502324
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" tvg-id="05911910-0e35-4cc9-a795-b17d9f89b9fd" ,UFC TEM 23 PARTE 1
-http://fultv.me:80/yuri/12345/446453
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" tvg-id="407e601f-72c6-43bf-8b94-1c92b707985e" ,UFC TEM 23 PARTE 2
-http://fultv.me:80/yuri/12345/447329
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" tvg-id="4bdb8224-3e2e-4ce7-8f71-2ed572933827" ,UFC TEM 24 PARTE 1
-http://fultv.me:80/yuri/12345/448503
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/KjjJQRfY/UFC.png" tvg-id="ccc6339c-73ed-4028-acde-87b66e035516" ,UFC TEM 24 PARTE 2
-http://fultv.me:80/yuri/12345/448506
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/s2BYvd9j/navidad.png" tvg-id="cee1dd4f-d71e-44e5-9a06-4224373be5bb" ,PELICULAS DE NAVIDAD 3
-http://fultv.me:80/yuri/12345/347897
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/s2BYvd9j/navidad.png" tvg-id="86875226-9b6d-47e6-a56f-2840b784c318" ,PELICULAS DE NAVIDAD 2
-http://fultv.me:80/yuri/12345/347898
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/s2BYvd9j/navidad.png" tvg-id="d6de0a32-d6c0-4f4b-a827-c798fa7f60ad" ,PELICULAS DE NAVIDAD 1
-http://fultv.me:80/yuri/12345/347896
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="s:1:/images/QCqX5p5x3Y181Q8jwb82JHHqj6ZttKLjVCwib34cz_CIO524kL2azyPPjmSvJHdt.jpg" tvg-id="1ba5517e-c422-4cf4-b7a0-d202d2e4f732" ,NETFLIX HD
-http://fultv.me:80/yuri/12345/109778
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="39b94e78-912f-465b-92bb-b178cfb8980b" ,TERROR 1
-http://fultv.me:80/yuri/12345/202853
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="12d8517b-118b-4738-9c2b-41ce1e318bc3" ,TERROR 2
-http://fultv.me:80/yuri/12345/202854
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="6471f003-d6f3-4096-8fa2-2d6fd08f110f" ,TERROR 3
-http://fultv.me:80/yuri/12345/202855
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="6908ddb8-eef2-458a-8f7b-26f2cf2a77a1" ,TERROR 4
-http://fultv.me:80/yuri/12345/202884
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/hjKbd7YV/TERROR.png" tvg-id="749d3033-7e0a-4f3d-b47e-136b61e9b4a3" ,TERROR 5
-http://fultv.me:80/yuri/12345/202885
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="2944c4ba-9ee1-41b5-86b4-67e7939fe791" ,ACCION 1
-http://fultv.me:80/yuri/12345/202900
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="91419508-3460-4395-997a-af6230531210" ,ACCION 2
-http://fultv.me:80/yuri/12345/202901
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="ce66759e-2723-496d-a01a-44d74a0a8ffc" ,ACCION 3
-http://fultv.me:80/yuri/12345/202902
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="87a0cdc2-f417-4bf1-a7a2-5a17f5aa1e39" ,ACCION 4
-http://fultv.me:80/yuri/12345/202903
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/15r0kQ1Y/ACCION.png" tvg-id="81e4886a-3233-448e-974c-ba724b1c3173" ,ACCION 5
-http://fultv.me:80/yuri/12345/202904
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="6fd252b4-8520-4106-b962-4f8dc052220f" ,COMEDIAS 1
-http://fultv.me:80/yuri/12345/202976
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="71116ad4-8956-475c-9f7e-e323d518a34f" ,COMEDIAS 2
-http://fultv.me:80/yuri/12345/202977
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="070bf381-c263-4e9b-b8f6-b7c65b3fb51a" ,COMEDIAS 3
-http://fultv.me:80/yuri/12345/203024
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="d6fb6965-75bf-47ed-aa78-670d89043751" ,COMEDIAS 4
-http://fultv.me:80/yuri/12345/203025
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/kgpbpP1q/comedia.png" tvg-id="fe5a28eb-4356-495b-98cf-7a42996e1071" ,COMEDIAS 5
-http://fultv.me:80/yuri/12345/203026
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/jdnCZcff/images.jpg" tvg-id="13e99420-d285-4d26-907a-d09ae9cc9721" ,Peliculas Biblicas Parte 1
-http://fultv.me:80/yuri/12345/469330
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="60b9b5bf-67ce-4cb9-a737-11502221f195" ,HboMax 1
-http://fultv.me:80/yuri/12345/479302
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="b50eebc6-b7d7-4c2f-9172-22bf4784fd77" ,HboMax 2
-http://fultv.me:80/yuri/12345/479304
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="e5365c86-4908-46eb-bb1c-3c9320bce8f1" ,HboMax 3
-http://fultv.me:80/yuri/12345/479307
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="27c2dc58-00a9-4b5e-b935-a2b1978d2268" ,HboMax 4
-http://fultv.me:80/yuri/12345/479376
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/XN50bTt8/hbomax.jpg" tvg-id="db23f4b0-3054-4c64-9e69-70de19592c98" ,HboMax 5
-http://fultv.me:80/yuri/12345/479397
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="3a4e1bc6-7e38-4d2f-9841-416e02a090ea" ,Vix 1
-http://fultv.me:80/yuri/12345/480231
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="7bd499c3-98ca-422e-a8fc-664c6d8f29b0" ,Vix 2
-http://fultv.me:80/yuri/12345/485056
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="6bb68b0f-6d91-4d96-b82d-017713d8dea5" ,Vix 3
-http://fultv.me:80/yuri/12345/485055
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="b227f910-0723-4fa3-9772-f025b5453f21" ,Vix 4
-http://fultv.me:80/yuri/12345/485054
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/y6vBVxS3/vix.png" tvg-id="76027f12-b2da-474e-9ba2-b8312a26ec06" ,Vix 5
-http://fultv.me:80/yuri/12345/485053
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/mDdPMt3M/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="3515eb1c-1eff-4d06-b925-43033740b7a5" ,Netflix 1
-http://fultv.me:80/yuri/12345/485654
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/mDdPMt3M/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="71f478ce-2f28-4b60-ad9f-3ab1ce0ba0c3" ,Netflix 2
-http://fultv.me:80/yuri/12345/485655
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/mDdPMt3M/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="0a283b99-a5ca-4f06-8f6e-998431669c7c" ,Netflix 3
-http://fultv.me:80/yuri/12345/485656
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/PxZDwmf7/Captura-de-pantalla-2025-09-02-080521.png" tvg-id="90932556-db5f-4d55-b079-b1441ccfa9c9" ,Disney 1
-http://fultv.me:80/yuri/12345/485657
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/GtxW91Sm/Captura-de-pantalla-2025-09-02-080521.png" tvg-id="cf95ae38-7ec0-483e-8356-d12d0ff9dd60" ,Disney 2
-http://fultv.me:80/yuri/12345/495518
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/GtxW91Sm/Captura-de-pantalla-2025-09-02-080521.png" tvg-id="44475ae4-56e4-44d8-86ec-cd9169470ff5" ,Disney 3
-http://fultv.me:80/yuri/12345/495519
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/6Q7TZHKX/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="e5c46e6d-843a-417a-99a6-7affb082dd4b" ,Netflix 4
-http://fultv.me:80/yuri/12345/495520
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/6Q7TZHKX/Captura-de-pantalla-2025-09-02-080414.png" tvg-id="574fc72f-5092-4993-afaa-59b960aa5d28" ,Netflix 5
-http://fultv.me:80/yuri/12345/496825
-#EXTINF:-1 group-title="24/7 PELICULAS POR TIPO" tvg-logo="https://i.postimg.cc/7YXpmgGs/Captura-de-pantalla-2025-09-30-211848.png" tvg-id="70c124d1-ba18-4e31-ae14-a6765ee68f9a" ,Peliculas 1
-http://fultv.me:80/yuri/12345/496826
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/9098Mx51/DAZN-F1.jpg" ,DAZN F1
-http://fultv.me:80/yuri/12345/375422
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" ,DAZN 1 HD
-http://fultv.me:80/yuri/12345/375419
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/Bb8Vm1D4/DAZN-LIGA-2.jpg" ,DAZN 2 HD
-http://fultv.me:80/yuri/12345/375420
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" ,DAZN 3
-http://fultv.me:80/yuri/12345/409330
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/G3YNTvcx/DANZ-ESPA-A.jpg" ,DAZN 4
-http://fultv.me:80/yuri/12345/409331
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://i.postimg.cc/Bb8Vm1D4/DAZN-LIGA-2.jpg" ,DAZN LA LIGA
-http://fultv.me:80/yuri/12345/409332
-#EXTINF:-1 group-title="DAZN EVENTOS" ,DAZN COMBAT
-http://fultv.me:80/yuri/12345/484630
-
-
-
-#EXTINF:0,INFORMACION
-#EXTGRP:BOTYTV
-http://embed-cloudfront.wistia.com/deliveries/6e057de70366f2c29f7c48505cf75d5a7715bc84.m3u8
-
-
-
-#EXTINF:0,Naturaleza Salvaje
 #EXTGRP:VARIADOS
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 #EXTINF:0,Radio RNV Informativo#
@@ -974,202 +720,202 @@ http://190.0.247.38:8000/play/a02j
 #EXTGRP:RELIGION
 http://190.0.247.38:8000/play/a02m
 #EXTINF:0,BABY TV HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a00d
 #EXTINF:0,CANAL INFANTIL HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a00e
 #EXTINF:0,DISNEY CHANNEL HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a00g
 #EXTINF:0,DISNEY JUNIOR HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a00f
 #EXTINF:0,DREAMWORKS HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a00k
 #EXTINF:0,PLIM PLIM HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a00i
 #EXTINF:0,PLIM PLIM HD IN
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a04o
 #EXTINF:0,ZOOMOO HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a00j
 #EXTINF:0,ZOOMOO HD IN
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://190.0.247.38:8000/play/a04p
 #EXTINF:0,Baby TV
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0ug
 #EXTINF:0,Cartoon Network HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILRS
 http://143.0.67.77:8000/play/a075/index.m3u8
 #EXTINF:0,Disney Channel HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://143.0.67.77:8000/play/a02r/index.m3u8
 #EXTINF:0,Disney Junior
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://143.0.67.77:8000/play/a04y/index.m3u8
 #EXTINF:0,Nick Jr
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://143.0.67.77:8000/play/a06u/index.m3u8
 #EXTINF:0,Nickelodeon
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0r6
 #EXTINF:0,Pakapaka
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://143.0.67.77:8000/play/a01n/index.m3u8
 #EXTINF:0,PLIM PLIM
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://205.235.6.29:8000/play/a0mp/index.m3u8
 #EXTINF:0,BabyFirst
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a055
 #EXTINF:0,Cartoon Network
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0tb
 #EXTINF:0,Cartoonito
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0v9
 #EXTINF:0,Discovery Kids HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0rg
 #EXTINF:0,Disney Channel
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0r7
 #EXTINF:0,Disney HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0rf
 #EXTINF:0,Disney Jr
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a05l
 #EXTINF:0,E! Entertainment TV
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0vc
 #EXTINF:0,Lolly Kids
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0v7
 #EXTINF:0,Nick HD
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0rt
 #EXTINF:0,Nick Music
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0v6
 #EXTINF:0,Teen Nick
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 http://38.41.8.1:8000/play/a0v8
 #EXTINF:0,Tooncast
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILRS
 http://38.41.8.1:8000/play/a0vb
 #EXTINF:0,Baby Shark
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0,Dios TeVe Kids
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:0,Alabanza y Palabra
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://5bf8041cb3fed.streamlock.net/alabanzaypalabrakids/alabanzaypalabrakids/playlist.m3u8
 #EXTINF:0,Soldaditos de Jesus
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://2nbyj587d53k-hls-live.5centscdn.com/13/597b5bed7fd3f225bcaa5c4a0cdc3ff6.sdp/playlist.m3u8
 #EXTINF:0,PequeRadio
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0,Angry Birds
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 #EXTINF:0,Canela Kids
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:0,Toon Goggles
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:0,Pitufo TV
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
 #EXTINF:0,PocoyO
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5626
 #EXTINF:0,Zoo Moo
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:0,Nick Latino
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0,Dreamworks (Portugues)
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v1a1/mono.m3u8
 #EXTINF:0,Los Tres Chiflados
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Popeye
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/677d93afe650a700081e5f18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Hells Kitchen
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,South Park: ColecciÃ³n Cartman
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/65df731cec9fda0008b7aa8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,South Park: ColecciÃ³n Kenny
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/65df7272ec9fda0008b7a970/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,South Park: ColecciÃ³n Kyle
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/65df73520d4561000817c29b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,South Park: ColecciÃ³n Stan
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/65df72db18036500081a8292/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Naruto
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Naruto Shippuden
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nickelodeon Teen
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nickelodeon iCarly
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nick Jr. Club
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Baby Shark TV
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Babyfirst
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Junior
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Barney
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,El Reino Infantil
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Nickelodeon ClÃ¡sico
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Hey Arnold!
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Rugrats
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Bob Esponja
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Los Padrinos MÃ¡gicos
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,Las Tortugas Ninja
-#EXTGRP:INFANTIL
+#EXTGRP:INFANTILES
 https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:0,CABLE NOTICIAS HD
 #EXTGRP:NOTICIAS
