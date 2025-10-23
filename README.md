@@ -1,7 +1,7 @@
-#EXTM3U
+6#EXTM3U
 
 #EXTINF:-1 group-title="DEPORTES",GraTis Hasta NoViembre 20
-http://embed-cloudfront.wistia.com/deliveries/2af25e23042dc1bfc5421da4e65668e716ac7ffc.m3u8
+https://instant-playback.wistia.com/hls/NDQ2ZjI5Zjg1YmY4NTY4OS9tZWRpYS0xNDAwMTA2MzItaW5zdGFudC1obHMtNTM4cC0wNzVhMzk4ZC92MDAwMDMtcHJvZA==/playlist.m3u8
 
 #EXTINF:-1 group-title="CULTURALES",GraTis Hasta NoViembre 20
 http://embed-cloudfront.wistia.com/deliveries/2af25e23042dc1bfc5421da4e65668e716ac7ffc.m3u8
