@@ -1,6 +1,6 @@
-6#EXTM3U
+#EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES",GraTis Hasta NoViembre 20
+#EXTINF:-1 group-title="CANALES-DEPORTES",GraTis Hasta NoViembre 20
 http://instant-playback.wistia.com/hls/NDQ2ZjI5Zjg1YmY4NTY4OS9tZWRpYS0xNDAwMTA2MzItaW5zdGFudC1obHMtNTM4cC0wNzVhMzk4ZC92MDAwMDMtcHJvZA==/playlist.m3u8
 
 
@@ -332,91 +332,23 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9740
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9741
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png" ,DOC-Comedy Central (Z)(1080).
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9781
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 01 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8586
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 02 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8587
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 03 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8588
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 04 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8589
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 05 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8590
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 06 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8591
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 07 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8592
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 08 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8593
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 09 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8594
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 10 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8595
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 11 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8596
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 12 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8597
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 13 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8598
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 14 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8599
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 15 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8600
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 16 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8601
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 17 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8602
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 18 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8603
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 19 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8604
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 20 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8605
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 21 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8606
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 22 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8607
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 23 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8608
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 24 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8609
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 25 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8610
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 26 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8611
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 27 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8612
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 28 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8613
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 29 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8614
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 30 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8615
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 31 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8616
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 32 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8617
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 33 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8618
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 34 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8619
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 35 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8620
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 36 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8621
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 37 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8622
+
+
+
+
+
+
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (PM)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9516
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (e)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9517
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.ESPN.(Chile).cl" ,DEPORTES - Espn 1 CHI (TV)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/99538
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.ESPN.(Chile).cl" ,DEPORTES - Espn 1 CHI (Z)(720)
+#EXTINF:-1 group-tigytle="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.ESPN.(Chile).cl" ,DEPORTES - Espn 1 CHI (Z)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/99539
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 1 ARG (T)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9520
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.2.co" ,DEPORTES - Espn 1 ARG (TV)(1080)
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvgnb-id="ESPN.2.co" ,DEPORTES - Espn 1 ARG (TV)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9521
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 1 ARG (Z)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9522
