@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="DEPORTES",GraTis Hasta NoViembre 20
 http://instant-playback.wistia.com/hls/NDQ2ZjI5Zjg1YmY4NTY4OS9tZWRpYS0xNDAwMTA2MzItaW5zdGFudC1obHMtNTM4cC0wNzVhMzk4ZC92MDAwMDMtcHJvZA==/playlist.m3u8
 
-#EXTM3U
+
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" ,CINE - A&E (L)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9614
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" tvg-id="Canal.1.(Colombia).ar" ,CINE - A&E (M)(1080)
