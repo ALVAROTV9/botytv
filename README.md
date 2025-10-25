@@ -4,6 +4,21 @@
 http://instant-playback.wistia.com/hls/NDQ2ZjI5Zjg1YmY4NTY4OS9tZWRpYS0xNDAwMTA2MzItaW5zdGFudC1obHMtNTM4cC0wNzVhMzk4ZC92MDAwMDMtcHJvZA==/playlist.m3u8
 
 
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" ,CINE
+
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" tvg-id="Canal.Discovery.Channel.(México).mx" ,DOC-Discovery Channel (TV)(1080)
+http:/
+
+
+#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="http://daleplay.club:8080/images/1af27c4b7880c46b862f41093b2222a3.png" ,INF-Disney Channel (Z)
+http://
+
+#EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4
+
+#EXTINF:-1 group-title="CANALES-NACIONALES" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4
+
+
+#EXTINF:-1 group-title="CANALES-ADULTOS" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4
 
 
 #EXTINF:-1 group-title="-" ,15.3 RTS - LIKE TV
@@ -696,8 +711,11 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9780
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9814
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" ,DOC-Discovery Channel (M)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9815
+
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" tvg-id="Canal.Discovery.Channel.(México).mx" ,DOC-Discovery Channel (TV)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9816
+
+
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" ,DOC-Discovery Channel (Z)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9782
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-ENut58cGev8/XzNOsI6dCwI/AAAAAAAAAuU/W1b7DwjU3209Qzu9_K7nKNnu8Wh0EErdwCLcBGAsYHQ/w200-h200/65%2BDiscovery%2BFamily.png" ,DOC-Discovery Familia (TV)(720)
@@ -846,6 +864,7 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9864
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9865
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-jC_71uPSavo/XbCJ81p6qLI/AAAAAAAAAnY/Exgk_229xPQY-vQB55oAWD9a9gO5Ep-sACLcBGAsYHQ/s200/6.png" ,INF-Disney Channel (M)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9866
+
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="http://daleplay.club:8080/images/1af27c4b7880c46b862f41093b2222a3.png" ,INF-Disney Channel (Z)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9867
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" ,INF-Disney JR (L)(1080)
@@ -880,8 +899,11 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9882
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9873
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" ,INF-Tooncast (M)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9883
+
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="http://daleplaypro.com:8080/images/ebdac901ea46a900977d3f1b260823f2.png" ,INF-Tooncast (Z)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9884
+
+
 #EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://1.bp.blogspot.com/-X4Twi3pHIRM/Xm5XtyganmI/AAAAAAAABbk/6byY3ZUAXUYkg6WVzsqg_MjZY5x5Bg-2gCLcBGAsYHQ/s200/5.png" ,NOT-BBC World News (M)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/10250
 #EXTINF:-1 group-title="CANALES-NOTICIA" ,NOT-CNN en Español (M)(1080)
