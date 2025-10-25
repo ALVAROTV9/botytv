@@ -4,21 +4,21 @@
 http://instant-playback.wistia.com/hls/NDQ2ZjI5Zjg1YmY4NTY4OS9tZWRpYS0xNDAwMTA2MzItaW5zdGFudC1obHMtNTM4cC0wNzVhMzk4ZC92MDAwMDMtcHJvZA==/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" ,CINE
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" ,botytv
 
-#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" tvg-id="Canal.Discovery.Channel.(México).mx" ,DOC-Discovery Channel (TV)(1080)
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" tvg-id="Canal.Discovery.Channel.(México).mx" ,botytv
 http:/
 
 
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="http://daleplay.club:8080/images/1af27c4b7880c46b862f41093b2222a3.png" ,INF-Disney Channel (Z)
+#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,botytv
 http://
 
-#EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4
+#EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,
 
-#EXTINF:-1 group-title="CANALES-NACIONALES" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4
+#EXTINF:-1 group-title="CANALES-NACIONALES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" , botytv
 
 
-#EXTINF:-1 group-title="CANALES-ADULTOS" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4
+#EXTINF:-1 group-title="CANALES-ADULTOS" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" , botytv
 
 
 #EXTINF:-1 group-title="-" ,15.3 RTS - LIKE TV
