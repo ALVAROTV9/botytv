@@ -2,18 +2,20 @@
 
 #EXTINF:-1 group-title="CANALES-DEPORTES",GraTis Hasta NoViembre 20
 http://instant-playback.wistia.com/hls/NDQ2ZjI5Zjg1YmY4NTY4OS9tZWRpYS0xNDAwMTA2MzItaW5zdGFudC1obHMtNTM4cC0wNzVhMzk4ZC92MDAwMDMtcHJvZA==/playlist.m3u8
-
-
+ 
+ 
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" ,botytv
 
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" tvg-id="Canal.Discovery.Channel.(México).mx" ,botytv
 http:/
-
+ 
 
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,botytv
-http://
+htt
+ 
 
 #EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,
+ 
 
 #EXTINF:-1 group-title="CANALES-NACIONALES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" , botytv
 
@@ -21,145 +23,129 @@ http://
 #EXTINF:-1 group-title="CANALES-ADULTOS" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" , botytv
 
 
-#EXTINF:-1 group-title="-" ,15.3 RTS - LIKE TV
-http://205.235.6.29:8000/play/11/index.m3u8
-#EXTINF:-1 group-title="-" ,1531 - WUAN+
-http://205.235.6.29:8000/play/a0mq/index.m3u8
-#EXTINF:-1 group-title="-" ,20.5 ESTRELLAS HD
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,20.5 ESTRELLAS HD
 http://205.235.6.29:8000/play/13/index.m3u8
-#EXTINF:-1 group-title="-" ,202 TYC SPORT
+
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,202 TYC SPORT
 http://205.235.6.29:8000/play/a0oi/index.m3u8
-#EXTINF:-1 group-title="-" ,27.4 LA VOZ DE MARIA
-http://205.235.6.29:8000/play/a0md/index.m3u8
-#EXTINF:-1 group-title="-" ,30.1 DEPORTES 1
-http://205.235.6.29:8000/play/a0ns/index.m3u8
-#EXTINF:-1 group-title="-" ,31.1 LIGA PRO
+
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,31.1 LIGA PRO
 http://205.235.6.29:8000/play/a0nq/index.m3u8
-#EXTINF:-1 group-title="-" ,310 Telerama XUI
-http://205.235.6.29:8000/play/a0va/index.m3u8
-#EXTINF:-1 group-title="-" ,312 - TELERAMA ONCEPLAY
+
+
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,312 - TELERAMA ONCEPLAY
 http://205.235.6.29:8000/play/a0vg/index.m3u8
-#EXTINF:-1 group-title="-" ,313-TLNOVELAS HD
+
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,313-TLNOVELAS HD
 http://205.235.6.29:8000/play/a0vb/index.m3u8
-#EXTINF:-1 group-title="-" ,315 - ZAPPING DGN
-http://205.235.6.29:8000/play/a0vk/index.m3u8
-#EXTINF:-1 group-title="-" ,322 ROSA DE GUADLUPE 24/7
+
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,322 ROSA DE GUADLUPE 24/7
 http://205.235.6.29:8000/play/a0vj/index.m3u8
-#EXTINF:-1 group-title="-" ,323 - DIRECTV
+
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,323 - DIRECTV
 http://205.235.6.29:8000/play/a0vh/index.m3u8
-#EXTINF:-1 group-title="-" ,351 - France 24
+#EXTINF:-1 group-title="CANALES-NOTICIA" ,351 - France 24
 http://205.235.6.29:8000/play/a0vd/index.m3u8
-#EXTINF:-1 group-title="-" ,352- ESPN APP
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,352- ESPN APP
 http://205.235.6.29:8000/play/a0vn/index.m3u8
-#EXTINF:-1 group-title="-" ,353 - CANAL NITRO
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,353 - CANAL NITRO
 http://205.235.6.29:8000/play/a0w5/index.m3u8
-#EXTINF:-1 group-title="-" ,354 - CANAL MUSICA
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,354 - CANAL MUSICA
 http://205.235.6.29:8000/play/a0w6/index.m3u8
-#EXTINF:-1 group-title="-" ,355 - 30.1 CANAL DEPORTES
-http://205.235.6.29:8000/play/a0w7/index.m3u8
-#EXTINF:-1 group-title="-" ,356-CANAL SIGSIG
-http://205.235.6.29:8000/play/a0wa/index.m3u8
-#EXTINF:-1 group-title="-" ,357-UNSION TV
-http://205.235.6.29:8000/play/a0vi/index.m3u8
-#EXTINF:-1 group-title="-" ,358 - UNSION PARA TV
-http://205.235.6.29:8000/play/a0wb/index.m3u8
-#EXTINF:-1 group-title="-" ,Adult Swim
-http://205.235.6.29:8000/play/a0qt/index.m3u8
-#EXTINF:-1 group-title="-" ,America TV HD
+
+
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,America TV HD
 http://205.235.6.29:8000/play/a0ut/index.m3u8
-#EXTINF:-1 group-title="-" ,Animal Planet HD
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,Animal Planet HD
 http://205.235.6.29:8000/play/a0nb/index.m3u8
-#EXTINF:-1 group-title="-" ,Antena 3
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,Antena 3
 http://205.235.6.29:8000/play/a0ru/index.m3u8
-#EXTINF:-1 group-title="-" ,CARACOL HD LIKETV
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,CARACOL HD LIKETV
 http://205.235.6.29:8000/play/a0vf/index.m3u8
-#EXTINF:-1 group-title="-" ,CNN Espaæol
+#EXTINF:-1 group-title="CANALES-NOTICIA" ,CNN Espaæol
 http://205.235.6.29:8000/play/a0qb/index.m3u8
-#EXTINF:-1 group-title="-" ,DHE
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,DHE
 http://205.235.6.29:8000/play/a0py/index.m3u8
-#EXTINF:-1 group-title="-" ,DTV
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,DTV
 http://205.235.6.29:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="-" ,DW Espaæol
+#EXTINF:-1 group-title="CANALES-NOTICIA" ,DW Espaæol
 http://205.235.6.29:8000/play/a0s2/index.m3u8
-#EXTINF:-1 group-title="-" ,De PelŦcula
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,De PelŦcula
 http://205.235.6.29:8000/play/a0p8/index.m3u8
-#EXTINF:-1 group-title="-" ,Discovery Channel  HD
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,Discovery Channel  HD
 http://205.235.6.29:8000/play/a0nc/index.m3u8
-#EXTINF:-1 group-title="-" ,Discovery Kids
+#EXTINF:-1 group-title="CANALES-INFANTILES" ,Discovery Kids
 http://205.235.6.29:8000/play/a0m3/index.m3u8
-#EXTINF:-1 group-title="-" ,Discovery Science
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,Discovery Science
 http://205.235.6.29:8000/play/a0qk/index.m3u8
-#EXTINF:-1 group-title="-" ,Discovery Theater HD
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,Discovery Theater HD
 http://205.235.6.29:8000/play/a0pj/index.m3u8
-#EXTINF:-1 group-title="-" ,Discovery Turbo
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,Discovery Turbo
 http://205.235.6.29:8000/play/a0qf/index.m3u8
-#EXTINF:-1 group-title="-" ,Distrito Comedia
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,Distrito Comedia
 http://205.235.6.29:8000/play/a0mr/index.m3u8
-#EXTINF:-1 group-title="-" ,ECU RTU
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,ECU RTU
 http://205.235.6.29:8000/play/a0ma/index.m3u8
-#EXTINF:-1 group-title="-" ,ECUAVISA WEB
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,ECUAVISA WEB
 http://205.235.6.29:8000/play/a0nt/index.m3u8
-#EXTINF:-1 group-title="-" ,ESPN 3 HD
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,ESPN 3 HD
 http://205.235.6.29:8000/play/a0w0/index.m3u8
-#EXTINF:-1 group-title="-" ,ESPN 5 HD
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,ESPN 5 HD
 http://205.235.6.29:8000/play/a0vw/index.m3u8
-#EXTINF:-1 group-title="-" ,ESPN 6 HD
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,ESPN 6 HD
 http://205.235.6.29:8000/play/a0vy/index.m3u8
-#EXTINF:-1 group-title="-" ,ESPN 7 HD
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,ESPN 7 HD
 http://205.235.6.29:8000/play/a0vu/index.m3u8
-#EXTINF:-1 group-title="-" ,ESPN Premium HD
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,ESPN Premium HD
 http://205.235.6.29:8000/play/a0pz/index.m3u8
-#EXTINF:-1 group-title="-" ,Food Network
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,Food Network
 http://205.235.6.29:8000/play/a0px/index.m3u8
-#EXTINF:-1 group-title="-" ,France 24
+#EXTINF:-1 group-title="CANALES-NOTICIA" ,France 24
 http://205.235.6.29:8000/play/a0rz/index.m3u8
-#EXTINF:-1 group-title="-" ,Golden HD
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,Golden HD
 http://205.235.6.29:8000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="-" ,HGTV
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,HGTV
 http://205.235.6.29:8000/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="-" ,HTV
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,HTV
 http://205.235.6.29:8000/play/a0oy/index.m3u8
-#EXTINF:-1 group-title="-" ,Home & Health HD
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,Home & Health HD
 http://205.235.6.29:8000/play/a0qa/index.m3u8
-#EXTINF:-1 group-title="-" ,ID HD
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,ID HD
 http://205.235.6.29:8000/play/a0r6/index.m3u8
-#EXTINF:-1 group-title="-" ,Las Estrellas HD
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,Las Estrellas HD
 http://205.235.6.29:8000/play/a0n3/index.m3u8
-#EXTINF:-1 group-title="-" ,Latina HD
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,Latina HD
 http://205.235.6.29:8000/play/a0uw/index.m3u8
-#EXTINF:-1 group-title="-" ,MEGA HD
+#EXTINF:-1 group-title="CANALES-NACIONALES" ,MEGA HD
 http://205.235.6.29:8000/play/a0pq/index.m3u8
-#EXTINF:-1 group-title="-" ,ORO MAR WEB
-http://205.235.6.29:8000/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="-" ,PLIM PLIM
+
+#EXTINF:-1 group-title="CANALES-INFANTILES" ,PLIM PLIM
 http://205.235.6.29:8000/play/a0mp/index.m3u8
-#EXTINF:-1 group-title="-" ,Pasiones HD
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,Pasiones HD
 http://205.235.6.29:8000/play/a0pl/index.m3u8
-#EXTINF:-1 group-title="-" ,RTS
-http://205.235.6.29:8000/play/a0o6/index.m3u8
-#EXTINF:-1 group-title="-" ,STAR CHANEL
+
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,STAR CHANEL
 http://205.235.6.29:8000/play/a0oj/index.m3u8
-#EXTINF:-1 group-title="-" ,Space HD
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,Space HD
 http://205.235.6.29:8000/play/a0r7/index.m3u8
-#EXTINF:-1 group-title="-" ,Stingray Concerts
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,Stingray Concerts
 http://205.235.6.29:8000/play/a0ur/index.m3u8
-#EXTINF:-1 group-title="-" ,Sun Channel HD
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,Sun Channel HD
 http://205.235.6.29:8000/play/a0q2/index.m3u8
-#EXTINF:-1 group-title="-" ,TC Televisiðn
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,TC Televisiðn
 http://205.235.6.29:8000/play/a0m8/index.m3u8
 #EXTINF:-1 group-title="-" ,TLC
 http://205.235.6.29:8000/play/a0qj/index.m3u8
-#EXTINF:-1 group-title="-" ,TNT HD
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,TNT HD
 http://205.235.6.29:8000/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="-" ,Tlnovelas
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,Tlnovelas
 http://205.235.6.29:8000/play/a0ow/index.m3u8
-#EXTINF:-1 group-title="-" ,Venus
+#EXTINF:-1 group-title="CANALES-ADULTOS" ,Venus
 http://205.235.6.29:8000/play/a0pb/index.m3u8
-#EXTINF:-1 group-title="-" ,WUAN+
-http://205.235.6.29:8000/play/a0pd/index.m3u8
-#EXTINF:-1 group-title="-" ,Warner TV HD
+
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,Warner TV HD
 http://205.235.6.29:8000/play/a0r5/index.m3u8
-#EXTINF:-1 group-title="-" ,Win Sports+ HD
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,Win Sports+ HD
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 
