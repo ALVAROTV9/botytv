@@ -5,7 +5,7 @@ http://instant-playback.wistia.com/hls/NDQ2ZjI5Zjg1YmY4NTY4OS9tZWRpYS0xNDAwMTA2M
 
 
 
-#EXTM3U
+
 #EXTINF:-1 group-title="-" ,15.3 RTS - LIKE TV
 http://205.235.6.29:8000/play/11/index.m3u8
 #EXTINF:-1 group-title="-" ,1531 - WUAN+
