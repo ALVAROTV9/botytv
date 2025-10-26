@@ -1,26 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CANALES-DEPORTES",GraTis Hasta NoViembre 20
-http://instant-playback.wistia.com/hls/NDQ2ZjI5Zjg1YmY4NTY4OS9tZWRpYS0xNDAwMTA2MzItaW5zdGFudC1obHMtNTM4cC0wNzVhMzk4ZC92MDAwMDMtcHJvZA==/playlist.m3u8
- 
- 
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" ,botytv
+#EXTINF:-1 group-title="CANALES-DEPORTES",GraTis Hasta NoViembre 2
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 
-#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" tvg-id="Canal.Discovery.Channel.(México).mx" ,botytv
-http:/
- 
 
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,botytv
-htt
  
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" ,botytv Gratis Hasta 2 Nov2025
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 
-#EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" tvg-id="Canal.Discovery.Channel.(México).mx" ,botytv Gratis Hasta 2Nov2025
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
+
  
 
-#EXTINF:-1 group-title="CANALES-NACIONALES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" , botytv
+#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,botytv Cintactenos
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
+ 
+
+#EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,Escribenos Ya oara Disfrutar Mas
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
+ 
+
+#EXTINF:-1 group-title="CANALES-NACIONALES" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" , botytv Sigue Disfrutando, escribenos
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 
 
-#EXTINF:-1 group-title="CANALES-ADULTOS" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" , botytv
+#EXTINF:-1 group-title="CANALES-ADULTOS" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" , botytv PIDE MAS XXX
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 
 
 #EXTINF:-1 group-title="CANALES-NACIONALES" ,20.5 ESTRELLAS HD
@@ -134,7 +140,7 @@ http://205.235.6.29:8000/play/a0ur/index.m3u8
 http://205.235.6.29:8000/play/a0q2/index.m3u8
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,TC Televisiðn
 http://205.235.6.29:8000/play/a0m8/index.m3u8
-#EXTINF:-1 group-title="-" ,TLC
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" ,TLC
 http://205.235.6.29:8000/play/a0qj/index.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" ,TNT HD
 http://205.235.6.29:8000/play/a0r4/index.m3u8
