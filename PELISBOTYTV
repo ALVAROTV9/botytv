@@ -1,8 +1,17 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="🟢2025🔵" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , CAMBIAMOS CLAVE OTT GRATIS, info en el video.
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , CAMBIAMOS CLAVE OTT GRATIS, info en el video.
 http://embed-cloudfront.wistia.com/deliveries/329b638553a5830487ac2fb12fd16346b8fd10a7.m3u8
+
+#EXTINF:-1 group-title="VOD-NETFLIX" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , CAMBIAMOS CLAVE OTT GRATIS, info en el video.
+http://embed-cloudfront.wistia.com/deliveries/329b638553a5830487ac2fb12fd16346b8fd10a7.m3u8
+
+
+
+#EXTINF:-1 group-title="VOD-AMAZON" tvg-logo="https://i.ibb.co/wNxzTLW8/botyTv.png" , CAMBIAMOS CLAVE OTT GRATIS, info en el video.
+http://embed-cloudfront.wistia.com/deliveries/329b638553a5830487ac2fb12fd16346b8fd10a7.m3u8
+
 
 
 
