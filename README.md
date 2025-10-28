@@ -187,144 +187,146 @@ http://nocable.cc:8080/b2U9nd/520098/167750
 
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" tvg-id="Canal.13.de.Argentina.(El.Trece).ar" ,CINE - A&E (L)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9614
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" tvg-id="Canal.1.(Colombia).ar" ,CINE - A&E (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9615
+#E1XTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" tvg-id="Canal.1.(Colombia).ar" ,CINE - A&E (M)(1080)
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
+
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" tvg-id="A&E.co" ,CINE - A&E (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9616
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
+
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" tvg-id="Canal.AMC.(México).sv" ,CINE - AMC (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9619
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" tvg-id="Canal.AMC.(México).mx" ,CINE - AMC (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9620
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" tvg-id="AMC.HD.co" ,CINE - AMC (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9621
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" tvg-id="Canal.AXN.(México).mx" ,CINE - AXN (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9622
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" tvg-id="Canal.AXN.(México).mx" ,CINE - AXN (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9623
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" tvg-id="AXN.co" ,CINE - AXN (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9624
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" tvg-id="Canal.AXN.(México).mx" ,CINE - AXN (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9625
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" ,CINE - HBO (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9666
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" ,CINE - HBO (TV)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9668
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" ,CINE - HBO (M)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9667
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" ,CINE - HBO (TV)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9669
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" tvg-id="Canal.HBO.(México).mx" ,CINE - HBO (1080)(T)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9670
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" tvg-id="HBO.2.co" ,CINE - HBO 2 (T)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9673
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" tvg-id="Canal.HBO.2.Latinoamérica.mx" ,CINE - HBO 2 (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9675
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" tvg-id="Canal.HBO.2.Latinoamérica.mx" ,CINE - HBO 2 (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9671
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" tvg-id="Canal.HBO.2.Latinoamérica.mx" ,CINE - HBO 2 (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9674
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" ,CINE - HBO Family (L)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9676
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" ,CINE - HBO Family (T)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9678
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" ,CINE - HBO Family (TV)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9679
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://d144mzi0q5mijx.cloudfront.net/img/H/B/HBO-Family.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" ,CINE - HBO Family (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9681
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" ,CINE - HBO Family (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9680
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" ,CINE - HBO Family. (TV)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9677
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" tvg-id="Canal.HBO.Mundi.mx" ,CINE - HBO Mundi (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9682
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" tvg-id="Canal.HBO.Mundi.mx" ,CINE - HBO Mundi (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9683
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddoicif-5c26565c-0b8a-4e12-ab2c-3445915f66e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InB(Z)(720)GgiOiJcL2ZcLzdhNmEzMWJjLTUyNzYtNGJkMS1iMjVjLTVkMjI5OTkwNjUxY1wvZGRvaWNpZi01YzI2NTY1Yy0wYjhhLTRlMTItYWIyYy0zNDQ1OTE1ZjY2ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8hppAoC3nmeoQdtyGR04J948j3F_OEtAjUmB0pF7bD8" tvg-id="Canal.HBO.Mundi.mx" ,CINE - HBO Mundi (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9684
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" tvg-id="Canal.HBO.Plus.mx" ,CINE - HBO Plus (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9685
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="http://tv.proyectox.vip:8080/images/34173cb38f07f89ddbebc2ac9128303f.png" tvg-id="Canal.HBO.Plus.mx" ,CINE - HBO Plus (M)(SD) [Dual Audio]
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9686
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" tvg-id="Canal.HBO.Plus.mx" ,CINE - HBO Plus (TV)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9687
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" tvg-id="Canal.HBO.Plus.mx" ,CINE - HBO Plus (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9688
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" tvg-id="Canal.HBO.Pop.mx" ,CINE - HBO POP (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9689
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnMHcQQbV1arQqL1aXSdsPQjQOS1BoB_zOB1rOphseF5cNjelO7wA6blvVo9lA8b6N8E&usqp=CAU" tvg-id="Canal.HBO.Pop.mx" ,CINE - HBO POP (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9691
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" tvg-id="HBO.POP.co" ,CINE - HBO POP. (TV)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9690
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" tvg-id="Canal.HBO.Signature.Latinoamérica.mx" ,CINE - HBO Signature (M)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9692
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png" tvg-id="Canal.HBO.Signature.Latinoamérica.mx" ,CINE - HBO Signature (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9693
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg" tvg-id="Canal.HBO.Signature.Latinoamérica.mx" ,CINE - HBO Signature (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9694
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" tvg-id="Canal.HBO.Signature.Latinoamérica.mx" ,CINE - HBO Signature Dual Audio (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9695
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" tvg-id="Canal.HBO.(Chile).cl" ,CINE - HBO SUR (Z)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9696
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" tvg-id="HBO.XTREME.co" ,CINE - HBO Xtream (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9697
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" tvg-id="HBO.XTREME.co" ,CINE - HBO Xtreme (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9698
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" tvg-id="HBO.XTREME.co" ,CINE - HBO Xtreme (TV)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9700
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png" tvg-id="HBO.XTREME.co" ,CINE - HBO Xtreme (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9701
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" tvg-id="HBO.XTREME.co" ,CINE - HBO Xtreme. (M)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9699
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" tvg-id="Canal.HBO.2.Latinoamérica.mx" ,CINE - HBO. 2 (TV)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9672
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" tvg-id="Canal.Cinelatino.cl" ,CINE - Cine Latino (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9626
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/" tvg-id="Canal.Cinelatino.cl" ,CINE - Cine Latino (Z)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9627
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" tvg-id="Canal.Cinecanal.(México).mx" ,CINE - Cinecanal (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9628
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" tvg-id="AdultSwim.co" ,CINE - CineCanal (TV)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9629
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" tvg-id="Cinecanal.co" ,CINE - CineCanal (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9630
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" tvg-id="Canal.Cinecanal.(México).mx" ,CINE - Cinecanal (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9631
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://payload.cargocollective.com/1/18/598638/11690943/cd1_895.png" ,CINE - Cinema Dinamita (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9632
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" tvg-id="Canal.Cinemax.(México).mx" ,CINE - Cinemax (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9633
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" tvg-id="Cinemax.co" ,CINE - Cinemax (TV)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9634
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapWv0ZtvCDDJbWxrh_B-9xTzIpgcamrL0Hl7QU6_hzmT9YorrLtKqi1KOf99Rdj2fjZU&usqp=CAU" tvg-id="Canal.Cinemax.(México).mx" ,CINE - Cinemax (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9635
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" tvg-id="Comedy.Central.co" ,CINE - Comedy Central (L)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9636
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="http://tv.proyectox.vip:8080/images/8f14e45fceea167a5a36dedd4bea2543.png" tvg-id="Comedy.Central.co" ,CINE - Comedy Central (M)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9637
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8" tvg-id="Comedy.Central.co" ,CINE - Comedy Central (M)(SD)
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" tvg-id="Canal.Paramount.Channel.(México).mx" ,CINE - Paramount (Z)(720) -
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9705
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" tvg-id="Canal.Paramount.Channel.(México).mx" ,CINE - Paramount Channel. (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9708
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" tvg-id="CW.Plus.Mountain.us" ,CINE - Paramount Network (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9707
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" tvg-id="Canal.TNT.(México).mx" ,CINE - TNT (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9742
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" tvg-id="Canal.TNT.(México).mx" ,CINE - TNT (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9743
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" tvg-id="Canal.TNT.(México).mx" ,CINE - TNT (M)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9744
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" tvg-id="TNT.co" ,CINE - TNT (TV)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9745
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" tvg-id="Canal.TNT.(México).mx" ,CINE - TNT (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9746
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" tvg-id="Canal.TLNovelas.(México).mx" ,CINE - TNT Novelas  (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9747
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" tvg-id="Canal.TNT.Novelas.(Latinoamérica).sv" ,CINE - TNT Novelas (M)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9737
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" tvg-id="Canal.TNT.Series.(México).mx" ,CINE - TNT Series (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9748
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" tvg-id="Canal.TNT.Series.(México).mx" ,CINE - TNT Series (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9749
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" tvg-id="Canal.TNT.Series.(México).mx" ,CINE - TNT Series (TV)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9750
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" tvg-id="Canal.TNT.Series.(México).mx" ,CINE - TNT Series (Z)(720).
@@ -334,185 +336,185 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9753
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" tvg-id="Canal.Universal.TV.(México).mx" ,CINE - Universal Channel (M)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9754
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" tvg-id="Canal.Universal.TV.(México).mx" ,CINE - Universal Channel (M)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9755
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" tvg-id="Canal.Universal.Cinema.sv" ,CINE - Universal Cinema (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9756
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" tvg-id="Canal.Universal.Cinema.sv" ,CINE - Universal Cinema (M)(1080) [Dual Audio]
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9757
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" tvg-id="Canal.Universal.Cinema.sv" ,CINE - Universal Cinema (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9758
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" tvg-id="Canal.Universal.Comedy.sv" ,CINE - Universal Comedy (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9759
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" tvg-id="Canal.Universal.Comedy.sv" ,CINE - Universal Comedy (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9760
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" tvg-id="Canal.Universal.Crime.sv" ,CINE - Universal Crime (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9761
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" tvg-id="Canal.Universal.Crime.sv" ,CINE - Universal Crime (M)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9762
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" tvg-id="Canal.Universal.Crime.sv" ,CINE - Universal Crime (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9763
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" tvg-id="Canal.Universal.Crime.sv" ,CINE - Universal Crime (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9764
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" tvg-id="Canal.Universal.Premiere.sv" ,CINE - Universal Premier (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9765
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" tvg-id="Canal.Universal.Premiere.sv" ,CINE - Universal Premier (M)(1080) [Dual Audio]
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9766
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" tvg-id="Canal.Universal.Premiere.sv" ,CINE - Universal Premier (T)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9767
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" tvg-id="Canal.Universal.Premiere.sv" ,CINE - Universal Premiere Norte (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9768
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" tvg-id="Canal.Universal.Premiere.sv" ,CINE - Universal Premiere Sur (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9769
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" tvg-id="Canal.Universal.Reality.sv" ,CINE - Universal Reality (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9770
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" tvg-id="Canal.Universal.Reality.sv" ,CINE - Universal Reality (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9771
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" tvg-id="Canal.Universal.Reality.sv" ,CINE - Universal Reality (TV)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9772
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" tvg-id="Canal.Universal.Reality.sv" ,CINE - Universal Reality (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9773
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" tvg-id="Canal.Warner.TV.(México).sv" ,CINE - Warner Channel (L)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9774
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" tvg-id="Canal.Warner.TV.(Chile).cl" ,CINE - Warner Channel (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9776
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Warner_Channel_Shield_2000.png/revision/latest/scale-to-width-down/250?cb=20200117133843&path-prefix=es" tvg-id="Canal.Warner.TV.(México).sv" ,CINE - Warner Channel (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9777
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" tvg-id="Canal.Warner.TV.(México).sv" ,CINE - Warner Channel Dual Audio (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9775
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-eewIYgEehoo/Xmv1VpJFO8I/AAAAAAAABZ4/BPjBSNwzMQQW68jCaM2IoppQQe4HWATJgCLcBGAsYHQ/s200/72.png" tvg-id="Canal.WOBI.mx" ,CINE - Wobi TV (TV)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9778
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-NB9rkT-lYkM/Xw8qxPOt_nI/AAAAAAAAAWw/NIIAJUpL29cJdLEkeRfNyS527x8nxiX5ACLcBGAsYHQ/w200-h200/A3%2BCine.png" tvg-id="M+.Cine.Español.es" ,CINE - A3 Cine INT (TV)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9617
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-nYXXZBWn3K8/Xbf03udfliI/AAAAAAAAAuQ/TbR_EaUFPp4owroSxx09nXC7CHvvW1q0ACLcBGAsYHQ/s200/58.png" tvg-id="Atreseries.es" ,CINE - A3 Series (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9618
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" tvg-id="Canal.HBO.Xtreme.sv" ,CINE - HBO Xtreme Dual (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9779
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" tvg-id="Canal.De.Película.mx" ,CINE - De Pelicula (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9638
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" tvg-id="De.Pelicula.Clasico.us" ,CINE - De Pelicula Plus (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9639
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" tvg-id="Canal.De.Película.mx" ,CINE - De Pelicula Plus (Z)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9640
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" tvg-id="De.Pelicula.Clasico.us" ,CINE - De Peliculas Clasico (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9641
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" tvg-id="Canal.De.Película.mx" ,CINE - De Película (TV)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9642
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png" tvg-id="DHE.HD.co" ,CINE - DHE (T)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9643
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" tvg-id="Canal.Distrito.Comedia.mx" ,CINE - Distrito Comedia (L)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9644
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" tvg-id="Canal.Distrito.Comedia.mx" ,CINE - Distrito Comedia (M)(SD)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9645
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" tvg-id="Canal.E!.Entertainment.Television.(México).mx" ,CINE - E! (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9646
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png" tvg-id="Canal.Elgourmet.mx" ,CINE - El Gourmet (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9647
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-hp_TVEc208E/Xg-BsZUcaKI/AAAAAAAAA48/eXROhRPKdKop12SD74yIK-zUaK-OZr_tACLcBGAsYHQ/s200/64.png" tvg-id="Canal.Europa.Europa.mx" ,CINE - Europa Europa (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9648
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpsw81Sk4WqgDl5Pk0BZWu7740GNi_mEAtw&usqp=CAU" tvg-id="Canal.Film.&.Arts.mx" ,CINE - Film & Arts (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9649
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-0Ey1X4aOpGY/Xg-Cjv2sU3I/AAAAAAAAA5E/Dt5jR8PGYFY7JZ-at0mMfzEjV9MNqaRvwCLcBGAsYHQ/s200/65.png" tvg-id="Canal.Film.&.Arts.mx" ,CINE - Film And Arts (M)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9650
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/68.png" tvg-id="Food.Network.co" ,CINE - Food Network (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9651
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" tvg-id="Canal.FX.(México).mx" ,CINE - FX (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9652
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" tvg-id="Canal.FX.(México).mx" ,CINE - FX (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9653
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/07/fx.jpg" tvg-id="FX.co" ,CINE - FX (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9654
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" tvg-id="Canal.FX.(México).mx" ,CINE - FX MEX (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9655
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png" tvg-id="GOLDEN.HD.co" ,CINE - Golden (M)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9656
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" tvg-id="Canal.Golden.(México).mx" ,CINE - Golden (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9657
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" tvg-id="Canal.Golden.Edge.mx" ,CINE - Golden Edge (M)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9658
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" tvg-id="Canal.Golden.Edge.mx" ,CINE - Golden Edge (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9659
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" tvg-id="Canal.Golden.Plus.mx" ,CINE - Golden Plus (L)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9660
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" tvg-id="Canal.Golden.Plus.mx" ,CINE - Golden Plus (M)(1080) [Dual Audio]
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9661
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" tvg-id="Canal.Golden.Plus.mx" ,CINE - Golden Plus
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU" tvg-id="Canal.Golden.Plus.mx" ,CINE - Golden Plus (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9662
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-(Z)(720)_m.png" tvg-id="Canal.Golden.Premier.mx" ,CINE - Golden Premier (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9663
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" tvg-id="Canal.Golden.Premier.mx" ,CINE - Golden Premiere (M)(1080) [Dual Audio]
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9664
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" tvg-id="Canal.Golden.Premier.mx" ,CINE - Golden Premiere (M)(1080) 
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" tvg-id="Canal.Golden.Premier.2.mx" ,CINE - Golden Premiere 2 (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9665
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" tvg-id="Canal.AMC.(México).mx" ,CINE - AMC (M)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9702
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png" tvg-id="Canal.Lifetime.(México).mx" ,CINE - Lifetime (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9703
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-id="Canal.Pánico.mx" ,CINE - Panico MEX (T)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9704
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" tvg-id="Showtime.Extreme.-.Eastern.us" ,CINE - Showtime Extreme (Z)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9709
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-1CyRY6HMjJE/XxCHEUy_trI/AAAAAAAAAbg/g0eCuMarEbA_5d3m7g468QjwKuXA91EjgCLcBGAsYHQ/w200-h200/Showtime%2BWEST.png" tvg-id="Paramount+.with.Showtime..West.us" ,CINE - Showtime West Dual (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9710
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" tvg-id="Canal.Sony.(México).mx" ,CINE - Sony Channel (L)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9711
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" tvg-id="Canal.Sony.(México).mx" ,CINE - Sony Channel (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9712
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png" tvg-id="SONY.HD.(Sony.HD).pe" ,CINE - Sony Cine (M)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9713
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-vLc9HxhBCWc/YrOnfUyvmGI/AAAAAAAADqU/7-IF607hHU4auLdAULFL9TbfbuWWkvcFQCNcBGAsYHQ/w200-h200/1655940987722304-1.png" tvg-id="Sony.KAL.us" ,CINE - Sony Comedias (S)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9714
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-LF8eNaiagYk/YrOoDrHNJUI/AAAAAAAADqg/00ZKoE3RGd4v7HO51ggIJO9i32zgukiSACNcBGAsYHQ/w200-h200/1655941132757676-0.png" tvg-id="Sony.Movies.us" ,CINE - Sony Movies (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9715
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-JYH4OV2UZyY/YrOngMaC-EI/AAAAAAAADqY/2lSJe3QRzDM4qzssNcDa2qhVLQllQDPNwCNcBGAsYHQ/w200-h200/1655940990366011-0.png" tvg-id="Canal.TNT.Novelas.(México).mx" ,CINE - Sony Novelas (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9716
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" tvg-id="Canal.Space.(México).mx" ,CINE - Space (TV)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9717
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" tvg-id="Space.co" ,CINE - Space (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9718
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmEH8nElhOC1Zy-eT9rciDQJrti64bkBt4VIwUFz336rh6o7c0(Z)(720)zX5l0h9-g67N-Thw&usqp=CAU" tvg-id="Canal.Space.(México).mx" ,CINE - Space (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9719
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwey_QSgsURF5ORWFEgyemvsmJXAux5cssS_z_HZygeAGq-wNY38LPXHXw6MC8dO56xLY&usqp=CAU" tvg-id="Canal.Star.Channel.(México).mx" ,CINE - Star Channel (Z)(720) -
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9720
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" tvg-id="STAR.CHANNEL.co" ,CINE - STAR Channel CO (M)(1080) [Dual Audio]
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9721
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" tvg-id="STAR.CHANNEL.co" ,CINE - STAR Channel CO. (M)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9722
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" tvg-id="Canal.Star.Channel.(México).mx" ,CINE - STAR Channel MX (L)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9723
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" tvg-id="Canal.Star.Channel.(México).mx" ,CINE - Star Channel Norte (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9724
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" tvg-id="Canal.Star.Channel.(Argentina).ar" ,CINE - Star Channel Sur (Z)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9725
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ru5-dc21HTI/Xmvz5ztZLnI/AAAAAAAABZs/25I5OIJh_tEoTM5rCvQfFtj83-GqrI_fwCLcBGAsYHQ/s200/71.png" tvg-id="Star.es" ,CINE - Star TVE (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9726
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" tvg-id="Starz.-.Eastern.us" ,CINE - Starz (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9727
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" tvg-id="Starz.Comedy.HD.-.Eastern.us" ,CINE - Starz Comedy (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9728
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png" tvg-id="Starz.Encore.on.Demand.us" ,CINE - STARZ Encore (TV)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9729
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" tvg-id="Starz.Encore.Suspense.-.Eastern.us" ,CINE - Starz Encore Suspense (Z)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9730
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" tvg-id="Starz.Encore.Family.-.Eastern.us" ,CINE - Starz Family (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9731
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" tvg-id="Canal.Studio.Universal.(México).mx" ,CINE - Studio Universal (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9732
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" tvg-id="Canal.Studio.Universal.(México).mx" ,CINE - Studio Universal (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9733
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-jfjNpEHTpUo/XaqcohSN_RI/AAAAAAAAAZg/zMNahbdtrzEcLIfwhOB4OpzhAg_HyR0OwCLcBGAsYHQ/s200/29.png" tvg-id="Syfy.-.Eastern.Feed.us" ,CINE - Syfy (M)(720)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9735
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" tvg-id="Syfy.-.Eastern.Feed.us" ,CINE - SYFY (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9736
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://www.kindpng.com/picc/m/483-4832828_tbs-logo-png-transparent-transparent-tbs-logo-png.png" tvg-id="TBS.-.East.us" ,CINE - TBS (Z)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9738
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-wMzLh7XtNXQ/XaqajETYhtI/AAAAAAAAAZM/PSGrPhF2qbMiqH0jLk_-dY-A3yehkNxkwCLcBGAsYHQ/s200/27.png" tvg-id="TBS.-.East.us" ,CINE - TBS Very Funny (TV)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9739
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-I0it6XRRNxo/XdtVtXF2xPI/AAAAAAAAA30/Cb3ZdzakgygMU2_98viDf2CFqek_sQRTACLcBGAsYHQ/s200/24.png" tvg-id="Canal.TCM.(México).mx" ,CINE - TCM (M)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9740
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="Canal.TCM.(México).mx" ,CINE - TCM (Z)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9741
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://static.epg.best/mx/ComedyCentral.mx.png" ,DOC-Comedy Central (Z)(1080).
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9781
+http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 
 
 
