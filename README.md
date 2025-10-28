@@ -29,6 +29,32 @@ http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e71
 http://embed-cloudfront.wistia.com/deliveries/4d347f2b11b49b5e605a368b4fd2442e716abd48.m3u8
 
 
+
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,CO: Win Sports + FHD
+http://nocable.cc:8080/b2U9nd/520098/78717
+
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,CO: ESPN COLOMBIA
+http://nocable.cc:8080/b2U9nd/520098/86765
+
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,PT: SPORT TV 1 FHD
+http://nocable.cc:8080/b2U9nd/520098/167742
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,PT: SPORT TV 2 HD
+http://nocable.cc:8080/b2U9nd/520098/167743
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,PT: SPORT TV 3 HD
+http://nocable.cc:8080/b2U9nd/520098/167744
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,PT: SPORT TV 4 FHD
+http://nocable.cc:8080/b2U9nd/520098/167745
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,PT: ELEVEN SPORTS 3 HD
+http://nocable.cc:8080/b2U9nd/520098/167748
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,PT: ELEVEN SPORTS 4 HD
+http://nocable.cc:8080/b2U9nd/520098/167749
+#EXTINF:-1 group-title="CANALES-DEPORTES" ,PT: ELEVEN SPORTS 5 HD
+http://nocable.cc:8080/b2U9nd/520098/167750
+
+
+
+
+
 #EXTINF:-1 group-title="CANALES-NACIONALES" ,20.5 ESTRELLAS HD
 http://205.235.6.29:8000/play/13/index.m3u8
 
