@@ -6,6 +6,65 @@
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 
 
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,ES: (HD) DAZN LALIGA
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/391
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,ES: (HD REPUESTO) DAZN LALIGA
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/393
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" ,ES: (HD REPUESTO2) DAZN LALIGA
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74434
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,ES: (FHD) DAZN LALIGA
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/392
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,CH1
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/394
+
+
+
+#EXTINF:-1 group-title="PPV" ,CH2
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31403
+#EXTINF:-1 group-title="PPV" ,CH3
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31404
+#EXTINF:-1 group-title="PPV" ,CH4
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31405
+#EXTINF:-1 group-title="PPV" ,CH5
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31406
+#EXTINF:-1 group-title="PPV" ,CH6
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31407
+#EXTINF:-1 group-title="PPV" ,CH7
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31408
+#EXTINF:-1 group-title="PPV" ,CH8
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31409
+#EXTINF:-1 group-title="PPV" ,CH9
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31410
+#EXTINF:-1 group-title="PPV" ,CH10
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31411
+#EXTINF:-1 group-title="PPV" ,CH11
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31412
+#EXTINF:-1 group-title="PPV" ,CH12
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/31413
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 1
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74519
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 2
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74520
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 3
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74521
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 4
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74522
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 5
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74523
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 6
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74524
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 7
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74525
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 8
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74526
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 9
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74527
+#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 10
+http://espeasaea.top:8080/MARIANOBARRIO/639166965/74528
+
+
+
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (PM)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9516
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (e)(720)
