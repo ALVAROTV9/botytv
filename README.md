@@ -21,9 +21,8 @@ http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,EVENTOS 4
 http://205.235.6.29:8000/play/a0w0/index.m3u8
 
-#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,CH5
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/394
-
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,EVENTOS 5
+http://205.235.6.29:8000/play/a0vw/index.m3u8
 
 
 #EXTINF:-1 group-title="PPV" ,CH6
