@@ -7,34 +7,34 @@ http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d5
 
 
 
-#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,ES: (HD) DAZN LALIGA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,EVENTOS 1
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/391
-#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,ES: (HD REPUESTO) DAZN LALIGA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,EVENTOS 2
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/393
-#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" ,ES: (HD REPUESTO2) DAZN LALIGA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" ,EVENTOS 3
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/74434
-#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,ES: (FHD) DAZN LALIGA
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,EVENTOS 4
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/392
-#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,CH1
+#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,CH5
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/394
 
 
 
-#EXTINF:-1 group-title="PPV" ,CH2
+#EXTINF:-1 group-title="PPV" ,CH6
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31403
-#EXTINF:-1 group-title="PPV" ,CH3
+#EXTINF:-1 group-title="PPV" ,CH7
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31404
-#EXTINF:-1 group-title="PPV" ,CH4
+#EXTINF:-1 group-title="PPV" ,CH8
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31405
-#EXTINF:-1 group-title="PPV" ,CH5
+#EXTINF:-1 group-title="PPV" ,CH9
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31406
 #EXTINF:-1 group-title="PPV" ,CH6
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31407
-#EXTINF:-1 group-title="PPV" ,CH7
+#EXTINF:-1 group-title="PPV" ,CH10
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31408
-#EXTINF:-1 group-title="PPV" ,CH8
+#EXTINF:-1 group-title="PPV" ,CH11
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31409
-#EXTINF:-1 group-title="PPV" ,CH9
+#EXTINF:-1 group-title="PPV" ,CH12
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31410
 #EXTINF:-1 group-title="PPV" ,CH10
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31411
