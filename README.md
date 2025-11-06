@@ -8,7 +8,10 @@ http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d5
 
 
 #EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,EVENTOS 1
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/391
+http://205.235.6.29:8000/play/a0vh/index.m3u8
+
+
+
 #EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-id="daznlaliga.es" ,EVENTOS 2
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/393
 #EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" ,EVENTOS 3
