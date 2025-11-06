@@ -44,24 +44,10 @@ http://espeasaea.top:8080/MARIANOBARRIO/639166965/31412
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31413
 #EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 1
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/74519
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 2
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74520
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 3
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74521
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 4
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74522
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 5
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74523
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 6
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74524
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 7
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74525
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 8
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74526
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 9
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74527
-#EXTINF:-1 group-title="DAZN EVENTOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 10
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74528
+
+
+
+
 
 
 
