@@ -25,34 +25,19 @@ http://205.235.6.29:8000/play/a0w0/index.m3u8
 http://205.235.6.29:8000/play/a0vw/index.m3u8
 
 
-#EXTINF:-1 group-title="PPV" ,CH6
+#EXTINF:-1 group-title="PPV" , EVENTOS 6
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31403
-#EXTINF:-1 group-title="PPV" ,CH7
+
+
+
+#EXTINF:-1 group-title="PPV" ,EVENTOS 7
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31404
-#EXTINF:-1 group-title="PPV" ,CH8
+#EXTINF:-1 group-title="PPV" ,EVENTOS 8
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31405
-#EXTINF:-1 group-title="PPV" ,CH9
+#EXTINF:-1 group-title="PPV" ,EVENTOS 9
 http://espeasaea.top:8080/MARIANOBARRIO/639166965/31406
-#EXTINF:-1 group-title="PPV" ,CH6
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/31407
-#EXTINF:-1 group-title="PPV" ,CH10
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/31408
-#EXTINF:-1 group-title="PPV" ,CH11
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/31409
-#EXTINF:-1 group-title="PPV" ,CH12
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/31410
-#EXTINF:-1 group-title="PPV" ,CH10
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/31411
-#EXTINF:-1 group-title="PPV" ,CH11
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/31412
-#EXTINF:-1 group-title="PPV" ,CH12
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/31413
-#EXTINF:-1 group-title="PPV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" ,ES: DAZN Event 1
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/74519
-
-
-
-
+#EXTINF:-1 group-title="PPV" ,EVENTOS 10
+http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 
 
