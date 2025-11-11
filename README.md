@@ -26,8 +26,7 @@ http://205.235.6.29:8000/play/a0vw/index.m3u8
 
 
 #EXTINF:-1 group-title="CANALES-DEPORTES" , EVENTOS 6
-http://espeasaea.top:8080/MARIANOBARRIO/639166965/31403
-
+http://205.235.6.29:8000/play/a0vn/index.m3u8
 
 
 #EXTINF:-1 group-title="CANALES-DEPORTES" ,EVENTOS 7
