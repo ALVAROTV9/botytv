@@ -9,51 +9,50 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS DIRECTV
-http://205.235.6.29:8000/play/a0vh/index.m3u8
+http://205.235.6.29:8000/play/a0ok/index.m3u8
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN Premium HD
+
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN+1
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN 1
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN+2
 http://205.235.6.29:8000/play/a0vn/index.m3u8
 
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN 3 HD
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN+3
 http://205.235.6.29:8000/play/a0w0/index.m3u8
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN 5 HD
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN+4
 http://205.235.6.29:8000/play/a0vw/index.m3u8
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN 6 HD
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN+5
 http://205.235.6.29:8000/play/a0vy/index.m3u8
  
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN 7 HD
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN+6
 http://205.235.6.29:8000/play/a0vu/index.m3u8
 
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS En Vivo 1
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS TyC
 http://205.235.6.29:8000/play/a0oi/index.m3u8
 
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS En Vivo 2
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS En Vivo 1
 http://205.235.6.29:8000/play/a0ns/index.m3u8
 
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS En Vivo 3
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS En Vivo 2
 http://205.235.6.29:8000/play/a0nq/index.m3u8
 
 
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS en vivo 4
 http://205.235.6.29:8000/play/a0w7/index.m3u8
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS LIGA PRO
-http://205.235.6.29:8000/play/a0wc/index.m3u8
-
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS en vivo 5
 http://205.235.6.29:8000/play/a0vk/index.m3u8
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS en vivo 6
-http://205.235.6.29:8000/play/a0ok/index.m3u8
+
+
 #EXTINF:-1 group-title="CANALES-DEPORTES" ,WIN SPORTS FUTBOL
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
@@ -1600,6 +1599,7 @@ http://tv.zeuspro.xyz:2052/mayleenfunez1/135535683598/106522
 http://tv.zeuspro.xyz:2052/mayleenfunez1/135535683598/106523
 #EXTINF:-1 group-title="24/7 Only Fans (+18)" ,24-7 OnlyFans 4
 http://tv.zeuspro.xyz:2052/mayleenfunez1/135535683598/106524
+
 
 
 
