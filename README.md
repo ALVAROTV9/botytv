@@ -1,6 +1,5 @@
-
-
 #EXTM3U
+
 #EXTINF:-1 group-title="BoTyTV" ,INFORMATE Y CONTACTENOS
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS Win Sports+ HD
@@ -20,15 +19,9 @@ http://205.235.6.29:8000/play/a0vy/index.m3u8
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN+6
 http://205.235.6.29:8000/play/a0vu/index.m3u8
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS TyC
-http://205.235.6.29:8000/play/a0oi/index.m3u8
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS En Vivo 1
-http://205.235.6.29:8000/play/a0ns/index.m3u8
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS En Vivo 2
-http://205.235.6.29:8000/play/a0nq/index.m3u8
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS en vivo 4
-http://205.235.6.29:8000/play/a0w7/index.m3u8
-#EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS en vivo 5
-http://205.235.6.29:8000/play/a0vk/index.m3u8
+http://205.235.6.29:8000/play/a0oi/index.m3u
+
+
 #EXTINF:-1 group-title="CANALES-DEPORTES" ,WIN SPORTS FUTBOL
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (PM)(1080)
@@ -637,3 +630,4 @@ http://directo.ddns.me:33200/Enriquearaya/KbX7KLF64d4q/56938
 http://directo.ddns.me:33200/Enriquearaya/KbX7KLF64d4q/76712
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports.jpg" ,ZAPPING & TNT MAX
 http://directo.ddns.me:33200/Enriquearaya/KbX7KLF64d4q/76741
+
