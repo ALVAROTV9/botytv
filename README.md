@@ -2,10 +2,170 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="BOTYTVFUTBOL" ,DISFRUTE DEPORTES EN VIVO
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+
 #EXTINF:-1 group-title="BoTyTV" ,INFORMATE Y CONTACTENOS
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS Win Sports+ HD
 http://205.235.6.29:8000/play/a0ve/index.m3u8
+
+
+
+#EXTINF:-1 group-title="BoTyTV" ,ESTRELLAS HD
+http://205.235.6.29:8000/play/13/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Telerama XUI
+http://205.235.6.29:8000/play/a0va/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,TLNOVELAS HD
+http://205.235.6.29:8000/play/a0vb/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,ROSA DE GUADLUPE 24/7
+http://205.235.6.29:8000/play/a0vj/index.m3u8
+
+
+#EXTINF:-1 group-title="BoTyTV" ,France 24
+http://205.235.6.29:8000/play/a0vd/index.m3u8
+
+
+#EXTINF:-1 group-title="BoTyTV" ,CANALvariado
+http://205.235.6.29:8000/play/a0w7/index.m3u8
+
+
+#EXTINF:-1 group-title="BoTyTV" ,UNSION TV
+http://205.235.6.29:8000/play/a0vi/index.m3u8
+
+
+#EXTINF:-1 group-title="BoTyTV" ,LIKETV
+http://205.235.6.29:8000/play/a0wc/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Adult Swim
+http://205.235.6.29:8000/play/a0qt/index.m3u8
+
+
+#EXTINF:-1 group-title="BoTyTV" ,Animal Planet HD
+http://205.235.6.29:8000/play/a0nb/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Antena 3
+http://205.235.6.29:8000/play/a0ru/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,CARACOL HD
+http://205.235.6.29:8000/play/a0vf/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,CNN Esp
+http://205.235.6.29:8000/play/a0qb/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,DHE
+http://205.235.6.29:8000/play/a0py/index.m3u8
+
+
+#EXTINF:-1 group-title="BoTyTV" ,DW Esp
+http://205.235.6.29:8000/play/a0s2/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,De PelŦcula
+http://205.235.6.29:8000/play/a0p8/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Discovery Channel  HD
+http://205.235.6.29:8000/play/a0nc/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Discovery Kids
+http://205.235.6.29:8000/play/a0m3/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Discovery Science
+http://205.235.6.29:8000/play/a0qk/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Discovery Theater HD
+http://205.235.6.29:8000/play/a0pj/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Discovery Turbo
+http://205.235.6.29:8000/play/a0qf/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Distrito Comedia
+http://205.235.6.29:8000/play/a0mr/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,ECU RTU
+http://205.235.6.29:8000/play/a0ma/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,ECUAVISA HD
+http://205.235.6.29:8000/play/a0nt/index.m3u8
+
+
+#EXTINF:-1 group-title="BoTyTV" ,Food Network
+http://205.235.6.29:8000/play/a0px/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,France 24
+http://205.235.6.29:8000/play/a0rz/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Golden HD
+http://205.235.6.29:8000/play/a0oq/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,HGTV
+http://205.235.6.29:8000/play/a0qo/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,HTV
+http://205.235.6.29:8000/play/a0oy/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Home & Health HD
+http://205.235.6.29:8000/play/a0qa/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,ID HD
+http://205.235.6.29:8000/play/a0r6/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Las Estrellas HD
+http://205.235.6.29:8000/play/a0n3/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Latina HD
+http://205.235.6.29:8000/play/a0uw/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,MEGA HD
+http://205.235.6.29:8000/play/a0pq/index.m3u8
+
+
+#EXTINF:-1 group-title="BoTyTV" ,PLIM PLIM
+http://205.235.6.29:8000/play/a0mp/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Pasiones HD
+http://205.235.6.29:8000/play/a0pl/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,RTS
+http://205.235.6.29:8000/play/a0o6/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,STAR CHANEL
+http://205.235.6.29:8000/play/a0oj/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Space HD
+http://205.235.6.29:8000/play/a0r7/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Stingray Concerts
+http://205.235.6.29:8000/play/a0ur/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Sun Channel HD
+http://205.235.6.29:8000/play/a0q2/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,TC Television
+http://205.235.6.29:8000/play/a0m8/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,TLC
+http://205.235.6.29:8000/play/a0qj/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,TNT HD
+http://205.235.6.29:8000/play/a0r4/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Tlnovelas
+http://205.235.6.29:8000/play/a0ow/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Venus
+http://205.235.6.29:8000/play/a0pb/index.m3u8
+
+#EXTINF:-1 group-title="BoTyTV" ,Warner TV HD
+http://205.235.6.29:8000/play/a0r5/index.m3u8
+
+
+
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS DIRECTV
 http://205.235.6.29:8000/play/a0ok/index.m3u8
 #EXTINF:-1 group-title="BOTYTVFUTBOL" ,EVENTOS ESPN+1
