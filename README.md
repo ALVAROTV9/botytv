@@ -104,3 +104,109 @@ http://nocable.cc:8080/b2U9nd/520098/167750
 
 
 
+
+
+
+
+
+#EXTINF:-1 group-title="BRAZIL " tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" ,BR Globo SP HD
+http://nocable.cc:8080/b2U9nd/520098/21020
+#EXTINF:-1 group-title="BRAZIL " tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" ,BR: SBT HD
+http://nocable.cc:8080/b2U9nd/520098/20978
+#EXTINF:-1 group-title="BRAZIL " ,PT: CLUBBING TV
+http://nocable.cc:8080/b2U9nd/520098/164850
+#EXTINF:-1 group-title="BRAZIL " ,PT: ZAP VIVA FHD
+http://nocable.cc:8080/b2U9nd/520098/164853
+#EXTINF:-1 group-title="BRAZIL " ,PT: TPA INTERNACIONAL SD
+http://nocable.cc:8080/b2U9nd/520098/164855
+#EXTINF:-1 group-title="BRAZIL " ,PT: TVC CABO VERDE
+http://nocable.cc:8080/b2U9nd/520098/164858
+#EXTINF:-1 group-title="BRAZIL " ,PT: EURONEWS
+http://nocable.cc:8080/b2U9nd/520098/164859
+#EXTINF:-1 group-title="BRAZIL " ,PT: TVI REALITY
+http://nocable.cc:8080/b2U9nd/520098/164861
+#EXTINF:-1 group-title="BRAZIL " ,BR: AMC HD
+http://nocable.cc:8080/b2U9nd/520098/164938
+#EXTINF:-1 group-title="BRAZIL " ,BR: GLOBO HD
+http://nocable.cc:8080/b2U9nd/520098/164943
+#EXTINF:-1 group-title="BRAZIL " ,BR: GLOBO MINAS HD
+http://nocable.cc:8080/b2U9nd/520098/164944
+#EXTINF:-1 group-title="BRAZIL " ,BR: GLOBO NEWS HD
+http://nocable.cc:8080/b2U9nd/520098/164945
+#EXTINF:-1 group-title="BRAZIL " ,BR: ESPN
+http://nocable.cc:8080/b2U9nd/520098/164948
+#EXTINF:-1 group-title="BRAZIL " ,BR: HBO HD
+http://nocable.cc:8080/b2U9nd/520098/164950
+#EXTINF:-1 group-title="BRAZIL " ,BR: TNT SERIES HD
+http://nocable.cc:8080/b2U9nd/520098/164958
+#EXTINF:-1 group-title="MLB" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" tvg-id="mlb.network.us" ,MLB Network
+http://nocable.cc:8080/b2U9nd/520098/21360
+#EXTINF:-1 group-title="MLB" tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" ,MLB Strike Zone
+http://nocable.cc:8080/b2U9nd/520098/65699
+#EXTINF:-1 group-title="PERU" ,PE: PANAMERICANA HD
+http://nocable.cc:8080/b2U9nd/520098/110633
+#EXTINF:-1 group-title="PERU" ,PE: PERU MAGICO FHD
+http://nocable.cc:8080/b2U9nd/520098/110634
+#EXTINF:-1 group-title="PERU" ,PE: AMERICA TV
+http://nocable.cc:8080/b2U9nd/520098/110637
+#EXTINF:-1 group-title="PERU" ,PE: ATV
+http://nocable.cc:8080/b2U9nd/520098/110638
+#EXTINF:-1 group-title="PERU" ,PE: LATINA HD
+http://nocable.cc:8080/b2U9nd/520098/110640
+#EXTINF:-1 group-title="PERU" ,PR: WIPR (PR)
+http://nocable.cc:8080/b2U9nd/520098/110642
+#EXTINF:-1 group-title="PERU" ,PE: EXITOSA
+http://nocable.cc:8080/b2U9nd/520098/110643
+#EXTINF:-1 group-title="Argentina" ,ARG: EL NUEVE HD
+http://nocable.cc:8080/b2U9nd/520098/164869
+#EXTINF:-1 group-title="Argentina" ,ARG: TELEFE INTERNACIONAL HD
+http://nocable.cc:8080/b2U9nd/520098/164870
+#EXTINF:-1 group-title="Argentina" ,ARG: CINE ARGENTINO
+http://nocable.cc:8080/b2U9nd/520098/164871
+#EXTINF:-1 group-title="Argentina" ,ARG: TN NOTICIAS
+http://nocable.cc:8080/b2U9nd/520098/164873
+#EXTINF:-1 group-title="Argentina" ,ARG: CRONICA HD
+http://nocable.cc:8080/b2U9nd/520098/164875
+#EXTINF:-1 group-title="Argentina" ,ARG: C5N HD
+http://nocable.cc:8080/b2U9nd/520098/164876
+#EXTINF:-1 group-title="Argentina" ,ARG: ENCUENTRO HD
+http://nocable.cc:8080/b2U9nd/520098/164878
+#EXTINF:-1 group-title="Argentina" ,ARG: INFORMACION PERIODISTICA HD
+http://nocable.cc:8080/b2U9nd/520098/164879
+#EXTINF:-1 group-title="Argentina" ,ARG: GARAGE TV HD
+http://nocable.cc:8080/b2U9nd/520098/164880
+#EXTINF:-1 group-title="Argentina" ,ARG: AMERICA TV HD
+http://nocable.cc:8080/b2U9nd/520098/164881
+#EXTINF:-1 group-title="Chile" ,CHILE: MEGA HD
+http://nocable.cc:8080/b2U9nd/520098/164883
+#EXTINF:-1 group-title="Chile" ,CHILE: CHILEVISION HD
+http://nocable.cc:8080/b2U9nd/520098/164884
+#EXTINF:-1 group-title="Chile" ,CHILE: 13I
+http://nocable.cc:8080/b2U9nd/520098/164885
+#EXTINF:-1 group-title="Chile" ,CHILE: TVN CHILE HD
+http://nocable.cc:8080/b2U9nd/520098/164888
+#EXTINF:-1 group-title="Chile" ,CHILE: CNN CHILE HD
+http://nocable.cc:8080/b2U9nd/520098/164892
+#EXTINF:-1 group-title="Uruguay" ,URU: CANAL 10 SAETA HD
+http://nocable.cc:8080/b2U9nd/520098/164917
+#EXTINF:-1 group-title="Uruguay" ,URU: CANAL12 MELO HD
+http://nocable.cc:8080/b2U9nd/520098/164921
+#EXTINF:-1 group-title="Uruguay" ,URU: A+V HD
+http://nocable.cc:8080/b2U9nd/520098/164922
+#EXTINF:-1 group-title="Uruguay" ,URU: CANAL 4 HD
+http://nocable.cc:8080/b2U9nd/520098/164923
+#EXTINF:-1 group-title="Uruguay" ,URU: LA TELE HD
+http://nocable.cc:8080/b2U9nd/520098/164927
+#EXTINF:-1 group-title="VENEZUELA" ,VENEZUELA: MERIDIANO TV
+http://nocable.cc:8080/b2U9nd/520098/164930
+#EXTINF:-1 group-title="VENEZUELA" ,VENEZUELA: TELEVEN
+http://nocable.cc:8080/b2U9nd/520098/164931
+#EXTINF:-1 group-title="VENEZUELA" ,VENEZUELA: GLOBOVISION
+http://nocable.cc:8080/b2U9nd/520098/164934
+
+
+
+
+
+
+
