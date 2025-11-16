@@ -39,3 +39,10 @@ http://nocable.cc:8080/b2U9nd/520098/167750
 
 
 
+
+#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" ,DOC-Animal Planet (L)(1080)
+
+
+
+
+
