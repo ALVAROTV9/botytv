@@ -10,6 +10,12 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS Win Sports+2
 http://nocable.cc:8080/b2U9nd/520098/78697
 
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png",EVENTOS WIN SPORTS HD
+http://190.0.247.38:8000/play/a06a
+
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png",EVENTOS WIN SPORTS HD IN
+http://190.0.247.38:8000/play/a068
+
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS DIRECTV
 http://205.235.6.29:8000/play/a0ok/index.m3u8
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS ESPN+1
@@ -31,12 +37,6 @@ http://205.235.6.29:8000/play/a0vy/index.m3u8
 http://205.235.6.29:8000/play/a0vu/index.m3u8
 
 
-
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png",EVENTOS WIN SPORTS HD
-http://190.0.247.38:8000/play/a06a
-
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png",EVENTOS WIN SPORTS HD IN
-http://190.0.247.38:8000/play/a068
 
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png",EVENTOS ESPN 2 HD
 http://190.0.247.38:8000/play/a010
@@ -64,20 +64,20 @@ http://190.0.247.38:8000/play/a00z
 
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png",EVENTOS TyC ARG
 http://205.235.6.29:8000/play/a0oi/index.m3u
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" tvg-id="ESPN.co" ,EVENTOS INTERNACIONAL 1
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 1
 http://nocable.cc:8080/b2U9nd/520098/167742
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" tvg-id="ESPN.co" ,EVENTOS INTERNACIONAL 2
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 2
 http://nocable.cc:8080/b2U9nd/520098/167743
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" tvg-id="ESPN.co" ,EVENTOS INTERNACIONAL 3
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 3
 http://nocable.cc:8080/b2U9nd/520098/167744
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" tvg-id="ESPN.co" ,EVENTOS INTERNACIONAL 4
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 4
 http://nocable.cc:8080/b2U9nd/520098/167745
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" tvg-id="ESPN.co" ,EVENTOS INTERNACIONAL 5
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 5
 http://nocable.cc:8080/b2U9nd/520098/167748
 
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" tvg-id="ESPN.co" ,EVENTOS INTERNACIONAL 6
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 6
 http://nocable.cc:8080/b2U9nd/520098/167749
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" tvg-id="ESPN.co" ,EVENTOS INTERNACIONAL 7
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 7
 http://nocable.cc:8080/b2U9nd/520098/167750
 
 
