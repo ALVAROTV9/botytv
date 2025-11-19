@@ -48,8 +48,12 @@ http://190.0.247.38:8000/play/a013
 http://190.0.247.38:8000/play/a014
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS ESPN HD
 http://190.0.247.38:8000/play/a00z
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS TyC ARG
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS ARGENTINA
 http://205.235.6.29:8000/play/a0oi/index.m3u
+
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS ECUADOR
+http://205.235.6.29:8000/play/a0we/index.m3u8
+
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 1
 http://nocable.cc:8080/b2U9nd/520098/167742
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS INTERNACIONAL 2
