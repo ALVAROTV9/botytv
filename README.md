@@ -15,8 +15,9 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 http://nocable.cc:8080/b2U9nd/520098/78697
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS WIN SPORTS HD
 http://190.0.247.38:8000/play/a06a
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS WIN SPORTS HD IN
-http://190.0.247.38:8000/play/a068
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS DISNEY+
+http://38.41.8.1:8000/play/a06r
+
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS DIRECTV SPORTS
 http://205.235.6.29:8000/play/a0ok/index.m3u8
 
