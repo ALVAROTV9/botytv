@@ -17,8 +17,9 @@ http://nocable.cc:8080/b2U9nd/520098/78697
 http://190.0.247.38:8000/play/a06a
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS WIN SPORTS HD IN
 http://190.0.247.38:8000/play/a068
-#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS DIRECTV
+#EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS DIRECTV SPORTS
 http://205.235.6.29:8000/play/a0ok/index.m3u8
+
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS ESPN+1
 http://tv.zeuspro.xyz:2052/mayleenfunez1/135535683598/9516
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS  ESPN+2
