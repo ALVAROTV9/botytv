@@ -33,6 +33,56 @@ http://205.235.6.29:8000/play/a0vu/index.m3u8
 http://190.0.247.38:8000/play/a010
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS ESPN 3 HD
 http://190.0.247.38:8000/play/a03u
+
+
+
+#EXTINF:-1 tvg-id="AMC CentralAmerica.us" group-title="TV", AMC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 group-title="TV", AXN
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="BETEast.us" group-title="TV", BET
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 tvg-id="BravoEast.us" group-title="TV", BRAVO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV", FX
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV", LIFETIME
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="MTVEast.us" group-title="TV", MTV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 group-title="TV", MTV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id="VH1East.us" group-title="TV", VH1
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/VH1/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us"
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 group-title="TV", CINEMAX
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="TV", SPACE
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SPACE/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="TV", CINECANAL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="TV", HBO PLUS
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="TV", HBO FAMILY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="TV", HISTORY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 group-title="TV", HISTORY2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="TV", DISCOVERY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="TV", TURBO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 group-title="TV", NAT GEO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="TV",TNT
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TNT/index.m3u8
+#EXTINF:-1 group-title="TV",TLC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TLC/index.m3u8
+
+
+
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS ESPN 4 HD
 http://190.0.247.38:8000/play/a069
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS ESPN 5 HD
