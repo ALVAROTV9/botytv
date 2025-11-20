@@ -1,6 +1,3 @@
-
-#EXTM3U
-
 #EXTM3U
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES
