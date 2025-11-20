@@ -2,47 +2,60 @@
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DOCUMENTALES
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM CINE
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM NACIONALES
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM LATINOS
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM INFANTILES
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM NOTICIAS
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM XXX
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS MEXICO
 http://nocable.cc:8080/b2U9nd/520098/11885
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS COLOMBIA 1
 http://205.235.6.29:8000/play/a0ve/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS COLOMBIA 2
-http://nocable.cc:8080/b2U9nd/520098/78697
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS COLOMBIA 3
 http://190.0.247.38:8000/play/a06a
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS DIRECTV SPORTS
 http://205.235.6.29:8000/play/a0ok/index.m3u8
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ARGENTINA
 http://205.235.6.29:8000/play/a0oi/index.m3u
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ECUADOR
 http://205.235.6.29:8000/play/a0we/index.m3u8
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS INTERNACIONAL 1
 http://nocable.cc:8080/b2U9nd/520098/167742
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS INTERNACIONAL 2
 http://nocable.cc:8080/b2U9nd/520098/167743
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS INTERNACIONAL 3
 http://nocable.cc:8080/b2U9nd/520098/167744
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS INTERNACIONAL 4
 http://nocable.cc:8080/b2U9nd/520098/167745
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS INTERNACIONAL 5
 http://nocable.cc:8080/b2U9nd/520098/167748
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS INTERNACIONAL 6
 http://nocable.cc:8080/b2U9nd/520098/167749
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS INTERNACIONAL 7
 http://nocable.cc:8080/b2U9nd/520098/167750
-
-
-
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+1
 http://38.41.8.1:8000/play/a06r
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+2
@@ -61,46 +74,28 @@ http://205.235.6.29:8000/play/a0vu/index.m3u8
 http://190.0.247.38:8000/play/a010
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+9
 http://190.0.247.38:8000/play/a03u
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+10
 http://38.41.8.1:8000/play/a0sm
-
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+11
 http://38.41.8.1:8000/play/a0sl
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+12
 http://38.41.8.1:8000/play/a0rm
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+13
 http://38.41.8.1:8000/play/a0sk
-
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+14
 http://38.41.8.1:8000/play/a0t3
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+15
 http://38.41.8.1:8000/play/a0rv
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN+16
 http://38.41.8.1:8000/play/a0t7
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,SD Claro Sports
 http://38.41.8.1:8000/play/a050
-
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS PERU
 http://38.41.8.1:8000/play/a0z1
-
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS VENEZUELA
 http://38.41.8.1:8000/play/a03w
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS CHILE
 http://38.41.8.1:8000/play/a0rn
-
-
-
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MX | Discovery Channel
 http://nocable.cc:8080/b2U9nd/520098/57625
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,US Latin Discovery (F)
