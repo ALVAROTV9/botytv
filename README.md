@@ -3,6 +3,9 @@
 
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS DEPORTES EN VIVO
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TLC/index.m3u8
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS TUDN
 http://nocable.cc:8080/b2U9nd/520098/11885
 #EXTINF:-1 group-title="BOTYTVFUTBOL" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,EVENTOS Win Sports+1
