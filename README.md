@@ -1,5 +1,977 @@
 
-
+#EXTM3U
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kUC13Ssxfjlc8leD7QpELCDlDU.jpg" tvg-name="Norbert (2025)" ,Norbert (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145837.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/915xBmH2YErsMzOjtStN6VXCCtw.jpg" tvg-name="Todo lo que no sé (2025)" ,Todo lo que no sé (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145839.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcE07U5vnPZfeF3XX65ljZqHWQv.jpg" tvg-name="Sketch. Cuidado con lo que dibujas" ,Sketch. Cuidado con lo que dibujas
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/146084.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tKoiSTXBafXPbIyFF0eeb0KVoJ.jpg" tvg-name="Ciudadanos soberanos (2025)" ,Ciudadanos soberanos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147269.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSOYVDmg4VFoVuZzu4941X2s1fO.jpg" tvg-name="825 Forest Road (2025)" ,825 Forest Road (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156775.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jglWGzrAt7NWrEOWKfyGVlvxxwE.jpg" tvg-name="Dua Lipa en vivo por Flow (2025)" ,Dua Lipa en vivo por Flow (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156776.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jd4p4omMZIywNP5vYbrPUfL1phX.jpg" tvg-name="Maldita suerte (2025)" ,Maldita suerte (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156777.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku4vTAnfTgO5oPPaHqyLtP39LrE.jpg" tvg-name="Una casa llena de dinamita (2025)" ,Una casa llena de dinamita (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156778.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq9MejualTf0lBWi1ZoJmwwqpPd.jpg" tvg-name="Attack 13 (2025)" ,Attack 13 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156779.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAvV8ITNS4M8Zt8sxOK6g3XBLBr.jpg" tvg-name="El elixir de la inmortalidad (2025)" ,El elixir de la inmortalidad (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156781.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moiLQPK2YjritOYG674DrWHvlgp.jpg" tvg-name="Gatillero (2025)" ,Gatillero (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156782.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecflk7AZf0ij205yDswjlvdxlCO.jpg" tvg-name="Hedda (2025)" ,Hedda (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156784.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecflk7AZf0ij205yDswjlvdxlCO.jpg" tvg-name="Brute 1976 (2025)" ,Brute 1976 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156785.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFtk7T6dbDgroAGWtoe0yoL4cc.jpg" tvg-name="Dangerous Animals (2025)" ,Dangerous Animals (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156786.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg" tvg-name="Frankenstein (2025)" ,Frankenstein (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156787.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYCA7XkLRUNS1DC7c8ehtj6W4XM.jpg" tvg-name="Regalo maldito (2025)" ,Regalo maldito (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156788.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taDIOX8jKRldl2WXxqmRziihDSp.jpg" tvg-name="BUNKER TIME! (2025)" ,BUNKER TIME! (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157694.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg" tvg-name="En sueños (2025)" ,En sueños (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157695.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXsI6DluqNnBfJenlXNuIpiPTOU.jpg" tvg-name="Frankie y los monstruos (2025)" ,Frankie y los monstruos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157696.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPqzo4AVGNRzMNrhnQoONcD0m0a.jpg" tvg-name="Belén (2025)" ,Belén (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157697.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yey6ihLZVwx2sjMXhObUyFusqyX.jpg" tvg-name="El encanto del champán (2025)" ,El encanto del champán (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157698.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ13k79tpmsFDhXX2YUAlsRFzDT.jpg" tvg-name="First Moon (2025)" ,First Moon (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157699.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Gu5tiSkZr2NlKp8Wb0fd4LJ41y.jpg" tvg-name="Rust (2025)" ,Rust (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148301.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JMpRXvsUNVzodT9c6SkaNsXnSu.jpg" tvg-name="Myth of Man (2025)" ,Myth of Man (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114276.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sV7LSh2nu8Z3FqEjWKSeSwtZeM.jpg" tvg-name="Freaky Tales CAM (2025)" ,Freaky Tales CAM (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/115539.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg" tvg-name="Alexander y el viaje terrible, horrible, espantoso, horroroso (2025)" ,Alexander y el viaje terrible, horrible, espantoso, horroroso (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149812.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s56FTmqeOsGK6fcF1HBglp6yYro.jpg" tvg-name="Érase una vez mi madre (2025)" ,Érase una vez mi madre (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151295.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWVbtqUvuhAOYzkZV6YDQOnN5fQ.jpg" tvg-name="Alta ejecutiva (2025)" ,Alta ejecutiva (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151618.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2xPRI0isWxKfX3UqlfnNPaPusg.jpg" tvg-name="El mejor (2025)" ,El mejor (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151619.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6QNBDV1u3oaq3guBHGKcEJkYkX.jpg" tvg-name="Black Phone 2 (2025)" ,Black Phone 2 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155716.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSRRH7UasrE6q240H00dww3vE1c.jpg" tvg-name="Los extraños: Capítulo 2 (2025)" ,Los extraños: Capítulo 2 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156175.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6paGLyOAvY95XxjfdiTcatwI7dJ.jpg" tvg-name="Prisionero de guerra (2025)" ,Prisionero de guerra (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156176.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAeHnC35RtbYLm5tRGLveLa0YvH.jpg" tvg-name="Los Cretinos (2025)" ,Los Cretinos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156177.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soZdshVi2nQpCWqQkS8qumUNNqO.jpg" tvg-name="Afterburn (Zona cero) (2025)" ,Afterburn (Zona cero) (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156178.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXumhtgMOxA3aqocplC8YIMwOv8.jpg" tvg-name="Los Rose (2025)" ,Los Rose (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156179.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZdZCT8PG1UYFPjk11XUUIDfKs3.jpg" tvg-name="Parking (2025)" ,Parking (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156180.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ja9exbCZBl3TEHRTWPESHoiln0.jpg" tvg-name="Un gran viaje atrevido y maravilloso (2025)" ,Un gran viaje atrevido y maravilloso (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156181.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg" tvg-name="V/H/S/Halloween (2025)" ,V/H/S/Halloween (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156182.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3Yk65bVdgiMOMeK6O8aZxEBt5J.jpg" tvg-name="Los 4 fantásticos (2005)" ,Los 4 fantásticos (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156183.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOEgCIpKtZZ7Iz6kXe3LvTPldje.jpg" tvg-name="El Gran Premio; A todo Gas!! (2025)" ,El Gran Premio; A todo Gas!! (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156184.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg" tvg-name="Pets on a Train (2025)" ,Pets on a Train (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156185.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CfZCb56vWjq37uXtbKNMevMzwG.jpg" tvg-name="Chainsaw Man - La película: El arco de Reze (2025)" ,Chainsaw Man - La película: El arco de Reze (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156186.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CfZCb56vWjq37uXtbKNMevMzwG.jpg" tvg-name="Atrapado robando (2025)" ,Atrapado robando (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/156187.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBYcYLwB82qIPvrl3z5txAkpRuk.jpg" tvg-name="Surviving Ohio State (2025)" ,Surviving Ohio State (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/128836.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPJVxNLNffSeiEgJPo1b3yAkZP2.jpg" tvg-name="Wunderschöner (2025)" ,Wunderschöner (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/128837.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNJhShKm4dw6E7qM1HazEuJcPKF.jpg" tvg-name="Los aitas (2025)" ,Los aitas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134468.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nonXGLIKTPYEHvvyjTFsUPSRD10.jpg" tvg-name="Un año y un día (2025)" ,Un año y un día (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134471.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4oLLOAT55JhAoe73VliaSKFvEEr.jpg" tvg-name="Lilo y Stitch (2025)" ,Lilo y Stitch (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136381.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUZSqIesoLoX9Z8ByHwm8xUCaTg.jpg" tvg-name="Mamá Reinventada (2025)" ,Mamá Reinventada (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136590.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlUbZXouCTVD54k8LcBV1TQaJ2K.jpg" tvg-name="Blind River (2025)" ,Blind River (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137233.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fhTWvrUt1sQz7kww8KaZvqCAkS.jpg" tvg-name="Miocardio (2025)" ,Miocardio (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137238.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sCNHRSghYTguus6Nyg0asbIYHl.jpg" tvg-name="Lo que aprendí de mi pingüino (2025)" ,Lo que aprendí de mi pingüino (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145838.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fm1OLfRgqTMAnOJxlnYg1QiBUp2.jpg" tvg-name="La muerte de Belle (2025)" ,La muerte de Belle (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/146085.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg" tvg-name="Weapons (2025)" ,Weapons (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147000.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYJJDtrGBAr1U9WBVuq809FyYQj.jpg" tvg-name="Spermageddon (2025)" ,Spermageddon (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147001.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6coVK78FwwHFxvdguWDFlQp1pKi.jpg" tvg-name="La vida ante nosotros (2025)" ,La vida ante nosotros (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147002.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfaU8qybKHg3b6IbHJ11FtIyDn2.jpg" tvg-name="Boda letal (2025)" ,Boda letal (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147003.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" tvg-name="Honey Don't! (2025)" ,Honey Don't! (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147004.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fGFzm6yYw186zdqto2ssi24u8o.jpg" tvg-name="Jane Austen arruinó mi vida (2025)" ,Jane Austen arruinó mi vida (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147134.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3U9MCWTOFtqfdsgyXblOXFEYgy.jpg" tvg-name="Valiente: A Tracker Story (2025)" ,Valiente: A Tracker Story (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147312.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckfiXWGEMWrUP53cc6QyHijLlhl.jpg" tvg-name="Los Cuatro Fantásticos: Primeros pasos (2025)" ,Los Cuatro Fantásticos: Primeros pasos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148971.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juUIOcOQ0ip9qw3ecH9IBEQklEp.jpg" tvg-name="Drácula (2025)" ,Drácula (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148972.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gT2cR9ETkSZbNSmQQeCUW6sYCg.jpg" tvg-name="The Ritual (2025)" ,The Ritual (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149121.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2025/2/w300/92HuK4fu9qMl7TYBJgnxSOHa89I.jpg" tvg-name="The Simpsons The Past And The Furios (2025)" ,The Simpsons The Past And The Furios (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109210.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrfti9ycF4mlA5WuIyfgCf1LJQG.jpg" tvg-name="Expediente Warren: El último rito (2025)" ,Expediente Warren: El último rito (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150993.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbSGq3u34HnoRCaUsSQn2EowHAt.jpg" tvg-name="June & John (2025)" ,June & John (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151000.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg" tvg-name="Good Boy (2025)" ,Good Boy (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151007.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXUfuM7tPvAL8HjjnsFO4yYbKUs.jpg" tvg-name="La hacienda: El regreso de los malditos (2025)" ,La hacienda: El regreso de los malditos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151008.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYJXYXPif0tlF1QrhX7OpbvMylk.jpg" tvg-name="Un cuento oscuro (2025)" ,Un cuento oscuro (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151013.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDHlLybirflJFlvPFVHhcTKAZQ2.jpg" tvg-name="Mesa de regalos (2025)" ,Mesa de regalos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151625.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg" tvg-name="Magazine Dreams (2025)" ,Magazine Dreams (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151626.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AmW8DglQ5VnOfW1lSMSOyfcwmW.jpg" tvg-name="Lo que le falta a esta estrella (2025)" ,Lo que le falta a esta estrella (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155420.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ML1ZEpWjR8IKEb2wpK3k4KMvhK.jpg" tvg-name="Las Ratas: Una historia de 'The Witcher' (2025)" ,Las Ratas: Una historia de 'The Witcher' (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155421.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2PhEClW082uyto0NCvPTmdsSjw.jpg" tvg-name="Suburbios del alma (2025)" ,Suburbios del alma (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155422.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qfyfrY4Sa0fUPVH0rcsfGZZNoY.jpg" tvg-name="The Smashing Machine (2025)" ,The Smashing Machine (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155423.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izA5U09supDy8J2Z4339Po6PIHU.jpg" tvg-name="La larga marcha (2025)" ,La larga marcha (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155424.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gT2cR9ETkSZbNSmQQeCUW6sYCg.jpg" tvg-name="Exorcismo El Ritual" ,Exorcismo El Ritual
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149807.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc83CBPbeHQceWwrb8wlvxCaL3k.jpg" tvg-name="St. Patrick's Day Massacre (2025)" ,St. Patrick's Day Massacre (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152985.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVXpuJiCk4VJeN9SZSzDZteTrGI.jpg" tvg-name="Good Fortune (2025)" ,Good Fortune (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155425.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haOjJGUV00dKlZaJWgjM1UD1cJV.jpg" tvg-name="Misión: Imposible - Sentencia final (2025)" ,Misión: Imposible - Sentencia final (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155426.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqReHIFJc1vgYLTQF768rFsRxRC.jpg" tvg-name="27 noches (2025)" ,27 noches (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155427.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XgEqq8KJVW0R0NhDZCdBV2Pjr0.jpg" tvg-name="Corazón delator (2025)" ,Corazón delator (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155428.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6QNBDV1u3oaq3guBHGKcEJkYkX.jpg" tvg-name="Black Phone 2 (2025)" ,Black Phone 2 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/155429.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jl7e0hLYwIDsMlEQ28Gh30DoJRy.jpg" tvg-name="Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita (2025)" ,Guardianes de la noche: Kimetsu no Yaiba La fortaleza infinita (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151869.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ubj6nPmJDwGPFW41USMYIs8AKc.jpg" tvg-name="Matadores de Aliens do Espaço Sideral (2025)" ,Matadores de Aliens do Espaço Sideral (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152101.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpKKyj1OygRqPNntP7Z3ov5KmRb.jpg" tvg-name="The Balloonists (2025)" ,The Balloonists (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152102.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruAIbycacQIIXeTf4xh1r1NjvJa.jpg" tvg-name="La casa de muñecas de Gabby: La película (2025)" ,La casa de muñecas de Gabby: La película (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152970.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8joWkrzM7ss1t8JZlBffavbg4hg.jpg" tvg-name="Bajo un volcán (2025)" ,Bajo un volcán (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152971.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nMZ5nAHorh30zvMmEjbFqcqwMI.jpg" tvg-name="Un gran viaje atrevido y maravilloso (2025)" ,Un gran viaje atrevido y maravilloso (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152972.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IeoQ60SFtU2sEE0cJWhCoZdypT.jpg" tvg-name="Kill Bill: Todo el sangriento asunto (2025)" ,Kill Bill: Todo el sangriento asunto (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152976.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1hSPcqycYpBCjXCNUDJNWi7uR6.jpg" tvg-name="Miss Carbón (2025)" ,Miss Carbón (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152977.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lH54bfA72eJSEPK96lxLn8J49tP.jpg" tvg-name="Las Nubes (2025)" ,Las Nubes (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152978.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njCc9bEut22FkxoRdPzcLkSa1np.jpg" tvg-name="Valiant One (2025)" ,Valiant One (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152987.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRBKoxKO5F23jfJXSlgKb5Dz5Ju.jpg" tvg-name="Hunting Grounds (2025)" ,Hunting Grounds (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153027.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqc9x6KNIAUO26TFYEguSALXzDG.jpg" tvg-name="La furgo (2025)" ,La furgo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153029.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYqpXPUb5Y21FnT3GdN2zPncVrb.jpg" tvg-name="El jurado (2025)" ,El jurado (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153030.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFKcNfjOUbfaC8hPuiMxJ8PAudy.jpg" tvg-name="Sin rastro (2025)" ,Sin rastro (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153241.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcNEa4g1pH3pkTlMwphwTmgDSrD.jpg" tvg-name="Aicha (2025)" ,Aicha (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153359.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AlCVmiM7k6HsJIKWaIiJ75wcLe.jpg" tvg-name="La vida de Chuck (2025)" ,La vida de Chuck (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153362.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYCA7XkLRUNS1DC7c8ehtj6W4XM.jpg" tvg-name="Regalo maldito (2025)" ,Regalo maldito (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153363.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lAsVqtqt29JwKVhsNcox7P8OHk.jpg" tvg-name="El caso Frieda (2025)" ,El caso Frieda (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153463.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83Gis9pOKCvAdaKXCNChey4IZyL.jpg" tvg-name="Americana (2025)" ,Americana (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153984.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlZUp2eiT98Q9pnj0Pf9ee22MLx.jpg" tvg-name="Mr. Burton (2025)" ,Mr. Burton (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153990.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlhukyCnDmaWICbfaDE4S5J4duc.jpg" tvg-name="Ya se verá" ,Ya se verá
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153992.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXumhtgMOxA3aqocplC8YIMwOv8.jpg" tvg-name="Los Rose (2025)" ,Los Rose (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153993.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KjMMLHqKcAxNRTd5mhMDtNXW1P.jpg" tvg-name="La hermanastra fea (2025)" ,La hermanastra fea (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154173.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qShQABLVRMZKnv5mWOPXWniBeB3.jpg" tvg-name="TRON: Ares (2025)" ,TRON: Ares (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154330.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkSmzGGfxAnJXJDetpInebYFueH.jpg" tvg-name="Jesús luz del mundo (2025)" ,Jesús luz del mundo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154491.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTVABjFns9gZ72kOPbtuwnfBeLo.jpg" tvg-name="Adultez (2025)" ,Adultez (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154492.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2nkQ0EnHyniqDPfOKYOGR5vSuW.jpg" tvg-name="Amores Compartidos (2025)" ,Amores Compartidos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154493.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pblXp7qiRivl0gYUeIsaus8IcJA.jpg" tvg-name="Mirreyes contra Godínez: Las Vegas (2025)" ,Mirreyes contra Godínez: Las Vegas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154494.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHAdS2ZslMbAeAPCsiDJe3LCxS4.jpg" tvg-name="LEGO Disney Frozen: La misión de los frailecillos (2025)" ,LEGO Disney Frozen: La misión de los frailecillos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154495.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4Clc08pw5UJEzK2fM6yy6HdrKr.jpg" tvg-name="Cuatro madres (2025)" ,Cuatro madres (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154496.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giRUiVTcAGzV7puyxkrzQudzFyc.jpg" tvg-name="Eddington (2025)" ,Eddington (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154497.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAvV8ITNS4M8Zt8sxOK6g3XBLBr.jpg" tvg-name="El elixir de la inmortalidad (2025)" ,El elixir de la inmortalidad (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154498.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku4vTAnfTgO5oPPaHqyLtP39LrE.jpg" tvg-name="Una casa llena de dinamita (2025)" ,Una casa llena de dinamita (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154499.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbGkOwaxnqINpbNVkLw0QnIx5DV.jpg" tvg-name="¡Hola, Frida!" ,¡Hola, Frida!
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/131805.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhlzkgloIwnzLdEWxn1DoFt1qJh.jpg" tvg-name="Nosotros (2025)" ,Nosotros (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/131806.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iinb9KTcTqVWVj8sgNIFssaUGae.jpg" tvg-name="Criatura voraz (2025)" ,Criatura voraz (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/131924.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlo2rGpjjHh3X8XImBdeUayKJ6g.jpg" tvg-name="Blindado" ,Blindado
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/131925.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uy3ojOX8Ppp4ZFtBZobYxbvIiyn.jpg" tvg-name="La trama fenicia (2025)" ,La trama fenicia (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/131927.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOxsQAg1RmICNrh0gdI27UP2DVD.jpg" tvg-name="Mercato (2025)" ,Mercato (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132925.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm91FNDF6OOKU4hT9BDW6EMoyDB.jpg" tvg-name="Blancanieves (2025)" ,Blancanieves (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133941.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruMUv9mtcUoiUWoZmLBBTDbn11J.jpg" tvg-name="El Maravilloso Mago de Oz (2025)" ,El Maravilloso Mago de Oz (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133942.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6VBhNc66CdGTEdw7sR7GBt7AFY.jpg" tvg-name="Hombre lobo (2025)" ,Hombre lobo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133943.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIVa5m9s7bKYdI0KH8wFw1qLxHl.jpg" tvg-name="Los pecadores (2025)" ,Los pecadores (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133954.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewuDGZQwDjRi6w0OWUwMVDNrTna.jpg" tvg-name="Los superhéroes de Malegaon (2025)" ,Los superhéroes de Malegaon (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133955.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg" tvg-name="Mountainhead (2025)" ,Mountainhead (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133956.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utt2SOmhcsv5TmgdZRhOFt0mgoY.jpg" tvg-name="Redada 2 (2025)" ,Redada 2 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133957.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GO6vjOFA4Uft5USA1j2NnJ5Zcl.jpg" tvg-name="Tierra de nadie (2025)" ,Tierra de nadie (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133958.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie6x5OS2QPZkyKREIKAhZhDAgXk.jpg" tvg-name="Tornado. Atrapados en la tormenta (2025)" ,Tornado. Atrapados en la tormenta (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133959.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K4xBef7N7YZTnke23FiNTHBGNU.jpg" tvg-name="Bridget Jones: Loca por él (2025)" ,Bridget Jones: Loca por él (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133960.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jm6lNbpmKcxX6M0pieaKhP6hs3w.jpg" tvg-name="Mikaela (2025)" ,Mikaela (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133961.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNriIkhQusncgc5SipEgQUtrybO.jpg" tvg-name="Tiempo de asesinos (2025)" ,Tiempo de asesinos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149957.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IGomFSGR5MPl24QYpx7AsTOFNg.jpg" tvg-name="Partisanos (2025)" ,Partisanos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149958.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bAwkyB4QDZYyK1onkqYxpDQJlt.jpg" tvg-name="Rosario (2025)" ,Rosario (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149959.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djiVnOPhgYBId1ii67NxGDJ2c9i.jpg" tvg-name="Mirando a través del agua (2025)" ,Mirando a través del agua (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149960.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1vs4RJyqzckfxPjyWN5zN1dEgH.jpg" tvg-name="Mantis (2025)" ,Mantis (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149961.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg" tvg-name="Putin (2025)" ,Putin (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150804.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CSTzX1pUrNLD7lsJ8h9hRFJtLQ.jpg" tvg-name="Rockstar: DUKI desde el fin del mundo (2025)" ,Rockstar: DUKI desde el fin del mundo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150807.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sic9AsYo2dyIUQdSKzw9XpuW03.jpg" tvg-name="El tesoro de Keops (2025)" ,El tesoro de Keops (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150869.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbCZnT5qXL6xKz3Z0cskB21bR13.jpg" tvg-name="Delfines en primer plano con Bertie Gregory (2025)" ,Delfines en primer plano con Bertie Gregory (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150870.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXBAYyLua9Sm7ijr6yjYgV6jADo.jpg" tvg-name="Rule Breakers (2025)" ,Rule Breakers (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150871.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nBOFo78pKgzLipgGZhC8VA33wp.jpg" tvg-name="Oh, Hi! (2025)" ,Oh, Hi! (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150873.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmLoMyofbseLfxiGgk1Iz5H97c3.jpg" tvg-name="Steve (2025)" ,Steve (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150874.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxiL8i4fxhdFFwvfkTTahQCK7dT.jpg" tvg-name="Y ella dijo quizás (2025)" ,Y ella dijo quizás (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150875.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f474M02m9FocBhR6sr4DAkvoM2c.jpg" tvg-name="Downton Abbey: El gran final (2025)" ,Downton Abbey: El gran final (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150876.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Y5clHO1bk5Fmkpff7ZYmkzKJaN.jpg" tvg-name="Los sudarios (2025)" ,Los sudarios (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150883.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWwfU4etugzsAiMJVvMdqM8DRVC.jpg" tvg-name="Una abogada brillante (2025)" ,Una abogada brillante (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150884.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XFHVy03Rkr7ITaznFTeVp8dMwL.jpg" tvg-name="Ponte en mi lugar de nuevo (2025)" ,Ponte en mi lugar de nuevo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150908.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvIqaDUC48dwfd7taKczB7909Qg.jpg" tvg-name="28 años después (2025)" ,28 años después (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137753.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sl3j13iOPuduX1BWYqgoIBzFS94.jpg" tvg-name="Barron's Cove (2025)" ,Barron's Cove (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137924.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvOGVVJeHmDkNcqw7xOnLREKgLF.jpg" tvg-name="Devuélvemela (2025)" ,Devuélvemela (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137925.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oPW1RuTy3CgJ1Nlv06AleOHz7a.jpg" tvg-name="Control Room (2025)" ,Control Room (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137926.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwtyFDyK5j7Tyk2kszs9poe0h5r.jpg" tvg-name="Fritos a balazos (2025)" ,Fritos a balazos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138260.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pxqjQByyWKPUPQahSkWvULgKS4.jpg" tvg-name="Jurassic World El renacer (2025)" ,Jurassic World El renacer (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138306.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWgeW8ZW5gDQIPgFYZ24bt4pW6W.jpg" tvg-name="Screamboat (2025)" ,Screamboat (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140258.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3OZAf9JgSfvZA7YoheVLLXRRAQ.jpg" tvg-name="Sorda (2025)" ,Sorda (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140259.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQsYh4oTYuEq5P3ErDgbu7YWT2e.jpg" tvg-name="La huella del mal (2025)" ,La huella del mal (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140851.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfLylbmY0uxQm6Sh63j6bpb7XB3.jpg" tvg-name="Fréwaka (2025)" ,Fréwaka (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140852.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TJyHMmWfkjs7NLX7jrohc87AD5.jpg" tvg-name="Agárralo como puedas (2025)" ,Agárralo como puedas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144691.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eX7sEsILS1F9vRGB99sCXvORfr5.jpg" tvg-name="El beso de Judas (2025)" ,El beso de Judas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145003.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3rGCISyJqlOr5ZyY461BzNhfTP.jpg" tvg-name="Piglet (2025)" ,Piglet (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145004.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0TGKokEK0MUacymHfFPVBjjRQF.jpg" tvg-name="Sé lo que hicisteis el último verano (2025)" ,Sé lo que hicisteis el último verano (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145006.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSQYF6sckhXixTtwgeEl3v87Cic.jpg" tvg-name="En la linea de fuego (2025)" ,En la linea de fuego (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145212.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cqHaqqDH8TLhn0SCTMts0M65UK.jpg" tvg-name="El novio de mamá (2025)" ,El novio de mamá (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145213.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/931RWObebU1Y4EUS2fpwmZQRGPs.jpg" tvg-name="Enemigos (2025)" ,Enemigos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145214.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxRVe7JtMaZ3Yb3T2eycnPeJvvZ.jpg" tvg-name="Ajuste de cuentas (2025)" ,Ajuste de cuentas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145215.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouSqCU275wmXHsnFuQSywb3tnSb.jpg" tvg-name="F Marry Kill (2025)" ,F Marry Kill (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145216.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoUji8Zz5xNsa3xsy57PMBNHMtg.jpg" tvg-name="Friendship" ,Friendship
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145220.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsq6n6eTiUbs5yGnsuY1HRGoQXt.jpg" tvg-name="Instintos (2025)" ,Instintos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145221.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYPlrLJWjVkixwrJXA0f4V3D7Ab.jpg" tvg-name="Nadie 2 (2025)" ,Nadie 2 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145481.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bVMsq7jOsBAY2mlAkzkeQkf4M8.jpg" tvg-name="La buena letra (2025)" ,La buena letra (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145482.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj9bcqKBRhUGvYcbUKEAS7uI61f.jpg" tvg-name="Clown in a Cornfield (2025)" ,Clown in a Cornfield (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140918.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHH3TFJV5eJJThHwk3r18SzVdB9.jpg" tvg-name="Muy lejos (2025)" ,Muy lejos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140920.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j38kvKoFLfl7MhuIbjqg60o6bbo.jpg" tvg-name="Guillermo Tell (2025)" ,Guillermo Tell (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141429.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAfbtF0OuHU5TnAU7w8qeO0cnr7.jpg" tvg-name="Legends of the Condor Heroes The Gallants (2025)" ,Legends of the Condor Heroes The Gallants (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141430.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xqWda3KWuGWxNyoqlOlEzEzPmd.jpg" tvg-name="Osiris (2025)" ,Osiris (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141431.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtNdrKvD5MqvUbAQEja5WaKuVN1.jpg" tvg-name="King Ivory (2025)" ,King Ivory (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141432.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23YyIO9AgZUPWdwyqbX8VkJWZjk.jpg" tvg-name="La niña de la cabra (2025)" ,La niña de la cabra (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141433.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9u3V3SBByLwomz5pihDs3ckKoF.jpg" tvg-name="En el Reino de las Sombras (2025)" ,En el Reino de las Sombras (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141437.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg" tvg-name="Despelote (2025)" ,Despelote (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141550.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBdQclxQnEDOhDOjkKgKPW6jEHh.jpg" tvg-name="Pitufos (2025)" ,Pitufos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141551.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdK47zNkKVa253wph64WSLo9Cd9.jpg" tvg-name="Reinas de la Noche (2025)" ,Reinas de la Noche (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141552.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEOvj0cEDHTXiyYlCSJ76BpzPuB.jpg" tvg-name="Doble Traición (2025)" ,Doble Traición (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141553.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/godwprYhs8weMqDEA1iI3bJmm6q.jpg" tvg-name="El casoplón (2025)" ,El casoplón (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143474.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDNvZhJeMSwi8UH8jbpZvLMUfjp.jpg" tvg-name="La conductora (2025)" ,La conductora (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143475.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKIG63pXN89EfbTA7yKpwxAU1rf.jpg" tvg-name="F1 la película (2025)" ,F1 la película (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142731.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGG9cTEJWg7LiG9rU7CBCa3gOaj.jpg" tvg-name="Septiembre dice (2025)" ,Septiembre dice (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142732.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIjN0bqGzOOnMbRjBmYTqPVwk5m.jpg" tvg-name="La isla de los faisanes (2025)" ,La isla de los faisanes (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142733.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23VdXxxHf9bWnmBWVB4rIsqDWuz.jpg" tvg-name="The Damned (2025)" ,The Damned (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142734.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDn7SUptOydljO7IM4vq1PrGM5G.jpg" tvg-name="Buenos días, tristeza (2025)" ,Buenos días, tristeza (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143276.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVYEP9R8fBe6sxrqc3gP1cAehYZ.jpg" tvg-name="Votemos (2025)" ,Votemos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142335.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhmtOEWNkW1EC7u1N7sPEc8Rxxw.jpg" tvg-name="Rob1n (2025)" ,Rob1n (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142336.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg" tvg-name="Shadow of God (2025)" ,Shadow of God (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142337.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg" tvg-name="Los tipos malos 2 (2025)" ,Los tipos malos 2 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142494.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvUJb08yatV2b3NUSwuYdQKYoFd.jpg" tvg-name="Superman (2025)" ,Superman (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142596.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVsgV7ak6vR5xyXFggooJQinXBg.jpg" tvg-name="Hallow Road (2025)" ,Hallow Road (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142598.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgsdwQ6XciR0IzgeRXyKzVhzVzP.jpg" tvg-name="M3GAN 2.0 (2025)" ,M3GAN 2.0 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/139653.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg" tvg-name="Cómo entrenar a tu dragón (2025)" ,Cómo entrenar a tu dragón (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134839.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg" tvg-name="Cómo entrenar a tu dragón (2025)" ,Cómo entrenar a tu dragón (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134840.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oayXSQHQRk8VNavoXJw7lK1N6aI.jpg" tvg-name="Sneaks (2025)" ,Sneaks (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134841.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/original/vYiV8hZR46aL8cpbneeyFq0fuIc.jpg" tvg-name="Cómo entrenar a tu dragón (2025)(4K-IMAX)" ,Cómo entrenar a tu dragón (2025)(4K-IMAX)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134775.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/original/8nVpjy3ugO5Vqwh1FbdWFASD0Tu.jpg" tvg-name="Cómo entrenar a tu dragón (2025)(4K)" ,Cómo entrenar a tu dragón (2025)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134774.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okMVPa1gkCx4wn3jIroCpJU29gO.jpg" tvg-name="You'll Never Find Me (2025)" ,You'll Never Find Me (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/124512.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJ9qnZLhmj6wD3NgOe6lKoXJQMx.jpg" tvg-name="La fuente de la eterna juventud (2025)" ,La fuente de la eterna juventud (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/124744.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rOMi0FAfFwLfS1qsoklDAejI70.jpg" tvg-name="Gravedad cero (2025)" ,Gravedad cero (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/124745.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7c6HPcnw0oaO8H2vBwSLqTtFYx9.jpg" tvg-name="Tierra Baja (2025)" ,Tierra Baja (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/125265.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qKKsLEydjnPmqhklF0bdcztOt2.jpg" tvg-name="Zoe, mi amiga muerta (2025)" ,Zoe, mi amiga muerta (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/125759.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfY0oxDOvltyZv3ZH6e7yJGUMjh.jpg" tvg-name="Fin de fiesta (2025)" ,Fin de fiesta (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/125760.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kowCKRIO1xws2USrgWaPYdTZzYO.jpg" tvg-name="La dinastía de la espada (2025)" ,La dinastía de la espada (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/125960.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9MqBGo9BWainDLms66YLiDr5aS.jpg" tvg-name="Poseída (2025)" ,Poseída (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/125961.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIO7eVOivYH9LptLxdXio5KRor.jpg" tvg-name="Terror en el rio (2025)" ,Terror en el rio (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126508.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efqeK11WdXNkiOz7FkyrUCJZvwv.jpg" tvg-name="Kiff Lore of the Ring Light (2025)" ,Kiff Lore of the Ring Light (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126509.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c24RWnJzwAtWZ039o9u6K7c8jyw.jpg" tvg-name="La mitad de Ana (2025)" ,La mitad de Ana (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126510.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8upWJ1KTR1bAPqXCHAuVOhfuiAZ.jpg" tvg-name="Predator Asesino de asesinos (2025)" ,Predator Asesino de asesinos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126911.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8EORyEJyVk7wSyUoy0bb4lVkuu.jpg" tvg-name="Mazel Tov (2025)" ,Mazel Tov (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126981.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1g8OV441LN0DKoCS7CRdL3OvQK.jpg" tvg-name="Ocean with David Attenborough (2025)" ,Ocean with David Attenborough (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126982.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l36KTC7nvXeXI1YooMiIcsb1Ou3.jpg" tvg-name="Indomables (2025)" ,Indomables (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126983.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QBHdmGy8BT7AC2E8R9NeCNmcvN.jpg" tvg-name="The Ballad of Wallis Island (2025)" ,The Ballad of Wallis Island (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126984.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PbSSN2BT22ZMsMaD7m8cGaqk3L.jpg" tvg-name="Loco Por Ella (2025)" ,Loco Por Ella (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126985.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1DSh29atQjLZCVCddMyGw1mbM8.jpg" tvg-name="Kayara. La guerrera del imperio Inca (2025)" ,Kayara. La guerrera del imperio Inca (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127101.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg" tvg-name="Mountainhead (2025)" ,Mountainhead (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127104.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qweOvbSGTTG5sTpokW09s70gh9J.jpg" tvg-name="Pérdida total (2025)" ,Pérdida total (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127105.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5THjBLt4vE9lAnLODqXFf5qEwxa.jpg" tvg-name="Play Dead (2025)" ,Play Dead (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127106.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3Znx32rUXgDm8x7OT2LCFg1qWR.jpg" tvg-name="FIASCO TOTAL LA TRAGEDIA DE ASTROWORLD (2025)" ,FIASCO TOTAL LA TRAGEDIA DE ASTROWORLD (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127107.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xTBAMbuADcxvwcAB4hiSDPVv9x.jpg" tvg-name="Titán La tragedia de OceanGate (2025)" ,Titán La tragedia de OceanGate (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127169.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkPrPDAK9a1K3hJCSilT2ApmWqF.jpg" tvg-name="Los Rechazados (2025)" ,Los Rechazados (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127680.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epEorIcbWjuLqd4dgRWYffpazIR.jpg" tvg-name="Invencible: Un niño fuera de serie (2025)" ,Invencible: Un niño fuera de serie (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127681.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfLFwdbfdTalLpJKyEXdUv5pELs.jpg" tvg-name="Wolfgang (Extraordinario) (2025)" ,Wolfgang (Extraordinario) (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127682.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sV9vfQ6FneFt3x9FokKWAAqwWDq.jpg" tvg-name="A Knight's War (2025)" ,A Knight's War (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/128370.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w360EPoLVUs9ENop1SBHnARMVRZ.jpg" tvg-name="La niña de mis ojos (2025)" ,La niña de mis ojos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/128372.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhN5fRdZogzoqwDqHGHHvkoNVP4.jpg" tvg-name="El Rey de Reyes (2025)" ,El Rey de Reyes (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/128374.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg" tvg-name="Ash (2025)" ,Ash (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117593.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDyJuHpn0Sh19fMv52vRTwGBx4g.jpg" tvg-name="Pánico en el tren bala (2025)" ,Pánico en el tren bala (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117594.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdClwqpYQXBSCGGDMdtvsuggwec.jpg" tvg-name="Los pecadores (2025)" ,Los pecadores (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117598.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r70WqeN6iIYIrwzxfNYFpegKbLN.jpg" tvg-name="Sea Lions of the Galapagos (2025)" ,Sea Lions of the Galapagos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117600.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vshMKR0CMTCQLjbSWN8seEVgPK5.jpg" tvg-name="The Simpsons: Yellow Planet" ,The Simpsons: Yellow Planet
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117602.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EqXQpRpDLJA09ufah6Vsr487WW.jpg" tvg-name="La mujer de las sombras (2025)" ,La mujer de las sombras (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117610.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdg8N1ZBdXzX7H7h7Su9tPfvMp3.jpg" tvg-name="Brave the Dark (2025)" ,Brave the Dark (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117611.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPoZ3dqOW7J9gyqTaf6zcd5PBPb.jpg" tvg-name="The Alto Knights (2025)" ,The Alto Knights (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117612.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2VWWAPcicBqCDwqyuibfbfiJaS.jpg" tvg-name="Pangolín El viaje de Kulu (2025)" ,Pangolín El viaje de Kulu (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117846.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7CoOjbpKO9tAbQhyJgOB6iwrqV.jpg" tvg-name="Déjame estar contigo (2025)" ,Déjame estar contigo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117899.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQWQ3J3tnCKOBtwVtRD9vFUREyb.jpg" tvg-name="WWE Elimination Chamber: Toronto (2025)" ,WWE Elimination Chamber: Toronto (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117900.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJxo8xxVnSaPAf9EdkjAfKwmoQK.jpg" tvg-name="Alba del desierto (2025)" ,Alba del desierto (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117901.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/238RnTgyIsDMEnznrB45r4QxoF3.jpg" tvg-name="Esa semana juntos (2025)" ,Esa semana juntos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117902.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myNjx5DRj6UvROSlV6t4FuvcTLm.jpg" tvg-name="Until Dawn (2025)" ,Until Dawn (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/117916.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxRjfgZHj7nsa7aBqm6qato2b70.jpg" tvg-name="Chica conoce a chico (2025)" ,Chica conoce a chico (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110660.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3jlfz1Zc8Ea9xS5IV45unSQ1e3.jpg" tvg-name="Return to Office (2025)" ,Return to Office (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110659.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2E7me3rPi8HqaeheuD86YlpNX6k.jpg" tvg-name="Dhoom Dhaam (2025)" ,Dhoom Dhaam (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110658.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DBLmQ1Dy3PqWJV5FWzo9i3RMGd.jpg" tvg-name="El caos está en el aire (2025)" ,El caos está en el aire (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110661.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjDs56iwx4i29VQ1RbSkqO9RUyU.jpg" tvg-name="Alarum (2025)" ,Alarum (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110662.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHHCXbPjI6xHJoo5fkBNmPm2lo1.jpg" tvg-name="Popeye's Revenge (2025)" ,Popeye's Revenge (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110664.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4xoSHQIt1YQpiARUFM4K2tf4YX.jpg" tvg-name="This Is the Tom Green Documentary (2025)" ,This Is the Tom Green Documentary (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110665.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UymgOU9dlGdj0xEoi4fDJKJf30.jpg" tvg-name="¿Quién es Luigi Mangione? (2025)" ,¿Quién es Luigi Mangione? (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110680.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z15wy8YqFG8aCAkDQJKR63nxSmd.jpg" tvg-name="El Mono (2025)" ,El Mono (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111524.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg" tvg-name="Bastion 36 (2025)" ,Bastion 36 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111525.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg" tvg-name="Millers in Marriage (2025)" ,Millers in Marriage (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111548.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMJRFQarUL73K6FIbhvO4A8uEvm.jpg" tvg-name="Un día de esos (2025)" ,Un día de esos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111550.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfxVkV5vFZmgnR2zzoj6virotwB.jpg" tvg-name="Una muerte silenciosa (2025)" ,Una muerte silenciosa (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111552.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke6Awqk7WembxYHifay7ujOjXwJ.jpg" tvg-name="Imagínatelo (2025)" ,Imagínatelo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111559.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg" tvg-name="Mickey 17 (2025)" ,Mickey 17 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111832.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RqpAOoqMhmpG40JW0rJgGbbRch.jpg" tvg-name="Estado eléctrico (2025)" ,Estado eléctrico (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111926.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg" tvg-name="Another You (2025)" ,Another You (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/111929.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmQb07CrOddVGV0Q73aeU4e8I18.jpg" tvg-name="Control Freak (2025)" ,Control Freak (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112122.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI5eWAvq68mddW6JkRodywrOBF.jpg" tvg-name="En un confín del mundo (2025)" ,En un confín del mundo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113643.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynW7ZFLZsbVQozvzdAOLdQrLL9P.jpg" tvg-name="Z Zone (2025)" ,Z Zone (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113648.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMhEwAbb9sCaat4hjkhYByaLn1a.jpg" tvg-name="Alexander y el viaje terrible, horrible, espantoso, horroroso (2025)" ,Alexander y el viaje terrible, horrible, espantoso, horroroso (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113839.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg" tvg-name="Este amor sí que duele (2025)" ,Este amor sí que duele (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113840.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpAbueORafYSgTk2oSc2t6ayktb.jpg" tvg-name="Criminales de lujo (2025)" ,Criminales de lujo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113841.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2K7Zhw9yRjzoa4HBbrjt7aqlgT.jpg" tvg-name="Chico Bento e a Goiabeira Maraviosa (2025)" ,Chico Bento e a Goiabeira Maraviosa (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113944.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTmm4roxrc4TlU3cxGSC6e7ueaP.jpg" tvg-name="La madre de las estafas (2025)" ,La madre de las estafas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113945.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq09xOhoQowgZVOzViQGwgPEhyG.jpg" tvg-name="Crónicas (2025)" ,Crónicas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113946.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltQVd2J70YY56qxYm1Ya1HaF4ox.jpg" tvg-name="Desconectados 2 Reconectados (2025)" ,Desconectados 2 Reconectados (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113947.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npzFyBu4fFPQpWXaLKdrXc6JrUK.jpg" tvg-name="Giro final (2025)" ,Giro final (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113948.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4DgNfKC52uGVTgFncRsXx9Eahd.jpg" tvg-name="Holland (2025)" ,Holland (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113949.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7rxG4dfqpc42l7kfBohsVGhSDV.jpg" tvg-name="Lady Sakura (2025)" ,Lady Sakura (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/113950.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcXq6q0p6QEXZC1o8UIFHt3L1EE.jpg" tvg-name="Golpe de superación (2025)" ,Golpe de superación (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114007.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKRQtsAhmaww4VST3vzgK5G8pRJ.jpg" tvg-name="Confidencial (Black Bag) (2025)" ,Confidencial (Black Bag) (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114023.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg" tvg-name="Una película de Minecraft (2025)" ,Una película de Minecraft (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114271.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2pegSby27ebOwW361GJb1aKcxa.jpg" tvg-name="DJ encubierto (2025)" ,DJ encubierto (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114272.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52JG1uJcULACAEWmUmxp1U7uFMP.jpg" tvg-name="Sin oxígeno (2025)" ,Sin oxígeno (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114273.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fT6SIrOyGwWZ4ZujHjRcabcxgfq.jpg" tvg-name="Monjas Oscuras (2025)" ,Monjas Oscuras (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114274.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEk8ZlboBcPLwO1npch7pQSu0Br.jpg" tvg-name="Mouse Of Horrors (2025)" ,Mouse Of Horrors (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114275.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAAcqJJV4FdSNztm7qTvLUF8og4.jpg" tvg-name="The Last Supper (2025)" ,The Last Supper (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114277.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o26avHeCyBUHDoHBYCaflWT6heZ.jpg" tvg-name="Shiver Me Timbers (2025)" ,Shiver Me Timbers (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114580.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gN4qMGMZQOY2Vcy5pDZPnXkL6Y.jpg" tvg-name="The Forest Clown (2025)" ,The Forest Clown (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114581.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGKjGdHZFFjmMjfR3noOyfL8azd.jpg" tvg-name="The Killer Is Calling (2025)" ,The Killer Is Calling (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114582.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNtVwwoWMnBFDyyDPpbd7sTinr7.jpg" tvg-name="The Unbreakable Boy (2025)" ,The Unbreakable Boy (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114583.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5oy6awrIHWqusJnllR0XGEHeMf.jpg" tvg-name="Zombie Repellent (2025)" ,Zombie Repellent (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/114584.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/figjQxoiVMNuDJe5wl4nrgAJTDD.jpg" tvg-name="Mientras Cupido no está (2025)" ,Mientras Cupido no está (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/115356.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSee9gbGLfqwvjoWoCQgRZ4Sfky.jpg" tvg-name="G20 (2025)" ,G20 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/115386.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg" tvg-name="Tierras perdidas (2025)" ,Tierras perdidas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/115387.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK26eD5iXTw199cxqwf8yvvk8Rd.jpg" tvg-name="Escapada de espanto (2025)" ,Escapada de espanto (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112126.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHowAaChDjwueySmwVbsjHmpWa.jpg" tvg-name="High Rollers (2025)" ,High Rollers (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112269.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg" tvg-name="Silent Zone (2025)" ,Silent Zone (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112270.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYdmNz3HT22vimRdwVCmhKBSLZV.jpg" tvg-name="Mystery Island Winner Takes All (2025)" ,Mystery Island Winner Takes All (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112271.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljTarS50b3L08SNyWvmb2ZQTvMP.jpg" tvg-name="Novocaine (2025)" ,Novocaine (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112346.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hVjnB5FE4gBrR5rqk42qiBFgGe.jpg" tvg-name="Batman Ninja vs. Yakuza League (2025)" ,Batman Ninja vs. Yakuza League (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112648.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9SrxVaRhBNKf95vns1ti13yzl0.jpg" tvg-name="El Jardinero (2025)" ,El Jardinero (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112649.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaEGthsGmYfGvyOJZguxlcNj378.jpg" tvg-name="Blancanieves (2025)" ,Blancanieves (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112719.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4fJun2pJ70BBFMgGAZddk3m7sg.jpg" tvg-name="Duplicidad, de Tyler Perry (2025)" ,Duplicidad, de Tyler Perry (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112722.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jI6KVCPJhOMSuXp9Fb0NZlfHeLV.jpg" tvg-name="O'Dessa (2025)" ,O'Dessa (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/112723.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdqzzSDXeCZzCEzZKPLYQuTwFdG.jpg" tvg-name="Algo Azul (2025)" ,Algo Azul (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109198.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee9iNQi91kpIkdfsAiGmJO7QdSF.jpg" tvg-name="Contigo en el futuro (2025)" ,Contigo en el futuro (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109200.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSwQudxKlJnI4tjDKi47aTAvTmj.jpg" tvg-name="The Witcher: Sirenas de las profundidades (2025)" ,The Witcher: Sirenas de las profundidades (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109207.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14jxZmclGIqAQ4xtYXYKhvRLTwx.jpg" tvg-name="¡Estáis cordialmente invitados! (2025)" ,¡Estáis cordialmente invitados! (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109209.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVr3H6v4Vb7Mk3zsNxSzarfTp1b.jpg" tvg-name="El Maravilloso Mago de Oz (2025)" ,El Maravilloso Mago de Oz (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109211.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ8Z4jCDVlBflEuCOwH3NCDyqBP.jpg" tvg-name="El hilo rojo (2025)" ,El hilo rojo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109212.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0HxfkF9eoa6wSVnzwMhuDSK7ba.jpg" tvg-name="Culpa mía: Londres (2025)" ,Culpa mía: Londres (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109539.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wsfOvNfUGogZGfSDfMN4hCOM1kR.jpg" tvg-name="Juego de Ladrones 2: Pantera (2025)" ,Juego de Ladrones 2: Pantera (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110398.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZR98C2Tzefugivw21yEfYvp1G9.jpg" tvg-name="La acompañante (2025)" ,La acompañante (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110399.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxySAH7i9PDJnQj261pV7jeb0AL.jpg" tvg-name="La chica más hermosa del mundo (2025)" ,La chica más hermosa del mundo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110401.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h40GMBkxXmU0aar8IAv9MmM3ZDB.jpg" tvg-name="HIERVE (UMAMI) (2025)" ,HIERVE (UMAMI) (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110402.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndCIqBuR71GrTRPz9JjKED6e0W9.jpg" tvg-name="Umjolo: Sin cura alguna (2025)" ,Umjolo: Sin cura alguna (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110405.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uflnD9Gl6Ia327IYfjNtNSxjzdO.jpg" tvg-name="Una historia de amor en Copenhague (2025)" ,Una historia de amor en Copenhague (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110406.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg" tvg-name="Heart Eyes (2025)" ,Heart Eyes (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/110407.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVMSRyAiye7gZ8NtuCt1qgbspY9.jpg" tvg-name="Capitán América: Brave New World (2025)" ,Capitán América: Brave New World (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/109060.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUzwACFxvpbsD8kBr1IUI4JtXz0.jpg" tvg-name="Policán (2025)" ,Policán (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/108375.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx9btF0Jo4rRF68xny7VPqHNt3z.jpg" tvg-name="Star Trek: Section 31 (2025)" ,Star Trek: Section 31 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/108571.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dA7kJoHR0NEkfYeIxOnoorlnJI.jpg" tvg-name="Bill Maher: Is Anyone Else Seeing This? (2025)" ,Bill Maher: Is Anyone Else Seeing This? (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/105653.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxqwLXgd4vjouSsxKXbGhQyjwoa.jpg" tvg-name="Le Jardinier (2025)" ,Le Jardinier (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/105654.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuPqxATt872rKIR1WZI83TcpKw6.jpg" tvg-name="Man with No Past (2025)" ,Man with No Past (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/105655.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/155X36JZ1KLoXjHfF4DNXV8Yt57.jpg" tvg-name="Polar Opposites (2025)" ,Polar Opposites (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/105657.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xf4XvR20dKHP9KfnrFG3epQ5djz.jpg" tvg-name="Hombre lobo (2025)" ,Hombre lobo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/106051.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg" tvg-name="Sniper: La Ultima Resistencia (2025)" ,Sniper: La Ultima Resistencia (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/106174.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8T6nkYb4W8BIeafmFffyfsRciTL.jpg" tvg-name="Amenaza en el aire (2025)" ,Amenaza en el aire (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/106932.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6ALxjTM4YUdiCRmHCkZLE6r2pG.jpg" tvg-name="El asesino del calendario (2025)" ,El asesino del calendario (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/105565.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhzjbQBu7P5KANUde2WlMqql5gd.jpg" tvg-name="Don Jediondo Recargado (2025)" ,Don Jediondo Recargado (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/104483.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Pvop9rhReLjIoJ09oPIgPG7pwa.jpg" tvg-name="No te mueras: El hombre que quiere vivir para siempre (2025)" ,No te mueras: El hombre que quiere vivir para siempre (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/104484.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PepF75wZ07T37MWC5RXHnKd6Xe.jpg" tvg-name="Diddy: Monster's Fall (2025)" ,Diddy: Monster's Fall (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/104563.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgqSjuEKVYhaxS2wann7DvcjEfN.jpg" tvg-name="Love of the Irish (2025)" ,Love of the Irish (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/104565.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3kWHFsCULmGijdVTgp2Bf19Azd.jpg" tvg-name="George A. Romero's Resident Evil" ,George A. Romero's Resident Evil
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/104845.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LKXRXycQAx7slS7AVNPUg2qvpY.jpg" tvg-name="Amateur (2025)" ,Amateur (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/115981.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBJdzKPeDaC96AzlrtMWBomYSZV.jpg" tvg-name="Saint Catherine (2025)" ,Saint Catherine (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/118409.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gc83Ao5AP59gQVjnxAps2oFy2ag.jpg" tvg-name="La cita (2025)" ,La cita (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/118592.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2egvcQPqrXBgPHdK6hhznptaiiY.jpg" tvg-name="La formula del agua (2025)" ,La formula del agua (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/118593.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc7YIx6KNiXm1dpqlhqdX3eTL7a.jpg" tvg-name="Presencia (2025)" ,Presencia (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/118895.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJKuesG0qkmxKb6QrXmexz6UdDL.jpg" tvg-name="Nocturnal (2025)" ,Nocturnal (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/120943.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99XUkLH31ArJYf4fqGmu9pmA00u.jpg" tvg-name="La partida de go (2025)" ,La partida de go (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/121127.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YH326wovVubxK10Yjh9xjE6wTm.jpg" tvg-name="Corina (2025)" ,Corina (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/121129.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3McqBhWdjAp0HZlkfZ8srltO4k8.jpg" tvg-name="Crypto: La apuesta final (2025)" ,Crypto: La apuesta final (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/121130.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efNhiZPk71FTYJ30dBkWMfc939D.jpg" tvg-name="Karate Kid Leyendas (2025)" ,Karate Kid Leyendas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/121326.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKtUd74w4mMlnk6T55SxkIiQLH1.jpg" tvg-name="Fight or flight (sicarios en el aire) (2025)" ,Fight or flight (sicarios en el aire) (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/121550.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/M0V6s0WrPsYTd0HxjbZjYAqY9B.jpg" tvg-name="Desmontando un elefante (2025)" ,Desmontando un elefante (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/121556.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMrXZnGTPy52zgplp7PbZWll8W7.jpg" tvg-name="Destino final Lazos de sangre (2025)" ,Destino final Lazos de sangre (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/121858.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPW9fszYL0EG7YJW4NwvnAZbfuq.jpg" tvg-name="El secreto del orfebre (2025)" ,El secreto del orfebre (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/124187.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ysqouX8YOb6aHIeTWTuCARB5mS.jpg" tvg-name="Almas marcadas Rule + Shaw (2025)" ,Almas marcadas Rule + Shaw (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/124188.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhfWpdNmPwU1VV7zhNA1nOMbHkH.jpg" tvg-name="¡Qué Huevos, Sofía!" ,¡Qué Huevos, Sofía!
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/124189.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7QB75hlCqB8iKBfeO5TnpajQGn.jpg" tvg-name="Prófugo por accidente (2025)" ,Prófugo por accidente (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/124190.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jELfUgJWJHofs3b7w7EpmGe4ynq.jpg" tvg-name="Ojalá estuvieras aquí (2025)" ,Ojalá estuvieras aquí (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/124436.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg" tvg-name="Opus (2025)" ,Opus (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134469.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIq3RueKqkS7g1AkeHgAMRd18Y9.jpg" tvg-name="Morlaix" ,Morlaix
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136589.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gdkXW3QMsi6u0yeh7DlUOw95PV.jpg" tvg-name="8 (2025)" ,8 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136965.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRiK0GwWAQ1qukvAgN3I9t5dGVq.jpg" tvg-name="Una batalla tras otra (2025)" ,Una batalla tras otra (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157785.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Mu73AnUmBpSI8W0bNCgaCVwzOa.jpg" tvg-name="¿Y dónde está el policía (2025)" ,¿Y dónde está el policía (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157786.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49s9HB9bXMjHkdw0asNs7m1rO5E.jpg" tvg-name="Una noche en Zoopolis" ,Una noche en Zoopolis
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157787.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wM125GkMUzSyjPzNqvx9j2UHYV7.jpg" tvg-name="Tee Yai: Nacido para el crimen (2025)" ,Tee Yai: Nacido para el crimen (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157788.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfkecTToGVoq7hUE1xlay7ccM9e.jpg" tvg-name="El hijo de mil hombres (2025)" ,El hijo de mil hombres (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157789.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPxiquXDXroiSJ6dmikbPISpIps.jpg" tvg-name="Lefter: La historia de un maestro del fútbol (2025)" ,Lefter: La historia de un maestro del fútbol (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157790.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRe1CQugJcj5ZA3WSaQnFIDPoK5.jpg" tvg-name="La mano que mece la cuna (2025)" ,La mano que mece la cuna (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157791.mkv
+#EXTINF:-1 group-title="ESTRENOS 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dsBBNw3uJkOvLPb2nz8VJAkGbM.jpg" tvg-name="The Dogs (2025)" ,The Dogs (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/157792.mkv
+#EXTINF:-1 group-title="VOD-ESTRENO CINE (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg" tvg-name="Pets on a Train CAM (2025)" ,Pets on a Train CAM (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148299.mp4
+#EXTINF:-1 group-title="VOD-ESTRENO CINE (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g56u2k9CvMHP5IG257QVj9gj1b.jpg" tvg-name="Guardianes de la noche: Kimetsu no Yaiba - Rumbo al Entrenamiento de los Pilares (2024)" ,Guardianes de la noche: Kimetsu no Yaiba - Rumbo al Entrenamiento de los Pilares (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134040.mkv
+#EXTINF:-1 group-title="VOD-ESTRENO CINE (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXIw6UiO2zANEPyStiYoEIopN0q.jpg" tvg-name="La larga marcha CAM (2025)" ,La larga marcha CAM (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149962.mkv
+#EXTINF:-1 group-title="VOD-ESTRENO CINE (CAM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwxROLIUeEr6eFITwworjcXLAk4.jpg" tvg-name="Una batalla tras otra CAM (2025)" ,Una batalla tras otra CAM (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149963.mkv
+#EXTINF:-1 group-title="VOD-ESTRENO CINE (CAM)" tvg-logo="https://i.postimg.cc/y8g8q3VQ/CALIDAD-CAM-20240819-203743-0000.png" tvg-name="The Beach House Murders" ,The Beach House Murders
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/19861.mp4
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/lbBxPGkqfMBv1xQSKOHRDVOnUhf.jpg" tvg-name="Una película de Minecraft 4K (2025)" ,Una película de Minecraft 4K (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133107.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/8pqDdEjj6tRhk04coy89vxxtmBZ.jpg" tvg-name="Deadpool y Lobezno 4k (2024)" ,Deadpool y Lobezno 4k (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133109.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUNj55xlF0pSU5FU3yDHC6L5wVX.jpg" tvg-name="Capitán América Un nuevo mundo 4k (2025)" ,Capitán América Un nuevo mundo 4k (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133678.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg" tvg-name="Ant-Man y la Avispa: Quantumanía (2023)(4K)" ,Ant-Man y la Avispa: Quantumanía (2023)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133962.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg" tvg-name="Avatar: El sentido del agua (2022)(4K)" ,Avatar: El sentido del agua (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133963.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" tvg-name="Black Panther: Wakanda Forever (2022)(4K)" ,Black Panther: Wakanda Forever (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133964.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amljhv1AoWvudjwOKurDz8JL2Ej.jpg" tvg-name="Hay algo mal con los niños (2023)(4K)" ,Hay algo mal con los niños (2023)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133965.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKovzRJWz4brwxogYH8vaIoMOeU.jpg" tvg-name="Fiesta en casa (2023)(4K)" ,Fiesta en casa (2023)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133966.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg" tvg-name="Muere, Hart (2023)(4K)" ,Muere, Hart (2023)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133967.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCxwaQeoIr4FcjlPgHfzog0x4B8.jpg" tvg-name="¡Shazam! La furia de los dioses (2023)(4K)" ,¡Shazam! La furia de los dioses (2023)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133968.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUNYaSLMnoER2AJzbs7ITVl8b6b.jpg" tvg-name="Transfusion (2023)(4K)" ,Transfusion (2023)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133969.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIOlazNiPYhOODUiOep9OnIxETx.jpg" tvg-name="Una boda explosiva (2022)(4K)" ,Una boda explosiva (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/133970.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JspmokDnpm8SEg28wtstfGps0K.jpg" tvg-name="Kung Fu Panda 4 (2024)(4K)" ,Kung Fu Panda 4 (2024)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134038.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdszPVnIY7cWgbgJ8zbwu1PiU5V.jpg" tvg-name="La sirenita (2023)(4k)" ,La sirenita (2023)(4k)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134140.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3P9QvWVN02Etn4kYGC702WVoXEb.jpg" tvg-name="Rápidos y furiosos X 4k (2023)" ,Rápidos y furiosos X 4k (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/128270.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/uCkohpRsEzWcjlV0PnVcVH6bJEf.jpg" tvg-name="Del revés 2 (Inside Out 2) 4k " ,Del revés 2 (Inside Out 2) 4k
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/89728.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/mp2xzBj8KMTNLhJHykBSdD4jt34.jpg" tvg-name="Alien³ (1992)" ,Alien³ (1992)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/62894.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/gHkx85T2KMVwY1eVnuP7yd7prPS.jpg" tvg-name="Alien: Resurrección (1997)(4K)" ,Alien: Resurrección (1997)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/62895.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/MCDIb7Xe0ukziO6A9degl3mhXE.jpg" tvg-name="Aliens: El regreso (1986)" ,Aliens: El regreso (1986)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/62896.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/qecuJ5vY8vm9mXOq00a64iQjrqg.jpg" tvg-name="Jurassic Park (Parque Jurásico)(1993)" ,Jurassic Park (Parque Jurásico)(1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/62898.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/ayNZUP2yIMn1YJ0R0eRGJZQxZW7.jpg" tvg-name="Super Mario Bros: La película (2023)(4K)" ,Super Mario Bros: La película (2023)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/62903.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg" tvg-name="El Grinch 4K (2018)" ,El Grinch 4K (2018)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/2587.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/rce0o6UN4kUVv9k2qucYv7hTIZq.jpg" tvg-name="Alien, el octavo pasajero (1979)(4K)" ,Alien, el octavo pasajero (1979)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46204.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/grCo33HaYbPGZKRvX34UtgXjRxD.jpg" tvg-name="Arrival (2016)(4K)" ,Arrival (2016)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46205.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/vuFG3BJx7iUWdF3iZy711BnT8zh.jpg" tvg-name="Avatar (2009)(4K)" ,Avatar (2009)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46206.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/9X4ZwHXx9BIrhnOwgcfLIRCYQj6.jpg" tvg-name="Vengadores: Endgame (2019)(4K)" ,Vengadores: Endgame (2019)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46207.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/uZoYTcUpTZ91eASvgrDjuznn5bT.jpg" tvg-name="Vengadores: Infinity War (2018)(4K)" ,Vengadores: Infinity War (2018)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46208.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/5KGriWM6puyhIJi1vkDeRTYQ405.jpg" tvg-name="Batman (2022)(4K)" ,Batman (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46209.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/awxCgjLR7xcuAfNj40vO6L7no2f.jpg" tvg-name="Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)(4K)" ,Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46210.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/3hjBTNrpZLaJ4WzrNshcHEiwJMF.jpg" tvg-name="Black Adam (2022)(4K)" ,Black Adam (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46211.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/uR3ex7LZrX3lbIMNb87WBXzCWM.jpg" tvg-name="Viuda negra (2021)(4K)" ,Viuda negra (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46212.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/suCAYeX6sCMRNFgRtFvb4yG0fkO.jpg" tvg-name="Braveheart (1995)(4K)" ,Braveheart (1995)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46213.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/l5xPxRLaLvcHqMV8VhqDMlZZ9j9.jpg" tvg-name="Capitán América: Civil War (2016)(4K)" ,Capitán América: Civil War (2016)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46214.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/d5ew4xTXho2FjwrIazVMkxjUVdO.jpg" tvg-name="Capitana Marvel (2019)(4K)" ,Capitana Marvel (2019)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46215.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/f0jKZNpdrmrgUb8iyvShOLXB2aD.jpg" tvg-name="Chip y Chop: Los guardianes rescatadores (2022)(4K)" ,Chip y Chop: Los guardianes rescatadores (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46216.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/bXdCyLqtvatCmDT1jx0yvNX3Gtu.jpg" tvg-name="Cruella (2021)(4K)" ,Cruella (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46217.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/yVlGKF8J5Dd6xN7VigphGjlsyYG.jpg" tvg-name="Deadpool (2016)(4K)" ,Deadpool (2016)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46218.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg" tvg-name="Deadpool 2 (2018)(4K)" ,Deadpool 2 (2018)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46219.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://i.postimg.cc/JnPCSpZw/20240819-162811-0000.png" tvg-name="Desencantada: Vuelve Giselle (2022)(4K)" ,Desencantada: Vuelve Giselle (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46220.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/cb5CC5zTryWXGMNPml1RzYuB5lh.jpg" tvg-name="Doctor Strange en el multiverso de la locura (2022)(4K)" ,Doctor Strange en el multiverso de la locura (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46221.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/5yORrnkemL7rGRIlm8M5OkpdXqP.jpg" tvg-name="E.T. el extraterrestre (1982)" ,E.T. el extraterrestre (1982)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46222.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://i.postimg.cc/7PWp7GNN/20240819-163224-0000.png" tvg-name="Los elefantes (2020)" ,Los elefantes (2020)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46223.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/caxHjdb0Z2jfBUQ4CgGidSuOZCb.jpg" tvg-name="El Escuadrón Suicida (2021)" ,El Escuadrón Suicida (2021)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46224.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/19ez3v4t2AccbrZ5mfL21pZqjJC.jpg" tvg-name="El menú (2022)" ,El menú (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46225.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/OHEW0hdhgU2SmWxlO9OuyrxoxL.jpg" tvg-name="Frozen: El reino del hielo (2013)" ,Frozen: El reino del hielo (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46226.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/wwPULGXyDkkaOnYQBS6xTk07lRP.jpg" tvg-name="Frozen 2 4k (2019)" ,Frozen 2 4k (2019)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46227.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/6ofO0OJdAJMcgx4whUctNyfaqGi.jpg" tvg-name="Gladiator (2000)" ,Gladiator (2000)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46228.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/p1qCAUTDXQpQzLeo48ApwKGMv73.jpg" tvg-name="Godzilla vs. Kong (2021)" ,Godzilla vs. Kong (2021)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46229.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/vvcOqWLZgKpCQOZcQENpo68odh1.jpg" tvg-name="Halloween: El final (2022)" ,Halloween: El final (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46230.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/lbNJNM6fw9mRQ1IPghtPAuXf8ki.jpg" tvg-name="Harry Potter y la cámara secreta (2002)" ,Harry Potter y la cámara secreta (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46231.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/nR1osynUP9Rv3jygcOOn1cgnKxg.jpg" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)(4K)" ,Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46232.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/t7CMwSQ1zluErYjnknoAggNrOpE.jpg" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)(4K)" ,Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46233.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/sALQmWf7ULhgvJPNbEmtHsuO2Yt.jpg" tvg-name="Harry Potter y el cáliz de fuego (2005)(4K)" ,Harry Potter y el cáliz de fuego (2005)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46234.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/r12SXr3cOQLwfAC2CqmRX09OtxO.jpg" tvg-name="Harry Potter y el misterio del príncipe (2009)(4K)" ,Harry Potter y el misterio del príncipe (2009)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46235.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/m1Gn3NCrtTEocSPuUJ3ebOIiUmI.jpg" tvg-name="Harry Potter y la Orden del Fénix (2007)(4K)" ,Harry Potter y la Orden del Fénix (2007)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46236.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/uvnVpnHmMF7RVAsNji4OsiiDULe.jpg" tvg-name="Harry Potter y la piedra filosofal (2001)(4K)" ,Harry Potter y la piedra filosofal (2001)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46237.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/2zrjhsLBGMtrgibgjs1ehdBz4fx.jpg" tvg-name="Harry Potter y el prisionero de Azkaban (2004)(4K)" ,Harry Potter y el prisionero de Azkaban (2004)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46238.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/2JHBFWOHw0ZErcnUMl6qctw17Kd.jpg" tvg-name="El imperio de la luz (2022)(4K)" ,El imperio de la luz (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46239.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/926p1gffTSyFSVzvweefeuEO1Vl.jpg" tvg-name="Independence Day (1996)(4K)" ,Independence Day (1996)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46240.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/vrYFZYw85vLeXXQquhQAFve5BMo.jpg" tvg-name="Independence Day: Contraataque (2016)(4K)" ,Independence Day: Contraataque (2016)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46241.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/uODkRJ68CQN2uiHksyGXNPTYVuN.jpg" tvg-name="Interstellar (2014)(4K)" ,Interstellar (2014)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46242.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/kB8I1lcaK6obwpHETpvl6TjSpFT.jpg" tvg-name="John Wick (Otro día para matar) (2014)(4K)" ,John Wick (Otro día para matar) (2014)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46243.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/z6ZZVrqf2lX5YVs6nfMeGOfcpTj.jpg" tvg-name="John Wick: Pacto de sangre (2017)(4K)" ,John Wick: Pacto de sangre (2017)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46244.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/nAWhnirObpoGMVfyuFGPKoeM7YS.jpg" tvg-name="John Wick: Capítulo 3 - Parabellum (2019)(4K)" ,John Wick: Capítulo 3 - Parabellum (2019)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46245.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/Apa9OReolABh7fh1O37aRXaue1y.jpg" tvg-name="Joker (2019)(4K)" ,Joker (2019)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46246.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/cYb0me4dRWexojkmsJj96iFCg3y.jpg" tvg-name="La bella y la bestia (2017)(4K)" ,La bella y la bestia (2017)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46247.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/x7PfQTSH6fR9M8UiH2pp9Ja5Wxx.jpg" tvg-name="La LEGO película 2 (2019)(4K)" ,La LEGO película 2 (2019)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46248.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/4pJWLIoCAY0RfQQHn0H7BUsHoqG.jpg" tvg-name="La mujer rey (2022)(4K)" ,La mujer rey (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46249.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/lXc7xxWbt1u8dtk0XfSjDuWvYXy.jpg" tvg-name="Luca (2021)(4K)" ,Luca (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46250.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/jFwJh6n04BSw3f8rilbEiYsm9bu.jpg" tvg-name="Mad Max: Furia en la carretera (2015)(4K)" ,Mad Max: Furia en la carretera (2015)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46251.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/9s1aaMJvexDeKpYYEUYgJQkmNI.jpg" tvg-name="Matrix (1999)(4K)" ,Matrix (1999)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46252.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/vJV0O7C4SLCV01zGTc0Pgcpa4qn.jpg" tvg-name="Matrix Reloaded (2003)(4K)" ,Matrix Reloaded (2003)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46253.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/864YrxQdwdfjLFfwlnfzdvbcKMe.jpg" tvg-name="Matrix Resurrections (2021)(4K)" ,Matrix Resurrections (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46254.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/nOj9Xkny6KRegyM16MC5DujV8Ca.jpg" tvg-name="Matrix Revolutions (2003)(4K)" ,Matrix Revolutions (2003)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46255.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://i.postimg.cc/fW15vxSB/20240819-173335-0000.png" tvg-name="La memoria de un asesino (2022)(4K)" ,La memoria de un asesino (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46256.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/svVDJ1QzcGH5duxIdEQyeUFCn91.jpg" tvg-name="Monster Hunter (2020)(4K)" ,Monster Hunter (2020)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46258.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/n9VCrXCRYuSm1LaNyyLsIsx7hkC.jpg" tvg-name="Mortal Kombat (2021)(4K)" ,Mortal Kombat (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46259.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://i.postimg.cc/qBZBD7pm/20240819-174432-0000.png" tvg-name="Más allá del infinito: El viaje de Buzz a Lightyear (2022)(4K)" ,Más allá del infinito: El viaje de Buzz a Lightyear (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46260.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://i.postimg.cc/6q4kmthS/20240819-181339-0000.png" tvg-name="Nix: La Entidad (2022)(4K)" ,Nix: La Entidad (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46261.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/zSqHbu01rZFbbnd6ofHLtjzQCHi.jpg" tvg-name="¡Nop! (2022)(4K)" ,¡Nop! (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46262.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/7p4hm63OKgiCtBsLJrMqhc6qgNm.jpg" tvg-name="El Gato con Botas: El último deseo (2022)(4K)" ,El Gato con Botas: El último deseo (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46263.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/svvxfUFCz8Hgh2y8pWz959KR6d0.jpg" tvg-name="El retorno del Jedi (1983)(4K)" ,El retorno del Jedi (1983)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46264.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/2H65vQxfbKkzptaniuIVrUp9r0f.jpg" tvg-name="Scream (2022)(4K)" ,Scream (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46265.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/umyDf4eFhbCek9NsKOAcPtbOC3B.jpg" tvg-name="Sin tiempo para morir (2021)(4K)" ,Sin tiempo para morir (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46266.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/oG2g12k4mI4HAoAla77s8uQzPab.jpg" tvg-name="Space Jam: Nuevas Leyendas (2021)(4K)" ,Space Jam: Nuevas Leyendas (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46267.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/8p0MTYL9wlgmUJ8XEgEerHtYI4W.jpg" tvg-name="Speed: Máxima potencia (1994)(4K)" ,Speed: Máxima potencia (1994)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46268.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://i.postimg.cc/66YsYbft/20240819-183751-0000.png" tvg-name="Spirit: Indomable (2021)(4K)" ,Spirit: Indomable (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46269.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/sJbR5QUFw19BhSJllAIG4NL2wAM.jpg" tvg-name="Stars Wars 1: Una Nueva Esperanza (1977)(4K)" ,Stars Wars 1: Una Nueva Esperanza (1977)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46270.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/pMzMk6FUikhztX2lGuHJeUEvHoZ.jpg" tvg-name="Star Wars: Episodio II: El Ataque de los Clones (2002)(4K)" ,Star Wars: Episodio II: El Ataque de los Clones (2002)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46271.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/wVaCSXvMD5NwcuOfZwqtrUt07ZF.jpg" tvg-name="Star Wars: Episodio III - La Venganza de los Sith (2005)(4K)" ,Star Wars: Episodio III - La Venganza de los Sith (2005)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46272.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/k1YCqriXqMr3ylOndPvJkpGxb6o.jpg" tvg-name="Star Wars: Episodio I - La amenaza fantasma (1999)(4K)" ,Star Wars: Episodio I - La amenaza fantasma (1999)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46273.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/vtbDgGSLoFTtotHtBKZ4qOzd93H.jpg" tvg-name="Star Wars: El despertar de la fuerza (2015)(4K)" ,Star Wars: El despertar de la fuerza (2015)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46274.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/ogeJH3dlYENHZYczonVyn1cdksl.jpg" tvg-name="Star Wars: Los últimos Jedi (2017)(4K)" ,Star Wars: Los últimos Jedi (2017)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46275.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/aAxR52lA38WGLwRcDQCEALZXG8c.jpg" tvg-name="Star Wars: El ascenso de Skywalker (2019)(4K)" ,Star Wars: El ascenso de Skywalker (2019)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46276.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/seelgUIjtDKAoZPrZALSwCdIzeX.jpg" tvg-name="Avengers: Los Vengadores (2012)(4K)" ,Avengers: Los Vengadores (2012)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46277.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/b4DKuRlquCnfUgSP5Awow73KXAs.jpg" tvg-name="El Conjuro 3: El diablo me obligó a hacerlo (2021)(4K)" ,El Conjuro 3: El diablo me obligó a hacerlo (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46278.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/kBMA1HLVQYG9RpcCH7FmtDOE78y.jpg" tvg-name="El caballero oscuro (2008)(4K)" ,El caballero oscuro (2008)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46279.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/trj852Qq4cblVW37AiAjvY2BqMo.jpg" tvg-name="Star Wars - El Imperio Contraataca (1980)(4K)" ,Star Wars - El Imperio Contraataca (1980)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46280.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/2RUw8ON4kxElWrng4iYa8R3vKZy.jpg" tvg-name="El quinto elemento (1997)(4K)" ,El quinto elemento (1997)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46281.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/tkxANHTMKCbhbbKEw7VdvrfgJ2q.jpg" tvg-name="El padrino (1972)(4K)" ,El padrino (1972)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46282.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/5uZXbrJFnFERnxN2teEn2Jz9qqp.jpg" tvg-name="El padrino. Parte II (1974)(4K)" ,El padrino. Parte II (1974)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46283.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/8kQLj1eUyqlNlI5Lf5aRIEc9abn.jpg" tvg-name="El hobbit: Un viaje inesperado (2012)(4K)" ,El hobbit: Un viaje inesperado (2012)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46284.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/ljz3nPsQgS5Sc5I8ppNUpgCRMMk.jpg" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014)(4K)" ,El hobbit: La batalla de los cinco ejércitos (2014)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46285.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/sQ4lNfgxKYaZYyEcHLocHABXAQX.jpg" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014)(4K) - Extend" ,El hobbit: La batalla de los cinco ejércitos (2014)(4K) - Extend
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46286.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/336BmqiM032sqquYNguco5bJWYI.jpg" tvg-name="El hobbit: La desolación de Smaug (2013)(4K)" ,El hobbit: La desolación de Smaug (2013)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46287.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/zXGjpVtFnlYnCeTEtkjwe5Y2MxV.jpg" tvg-name="El rey león (2019)(4K)" ,El rey león (2019)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46288.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/ecCTFo4NCY0MBFvY5AV4dsE6L4b.jpg" tvg-name="Marte (The Martian) (2015)(4K)" ,Marte (The Martian) (2015)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46289.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/t0SYOYfthxeZOIq7moEpNVg0UgX.jpg" tvg-name="El renacido (2015)(4K)" ,El renacido (2015)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46290.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://i.postimg.cc/m2j5bP54/Dise-o-sin-t-tulo-20240819-192504-0000.png" tvg-name="El monstruo marino (2022)(4K)" ,El monstruo marino (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46291.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/qBCUGdGMzqNAVUgcA06qsZOAqAP.jpg" tvg-name="El mago de Oz (1939)(4K)" ,El mago de Oz (1939)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46292.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/2YuK1oc6fzaMBjYxjBkHZhBcSLr.jpg" tvg-name="Titanic (1997)(4K)" ,Titanic (1997)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46293.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/j4F3OrYuQCaqruICHX7clP5YNUk.jpg" tvg-name="Toy Story 4 (2019)(4K)" ,Toy Story 4 (2019)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46294.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/leeJxXZTGpnIZ4tUcCNrkdXkFdB.jpg" tvg-name="Uncharted (2022)(4K)" ,Uncharted (2022)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46295.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/nohNJW0uUPchLs425Xif1q8cobo.jpg" tvg-name="V de Vendetta (2006)(4K)" ,V de Vendetta (2006)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46296.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/bMbiDAqtIfQ1yhuTgVTErdoUjyr.jpg" tvg-name="Regreso al futuro (1985)(4K)" ,Regreso al futuro (1985)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46297.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/3L9TXTM5GdBEEtLm0TA1S1G6fty.jpg" tvg-name="Regreso al futuro: Parte II (1989)(4K)" ,Regreso al futuro: Parte II (1989)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46298.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/6IYc85BR3izkXXm5CZWwl6HV5Np.jpg" tvg-name="Regreso al futuro: Parte III (1990)(4K)" ,Regreso al futuro: Parte III (1990)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46299.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/aZK3wbmjRCHW0TPEpGxcM6kFtfD.jpg" tvg-name="Wonder Woman 1984 (2020)(4K)" ,Wonder Woman 1984 (2020)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46300.mkv
+#EXTINF:-1 group-title="VOD-4K" tvg-logo="https://image.tmdb.org/t/p/original/5ykFKvbI9Rkt22ID7z9yUXFhePq.jpg" tvg-name="La Liga de la Justicia de Zack Snyder (2021)(4K)" ,La Liga de la Justicia de Zack Snyder (2021)(4K)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46301.mkv
 
 
 #EXTINF:-1 group-title="VOD-ADULTO 4K (+18)" tvg-name="Abella Danger - Blackedraw (2018)(4K)" ,Abella Danger - Blackedraw (2018)(4K)
