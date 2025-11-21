@@ -2,6 +2,7 @@
 
 
 
+#EXTINF:-1 group-title="VOD-CIENCIA FICCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbUwSqYIP0isCiJXey3staY3DNn.jpg" tvg-name="Interstellar (2014)" ,Interstellar (2014)
 
 
 #EXTINF:-1 group-title="VOD-ADULTO 4K (+18)" tvg-name="Abella Danger - Blackedraw (2018)(4K)" ,Abella Danger - Blackedraw (2018)(4K)
