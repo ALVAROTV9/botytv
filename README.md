@@ -1,4 +1,42 @@
-
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (M)(1080)" ,HBO
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9666.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" ,HBO HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9668.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (1080)(T)" ,HBO FHD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9670.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO 2 (Z)(1080)" ,HBO 2 FHD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9675.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (L)(1080)" ,HBO Family FHD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9676.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (T)(1080)" ,HBO Family HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9678.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(1080)" ,HBO FamilY HD http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9679.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (M)(1080)" ,HBO Plus HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9685.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (Z)(1080)" ,HBO PluS
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9688.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" tvg-id="Canal.HBO.Pop.mx" tvg-name="CINE - HBO POP (M)(1080)" ,HBO POP HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9689.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme (M)(1080)" ,HBO XtremE HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9698.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO. 2 (TV)(1080)" ,HBO. 2 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9672.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" tvg-id="ESPN.PREMIUM.ar" tvg-name="DEPORTES - ESPN Premium ARG ()(1080)" ,DEPORTES - ESPN PremiuM
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9550.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" tvg-id="CW.Plus.Mountain.us" tvg-name="DEPORTES - beIN Sport USA (M)(720)" ,BeIN Sport USA
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9551.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" ,BeIN Sports Xtra Ñ
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9552.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="DEPORTES - beIN Sports Ñ (T)(1080)" ,BeIN Sports Ñ FHD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9553.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" tvg-id="DSPORTS.+.HD.dtvsp" tvg-name="DEPORTES - Directv Sports + (TV)(720)" ,Directv Sports + HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9558.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" tvg-id="Canal.Discovery.Kids.(Chile).cl" tvg-name="DEPORTES - Directv Sports 1 CHI (e)(1080)" ,Directv Sports 1 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9561.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" tvg-name="DEPORTES - Directv Sports 2 (e)(1080)" ,Directv Sports 2 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9564.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" ,Claro Sports 2 HD
+http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9556.m3u8
 
 #EXTINF:-1 group-title="VOD-NETFLIX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8VhTJxAitF5ynjosPuqEAQvdlg.jpg" tvg-name="Yesterday (2019)" ,Yesterday (2019)
 http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/146751.mkv
@@ -4553,4 +4591,5 @@ http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132777.mp4
 http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132774.mp4
 #EXTINF:-1 group-title="VOD-ADULTO 4K (+18)" tvg-logo="https://cdni.viewgals.com/460/1/344/81843758/81843758_009_3a22.jpg" tvg-name="Riley Reid its a perfect day for anal sex - Manuel Ferrara (4k)(2019)" ,Riley Reid its a perfect day for anal sex - Manuel Ferrara (4k)(2019)
 http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132778.mp4
+
 
