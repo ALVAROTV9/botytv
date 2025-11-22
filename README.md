@@ -72,6 +72,68 @@ http://nocable.cc:8080/b2U9nd/520098/167749
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS IDAZN 3
 http://nocable.cc:8080/b2U9nd/520098/167750
 
+##EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS premier league
+http://145.239.5.177:80/566/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS + football 
+http://145.239.5.177:80/564/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS Eurosport 2
+#EXTINF:-1 , EVENTOS 11
+http://178.23.88.55/Eurosport_2/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS Eurosport 1
+http://178.23.88.55/Eurosport_1/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 4 norte
+http://190.0.247.38:8000/play/a069
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 5
+http://190.0.247.38:8000/play/a012
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS ESPN 6
+http://190.0.247.38:8000/play/a013
+
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS rai Sports 
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS eleven Sports 
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2518/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS eleven Sports 2
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2517/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS fox Sports 1 
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/7322/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS Sky Sports premier league
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/9334/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS WIN SPORTS HD
+http://190.0.247.38:8000/play/a06a
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS win Sports plus
+http://190.0.247.38:8000/play/a068
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (M)(1080)" ,HBO
 http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9666.m3u8
@@ -6239,6 +6301,7 @@ http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132777.mp4
 http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132774.mp4
 #EXTINF:-1 group-title="VOD-ADULTO 4K (+18)" tvg-logo="https://cdni.viewgals.com/460/1/344/81843758/81843758_009_3a22.jpg" tvg-name="Riley Reid its a perfect day for anal sex - Manuel Ferrara (4k)(2019)" ,Riley Reid its a perfect day for anal sex - Manuel Ferrara (4k)(2019)
 http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132778.mp4
+
 
 
 
