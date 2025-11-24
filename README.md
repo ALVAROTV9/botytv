@@ -24,7 +24,8 @@ http://lunar.pm:8080/RandyJ2/randy/122447
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + SD
 http://lunar.pm:8080/RandyJ2/randy/122448
-EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS  COL HD
+
+EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS COL HD
 http://190.0.247.38:8000/play/a06a
 
 
@@ -37,8 +38,7 @@ http://nocable.cc:8080/b2U9nd/520098/66372
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/S7NXSSzQ/Espn-Premoum.png" ,ESPN PREMIUM 1 VIP
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/S7NXSSzQ/Espn-Premoum.png" ,ESPN PREMIUM 2 VIP
-ARG
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/S7NXSSzQ/Espn-Premoum.png" ,ESPN PREMIUM 2 VIP ARG
 http://lunar.pm:8080/RandyJ2/randy/122345
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/S7NXSSzQ/Espn-Premoum.png" ,ESPN PREMIUM 3 VIP
