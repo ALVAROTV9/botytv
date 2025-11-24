@@ -236,32 +236,9 @@ http://38.41.8.1:8000/play/a03w
 
 
 
-#EXTINF:-1 group-title="HBO" tvg-logo="https://asiagrandiptv.us/logo/hbo.png" ,LA: HBO
-http://lunar.pm:8080/RandyJ2/randy/115107
-#EXTINF:-1 group-title="HBO" tvg-logo="https://asiagrandiptv.us/logo/hbo2.png" ,LA: HBO 2
-http://lunar.pm:8080/RandyJ2/randy/115108
-#EXTINF:-1 group-title="HBO" tvg-logo="https://asiagrandiptv.us/logo/hbo2west.png" ,LA: HBO 2 WEST
-http://lunar.pm:8080/RandyJ2/randy/115109
-#EXTINF:-1 group-title="HBO" tvg-logo="https://asiagrandiptv.us/logo/hbofamily.png" ,LA: HBO FAMILY
-http://lunar.pm:8080/RandyJ2/randy/115110
-#EXTINF:-1 group-title="HBO" tvg-logo="https://asiagrandiptv.us/logo/hboplus.png" ,LA: HBO PLUS
-http://lunar.pm:8080/RandyJ2/randy/115111
-#EXTINF:-1 group-title="HBO" tvg-logo="https://asiagrandiptv.us/logo/hbosignature.png" ,LA: HBO SIGNATURE
-http://lunar.pm:8080/RandyJ2/randy/115112
-#EXTINF:-1 group-title="HBO" tvg-logo="https://asiagrandiptv.us/logo/hbowest.png" ,LA: HBO WEST
-http://lunar.pm:8080/RandyJ2/randy/115113
-#EXTINF:-1 group-title="HBO" tvg-logo="http://fanc.tmsimg.com/assets/s12288_ll_h3_aa.png" ,ARG: HBO
-http://lunar.pm:8080/RandyJ2/randy/122359
-#EXTINF:-1 group-title="HBO" tvg-logo="http://fanc.tmsimg.com/assets/s68140_ll_h3_aa.png" ,ARG: HBO 2
-http://lunar.pm:8080/RandyJ2/randy/122360
-#EXTINF:-1 group-title="HBO" tvg-logo="http://fanc.tmsimg.com/assets/s34879_h3_aa.png" ,ARG: HBO FAMILY
-http://lunar.pm:8080/RandyJ2/randy/122361
-#EXTINF:-1 group-title="HBO" tvg-logo="http://fanc.tmsimg.com/assets/s70081_h3_aa.png" ,ARG: HBO Mundi
-http://lunar.pm:8080/RandyJ2/randy/122362
-#EXTINF:-1 group-title="HBO" tvg-logo="http://fanc.tmsimg.com/assets/s80120_ll_h3_aa.png" ,ARG: HBO SIGNATURE
-http://lunar.pm:8080/RandyJ2/randy/122363
-#EXTINF:-1 group-title="HBO" ,ARG: HBO XTREME
-http://lunar.pm:8080/RandyJ2/randy/122364
+
+
+
 #EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (M)(1080)" ,HBO
 http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9666.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" ,HBO HD
