@@ -22,7 +22,7 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 http://lunar.pm:8080/RandyJ2/randy/122447
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + SD
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + SD
 http://lunar.pm:8080/RandyJ2/randy/122448
 EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS  COL HD
 http://190.0.247.38:8000/play/a06a
