@@ -22,10 +22,11 @@ http://205.235.6.29:8000/play/a0ve/index.m3u8
 http://lunar.pm:8080/RandyJ2/randy/122447
 
 
+
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + SD
 http://lunar.pm:8080/RandyJ2/randy/122448
 
-EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS COL HD
+EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS COL
 http://190.0.247.38:8000/play/a06a
 
 
@@ -57,7 +58,7 @@ http://lunar.pm:8080/RandyJ2/randy/122342
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,EVENTOS ESPN 1 MEX
 http://lunar.pm:8080/RandyJ2/randy/120111
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2 B
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2
 http://190.0.247.38:8000/play/a010
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2 COL
@@ -73,37 +74,36 @@ http://lunar.pm:8080/RandyJ2/randy/120112
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/6R2YgtrD/Espn3.png" ,EVENTOS ESPN 3 A
 http://205.235.6.29:8000/play/a0w0/index.m3u8
 
+
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/6R2YgtrD/Espn3.png" ,EVENTOS ESPN 3 B
-http://38.41.8.1:8000/play/a0sm
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/6R2YgtrD/Espn3.png" ,EVENTOS ESPN 3 C
 http://lunar.pm:8080/RandyJ2/randy/115097
 
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/6R2YgtrD/Espn3.png" ,EVENTOS ESPN 3 C
 http://190.0.247.38:8000/play/a03u
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/7d2hhRTJ/Espn4.png" ,EVENTOS ESPN 4 A
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/7d2hhRTJ/Espn4.png" ,EVENTOS ESPN 4 ARG
 http://38.41.8.1:8000/play/a0sl
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/7d2hhRTJ/Espn4.png" ,EVENTOS ESPN 4 B
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/7d2hhRTJ/Espn4.png" ,EVENTOS ESPN 4 COL
 http://190.0.247.38:8000/play/a069
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/7d2hhRTJ/Espn4.png" ,EVENTOS ESPN 4 MEX
 http://lunar.pm:8080/RandyJ2/randy/120114
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 5 A
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 5 ARG
 http://205.235.6.29:8000/play/a0vw/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 5 B
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 5 MEX
 http://190.0.247.38:8000/play/a012
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 A
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 ARG
 http://205.235.6.29:8000/play/a0vy/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 B
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 MEX
 http://190.0.247.38:8000/play/a013
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 C
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 COL
 http://38.41.8.1:8000/play/a0sk
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/gb8JFnf1/Espn7.png" ,ESPN 7
@@ -118,8 +118,6 @@ http://38.41.8.1:8000/play/a0sk
 http://205.235.6.29:8000/play/a0oi/index.m3u
 
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,TNT SPORTS PREMIUM (ARG)
-http://lunar.pm:8080/RandyJ2/randy/115184
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,ARG FOX SPORTS PREMIUM
 http://lunar.pm:8080/RandyJ2/randy/122353
@@ -127,10 +125,14 @@ http://lunar.pm:8080/RandyJ2/randy/122353
 
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,ECDF ECUADOR
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,ECDF ECUADOR
 http://205.235.6.29:8000/play/a0we/index.m3u8
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,TNT SPORTS CHILE
 http://38.41.8.1:8000/play/a0rn
+
+EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,TNT SPORTS PREMIUM (ARG)
+http://lunar.pm:8080/RandyJ2/randy/115184
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 1
 http://nocable.cc:8080/b2U9nd/520098/167742
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 2
