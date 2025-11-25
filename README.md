@@ -45,18 +45,14 @@ http://lunar.pm:8080/RandyJ2/randy/122345
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/S7NXSSzQ/Espn-Premoum.png" ,ESPN PREMIUM 3 VIP
 http://38.41.8.1:8000/play/a0t7
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,EVENTOS ESPN 1 A
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,EVENTOS ESPN 1
 http://38.41.8.1:8000/play/a0t3
 
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,EVENTOS ESPN 1 COL
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9516
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,EVENTOS ESPN 1 ARG
-http://lunar.pm:8080/RandyJ2/randy/122342
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,EVENTOS ESPN 1 MEX
-http://lunar.pm:8080/RandyJ2/randy/120111
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,ESPN 1 MEX
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9525
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2
 http://190.0.247.38:8000/play/a010
