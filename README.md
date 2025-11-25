@@ -23,12 +23,12 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8511
 
 
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + SD
-http://lunar.pm:8080/RandyJ2/randy/122448
 
-EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS COL
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS HD
 http://190.0.247.38:8000/play/a06a
 
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS FHD
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8507
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/gZMCMZ1v/Directv-Sports1.png" ,DIRECTV SPORTS FHD
 http://205.235.6.29:8000/play/a0ok/index.m3u8
