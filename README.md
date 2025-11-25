@@ -23,7 +23,6 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8511
 
 
 
-
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS HD
 http://190.0.247.38:8000/play/a06a
 
