@@ -19,7 +19,7 @@ http://nocable.cc:8080/b2U9nd/520098/11885
 http://205.235.6.29:8000/play/a0ve/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + HD
-http://lunar.pm:8080/RandyJ2/randy/122447
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8511
 
 
 
