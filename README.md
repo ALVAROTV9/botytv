@@ -58,7 +58,7 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9525
 http://190.0.247.38:8000/play/a010
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2 COL
-http://lunar.pm:8080/RandyJ2/randy/122428
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9529
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2 ARG
 http://lunar.pm:8080/RandyJ2/randy/122343
