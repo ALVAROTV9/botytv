@@ -60,12 +60,10 @@ http://190.0.247.38:8000/play/a010
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2 COL
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9529
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2 ARG
-http://lunar.pm:8080/RandyJ2/randy/122343
 
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,ESPN 2 MEX
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9531
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2 MEX
-http://lunar.pm:8080/RandyJ2/randy/120112
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/6R2YgtrD/Espn3.png" ,EVENTOS ESPN 3 A
 http://205.235.6.29:8000/play/a0w0/index.m3u8
