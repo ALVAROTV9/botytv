@@ -32,6 +32,11 @@ http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8507
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/gZMCMZ1v/Directv-Sports1.png" ,DIRECTV SPORTS FHD
 http://205.235.6.29:8000/play/a0ok/index.m3u8
 
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/gZMCMZ1v/Directv-Sports1.png" ,DIRECTV SPORTS 2
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9565
+
+
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,ESPN EXTRA
 http://nocable.cc:8080/b2U9nd/520098/66372
 
