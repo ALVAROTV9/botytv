@@ -1,6 +1,722 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES VIP
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="24/7 CINEMA " ,24/7 Hallowen (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/154053
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/MZ0RYPbk/Proyectox-Cinema-1.png" ,24/7 Cinema - Accion 2023
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95607
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/c1f7b4Wb/Proyectox-Cinema-10.png" ,24/7 Cinema - Animacion (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95610
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/c1f7b4Wb/Proyectox-Cinema-10.png" ,24/7 Cinema - Anime (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95611
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/5y5wYppV/Proyectox-Cinema-11.png" ,24/7 Cinema - Aventura (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95612
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/XqBfj4Bp/Proyectox-Cinemax-10.png" ,24/7 Cinema - Belico (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95614
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/7ZKnns4P/Proyectox-Cinema-16.png" ,24/7 Cinema - Cantinflas (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95617
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/nct2F9Tx/Proyectox-Cinema-19.png" ,24/7 Cinema - Clasico (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95619
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/1RbTpzH7/Proyectox-Cinemax-4.png" ,24/7 Cinema - Comedia (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95620
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/d1LHCMTK/Proyectox-Cinemax-7.png" ,24/7 Cinema - Crimen (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95621
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/sgrNN0bp/Proyectox-Cinemax-5.png" ,24/7 Cinema - Cristianas (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95633
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/5ttnccgF/Proyectox-Cinema-24.png" ,24/7 Cinema - Disney Animacion (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95622
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/0QTfJzsp/Proyectox-Cinema-22.png" ,24/7 Cinema - Disney Animacion 3D (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95623
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/7hN2YhYP/Proyectox-Cinema.png" ,24/7 Cinema - Disney Live Action (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95624
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/mr6VBdpp/Proyectox-Cinema-25.png" ,24/7 Cinema - Documentales (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95625
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/y8jvr6mH/Proyectox-Cinema-26.png" ,24/7 Cinema - Dramas (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95626
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/jj83Cq2X/Proyectox-Cinemax-1.png" ,24/7 Cinema - Familiar (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95630
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Y9ZXfX1L/Proyectox-Cinema-31.png" ,24/7 Cinema - Fantasia (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95631
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Hn1wkFwz/Proyectox-Cinema-12.png" ,24/7 Cinema - Gamer
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95613
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/XXMwXm9x/Proyectox-Cinemax-8.png" ,24/7 Cinema - Horror (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94974
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" ,24/7 Cinema - Infantiles (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95632
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/jdQXLqk7/Proyectox-Cinema-18.png" ,24/7 Cinema - Jackie chan (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94960
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/hGhbyL4L/Proyectox-Cinema-15.png" ,24/7 Cinema - Latino (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95616
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/x134D3SB/Proyectox-Cinemax-2.png" ,24/7 Cinema - Mexico Lindo (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94976
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/TP2HR5d1/Proyectox-Cinemax-3.png" ,24/7 Cinema - Musical (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94977
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png" ,24/7 Cinema - Parodias (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94978
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/vZYv9RpS/Proyectox-Cinema-17.png" ,24/7 Cinema - Pedro Infante (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95618
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Hkd6287z/Proyectox-Cinema-27.png" ,24/7 Cinema - Peliculas 2022 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95627
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/C508gk06/Proyectox-Cinema-2.png" ,24/7 Cinema - Peliculas 2023 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95628
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Nj6x2sJX/Proyectox-Cinemax-11.png" ,24/7 Cinema - Peliculas 2024 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95629
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/zDy6bhnR/Proyectox-Cinemax-6.png" ,24/7 Cinema - Romantico (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101175
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Hxh01Vxq/Proyectox-Cinemax-9.png" ,24/7 Cinema - Sagas (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94985
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/d1LHCMTK/Proyectox-Cinemax-7.png" ,24/7 Cinema - Thriller (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94983
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/cHw32Tpn/Proyectox-Cinema-3.png" ,24/7 Cinema - Universo DC Animacion (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94946
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/JhyZcRKK/Proyectox-Cinema-5.png" ,24/7 Cinema - Universo DC: Live Action (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94947
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png" ,24/7 Cinema 4K (e)(4K)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95608
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/X78fnHpK/Proyectox-Cinema-8.png" ,24/7 Cinema Accion (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95609
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/6p5pnr68/24-7-Harry-Potter.png" ,24/7 Harry Potter Opc2 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94206
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" ,24/7 HBO Plus (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/85884
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png" ,24/7 HBO Signature (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/85885
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-3strKmwIw6s/Xj5BlA2hgCI/AAAAAAAABVY/5RMrXxrQcSMkV-vexE11oVaKBxoYESGiQCLcBGAsYHQ/s200/showtime%2Bbeyond.png" tvg-id="CW.Plus.Mountain.us" ,24/7 Showtime Beyond (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/86000
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/tJr4Mx46/Proyectoxnew1-31.png" ,24/7 Spider Man Coleccion Peliculas (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101896
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-lbxxWSm1dhU/Xj5CKV1-58I/AAAAAAAABVw/5XQSMLjpyd4tbj2J2ojPEqeHkVlPlgCMQCLcBGAsYHQ/s200/starz.png" tvg-id="CW.Plus.Mountain.us" ,24/7 Starz Comedy (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/86007
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-lbxxWSm1dhU/Xj5CKV1-58I/AAAAAAAABVw/5XQSMLjpyd4tbj2J2ojPEqeHkVlPlgCMQCLcBGAsYHQ/s200/starz.png" ,24/7 Starz Edge (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/86009
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/rm0jmSvV/Proyectox-Cinema-23.png" ,24/7 Universo Marvel (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94943
+#EXTINF:-1 group-title="24/7 CINEMA " ,24/7 Universo Marvel 2 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94944
+#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/W11MzGkB/Proyectox-Cinema-6.png" ,24/7 Universo Star Wars (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94948
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/c4k0DZqr/Proyectox-24-7seri3s-9.png" ,24/ The Walking Dead Daryl Dixon
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94829
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/kg7j0d7d/Proyectox-Cinemax-13.png" ,24/7 24H
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95593
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/KcgsLN0C/Proyectox-Cinemax-14.png" ,24/7 9-1-1 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94915
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/jd03h792/Proyectox-Cinemax-15.png" ,24/7 Better Call Saul (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94916
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/gkVSt0FD/Proyectox-Cinemax-16.png" ,24/7 Black Sails
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94812
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/y8nfBrN3/Proyectox-Cinemax-17.png" ,24/7 Blindspot (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94917
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Jhnphcy6/Proyectox-Cinemax-18.png" ,24/7 Boardwalk Empire (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94918
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" ,24/7 Bones (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94919
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/RFJG7SLw/Proyectox-Cinemax-20.png" ,24/7 Breaking Bad (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94920
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Gt0KzWXV/Proyectox-Cinemax-21.png" ,24/7 Chicago Fire (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94921
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/qq8LF1YR/Proyectox-Cinemax-22.png" ,24/7 Chicago Med (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94922
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/L4fNhsXp/Proyectox-Cinemax-23.png" ,24/7 Chicago P.D (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94987
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/gkW4hPX6/Proyectox-Cinemax-24.png" ,24/7 Cobra Kai
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94813
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/YSZzCcB0/Proyectox-Cinemax-26.png" ,24/7 Criminal Minds (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95604
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/MKm5brV3/Proyectox-Cinemax-25.png" ,24/7 CSI Las Vegas (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94926
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" ,24/7 CSI Miami (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94924
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/nhd1Njdv/Proyectox-Cinemax-28.png" ,24/7 CSI New York (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94925
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/6QyhKWSF/Proyectox-Cinemax-29.png" ,24/7 Dexter (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94927
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Qt7kB6jb/Proyectox-Cinemax-30.png" ,24/7 El Candidato (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94814
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" ,24/7 El Mentalista (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94937
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/qqXsw-zh6/Proyectox-Cinemax2.png" ,24/7 El mundo oculto de Sabrina (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94823
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/dQ8jwSHQ/Proyectox-Cinemax2-1.png" ,24/7 El señor de los anillos: Los anillos de poder (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95594
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/jdtQ5QmH/Proyectox-Cinemax2-2.png" ,24/7 Elite (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95605
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/4NPvhHRr/Proyectox-Cinemax2-3.png" ,24/7 Erase una vez
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94836
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/YCS6N2pj/Proyectox-Cinemax2-4.png" ,24/7 Falling Skies
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94815
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/7ZQgKv69/Proyectox-Cinemax2-5.png" ,24/7 Fear the Walking Dead (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94825
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/cJgfjDtS/Proyectox-Cinemax2-6.png" ,24/7 Game of Thrones (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94830
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/1zkDZpDN/Proyectox-Cinemax2-7.png" ,24/7 Halo (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94831
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" ,24/7 Hawaii 5.0 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94929
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/kMFKkRGB/Proyectox-Cinemax2-9.png" ,24/7 Heroes (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94832
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/rscWDMnV/Proyectox-Cinemax2-10.png" ,24/7 Homeland (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94930
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/DyvLFf45/Proyectox-Cinemax2-11.png" ,24/7 La Casa de Papel
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95606
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/vTzn9kkW/Proyectox-Cinemax2-12.png" ,24/7 La Casa del Dragon (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94834
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/0y3wppWH/Proyectox-Cinemax2-13.png" ,24/7 La Ley y el Orden (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94932
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/t476Zr5x/Proyectox-Cinemax2-14.png" ,24/7 La Materia Oscura (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94833
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/rm2RHqL1/Proyectox-Cinemax2-15.png" ,24/7 Los 100 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94841
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/SKMzVJHQ/Proyectox-Cinemax2-16.png" ,24/7 Los expedientes secretos X (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94843
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/d1RZPgqz/Proyectox-Cinemax2-17.png" ,24/7 Lost (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94816
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Hnpcp3nj/Proyectox-Cinemax2-18.png" ,24/7 NCIS (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94933
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/qqjtgn6w/Proyectox-Cinemax2-19.png" ,24/7 NCIS Los Angeles (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94934
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/bYTS6XVn/Proyectox-Cinemax2-20.png" ,24/7 Perdidos en el Espacio
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94835
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/YqCGZXTs/Proyectox-Cinemax2-21.png" ,24/7 Prison Break (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94935
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/3Jf4TXTJ/Proyectox-Cinemax2-22.png" ,24/7 S.W.A.T. (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94936
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/L8rJqm5c/Proyectox-Cinemax2-24.png" ,24/7 SEAL Team (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94817
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/cLKK4vx7/Proyectox-Cinemax2-25.png" ,24/7 See (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94837
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/BvHXHR1X/Proyectox-Cinemax2-26.png" ,24/7 shogun 1980 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94818
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/MTwXDtyt/Proyectox-Cinemax2-28.png" ,24/7 Spartacus (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94819
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/MTYHrR5w/Proyectox-Cinemax2-29.png" ,24/7 Squid Game (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94820
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/cC4CqHkn/Proyectox-Cinemax2-30.png" ,24/7 Star Trek: Discovery
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94838
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/nrRznJNw/Proyectox-Cinemax2-31.png" ,24/7 Station 19 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94821
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/nV0M44MY/Proyectox-24-7seri3s.png" ,24/7 Stranger Things (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94839
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/RVhhXWHr/Proyectox-24-7seri3s-1.png" ,24/7 Supernatural (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94840
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/rFHmbq1D/Proyectox-24-7seri3s-2.png" ,24/7 The Mandalorian (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94842
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/mgFDWKj8/Proyectox-24-7seri3s-3.png" ,24/7 The Rookie (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94938
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/3w5w89b7/Proyectox-24-7seri3s-4.png" ,24/7 The Walking Dead
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94826
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/jjHSLNGf/Proyectox-24-7seri3s-5.png" ,24/7 The Walking Dead Dead City (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94828
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/SsmN8Rhv/Proyectox-24-7seri3s-6.png" ,24/7 The Walking Dead World Beyond (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94827
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/C1JM40ML/Proyectox-24-7seri3s-7.png" ,24/7 Vikings (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94822
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/T1wd7shj/Proyectox-24-7seri3s-8.png" ,24/7 White Collar (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94939
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/nVKc1XY2/Proyectox-24-7seri3s-10.png" ,24/7 A Corazon Abierto (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95579
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/mk4Zs4R7/Proyectox-24-7seri3s-11.png" ,24/7 Alias el Mexicano (e)()
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94789
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/5ym49rNT/Proyectox-24-7seri3s-12.png" ,24/7 Amantes Del Desierto (e)()
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95580
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/PxYf9JGt/Proyectox-24-7seri3s-13.png" ,24/7 Bermudez (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95581
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/YSJqdgsn/Proyectox-24-7seri3s-14.png" ,24/7 Betty la Fea (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94575
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/SKXxLVDY/Proyectox-24-7seri3s-15.png" ,24/7 Betty la Fea (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/92230
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/4x23hjbT/Proyectox-24-7seri3s-17.png" ,24/7 Bloque de Busqueda
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95582
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/W113zsZn/Proyectox-24-7seri3s-18.png" ,24/7 Cafe con Aroma de Mujer
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94793
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/3JBN3kkN/Proyectox-24-7seri3s-19.png" ,24/7 Dejemonos de Vargas
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95583
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/kMWDh19x/Proyectox-24-7seri3s-21.png" ,24/7 Ecomoda
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95585
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/QCgt9tS6/Proyectox-24-7seri3s-23.png" ,24/7 El Man es German (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95586
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/2yNySvdb/Proyectox-24-7seri3s-24.png" ,24/7 Hermanitas Calles (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95587
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/ydZWKnRC/Proyectox-24-7seri3s-25.png" ,24/7 Juegos Prohibidos (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94799
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/8C3sxxjb/Proyectox-24-7seri3s-26.png" ,24/7 La Reina del Flow (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95578
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/HLjVZTsx/Proyectox-24-7seri3s-27.png" ,24/7 La Saga Negocio de Familia (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94800
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/K801D1bw/Proyectox-24-7seri3s-28.png" ,24/7 La Seleccion (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95588
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/zXSb3dcJ/Proyectox-24-7seri3s-29.png" ,24/7 Lady La Vendedora de Rosas
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95589
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/vZY1nWJ5/Proyectox-24-7seri3s-30.png" ,24/7 Pandillas Guerra y Paz (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94803
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/3JH08M9S/Proyectox-24-7seri3s-31.png" ,24/7 Pecados Capitales (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94804
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/XN5y6NKB/Proyectox-24-7.png" ,24/7 Pedro El Escamoso (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94805
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/kGWVQwMv/Proyectox-24-7-2.png" ,24/7 Rebelde (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95590
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/hjzQjcHw/Proyectox-24-7-3.png" ,24/7 Rosario Tijeras - Colombia (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94806
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/T30DNkVk/Proyectox-24-7-4.png" ,24/7 Rosario Tijeras - Mexico (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95591
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/bwpnTXtD/Proyectox-24-7-5.png" ,24/7 Rubi (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95592
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/ZqqyGrjJ/Proyectox-24-7-6.png" ,24/7 Sin Senos No Hay Paraiso (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94807
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/TPHWfpHg/Proyectox-24-7-7.png" ,Doña Bella
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95584
+#EXTINF:-1 group-title="24/7 TELENOVELAS" ,24/7 Vecinos Colombia (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/112895
+#EXTINF:-1 group-title="24/7 TELENOVELAS" ,24/7 Hasta que la Plata nos Separe (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/114144
+#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/Gp4Jy5LD/retro-proyectox-pantera-rosa-1.png" ,24/7 Vecinos Colombia (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/124172
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 ALF (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96690
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Batman (1966)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101815
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Batman del futuro (1999)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101816
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Batman El Enmascarado (2024)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101817
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Batman: La Serie Animada (1992)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101818
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Bonanza (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96692
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Buffy, cazavampiros
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96693
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Chan Clan (1972)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105627
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Chan Clan (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110039
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Clan del Oso Yogui (e)(HQ)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110035
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Clue Club (1976)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105628
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Conejo Ricochet y Coyote Droop a Long (1964)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105629
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Dinamita el Perro Maravilla (1976)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105630
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Don Gato Y Su Pandilla (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110032
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Droopy Master Detective (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110040
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Auto Fantástico (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96694
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Escuadron Diabolico (1969)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105631
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El fantasma revoltoso (1971)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105632
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Fantasma Revoltoso (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110041
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Leon Melquiades (1961)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105633
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El nuevo show del Oso Yogi (1988)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105635
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show de Huckleberry Hound
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110042
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show de los 70's (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96776
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show de Pebbles y Bamm-Bamm (1971)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105636
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show del Oso Yogi (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110034
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show del Oso Yogui (1961)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105634
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Super Agente 86 (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96695
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El valle de los dinosaurios (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110043
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Frankenstein Jr (1966)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105650
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Galaxy Goof-Ups (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110044
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Gasparin y los angeles
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110045
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Hechizada (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96691
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Jonny Quest (1996)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105637
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La Carrera Espacial de Yogi (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110046
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La Familia Addams (1972)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105638
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La familia Ingalls (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96699
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La familia Monster (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96780
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La Tremenda Corte (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96698
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101819
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110038
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Las olimpiadas de la risa (1977)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105639
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Lindo pulgoso (1965)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105640
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Loopy De Loop (1959)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105641
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los 4 Fantasticos (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110047
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los años maravillosos (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96782
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Dukes de Hazzard (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96779
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 los guardianes galacticos (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110048
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los locos Addams
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96777
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Magníficos (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96778
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Pequenos Picapiedras (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110050
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Picapiedras (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110033
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los piratas de las aguas negras (1991)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105642
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Pitufos (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110049
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Supersonicos (1962)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105643
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Tres Chiflados (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96781
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 MacGyver (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96774
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Mi Bella Genio (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96696
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Motoraton y Autogato (1969)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105644
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Motormouse And Autocat (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110051
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Pepe Potamo (1964)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105645
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Policía de acero Jiban (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96697
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Pulgarcito investigador privado (1973)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105646
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Pulpo Manotas (1965)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105647
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Richy Ricon (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110052
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Salvados por la campana (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96775
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 The Batman (2004)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101820
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Thundarr el barbaro (1980)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105648
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Tiro Loco (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110053
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Travesuras De Los Picapiedras (1980)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105649
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Walker Comisario de Texas (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96783
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Xena: La princesa guerrera (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101183
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Yo Yogi (e)(HQ)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110036
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Yogui y la busqueda del tesoro (e)(HQ)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110037
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 X-Men (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/114145
+#EXTINF:-1 group-title="24/7 RETRO" ,24/7 ThunderCats (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/114146
+#EXTINF:-1 group-title="24/7 RETRO" tvg-logo="https://i.postimg.cc/7Zt7G67M/Iprotv-Ciney-Series2-30.png" ,24/7 LiveMan (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/115518
+#EXTINF:-1 group-title="24/7 RETRO" tvg-logo="https://i.postimg.cc/W45C2K9J/retro-proyectox-pantera-rosa.png" ,24/7 La Pantera Rosa (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/124173
+#EXTINF:-1 group-title="24/7 RETRO" tvg-logo="https://i.postimg.cc/C1gzcJmq/Pinky-y-Cerebro-Proyecto-X.png" ,24/7 Pinky y Cerebro (e)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/144761
+#EXTINF:-1 group-title="24/7 RETRO" tvg-logo="https://i.postimg.cc/HLPLtFTL/retro.png" ,24/7 El Coyote Y Correcaminos (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/145013
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/pV1f8LCr/Proyectox-24-7-Infantil-1.png" ,24/7 Baby Looney Tunes (2002)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102584
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/T3bJTvrw/Proyectox-24-7-Infantil-2.png" ,24/7 Bob Esponja (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95041
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/W1dfry0L/Proyectox-24-7-Infantil-3.png" ,24/7 El Show de los Looney Tunes (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95042
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/Fs7xnLz0/Proyectox-24-7-Infantil-4.png" ,24/7 El show de Scooby-Doo y Scrappy-Doo (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95040
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/ZnDx5T79/Proyectox-24-7-Infantil-5.png" ,24/7 El show de Tom y Jerry 1980 (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101814
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/J42p1QvT/Proyectox-24-7-Infantil-6.png" tvg-id="Canal.#Vamos.sv" ,24/7 Infantil - Avatar: La leyenda de Aang (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95009
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/s2FKWgV7/Proyectox-24-7-Infantil-7.png" ,24/7 Infantil - Ben 10: Ultimate Alien (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95648
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/c4HDyz9g/Proyectox-24-7-Infantil-9.png" ,24/7 Infantil - El Chavo Animado (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95012
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/1z6C7NWv/Proyectox-24-7-Infantil-10.png" ,24/7 Infantil - El Pajaro Loco y sus Amigos (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95013
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/J4vQwzHv/Proyectox-24-7-Infantil-11.png" ,24/7 Infantil - El Show Del Pajaro Loco
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95014
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/x1Zh4Q91/Proyectox-24-7-Infantil-12.png" ,24/7 Infantil - Gravity Falls (E)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95015
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/XNgh0dnh/Proyectox-24-7-Infantil-13.png" ,24/7 Infantil - Jimmy Neutron (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95016
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/wTTrxMvB/Proyectox-24-7-Infantil-14.png" ,24/7 Infantil - Kick Buttowski (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95017
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/sXd83JQF/Proyectox-24-7-Infantil-15.png" ,24/7 Infantil - KND Los Chicos Del Barrio (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95018
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/28zsqTHr/Proyectox-24-7-Infantil-18.png" ,24/7 Infantil - Las Aventuras de Billy y Mandy (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95022
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/0NTgbs4B/Proyectox-24-7-Infantil-20.png" ,24/7 Infantil - Looney Tunes Platinium (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102583
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/qMwdQWtN/Proyectox-24-7-Infantil-21.png" ,24/7 Infantil - Los Padrinos Magicos
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95653
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/G2Tc5KWZ/Proyectox-24-7-Infantil-22.png" ,24/7 Infantil - Los pingüinos de Madagascar
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95028
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/DzHhLsS5/Proyectox-24-7-Infantil-23.png" ,24/7 Infantil - Los Pitufos (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95029
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/LsnRJv8n/Proyectox-24-7-Infantil-24.png" ,24/7 Infantil - Masha y el Oso (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95030
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/CLsw-Xz2L/Proyectox-24-7-Infantil-25.png" ,24/7 Infantil - Oye Arnold
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95031
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/NjGQcQh8/Proyectox-24-7-Infantil-26.png" ,24/7 Infantil - Paw Patrol (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95019
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/SxGj6Z4d/Proyectox-24-7-Infantil-27.png" ,24/7 Infantil - Peppa Pig (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95032
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/jjFxcmFH/Proyectox-24-7-Infantil-28.png" ,24/7 Infantil - Phineas y Ferb (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95033
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/JzK4DG3d/Proyectox-24-7-Infantil-29.png" ,24/7 Infantil - Rugrats (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95034
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/SKsQWkDQ/Proyectox-24-7-Infantil-30.png" ,24/7 Infantil - Rugrats Crecidos (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95010
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/Y0gChR81/Proyectox-24-7-Infantil-31.png" ,24/7 Infantil - Winnie the Pooh (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95024
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/vBCmYk7Y/Proyectox-24-7-Infantiles.png" ,24/7 Las aventuras de Timon y Pumba (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102588
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/ZqKnVrKS/Proyectox-24-7-Infantiles-1.png" ,24/7 Las nuevas Aventuras de Scooby-Doo (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95035
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/DftWnJ5r/Proyectox-24-7-Infantiles-2.png" ,24/7 Lobo Ralph y Perro Sam (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102586
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/5yFMstC1/Proyectox-24-7-Infantiles-3.png" ,24/7 Pepe Le Pew (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102585
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/nL0Zzgx8/Proyectox-24-7-Infantiles-5.png" ,24/7 Scooby-Doo Misterios S. A.
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95039
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/8k3pM26N/Proyectox-24-7-Infantiles-6.png" ,24/7 Scooby-Doo y adivina quién?
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95037
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/yd81yBjY/Proyectox-24-7-Infantiles-7.png" ,24/7 Speedy Gonzales (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102587
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/wv46WP45/Proyectox-24-7-Infantiles-8.png" ,24/7 Tom Y Jerry (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101184
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/WzQsVZvh/Proyectox-24-7-Infantiles-9.png" ,24/7 Un cachorro llamado Scooby Doo (e)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95036
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/nr5qt3rB/Proyectox-24-7-Infantil.png" ,24/7 ¡Scooby-Doo, dónde estás!
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95038
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 04 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8589
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 07 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8592
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 08 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8593
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 12 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8597
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 13 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8598
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 14 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8599
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 15 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8600
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 19 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8604
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 21 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8606
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 26 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8611
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 29 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8614
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 30 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8615
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 35 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8620
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 37 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8622
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (PM)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9516
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.co" ,DEPORTES - Espn 1 COL (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9517
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.ESPN.(Chile).cl" ,DEPORTES - Espn 1 CHI (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/99538
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.ESPN.(Chile).cl" ,DEPORTES - Espn 1 CHI (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/99539
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 1 ARG (T)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9520
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.2.co" ,DEPORTES - Espn 1 ARG (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9521
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 1 ARG (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9522
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="Canal.Azteca.Uno.mx" ,DEPORTES - Espn 1 MEX (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9523
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" tvg-id="ESPN.MX.mx" ,DEPORTES - Espn 1 MEX (T)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9525
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 2 ARG (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9526
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 2 ARG (PM)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9527
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 2 ARG (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9528
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" tvg-id="ESPN.2.co" ,DEPORTES - Espn 2 COL (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9529
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" tvg-id="Canal.Azteca.Uno.mx" ,DEPORTES - Espn 2 MEX (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9530
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" tvg-id="Canal.Azteca.Uno.mx" ,DEPORTES - Espn 2 MEX (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9531
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" ,DEPORTES - Espn 3 ARG (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9533
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 3 ARG (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9534
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 3 COL (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9532
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" tvg-id="ESPN.MX.mx" ,DEPORTES - Espn 3 MEX (M)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9536
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn 4 (T)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9538
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" ,DEPORTES - Espn 4 MEX (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9537
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" tvg-id="ESPN.5.co" ,DEPORTES - Espn 5 (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9539
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - ESPN 7 (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9574
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/6pCdwZ7X/Proyecto-X-20.png" tvg-id="ESPN.7.HD.co" ,DEPORTES - Espn 7 (PM)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9543
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" tvg-id="CW.Plus.Mountain.us" ,DEPORTES - Espn Deportes (MEX) (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9544
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Espn Extra ARG (L)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9545
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" ,DEPORTES - Espn Extra MEX (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9547
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" tvg-id="Canal.ESPN.Premium.(Chile).sv" ,DEPORTES - ESPN Premium CL (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/115016
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - ESPN Premium ARG (L)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9549
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" tvg-id="ESPN.Extra.Latin.America.HDTV.(Feed.A).(ESPNXTRA).ar" ,DEPORTES - Espn Premium ARG (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9546
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" tvg-id="ESPN.PREMIUM.ar" ,DEPORTES - ESPN Premium ARG (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9550
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" tvg-id="CW.Plus.Mountain.us" ,DEPORTES - beIN Sport USA (M)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9551
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" ,DEPORTES - beIN Sports Xtra Ñ (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9552
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" ,DEPORTES - beIN Sports Ñ (T)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9553
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" ,DEPORTES - Fox Deportes (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9571
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" tvg-id="CW.Plus.Mountain.us" ,DEPORTES - FOX DEPORTES (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9572
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" ,DEPORTES - Fox Sports 1 ARG (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9575
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" ,DEPORTES - Fox Sports 1 ARG (M)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9576
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png" tvg-id="FOX.Sports.2.HD(FSP2HD).co" ,DEPORTES - Fox Sports 1 COL (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9577
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" ,DEPORTES - Fox Sports 1 LAT (Z)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9578
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" tvg-id="Canal.Azteca.Uno.mx" ,DEPORTES - Fox Sports 1 MEX (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9579
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" ,DEPORTES - Fox Sports 2  LAT (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9580
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - Fox Sports 2 ARG (L)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9581
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" tvg-id="Fox.Sports.2.HDTV.Latin.America.(FOXSP2HD).ar" ,DEPORTES - Fox Sports 2 ARG (T)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9582
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" tvg-id="FOX.Sports.2.HD(FSP2HD).co" ,DEPORTES - Fox Sports 2 COL (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9583
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="http://tv.proyectox.vip:8080/images/c81e728d9d4c2f636f067f89cc14862c.png" tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).mx" ,DEPORTES - Fox Sports 2 MEX (L)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9584
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" tvg-id="Canal.Azteca.Uno.mx" ,DEPORTES - Fox Sports 2 MEX (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9585
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" ,DEPORTES - Fox Sports 2 MX (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9586
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" ,DEPORTES - Fox Sports 3 (Z)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9587
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" tvg-id="Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).ar" ,DEPORTES - Fox Sports 3 ARG (T)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9588
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" tvg-id="FOX.Sports.3.HD(FXS3HD).co" ,DEPORTES - Fox Sports 3 ARG (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9589
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" tvg-id="FOX.Sports.3.HD(FXS3HD).co" ,DEPORTES - Fox Sports 3 COL (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9590
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" tvg-id="Canal.Azteca.Uno.mx" ,DEPORTES - Fox Sports 3 MEX (M)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9591
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" ,DEPORTES - Fox Sports 3 MX (Z)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9592
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" tvg-id="FOX.Sports.Premium.MEXICO.mx" ,DEPORTES - Fox Sports Premium MX (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9593
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" ,DEPORTES - TUDN - MEX (M)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9603
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" tvg-id="Canal.TUDN.(México).mx" ,DEPORTES - TUDN - MEX (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9604
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" tvg-id="TUDN.us" ,DEPORTES - TUDN - USA (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9605
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" tvg-id="TUDN.us" ,DEPORTES - TUDN - USA (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9606
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" tvg-id="DSPORTS.+.HD.dtvsp" ,DEPORTES - Directv Sports + (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9557
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" tvg-id="DSPORTS.+.HD.dtvsp" ,DEPORTES - Directv Sports + (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9558
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" tvg-id="DSPORTS.+.HD.dtvsp" ,DEPORTES - Directv Sports + (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9559
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" tvg-id="DSPORTS.(ARG).dtvsp" ,DEPORTES - Directv Sports 1 (ARG) (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9560
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" tvg-id="Canal.Discovery.Kids.(Chile).cl" ,DEPORTES - Directv Sports 1 CHI (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9561
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" tvg-id="DSPORTS.(COL).(DTSC).co" ,DEPORTES - Directv Sports 1 ECU (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9562
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" tvg-id="DSPORTS.(COL).(DTSC).co" ,DEPORTES - Directv Sports 1 ECU (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9563
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" ,DEPORTES - Directv Sports 2 (e)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9564
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.(DTS2).co" ,DEPORTES - Directv Sports 2 (e)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9565
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" ,DEPORTES - Directv Sports 2 (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9567
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.2.HD.dtvsp" ,DEPORTES - Directv Sports 2 ARG (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9566
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png" tvg-id="DSPORTS.Fight(DTSFHD).co" ,DEPORTES - Directv Sports Fight (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9568
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" ,DEPORTES - Claro Sports 2 (Z)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9556
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" tvg-id="The.Fight.Network.(United.States).(TFN).us" ,DEPORTES - Fight BOX  (TV)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9570
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" tvg-id="GOL.TV.uy" ,DEPORTES - Gol TV ES (M)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9594
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" tvg-id="Gol.TV.USA.us" ,DEPORTES - Gol TV Internacional (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9595
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" tvg-id="IndiePlex.HDTV.(INDIEHD).us" ,DEPORTES - Golf Latin America (M)(SD)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9596
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" tvg-id="CW.Plus.Mountain.us" ,DEPORTES - Golf Latin MEX (M)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9597
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" tvg-id="NBA.TV.HDTV.(NBA.HD).us" ,DEPORTES - NBA U (M)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9598
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-x_CIVSy5Fzg/YkytpLNmlVI/AAAAAAAADek/5sv89DCrHMofx0iph8leofRZIbMQZHyEACNcBGAsYHQ/w200-h200/1649192355948000-0.png" ,DEPORTES - Sky sports (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9599
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/HLzWrYdb/Proyectox-sky-sports.png" ,DEPORTES - SKY Sports Bundesliga (Z)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9600
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png" tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" ,DEPORTES - SKY Sports La liga (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9601
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" ,DEPORTES - Tennis Channel (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9602
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-fpt6Sm7APZ4/Xay_XGDKQ5I/AAAAAAAAAjw/--9czPX3msMJpPDjQcQx7FqDjyNMyPJfQCLcBGAsYHQ/s200/12.png" tvg-id="Canal.TVC.Deportes.mx" ,DEPORTES - TVC Deportes (L)(1080)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9607
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" ,DEPORTES - TyC Sports INT (T)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9608
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" tvg-id="Canal.1.(Colombia).ar" ,DEPORTES - TyC Sports INT (TV)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9609
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" ,DEPORTES - UFC (L)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9610
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" tvg-id="Food.Network.USA.-.Eastern.Feed.us" ,DEPORTES - UFC Fight PASS (T)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9611
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" tvg-id="WWE.Network.us" ,DEPORTES - WWE  (T)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9612
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png" tvg-id="WWE.Network.us" ,DEPORTES - WWE (M)(720)
+http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9613
+
+
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/pBKLZ26S/Tudn.png" ,TUDN MEXICO
 http://nocable.cc:8080/b2U9nd/520098/11885
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + FHD
