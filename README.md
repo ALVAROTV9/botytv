@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES VIP
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES VIP
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES VIP
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/pBKLZ26S/Tudn.png" ,TUDN MEXICO
 http://nocable.cc:8080/b2U9nd/520098/11885
