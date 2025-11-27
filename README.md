@@ -2,6 +2,38 @@
 
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES VIP
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 1
+http://205.235.6.29:8000/play/a0oi/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 2
+http://205.235.6.29:8000/play/a0ok/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 3
+http://205.235.6.29:8000/play/a0ns/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 4
+http://205.235.6.29:8000/play/a0vn/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 5
+http://205.235.6.29:8000/play/a0we/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 6
+http://205.235.6.29:8000/play/a0w0/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 7
+http://205.235.6.29:8000/play/a0vw/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 8
+http://205.235.6.29:8000/play/a0vy/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 9
+http://205.235.6.29:8000/play/a0vu/index.m3u8
+
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES VIP
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 #EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/pBKLZ26S/Tudn.png" ,TUDN MEXICO
