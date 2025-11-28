@@ -1,1454 +1,1079 @@
-#EXTM3U
 
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES VIP
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-
-
-
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 1
-http://205.235.6.29:8000/play/a0oi/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 2
-http://205.235.6.29:8000/play/a0ok/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 3
-http://205.235.6.29:8000/play/a0ns/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 4
-http://205.235.6.29:8000/play/a0vn/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 5
-http://205.235.6.29:8000/play/a0we/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 6
-http://205.235.6.29:8000/play/a0w0/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 7
-http://205.235.6.29:8000/play/a0vw/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 8
-http://205.235.6.29:8000/play/a0vy/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,EvEnToS 9
-http://205.235.6.29:8000/play/a0vu/index.m3u8
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES VIP
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/pBKLZ26S/Tudn.png" ,TUDN MEXICO
-http://nocable.cc:8080/b2U9nd/520098/11885
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + FHD
-http://205.235.6.29:8000/play/a0ve/index.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVP5r1C4/Win-Sports2.png" ,WIN SPORTS + HD
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8511
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS HD
-http://190.0.247.38:8000/play/a06a
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/4RmQGfcw/Win-Sports1.png" ,WIN SPORTS FHD
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8507
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/gZMCMZ1v/Directv-Sports1.png" ,DIRECTV SPORTS FHD
-http://205.235.6.29:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/gZMCMZ1v/Directv-Sports1.png" ,DIRECTV SPORTS 2
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9565
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/zVJhxP9M/EspnXtra.png" ,ESPN EXTRA
-http://nocable.cc:8080/b2U9nd/520098/66372
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/S7NXSSzQ/Espn-Premoum.png" ,ESPN PREMIUM 1 VIP
-http://205.235.6.29:8000/play/a0pz/index.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/S7NXSSzQ/Espn-Premoum.png" ,ESPN PREMIUM 2 VIP ARG
-http://lunar.pm:8080/RandyJ2/randy/122345
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/S7NXSSzQ/Espn-Premoum.png" ,ESPN PREMIUM 3 VIP
-http://38.41.8.1:8000/play/a0t7
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,EVENTOS ESPN 1
-http://38.41.8.1:8000/play/a0t3
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,EVENTOS ESPN 1 COL
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9516
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/B2VJX7yF/Espn.png" ,ESPN 1 MEX
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9525
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2
-http://190.0.247.38:8000/play/a010
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,EVENTOS ESPN 2 COL
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9529
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/9Hwb8ZJg/Espn2.png" ,ESPN 2 MEX
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/9531
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/6R2YgtrD/Espn3.png" ,EVENTOS ESPN 3 A
-http://205.235.6.29:8000/play/a0w0/index.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/6R2YgtrD/Espn3.png" ,EVENTOS ESPN 3 B
-http://lunar.pm:8080/RandyJ2/randy/115097
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/6R2YgtrD/Espn3.png" ,EVENTOS ESPN 3 C
-http://190.0.247.38:8000/play/a03u
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/7d2hhRTJ/Espn4.png" ,EVENTOS ESPN 4 ARG
-http://38.41.8.1:8000/play/a0sl
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/7d2hhRTJ/Espn4.png" ,EVENTOS ESPN 4 COL
-http://190.0.247.38:8000/play/a069
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/7d2hhRTJ/Espn4.png" ,EVENTOS ESPN 4 MEX
-http://lunar.pm:8080/RandyJ2/randy/120114
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 5 ARG
-http://205.235.6.29:8000/play/a0vw/index.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 5 MEX
-http://190.0.247.38:8000/play/a012
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 ARG
-http://205.235.6.29:8000/play/a0vy/index.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 MEX
-http://190.0.247.38:8000/play/a013
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/KjbPXvr2/Espn6.png" ,EVENTOS ESPN 6 COL
-http://38.41.8.1:8000/play/a0sk
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,T Y C SPORTS ARG
-http://205.235.6.29:8000/play/a0oi/index.m3u
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,ARG FOX SPORTS PREMIUM
-http://lunar.pm:8080/RandyJ2/randy/122353
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,ECDF ECUADOR
-http://205.235.6.29:8000/play/a0we/index.m3u8
-#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,TNT SPORTS CHILE
-http://lunar.pm:8080/RandyJ2/randy/115184
-#EXTINF:-1 group-title="24/7 CINEMA " ,24/7 Hallowen (e)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/154053
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/MZ0RYPbk/Proyectox-Cinema-1.png" ,24/7 Cinema - Accion 2023
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95607
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/c1f7b4Wb/Proyectox-Cinema-10.png" ,24/7 Cinema - Animacion (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95610
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/c1f7b4Wb/Proyectox-Cinema-10.png" ,24/7 Cinema - Anime (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95611
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/5y5wYppV/Proyectox-Cinema-11.png" ,24/7 Cinema - Aventura (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95612
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/XqBfj4Bp/Proyectox-Cinemax-10.png" ,24/7 Cinema - Belico (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95614
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/7ZKnns4P/Proyectox-Cinema-16.png" ,24/7 Cinema - Cantinflas (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95617
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/nct2F9Tx/Proyectox-Cinema-19.png" ,24/7 Cinema - Clasico (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95619
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/1RbTpzH7/Proyectox-Cinemax-4.png" ,24/7 Cinema - Comedia (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95620
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/d1LHCMTK/Proyectox-Cinemax-7.png" ,24/7 Cinema - Crimen (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95621
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/sgrNN0bp/Proyectox-Cinemax-5.png" ,24/7 Cinema - Cristianas (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95633
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/5ttnccgF/Proyectox-Cinema-24.png" ,24/7 Cinema - Disney Animacion (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95622
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/0QTfJzsp/Proyectox-Cinema-22.png" ,24/7 Cinema - Disney Animacion 3D (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95623
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/7hN2YhYP/Proyectox-Cinema.png" ,24/7 Cinema - Disney Live Action (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95624
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/mr6VBdpp/Proyectox-Cinema-25.png" ,24/7 Cinema - Documentales (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95625
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/y8jvr6mH/Proyectox-Cinema-26.png" ,24/7 Cinema - Dramas (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95626
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/jj83Cq2X/Proyectox-Cinemax-1.png" ,24/7 Cinema - Familiar (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95630
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Y9ZXfX1L/Proyectox-Cinema-31.png" ,24/7 Cinema - Fantasia (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95631
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Hn1wkFwz/Proyectox-Cinema-12.png" ,24/7 Cinema - Gamer
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95613
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/XXMwXm9x/Proyectox-Cinemax-8.png" ,24/7 Cinema - Horror (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94974
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" ,24/7 Cinema - Infantiles (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95632
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/jdQXLqk7/Proyectox-Cinema-18.png" ,24/7 Cinema - Jackie chan (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94960
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/hGhbyL4L/Proyectox-Cinema-15.png" ,24/7 Cinema - Latino (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95616
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/x134D3SB/Proyectox-Cinemax-2.png" ,24/7 Cinema - Mexico Lindo (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94976
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/TP2HR5d1/Proyectox-Cinemax-3.png" ,24/7 Cinema - Musical (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94977
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png" ,24/7 Cinema - Parodias (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94978
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/vZYv9RpS/Proyectox-Cinema-17.png" ,24/7 Cinema - Pedro Infante (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95618
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Hkd6287z/Proyectox-Cinema-27.png" ,24/7 Cinema - Peliculas 2022 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95627
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/C508gk06/Proyectox-Cinema-2.png" ,24/7 Cinema - Peliculas 2023 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95628
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Nj6x2sJX/Proyectox-Cinemax-11.png" ,24/7 Cinema - Peliculas 2024 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95629
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/zDy6bhnR/Proyectox-Cinemax-6.png" ,24/7 Cinema - Romantico (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101175
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/Hxh01Vxq/Proyectox-Cinemax-9.png" ,24/7 Cinema - Sagas (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94985
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/d1LHCMTK/Proyectox-Cinemax-7.png" ,24/7 Cinema - Thriller (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94983
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/cHw32Tpn/Proyectox-Cinema-3.png" ,24/7 Cinema - Universo DC Animacion (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94946
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/JhyZcRKK/Proyectox-Cinema-5.png" ,24/7 Cinema - Universo DC: Live Action (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94947
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png" ,24/7 Cinema 4K (e)(4K)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95608
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/X78fnHpK/Proyectox-Cinema-8.png" ,24/7 Cinema Accion (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95609
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/6p5pnr68/24-7-Harry-Potter.png" ,24/7 Harry Potter Opc2 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94206
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" ,24/7 HBO Plus (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/85884
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png" ,24/7 HBO Signature (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/85885
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-3strKmwIw6s/Xj5BlA2hgCI/AAAAAAAABVY/5RMrXxrQcSMkV-vexE11oVaKBxoYESGiQCLcBGAsYHQ/s200/showtime%2Bbeyond.png" tvg-id="CW.Plus.Mountain.us" ,24/7 Showtime Beyond (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/86000
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/tJr4Mx46/Proyectoxnew1-31.png" ,24/7 Spider Man Coleccion Peliculas (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101896
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-lbxxWSm1dhU/Xj5CKV1-58I/AAAAAAAABVw/5XQSMLjpyd4tbj2J2ojPEqeHkVlPlgCMQCLcBGAsYHQ/s200/starz.png" tvg-id="CW.Plus.Mountain.us" ,24/7 Starz Comedy (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/86007
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://1.bp.blogspot.com/-lbxxWSm1dhU/Xj5CKV1-58I/AAAAAAAABVw/5XQSMLjpyd4tbj2J2ojPEqeHkVlPlgCMQCLcBGAsYHQ/s200/starz.png" ,24/7 Starz Edge (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/86009
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/rm0jmSvV/Proyectox-Cinema-23.png" ,24/7 Universo Marvel (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94943
-#EXTINF:-1 group-title="24/7 CINEMA " ,24/7 Universo Marvel 2 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94944
-#EXTINF:-1 group-title="24/7 CINEMA " tvg-logo="https://i.postimg.cc/W11MzGkB/Proyectox-Cinema-6.png" ,24/7 Universo Star Wars (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94948
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/c4k0DZqr/Proyectox-24-7seri3s-9.png" ,24/ The Walking Dead Daryl Dixon
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94829
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/kg7j0d7d/Proyectox-Cinemax-13.png" ,24/7 24H
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95593
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/KcgsLN0C/Proyectox-Cinemax-14.png" ,24/7 9-1-1 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94915
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/jd03h792/Proyectox-Cinemax-15.png" ,24/7 Better Call Saul (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94916
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/gkVSt0FD/Proyectox-Cinemax-16.png" ,24/7 Black Sails
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94812
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/y8nfBrN3/Proyectox-Cinemax-17.png" ,24/7 Blindspot (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94917
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Jhnphcy6/Proyectox-Cinemax-18.png" ,24/7 Boardwalk Empire (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94918
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" ,24/7 Bones (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94919
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/RFJG7SLw/Proyectox-Cinemax-20.png" ,24/7 Breaking Bad (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94920
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Gt0KzWXV/Proyectox-Cinemax-21.png" ,24/7 Chicago Fire (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94921
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/qq8LF1YR/Proyectox-Cinemax-22.png" ,24/7 Chicago Med (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94922
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/L4fNhsXp/Proyectox-Cinemax-23.png" ,24/7 Chicago P.D (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94987
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/gkW4hPX6/Proyectox-Cinemax-24.png" ,24/7 Cobra Kai
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94813
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/YSZzCcB0/Proyectox-Cinemax-26.png" ,24/7 Criminal Minds (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95604
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/MKm5brV3/Proyectox-Cinemax-25.png" ,24/7 CSI Las Vegas (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94926
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" ,24/7 CSI Miami (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94924
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/nhd1Njdv/Proyectox-Cinemax-28.png" ,24/7 CSI New York (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94925
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/6QyhKWSF/Proyectox-Cinemax-29.png" ,24/7 Dexter (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94927
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Qt7kB6jb/Proyectox-Cinemax-30.png" ,24/7 El Candidato (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94814
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" ,24/7 El Mentalista (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94937
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/qqXsw-zh6/Proyectox-Cinemax2.png" ,24/7 El mundo oculto de Sabrina (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94823
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/dQ8jwSHQ/Proyectox-Cinemax2-1.png" ,24/7 El señor de los anillos: Los anillos de poder (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95594
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/jdtQ5QmH/Proyectox-Cinemax2-2.png" ,24/7 Elite (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95605
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/4NPvhHRr/Proyectox-Cinemax2-3.png" ,24/7 Erase una vez
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94836
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/YCS6N2pj/Proyectox-Cinemax2-4.png" ,24/7 Falling Skies
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94815
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/7ZQgKv69/Proyectox-Cinemax2-5.png" ,24/7 Fear the Walking Dead (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94825
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/cJgfjDtS/Proyectox-Cinemax2-6.png" ,24/7 Game of Thrones (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94830
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/1zkDZpDN/Proyectox-Cinemax2-7.png" ,24/7 Halo (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94831
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" ,24/7 Hawaii 5.0 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94929
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/kMFKkRGB/Proyectox-Cinemax2-9.png" ,24/7 Heroes (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94832
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/rscWDMnV/Proyectox-Cinemax2-10.png" ,24/7 Homeland (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94930
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/DyvLFf45/Proyectox-Cinemax2-11.png" ,24/7 La Casa de Papel
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95606
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/vTzn9kkW/Proyectox-Cinemax2-12.png" ,24/7 La Casa del Dragon (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94834
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/0y3wppWH/Proyectox-Cinemax2-13.png" ,24/7 La Ley y el Orden (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94932
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/t476Zr5x/Proyectox-Cinemax2-14.png" ,24/7 La Materia Oscura (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94833
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/rm2RHqL1/Proyectox-Cinemax2-15.png" ,24/7 Los 100 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94841
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/SKMzVJHQ/Proyectox-Cinemax2-16.png" ,24/7 Los expedientes secretos X (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94843
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/d1RZPgqz/Proyectox-Cinemax2-17.png" ,24/7 Lost (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94816
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/Hnpcp3nj/Proyectox-Cinemax2-18.png" ,24/7 NCIS (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94933
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/qqjtgn6w/Proyectox-Cinemax2-19.png" ,24/7 NCIS Los Angeles (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94934
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/bYTS6XVn/Proyectox-Cinemax2-20.png" ,24/7 Perdidos en el Espacio
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94835
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/YqCGZXTs/Proyectox-Cinemax2-21.png" ,24/7 Prison Break (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94935
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/3Jf4TXTJ/Proyectox-Cinemax2-22.png" ,24/7 S.W.A.T. (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94936
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/L8rJqm5c/Proyectox-Cinemax2-24.png" ,24/7 SEAL Team (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94817
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/cLKK4vx7/Proyectox-Cinemax2-25.png" ,24/7 See (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94837
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/BvHXHR1X/Proyectox-Cinemax2-26.png" ,24/7 shogun 1980 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94818
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/MTwXDtyt/Proyectox-Cinemax2-28.png" ,24/7 Spartacus (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94819
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/MTYHrR5w/Proyectox-Cinemax2-29.png" ,24/7 Squid Game (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94820
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/cC4CqHkn/Proyectox-Cinemax2-30.png" ,24/7 Star Trek: Discovery
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94838
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/nrRznJNw/Proyectox-Cinemax2-31.png" ,24/7 Station 19 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94821
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/nV0M44MY/Proyectox-24-7seri3s.png" ,24/7 Stranger Things (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94839
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/RVhhXWHr/Proyectox-24-7seri3s-1.png" ,24/7 Supernatural (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94840
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/rFHmbq1D/Proyectox-24-7seri3s-2.png" ,24/7 The Mandalorian (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94842
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/mgFDWKj8/Proyectox-24-7seri3s-3.png" ,24/7 The Rookie (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94938
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/3w5w89b7/Proyectox-24-7seri3s-4.png" ,24/7 The Walking Dead
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94826
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/jjHSLNGf/Proyectox-24-7seri3s-5.png" ,24/7 The Walking Dead Dead City (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94828
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/SsmN8Rhv/Proyectox-24-7seri3s-6.png" ,24/7 The Walking Dead World Beyond (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94827
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/C1JM40ML/Proyectox-24-7seri3s-7.png" ,24/7 Vikings (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94822
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://i.postimg.cc/T1wd7shj/Proyectox-24-7seri3s-8.png" ,24/7 White Collar (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94939
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/nVKc1XY2/Proyectox-24-7seri3s-10.png" ,24/7 A Corazon Abierto (e)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95579
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/mk4Zs4R7/Proyectox-24-7seri3s-11.png" ,24/7 Alias el Mexicano (e)()
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94789
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/5ym49rNT/Proyectox-24-7seri3s-12.png" ,24/7 Amantes Del Desierto (e)()
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95580
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/PxYf9JGt/Proyectox-24-7seri3s-13.png" ,24/7 Bermudez (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95581
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/YSJqdgsn/Proyectox-24-7seri3s-14.png" ,24/7 Betty la Fea (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94575
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/SKXxLVDY/Proyectox-24-7seri3s-15.png" ,24/7 Betty la Fea (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/92230
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/4x23hjbT/Proyectox-24-7seri3s-17.png" ,24/7 Bloque de Busqueda
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95582
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/W113zsZn/Proyectox-24-7seri3s-18.png" ,24/7 Cafe con Aroma de Mujer
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94793
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/3JBN3kkN/Proyectox-24-7seri3s-19.png" ,24/7 Dejemonos de Vargas
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95583
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/kMWDh19x/Proyectox-24-7seri3s-21.png" ,24/7 Ecomoda
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95585
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/QCgt9tS6/Proyectox-24-7seri3s-23.png" ,24/7 El Man es German (e)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95586
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/2yNySvdb/Proyectox-24-7seri3s-24.png" ,24/7 Hermanitas Calles (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95587
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/ydZWKnRC/Proyectox-24-7seri3s-25.png" ,24/7 Juegos Prohibidos (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94799
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/8C3sxxjb/Proyectox-24-7seri3s-26.png" ,24/7 La Reina del Flow (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95578
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/HLjVZTsx/Proyectox-24-7seri3s-27.png" ,24/7 La Saga Negocio de Familia (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94800
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/K801D1bw/Proyectox-24-7seri3s-28.png" ,24/7 La Seleccion (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95588
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/zXSb3dcJ/Proyectox-24-7seri3s-29.png" ,24/7 Lady La Vendedora de Rosas
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95589
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/vZY1nWJ5/Proyectox-24-7seri3s-30.png" ,24/7 Pandillas Guerra y Paz (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94803
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/3JH08M9S/Proyectox-24-7seri3s-31.png" ,24/7 Pecados Capitales (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94804
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/XN5y6NKB/Proyectox-24-7.png" ,24/7 Pedro El Escamoso (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94805
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/kGWVQwMv/Proyectox-24-7-2.png" ,24/7 Rebelde (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95590
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/hjzQjcHw/Proyectox-24-7-3.png" ,24/7 Rosario Tijeras - Colombia (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94806
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/T30DNkVk/Proyectox-24-7-4.png" ,24/7 Rosario Tijeras - Mexico (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95591
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/bwpnTXtD/Proyectox-24-7-5.png" ,24/7 Rubi (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95592
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/ZqqyGrjJ/Proyectox-24-7-6.png" ,24/7 Sin Senos No Hay Paraiso (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/94807
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/TPHWfpHg/Proyectox-24-7-7.png" ,Doña Bella
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95584
-#EXTINF:-1 group-title="24/7 TELENOVELAS" ,24/7 Vecinos Colombia (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/112895
-#EXTINF:-1 group-title="24/7 TELENOVELAS" ,24/7 Hasta que la Plata nos Separe (e)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/114144
-#EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://i.postimg.cc/Gp4Jy5LD/retro-proyectox-pantera-rosa-1.png" ,24/7 Vecinos Colombia (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/124172
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 ALF (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96690
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Batman (1966)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101815
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Batman del futuro (1999)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101816
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Batman El Enmascarado (2024)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101817
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Batman: La Serie Animada (1992)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101818
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Bonanza (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96692
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Buffy, cazavampiros
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96693
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Chan Clan (1972)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105627
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Chan Clan (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110039
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Clan del Oso Yogui (e)(HQ)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110035
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Clue Club (1976)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105628
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Conejo Ricochet y Coyote Droop a Long (1964)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105629
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Dinamita el Perro Maravilla (1976)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105630
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Don Gato Y Su Pandilla (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110032
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Droopy Master Detective (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110040
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Auto Fantástico (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96694
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Escuadron Diabolico (1969)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105631
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El fantasma revoltoso (1971)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105632
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Fantasma Revoltoso (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110041
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Leon Melquiades (1961)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105633
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El nuevo show del Oso Yogi (1988)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105635
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show de Huckleberry Hound
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110042
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show de los 70's (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96776
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show de Pebbles y Bamm-Bamm (1971)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105636
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show del Oso Yogi (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110034
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Show del Oso Yogui (1961)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105634
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El Super Agente 86 (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96695
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 El valle de los dinosaurios (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110043
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Frankenstein Jr (1966)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105650
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Galaxy Goof-Ups (e)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110044
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Gasparin y los angeles
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110045
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Hechizada (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96691
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Jonny Quest (1996)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105637
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La Carrera Espacial de Yogi (e)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110046
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La Familia Addams (1972)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105638
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La familia Ingalls (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96699
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La familia Monster (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96780
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 La Tremenda Corte (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96698
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101819
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110038
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Las olimpiadas de la risa (1977)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105639
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Lindo pulgoso (1965)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105640
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Loopy De Loop (1959)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105641
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los 4 Fantasticos (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110047
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los años maravillosos (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96782
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Dukes de Hazzard (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96779
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 los guardianes galacticos (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110048
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los locos Addams
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96777
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Magníficos (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96778
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Pequenos Picapiedras (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110050
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Picapiedras (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110033
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los piratas de las aguas negras (1991)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105642
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Pitufos (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110049
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Supersonicos (1962)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105643
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Los Tres Chiflados (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96781
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 MacGyver (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96774
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Mi Bella Genio (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96696
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Motoraton y Autogato (1969)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105644
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Motormouse And Autocat (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110051
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Pepe Potamo (1964)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105645
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Policía de acero Jiban (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96697
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Pulgarcito investigador privado (1973)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105646
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Pulpo Manotas (1965)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105647
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Richy Ricon (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110052
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Salvados por la campana (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96775
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 The Batman (2004)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101820
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Thundarr el barbaro (1980)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105648
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Tiro Loco (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110053
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Travesuras De Los Picapiedras (1980)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/105649
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Walker Comisario de Texas (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/96783
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Xena: La princesa guerrera (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101183
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Yo Yogi (e)(HQ)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110036
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 Yogui y la busqueda del tesoro (e)(HQ)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/110037
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 X-Men (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/114145
-#EXTINF:-1 group-title="24/7 RETRO" ,24/7 ThunderCats (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/114146
-#EXTINF:-1 group-title="24/7 RETRO" tvg-logo="https://i.postimg.cc/7Zt7G67M/Iprotv-Ciney-Series2-30.png" ,24/7 LiveMan (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/115518
-#EXTINF:-1 group-title="24/7 RETRO" tvg-logo="https://i.postimg.cc/W45C2K9J/retro-proyectox-pantera-rosa.png" ,24/7 La Pantera Rosa (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/124173
-#EXTINF:-1 group-title="24/7 RETRO" tvg-logo="https://i.postimg.cc/C1gzcJmq/Pinky-y-Cerebro-Proyecto-X.png" ,24/7 Pinky y Cerebro (e)(SD)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/144761
-#EXTINF:-1 group-title="24/7 RETRO" tvg-logo="https://i.postimg.cc/HLPLtFTL/retro.png" ,24/7 El Coyote Y Correcaminos (e)(720)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/145013
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/pV1f8LCr/Proyectox-24-7-Infantil-1.png" ,24/7 Baby Looney Tunes (2002)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102584
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/T3bJTvrw/Proyectox-24-7-Infantil-2.png" ,24/7 Bob Esponja (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95041
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/W1dfry0L/Proyectox-24-7-Infantil-3.png" ,24/7 El Show de los Looney Tunes (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95042
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/Fs7xnLz0/Proyectox-24-7-Infantil-4.png" ,24/7 El show de Scooby-Doo y Scrappy-Doo (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95040
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/ZnDx5T79/Proyectox-24-7-Infantil-5.png" ,24/7 El show de Tom y Jerry 1980 (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101814
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/J42p1QvT/Proyectox-24-7-Infantil-6.png" tvg-id="Canal.#Vamos.sv" ,24/7 Infantil - Avatar: La leyenda de Aang (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95009
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/s2FKWgV7/Proyectox-24-7-Infantil-7.png" ,24/7 Infantil - Ben 10: Ultimate Alien (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95648
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/c4HDyz9g/Proyectox-24-7-Infantil-9.png" ,24/7 Infantil - El Chavo Animado (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95012
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/1z6C7NWv/Proyectox-24-7-Infantil-10.png" ,24/7 Infantil - El Pajaro Loco y sus Amigos (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95013
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/J4vQwzHv/Proyectox-24-7-Infantil-11.png" ,24/7 Infantil - El Show Del Pajaro Loco
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95014
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/x1Zh4Q91/Proyectox-24-7-Infantil-12.png" ,24/7 Infantil - Gravity Falls (E)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95015
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/XNgh0dnh/Proyectox-24-7-Infantil-13.png" ,24/7 Infantil - Jimmy Neutron (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95016
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/wTTrxMvB/Proyectox-24-7-Infantil-14.png" ,24/7 Infantil - Kick Buttowski (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95017
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/sXd83JQF/Proyectox-24-7-Infantil-15.png" ,24/7 Infantil - KND Los Chicos Del Barrio (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95018
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/28zsqTHr/Proyectox-24-7-Infantil-18.png" ,24/7 Infantil - Las Aventuras de Billy y Mandy (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95022
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/0NTgbs4B/Proyectox-24-7-Infantil-20.png" ,24/7 Infantil - Looney Tunes Platinium (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102583
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/qMwdQWtN/Proyectox-24-7-Infantil-21.png" ,24/7 Infantil - Los Padrinos Magicos
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95653
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/G2Tc5KWZ/Proyectox-24-7-Infantil-22.png" ,24/7 Infantil - Los pingüinos de Madagascar
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95028
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/DzHhLsS5/Proyectox-24-7-Infantil-23.png" ,24/7 Infantil - Los Pitufos (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95029
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/LsnRJv8n/Proyectox-24-7-Infantil-24.png" ,24/7 Infantil - Masha y el Oso (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95030
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/CLsw-Xz2L/Proyectox-24-7-Infantil-25.png" ,24/7 Infantil - Oye Arnold
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95031
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/NjGQcQh8/Proyectox-24-7-Infantil-26.png" ,24/7 Infantil - Paw Patrol (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95019
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/SxGj6Z4d/Proyectox-24-7-Infantil-27.png" ,24/7 Infantil - Peppa Pig (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95032
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/jjFxcmFH/Proyectox-24-7-Infantil-28.png" ,24/7 Infantil - Phineas y Ferb (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95033
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/JzK4DG3d/Proyectox-24-7-Infantil-29.png" ,24/7 Infantil - Rugrats (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95034
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/SKsQWkDQ/Proyectox-24-7-Infantil-30.png" ,24/7 Infantil - Rugrats Crecidos (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95010
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/Y0gChR81/Proyectox-24-7-Infantil-31.png" ,24/7 Infantil - Winnie the Pooh (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95024
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/vBCmYk7Y/Proyectox-24-7-Infantiles.png" ,24/7 Las aventuras de Timon y Pumba (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102588
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/ZqKnVrKS/Proyectox-24-7-Infantiles-1.png" ,24/7 Las nuevas Aventuras de Scooby-Doo (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95035
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/DftWnJ5r/Proyectox-24-7-Infantiles-2.png" ,24/7 Lobo Ralph y Perro Sam (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102586
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/5yFMstC1/Proyectox-24-7-Infantiles-3.png" ,24/7 Pepe Le Pew (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102585
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/nL0Zzgx8/Proyectox-24-7-Infantiles-5.png" ,24/7 Scooby-Doo Misterios S. A.
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95039
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/8k3pM26N/Proyectox-24-7-Infantiles-6.png" ,24/7 Scooby-Doo y adivina quién?
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95037
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/yd81yBjY/Proyectox-24-7-Infantiles-7.png" ,24/7 Speedy Gonzales (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/102587
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/wv46WP45/Proyectox-24-7-Infantiles-8.png" ,24/7 Tom Y Jerry (e)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/101184
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/WzQsVZvh/Proyectox-24-7-Infantiles-9.png" ,24/7 Un cachorro llamado Scooby Doo (e)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95036
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://i.postimg.cc/nr5qt3rB/Proyectox-24-7-Infantil.png" ,24/7 ¡Scooby-Doo, dónde estás!
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/95038
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 04 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8589
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 07 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8592
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 08 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8593
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 12 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8597
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 13 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8598
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 14 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8599
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 15 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8600
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 19 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8604
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 21 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8606
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 26 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8611
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 29 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8614
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 30 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8615
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 35 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8620
-#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 37 (M)(1080)
-http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8622
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 1
-http://nocable.cc:8080/b2U9nd/520098/167742
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 2
-http://nocable.cc:8080/b2U9nd/520098/167743
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 3
-http://nocable.cc:8080/b2U9nd/520098/167744
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS SPORTV 4
-http://nocable.cc:8080/b2U9nd/520098/167745
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,SUPER SPORTS FOOTBALL
-http://145.239.5.177:80/564/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS PREMIER LEAGUE SKY SPORTS
-http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/9334/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,Sky Sports Main Event
-http://nocable.cc:8080/b2U9nd/520098/35243
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,Sky Sports Premier League
-http://nocable.cc:8080/b2U9nd/520098/35241
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS  DAZN 1
-http://nocable.cc:8080/b2U9nd/520098/167748
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS  DAZN 2
-http://nocable.cc:8080/b2U9nd/520098/167749
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS DAZN 3
-http://145.239.5.177:80/566/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS DAZN 4
-http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2518/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS DAZN 5
-http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2517/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS RAI Sports
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS FOX Sports 1
-http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/7322/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS BeIN Sport USA
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9551.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS BeIN Sports Xtra Ñ
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9552.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS BIN Sports Ñ FHD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9553.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS Claro Sports 2 HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9556.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,Sportsnet World HD
-http://nocable.cc:8080/b2U9nd/520098/75675
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,Sky Sports F1 FHD
-http://nocable.cc:8080/b2U9nd/520098/35244
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,SKY SP RACING FHD
-http://nocable.cc:8080/b2U9nd/520098/76842
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,NBC Sports Network (F)
-http://nocable.cc:8080/b2U9nd/520098/46725
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,WWE NETWORK
-http://nocable.cc:8080/b2U9nd/520098/11645
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Fanduel Sports
-http://nocable.cc:8080/b2U9nd/520098/21843
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,PT Eleven Sports 1 FHD
-http://nocable.cc:8080/b2U9nd/520098/35264
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Bay Area
-http://nocable.cc:8080/b2U9nd/520098/9900
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Boston
-http://nocable.cc:8080/b2U9nd/520098/20939
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports California
-http://nocable.cc:8080/b2U9nd/520098/20940
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Chicago
-http://nocable.cc:8080/b2U9nd/520098/20941
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Network (FHD)
-http://nocable.cc:8080/b2U9nd/520098/20926
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US NBC Sports Philladelfia
-http://nocable.cc:8080/b2U9nd/520098/20943
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,,US ESPN SEC Network
-http://nocable.cc:8080/b2U9nd/520098/17608
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Spectrum SportsNet LA Dodgers (HD)
-http://nocable.cc:8080/b2U9nd/520098/31636
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Spectrum SportsNet Lakers (FHD)
-http://nocable.cc:8080/b2U9nd/520098/21842
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Tennis Channel
-http://nocable.cc:8080/b2U9nd/520098/20184
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US YES Network
-http://nocable.cc:8080/b2U9nd/520098/57972
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CBS Sports Network HD
-http://nocable.cc:8080/b2U9nd/520098/10454
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US ESPN 2
-http://nocable.cc:8080/b2U9nd/520098/2210
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US ESPN 1 (HD)
-http://nocable.cc:8080/b2U9nd/520098/14197
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Fox Sports 1
-http://nocable.cc:8080/b2U9nd/520098/1846
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Fox Sports 2
-http://nocable.cc:8080/b2U9nd/520098/1847
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Golf Channel
-http://nocable.cc:8080/b2U9nd/520098/9806
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,US Sportsnet New York
-http://nocable.cc:8080/b2U9nd/520098/135810
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,SD CLARO SPORTS
-http://38.41.8.1:8000/play/a050
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS PERU
-http://38.41.8.1:8000/play/a0z1
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ymy61mw/Bo-Ty-Tv-Fu-Tbo-L.png" ,EVENTOS VENEZUELA
-http://38.41.8.1:8000/play/a03w
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (M)(1080)" ,HBO
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9666.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" ,HBO HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9668.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (1080)(T)" ,HBO FHD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9670.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO 2 (Z)(1080)" ,HBO 2 FHD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9675.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (L)(1080)" ,HBO Family FHD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9676.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (T)(1080)" ,HBO Family HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9678.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (M)(1080)" ,HBO Plus HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9685.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (Z)(1080)" ,HBO PluS
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9688.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" tvg-id="Canal.HBO.Pop.mx" tvg-name="CINE - HBO POP (M)(1080)" ,HBO POP HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9689.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme (M)(1080)" ,HBO XtremE HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9698.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO. 2 (TV)(1080)" ,HBO. 2 HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9672.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM CINE
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MX: Cinemax
-http://nocable.cc:8080/b2U9nd/520098/57638
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MX | TNT
-http://nocable.cc:8080/b2U9nd/520098/57719
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,A&E HD IN
-http://190.0.247.38:8000/play/a04y
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,AXN HD
-http://190.0.247.38:8000/play/a01g
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,AXN HD IN
-http://190.0.247.38:8000/play/a04x
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CINE CANAL HD
-http://190.0.247.38:8000/play/a01i
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CINE FAMILIAR HD
-http://190.0.247.38:8000/play/a01l
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CINE HISPANO HD
-http://190.0.247.38:8000/play/a01m
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CINE PREMIUM HD
-http://190.0.247.38:8000/play/a01k
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DEPELICULA HD
-http://190.0.247.38:8000/play/a01j
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DEPELICULA HD IN
-http://190.0.247.38:8000/play/a04z
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,FX HD
-http://190.0.247.38:8000/play/a01c
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,GOLDEN EDGE HD
-http://190.0.247.38:8000/play/a01b
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,GOLDEN EDGE HD IN
-http://190.0.247.38:8000/play/a04v
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,GOLDEN HD
-http://190.0.247.38:8000/play/a01a
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,EGOLDEN HD IN
-http://190.0.247.38:8000/play/a04u
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD A&E
-http://38.41.8.1:8000/play/a101
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD AE Mundo
-http://38.41.8.1:8000/play/a07v
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD AMC
-http://38.41.8.1:8000/play/a108
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD AMC Series
-http://38.41.8.1:8000/play/a111
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD AXN
-http://38.41.8.1:8000/play/a103
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD CCS MOVIE
-http://38.41.8.1:8000/play/a0y4
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD CINE PREMIUM
-http://38.41.8.1:8000/play/a0aw
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Cinecanal
-http://38.41.8.1:8000/play/a0rc
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Cinecanal SD
-http://38.41.8.1:8000/play/a0rl
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Cinemax
-http://38.41.8.1:8000/play/a0zi
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Cinemax
-http://38.41.8.1:8000/play/a05v
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Discovery H&H
-http://38.41.8.1:8000/play/a0ss
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD FX
-http://38.41.8.1:8000/play/a05z
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" , FX HD
-http://38.41.8.1:8000/play/a0ru
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Film&Arts
-http://38.41.8.1:8000/play/a10z
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HBO
-http://38.41.8.1:8000/play/a0zj
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HBO Family
-http://38.41.8.1:8000/play/a109
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HBO
-http://38.41.8.1:8000/play/a0ro
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HBO MUNDI
-http://38.41.8.1:8000/play/a11e
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HBO POP
-http://38.41.8.1:8000/play/a0rq
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HBO Plus
-http://38.41.8.1:8000/play/a10c
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HBO Signature
-http://38.41.8.1:8000/play/a10a
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HBO XTREME
-http://38.41.8.1:8000/play/a10b
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Paramount Channel
-http://38.41.8.1:8000/play/a0sp
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Paramount HD
-http://38.41.8.1:8000/play/a0t2
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD STAR CHANNEL
-http://38.41.8.1:8000/play/a0zh
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,STAR CHANNEL
-http://38.41.8.1:8000/play/a04w
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,STAR CHANNEL HD
-http://38.41.8.1:8000/play/a0ri
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Sony
-http://38.41.8.1:8000/play/a102
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Space
-http://38.41.8.1:8000/play/a0ra
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Space HD
-http://38.41.8.1:8000/play/a0rk
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Studio Universal
-http://38.41.8.1:8000/play/a05n
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD SyFy
-http://38.41.8.1:8000/play/a057
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD TBS
-http://38.41.8.1:8000/play/a074
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD TCM
-http://38.41.8.1:8000/play/a04x
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD TNT
-http://38.41.8.1:8000/play/a0sn
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,TNT Sports Premiun SD
-http://38.41.8.1:8000/play/a0yv
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Universal
-http://38.41.8.1:8000/play/a04r
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Warner
-http://38.41.8.1:8000/play/a07n
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Warner Channel
-http://38.41.8.1:8000/play/a0yo
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Warner Channel HD
-http://38.41.8.1:8000/play/a0rj
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,SONY CHANNEL HD
-http://190.0.247.38:8000/play/a018
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,SONY CHANNEL HD IN
-http://190.0.247.38:8000/play/a04s
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,SONY MOVIES HD
-http://190.0.247.38:8000/play/a019
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,STAR CHANNEL HD
-http://190.0.247.38:8000/play/a015
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,STUDIO UNIVERSAL HD
-http://190.0.247.38:8000/play/a017
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,UNIVERSAL CHANNEL HD
-http://190.0.247.38:8000/play/a016
-#EXTINF:-1 group-title="CINE" ,A&E HD
-http://190.0.247.38:8000/play/a01h
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,SONY MOVIES HD IN
-http://190.0.247.38:8000/play/a04t
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (M)(1080)" ,HBO
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9666.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" ,HBO HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9668.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (1080)(T)" ,HBO FHD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9670.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://www.shopfortaleza.com.br/wp-content/uploads/2019/02/HBO2.jpg" tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO 2 (Z)(1080)" ,HBO 2 FHD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9675.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (L)(1080)" ,HBO Family FHD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9676.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (T)(1080)" ,HBO Family HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9678.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (M)(1080)" ,HBO Plus HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9685.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="http://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (Z)(1080)" ,HBO PluS
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9688.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" tvg-id="Canal.HBO.Pop.mx" tvg-name="CINE - HBO POP (M)(1080)" ,HBO POP HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9689.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme (M)(1080)" ,HBO XtremE HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9698.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO. 2 (TV)(1080)" ,HBO. 2 HD
-http://tv.proyectox.vip:8080/live/mayleenfunez1/135535683598/9672.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DOCUMENTALES
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MX | Discovery Channel
-http://nocable.cc:8080/b2U9nd/520098/57625
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,US Latin Discovery (F)
-http://nocable.cc:8080/b2U9nd/520098/57645
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY CHANNEL HD
-http://190.0.247.38:8000/play/a00m
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY CHANNEL IN
-http://190.0.247.38:8000/play/a04i
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY H&H SD
-http://190.0.247.38:8000/play/a00n
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY SCIENCE HD
-http://190.0.247.38:8000/play/a00s
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY SCIENCE IN
-http://190.0.247.38:8000/play/a04h
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY TLC HD
-http://190.0.247.38:8000/play/a00v
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY TLC IN
-http://190.0.247.38:8000/play/a04l
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY TURBO HD
-http://190.0.247.38:8000/play/a00o
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY TURBO IN
-http://190.0.247.38:8000/play/a04j
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DW HD
-http://190.0.247.38:8000/play/a00y
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,HGTV IN
-http://190.0.247.38:8000/play/a04m
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,HISTORY 2 HD
-http://190.0.247.38:8000/play/a00x
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,HISTORY 2 HD IN
-http://190.0.247.38:8000/play/a04r
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,HISTORY CHANNEL HD
-http://190.0.247.38:8000/play/a00w
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,HISTORY CHANNEL HD IN
-http://190.0.247.38:8000/play/a04q
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,HOGAR TV HD
-http://190.0.247.38:8000/play/a004
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,ID DISCOVERY HD
-http://190.0.247.38:8000/play/a00t
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,ID DISCOVERY IN
-http://190.0.247.38:8000/play/a04k
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,NATGEO HD
-http://190.0.247.38:8000/play/a00q
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Animal Planet
-http://38.41.8.1:8000/play/a0zo
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Discovery Channel
-http://38.41.8.1:8000/play/a0za
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Discovery Channel
-http://38.41.8.1:8000/play/a07l
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Discovery H&H
-http://38.41.8.1:8000/play/a0si
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Discovery
-http://38.41.8.1:8000/play/a0rw
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Discovery ID
-http://38.41.8.1:8000/play/a071
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Discovery Theater
-http://38.41.8.1:8000/play/a0sj
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Discovery Theater
-http://38.41.8.1:8000/play/a0st
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Discovery Turbo
-http://38.41.8.1:8000/play/a0yr
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Discovery World
-http://38.41.8.1:8000/play/a0r8
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Discovery World
-http://38.41.8.1:8000/play/a0rh
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD HGTV
-http://38.41.8.1:8000/play/a0yq
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD History 2
-http://38.41.8.1:8000/play/a10y
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD History Channel
-http://38.41.8.1:8000/play/a0zq
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD History Channel
-http://38.41.8.1:8000/play/a04p
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Love Nature
-http://38.41.8.1:8000/play/a0yp
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD National Geographic
-http://38.41.8.1:8000/play/a0zp
-#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD TLT
-http://38.41.8.1:8000/play/a03y
-#EXTINF:-1 group-title="DOCUMENTALES" ,ANIMAL PLANET HD
-http://190.0.247.38:8000/play/a00p
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM NACIONALES
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,BR Globo SP HD
-http://nocable.cc:8080/b2U9nd/520098/21020
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,BR: SBT HD
-http://nocable.cc:8080/b2U9nd/520098/20978
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO: TELEMEDELLIN
-http://nocable.cc:8080/b2U9nd/520098/78722
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO: CANAL UNO
-http://nocable.cc:8080/b2U9nd/520098/78698
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,COL CARACOL INTERNACIONAL HD
-http://nocable.cc:8080/b2U9nd/520098/78701
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,COL: CARCOL HD
-http://nocable.cc:8080/b2U9nd/520098/78700
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO: NTN24 HD
-http://nocable.cc:8080/b2U9nd/520098/78704
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO: RCN FHD
-http://nocable.cc:8080/b2U9nd/520098/78694
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO: RCN NOVELAS
-http://nocable.cc:8080/b2U9nd/520098/78716
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO SENAL COLOMBIA
-http://nocable.cc:8080/b2U9nd/520098/78711
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO: TELECAFE
-http://nocable.cc:8080/b2U9nd/520098/78726
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO: TELEANTIOQUIA HD
-http://nocable.cc:8080/b2U9nd/520098/78706
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO Telepacifico  (P)
-http://nocable.cc:8080/b2U9nd/520098/78729
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CO: TELECARIBE HD
-http://nocable.cc:8080/b2U9nd/520098/173301
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MEX: Foro TV HD
-http://nocable.cc:8080/b2U9nd/520098/57594
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MEX  DISTRITO COMEDIA
-http://nocable.cc:8080/b2U9nd/520098/57639
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MEX Multimedios
-http://nocable.cc:8080/b2U9nd/520098/57646
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MEX Multimedios HD
-http://nocable.cc:8080/b2U9nd/520098/57711
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,USA: TELEMUNDO 51 MIAMI HD
-http://nocable.cc:8080/b2U9nd/520098/56410
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,PERU: PANAMERICANA HD
-http://nocable.cc:8080/b2U9nd/520098/110633
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,PERU MAGICO FHD
-http://nocable.cc:8080/b2U9nd/520098/110634
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,PERU: AMERICA TV
-http://nocable.cc:8080/b2U9nd/520098/110637
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,PERU: ATV
-http://nocable.cc:8080/b2U9nd/520098/110638
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,PERU LATINA HD
-http://nocable.cc:8080/b2U9nd/520098/110640
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,PERU: EXITOSA
-http://nocable.cc:8080/b2U9nd/520098/110643
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,ARG: EL NUEVE HD
-http://nocable.cc:8080/b2U9nd/520098/164869
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,ARG: TELEFE INTERNACIONAL HD
-http://nocable.cc:8080/b2U9nd/520098/164870
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,ARG: CRONICA HD
-http://nocable.cc:8080/b2U9nd/520098/164875
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,ARG: C5N HD
-http://nocable.cc:8080/b2U9nd/520098/164876
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,ARG: ENCUENTRO HD
-http://nocable.cc:8080/b2U9nd/520098/164878
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,ARG: INFORMACION PERIODISTICA HD
-http://nocable.cc:8080/b2U9nd/520098/164879
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,ARG: AMERICA TV HD
-http://nocable.cc:8080/b2U9nd/520098/164881
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CHILE: MEGA HD
-http://nocable.cc:8080/b2U9nd/520098/164883
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CHILE CHILEVISION HD
-http://nocable.cc:8080/b2U9nd/520098/164884
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CHILE: 13I
-http://nocable.cc:8080/b2U9nd/520098/164885
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,CHILE: TVN CHILE HD
-http://nocable.cc:8080/b2U9nd/520098/164888
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,URUGUAY: CANAL 10 SAETA HD
-http://nocable.cc:8080/b2U9nd/520098/164917
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,URUGUAY: CANAL12 MELO HD
-http://nocable.cc:8080/b2U9nd/520098/164921
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,URUGUAY: A+V HD
-http://nocable.cc:8080/b2U9nd/520098/164922
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,URUGUAY CANAL 4 HD
-http://nocable.cc:8080/b2U9nd/520098/164923
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,URU: LA TELE HD
-http://nocable.cc:8080/b2U9nd/520098/164927
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,VENEZUELA: MERIDIANO TV
-http://nocable.cc:8080/b2U9nd/520098/164930
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,VENEZUELA: TELEVEN
-http://nocable.cc:8080/b2U9nd/520098/164931
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,VEN: GLOBOVISION
-http://nocable.cc:8080/b2U9nd/520098/164934
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CANAL CAPITAL SD
-http://190.0.247.38:8000/play/a02b
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CANAL DE LAS ESTRELLAS HD
-http://190.0.247.38:8000/play/a01q
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CANAL DE LAS ESTRELLAS HD IN
-http://190.0.247.38:8000/play/a052
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CARACOL TV 2 HD
-http://190.0.247.38:8000/play/a04c
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CARACOL TV HD
-http://190.0.247.38:8000/play/a009
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,RCN HD COL
-http://190.0.247.38:8000/play/a00b
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,RCN HD2 COL
-http://190.0.247.38:8000/play/a065
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,USA TELEMUNDO HD
-http://190.0.247.38:8000/play/a01t
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TELEMUNDO HD IN
-http://190.0.247.38:8000/play/a055
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,UNIVISION HD USA
-http://190.0.247.38:8000/play/a01p
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,UNIVISION HD IN
-http://190.0.247.38:8000/play/a01f
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM LATINOS
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CONTACTENOS PARA MAS
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,BABY TV HD
-http://190.0.247.38:8000/play/a00d
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,BANDAMAX HD
-http://190.0.247.38:8000/play/a020
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,BITME HD
-http://190.0.247.38:8000/play/a00h
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CGTN HD
-http://190.0.247.38:8000/play/a029
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DHE HD
-http://190.0.247.38:8000/play/a01d
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISTRITO COMEDIA HD
-http://190.0.247.38:8000/play/a01n
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISTRITO COMEDIA IN
-http://190.0.247.38:8000/play/a048
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,E! HD
-http://190.0.247.38:8000/play/a02v
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,E! HD IN
-http://190.0.247.38:8000/play/a050
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,EJTV HD
-http://190.0.247.38:8000/play/a02n
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,ENLACE HD
-http://190.0.247.38:8000/play/a02p
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,EWTN SD
-http://190.0.247.38:8000/play/a02l
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,FOOD NETWORKS HD
-http://190.0.247.38:8000/play/a00r
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,HGTV HD
-http://190.0.247.38:8000/play/a00u
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,HOGAR TV HD IN
-http://190.0.247.38:8000/play/a05a
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,IVC HD
-http://190.0.247.38:8000/play/a01s
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,IVC HD IN
-http://190.0.247.38:8000/play/a054
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,LA KALLE HD MUSICA
-http://190.0.247.38:8000/play/a01z
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,LIFE TIME HD
-http://190.0.247.38:8000/play/a01e
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,LIFE TIME HD IN
-http://190.0.247.38:8000/play/a04w
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,MARIA VISION HD
-http://190.0.247.38:8000/play/a02j
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,MIMUSICA HITS HD
-http://190.0.247.38:8000/play/a01v
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,MIMUSICA POPULAR HD
-http://190.0.247.38:8000/play/a01y
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,MIMUSICA REGGAETON HD
-http://190.0.247.38:8000/play/a01u
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,MIMUSICA ROMANTICA HD
-http://190.0.247.38:8000/play/a01w
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,MUNDO + HD
-http://190.0.247.38:8000/play/a00a
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,RUMBATV HD
-http://190.0.247.38:8000/play/a023
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,RUMBATV HD IN
-http://190.0.247.38:8000/play/a05b
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TELEAMIGA HD
-http://190.0.247.38:8000/play/a02m
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TELEHIT HD
-http://190.0.247.38:8000/play/a021
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TELEHIT IN
-http://190.0.247.38:8000/play/a049
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TELEHIT MUSICA HD
-http://190.0.247.38:8000/play/a022
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TELEHIT MUSICA IN
-http://190.0.247.38:8000/play/a04a
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TELENOSTALGIA HD
-http://190.0.247.38:8000/play/a01x
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TELEVID HD
-http://190.0.247.38:8000/play/a02o
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TLNOVELAS HD
-http://190.0.247.38:8000/play/a01r
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,TLNOVELAS HD IN
-http://190.0.247.38:8000/play/a053
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,ZOOMOO HD
-http://190.0.247.38:8000/play/a00j
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM INFANTILES
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD BabyFirst
-http://38.41.8.1:8000/play/a055
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Cartoon Network
-http://38.41.8.1:8000/play/a0zn
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Discovery Kids
-http://38.41.8.1:8000/play/a058
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,Discovery Kids
-http://38.41.8.1:8000/play/a0rg
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Disney Channel
-http://38.41.8.1:8000/play/a0yn
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" , Disney SD
-http://38.41.8.1:8000/play/a0rf
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Disney Jr
-http://38.41.8.1:8000/play/a05l
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Nick
-http://38.41.8.1:8000/play/a0rt
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Nick Music
-http://38.41.8.1:8000/play/a0v6
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Nickelodeon
-http://38.41.8.1:8000/play/a0ym
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Teen Nick
-http://38.41.8.1:8000/play/a0v8
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,SD Tooncast
-http://38.41.8.1:8000/play/a0vb
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,CANAL INFANTIL HD
-http://190.0.247.38:8000/play/a00e
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY KIDS HD
-http://190.0.247.38:8000/play/a00l
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISCOVERY KIDS IN
-http://190.0.247.38:8000/play/a04f
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISNEY CHANNEL HD
-http://190.0.247.38:8000/play/a00g
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DISNEY JUNIOR HD
-http://190.0.247.38:8000/play/a00f
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,DREAMWORKS HD
-http://190.0.247.38:8000/play/a00k
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,PLIM PLIM HD INFANTIL
-http://190.0.247.38:8000/play/a00i
-#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.ibb.co/pv7y6NYf/BoTyTv3L.png" ,PLIM PLIM HD IN
-http://190.0.247.38:8000/play/a04o
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM XXX
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,En BoTyTv Disfrute los Mejores Canales de Adultos, Exclusivo.
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,A GIRL KNOWS
-http://nocable.cc:8080/b2U9nd/520098/159953
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,ADULT TIME
-http://nocable.cc:8080/b2U9nd/520098/159954
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,ALL BLACK X
-http://nocable.cc:8080/b2U9nd/520098/159955
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,ALL GROUP SEX
-http://nocable.cc:8080/b2U9nd/520098/159956
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,ANALIZED
-http://nocable.cc:8080/b2U9nd/520098/159958
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,BABES
-http://nocable.cc:8080/b2U9nd/520098/159959
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,BANG BROS NETWORK
-http://nocable.cc:8080/b2U9nd/520098/159960
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,BLACKED
-http://nocable.cc:8080/b2U9nd/520098/159962
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,BLOW ME POV
-http://nocable.cc:8080/b2U9nd/520098/159963
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,BOX OF PORN
-http://nocable.cc:8080/b2U9nd/520098/159964
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,BRATTY SIS
-http://nocable.cc:8080/b2U9nd/520098/159965
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,BRAZZERS
-http://nocable.cc:8080/b2U9nd/520098/159966
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,BUMS BUS
-http://nocable.cc:8080/b2U9nd/520098/159967
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,CASTING COUCH
-http://nocable.cc:8080/b2U9nd/520098/159968
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,CUM 4K
-http://nocable.cc:8080/b2U9nd/520098/159969
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PORNBOX: DAGFS
-http://nocable.cc:8080/b2U9nd/520098/159970
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,DDF BUSTY
-http://nocable.cc:8080/b2U9nd/520098/159971
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,DIABOLIC
-http://nocable.cc:8080/b2U9nd/520098/159972
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,DIGITAL PLAYGROUND
-http://nocable.cc:8080/b2U9nd/520098/159973
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,DOGFART NETWORK
-http://nocable.cc:8080/b2U9nd/520098/159974
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,DORCEL CLUB
-http://nocable.cc:8080/b2U9nd/520098/159975
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,DREAMROOM
-http://nocable.cc:8080/b2U9nd/520098/159976
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,EROTIKVONBENAN
-http://nocable.cc:8080/b2U9nd/520098/159977
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,FAKE HOSTEL
-http://nocable.cc:8080/b2U9nd/520098/159979
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,FAKE TAXI
-http://nocable.cc:8080/b2U9nd/520098/159980
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,FAMILY STROKES
-http://nocable.cc:8080/b2U9nd/520098/159981
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,FAMILY SWAP XXX
-http://nocable.cc:8080/b2U9nd/520098/159982
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,FAPADOO
-http://nocable.cc:8080/b2U9nd/520098/159983
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,FILTHY POV
-http://nocable.cc:8080/b2U9nd/520098/159984
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,FIRST ANAL QUEST
-http://nocable.cc:8080/b2U9nd/520098/159985
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,FIT 18
-http://nocable.cc:8080/b2U9nd/520098/159986
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,GOTMYLF
-http://nocable.cc:8080/b2U9nd/520098/159987
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,HENTAINED
-http://nocable.cc:8080/b2U9nd/520098/159988
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,HER LIMIT
-http://nocable.cc:8080/b2U9nd/520098/159989
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,HOLED
-http://nocable.cc:8080/b2U9nd/520098/159990
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,HOT WIFE XXX
-http://nocable.cc:8080/b2U9nd/520098/159991
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,HUSSIE PASS
-http://nocable.cc:8080/b2U9nd/520098/159992
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,INTERRACIAL PASS
-http://nocable.cc:8080/b2U9nd/520098/159993
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,JAYS POV
-http://nocable.cc:8080/b2U9nd/520098/159994
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,JESH BY JESH
-http://nocable.cc:8080/b2U9nd/520098/159995
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,JOI BABES
-http://nocable.cc:8080/b2U9nd/520098/159996
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,JULES JORDAN
-http://nocable.cc:8080/b2U9nd/520098/159997
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,KINKY FAMILY
-http://nocable.cc:8080/b2U9nd/520098/159998
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,KINKY INLAWS
-http://nocable.cc:8080/b2U9nd/520098/159999
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,LETHAL HARDCORE
-http://nocable.cc:8080/b2U9nd/520098/160001
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,LETHAL TEENS
-http://nocable.cc:8080/b2U9nd/520098/160002
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,LETS DOE IT
-http://nocable.cc:8080/b2U9nd/520098/160003
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,LIFE SELECTOR
-http://nocable.cc:8080/b2U9nd/520098/160004
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,LOVE HER FEET
-http://nocable.cc:8080/b2U9nd/520098/160005
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,LOVE HOME PORN
-http://nocable.cc:8080/b2U9nd/520098/160006
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,LUBED
-http://nocable.cc:8080/b2U9nd/520098/160007
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,LUXURE
-http://nocable.cc:8080/b2U9nd/520098/160008
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MAMACITAZ
-http://nocable.cc:8080/b2U9nd/520098/160009
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MASSAGE ROOMS
-http://nocable.cc:8080/b2U9nd/520098/160010
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MODEL MEDIA ASIA
-http://nocable.cc:8080/b2U9nd/520098/160011
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MOFOS
-http://nocable.cc:8080/b2U9nd/520098/160012
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MOM TEACH SEX
-http://nocable.cc:8080/b2U9nd/520098/160013
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MOM XXX
-http://nocable.cc:8080/b2U9nd/520098/160014
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MOMMY BLOWS BEST
-http://nocable.cc:8080/b2U9nd/520098/160015
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MUST NOT FAP
-http://nocable.cc:8080/b2U9nd/520098/160016
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MY DIRTY HOBBY
-http://nocable.cc:8080/b2U9nd/520098/160017
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MY FAMILY PIES
-http://nocable.cc:8080/b2U9nd/520098/160018
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MY LIFE IN MIAMI
-http://nocable.cc:8080/b2U9nd/520098/160019
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MY PERVY FAMILY
-http://nocable.cc:8080/b2U9nd/520098/160020
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MY TINY WISH
-http://nocable.cc:8080/b2U9nd/520098/160021
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,MYLF
-http://nocable.cc:8080/b2U9nd/520098/160022
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,NEW SENSATIONS
-http://nocable.cc:8080/b2U9nd/520098/160023
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,NF BUSTY
-http://nocable.cc:8080/b2U9nd/520098/160024
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,NUBILE FILMS
-http://nocable.cc:8080/b2U9nd/520098/160025
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,NURU MASSAGE
-http://nocable.cc:8080/b2U9nd/520098/160026
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PASSION
-http://nocable.cc:8080/b2U9nd/520098/160027
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PERV CITY
-http://nocable.cc:8080/b2U9nd/520098/160028
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PERV MOM
-http://nocable.cc:8080/b2U9nd/520098/160029
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PORN WORLD HARDCORE
-http://nocable.cc:8080/b2U9nd/520098/160030
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PORNHOCHIC
-http://nocable.cc:8080/b2U9nd/520098/160031
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,POVD
-http://nocable.cc:8080/b2U9nd/520098/160032
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PRENCESS CUM
-http://nocable.cc:8080/b2U9nd/520098/160033
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PRIVATE
-http://nocable.cc:8080/b2U9nd/520098/160034
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PROPERTY SEX
-http://nocable.cc:8080/b2U9nd/520098/160035
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PUBLIC AGENT
-http://nocable.cc:8080/b2U9nd/520098/160036
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,PURE MATURE
-http://nocable.cc:8080/b2U9nd/520098/160037
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,REAL DIRTY VIDEOS
-http://nocable.cc:8080/b2U9nd/520098/160038
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,REALITY JUNKIES
-http://nocable.cc:8080/b2U9nd/520098/160040
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,REALITY KINGS
-http://nocable.cc:8080/b2U9nd/520098/160041
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,SLIM 4K
-http://nocable.cc:8080/b2U9nd/520098/160042
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STROKIES
-http://nocable.cc:8080/b2U9nd/520098/160043
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,SUGAR BABES TV
-http://nocable.cc:8080/b2U9nd/520098/160044
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,SWEET SINNER
-http://nocable.cc:8080/b2U9nd/520098/160045
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,THROATED
-http://nocable.cc:8080/b2U9nd/520098/160046
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,TRUE AMATUERS
-http://nocable.cc:8080/b2U9nd/520098/160047
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,X CHIMERA
-http://nocable.cc:8080/b2U9nd/520098/160048
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: ABELLA DANGER
-http://nocable.cc:8080/b2U9nd/520098/160049
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: ADRIANA CHECHIK
-http://nocable.cc:8080/b2U9nd/520098/160050
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: ALINA LOPEZ
-http://nocable.cc:8080/b2U9nd/520098/160051
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: ANGELA WHITE
-http://nocable.cc:8080/b2U9nd/520098/160052
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: ARIANA MARIE
-http://nocable.cc:8080/b2U9nd/520098/160053
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: AUGUST AMES
-http://nocable.cc:8080/b2U9nd/520098/160054
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: AUTUMN FALLS
-http://nocable.cc:8080/b2U9nd/520098/160055
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: BRANDI LOVE
-http://nocable.cc:8080/b2U9nd/520098/160056
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: DANI DANIELS
-http://nocable.cc:8080/b2U9nd/520098/160057
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: DANI JENSEN
-http://nocable.cc:8080/b2U9nd/520098/160058
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: ELSA JEAN
-http://nocable.cc:8080/b2U9nd/520098/160059
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: EMILY WILLIS
-http://nocable.cc:8080/b2U9nd/520098/160060
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: EVA LOVIA
-http://nocable.cc:8080/b2U9nd/520098/160061
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: GINA VALENTINA
-http://nocable.cc:8080/b2U9nd/520098/160062
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: JANICE GRIFFITH
-http://nocable.cc:8080/b2U9nd/520098/160063
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: JESSA RHODES
-http://nocable.cc:8080/b2U9nd/520098/160064
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: LANA RHOADES
-http://nocable.cc:8080/b2U9nd/520098/160065
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: LENA PAUL
-http://nocable.cc:8080/b2U9nd/520098/160066
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: LISA ANN
-http://nocable.cc:8080/b2U9nd/520098/160067
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: MADISON IVY
-http://nocable.cc:8080/b2U9nd/520098/160068
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: MIA MALKOVA
-http://nocable.cc:8080/b2U9nd/520098/160069
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: NICOLE ANISTON
-http://nocable.cc:8080/b2U9nd/520098/160070
-#EXTINF:-1 group-title="XxXBOTYTV" tvg-logo="https://i.ibb.co/TDvgjrX5/botyTv.png" ,STARS EXCLUSIVE: RILEY REID
-http://nocable.cc:8080/b2U9nd/520098/160071
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg" tvg-name="28 días después (2002)" ,28 días después (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137322.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JIv83pr3Y6K4VqxWO33wZP70Ox.jpg" tvg-name="Agente juvenil (1991)" ,Agente juvenil (1991)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137323.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reCA39ozy3wtQ2br2Q8Dm3AhYdC.jpg" tvg-name="American Fiction (2023)" ,American Fiction (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137324.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXT7jcza5CPEL9Fo4VSgW5hV7gb.jpg" tvg-name="Cualquiera menos tú (2023)" ,Cualquiera menos tú (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137325.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ll6kX0xR6oG0i9PRuzTdZsiIRDl.jpg" tvg-name="Arena (Combate mortal) (2011)" ,Arena (Combate mortal) (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137326.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mveVEzloFDCWZFDNiriYymSzGpp.jpg" tvg-name="Mascara Negra (1996)" ,Mascara Negra (1996)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137327.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSIHQJWX6AfPkS84js1j0A2GoAp.jpg" tvg-name="Blast (1997)" ,Blast (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137328.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg" tvg-name="Los ángeles de Charlie (2000)" ,Los ángeles de Charlie (2000)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137329.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vISsOjLk8HGQAK1HgajNSBGQWy.jpg" tvg-name="Los ángeles de Charlie (2019)" ,Los ángeles de Charlie (2019)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137330.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM7N86wO8aK0kCJRTshC6JWem8l.jpg" tvg-name="Los ángeles de Charlie: Al límite (2003)" ,Los ángeles de Charlie: Al límite (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137331.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6addlfLBde8z7sWPbuS2POSGlCz.jpg" tvg-name="Historia de un crimen (1993)" ,Historia de un crimen (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137332.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ky3OepQzmrbwBU8ikWVU134cwEK.jpg" tvg-name="Dead Silence (1997)" ,Dead Silence (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137333.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kG4BXlUzKpDJAwVu2mkuQ105Qg3.jpg" tvg-name="Dos supersuperesbirros (1983)" ,Dos supersuperesbirros (1983)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137335.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1AmIRNyUQzrjOXgnT1XLPHYoWQ.jpg" tvg-name="El Americano (2016)" ,El Americano (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137336.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thBHkIs4xLlNM3EEIM62vMvuSMj.jpg" tvg-name="El día que la Tierra explotó: Una película de Looney Tunes (2024)" ,El día que la Tierra explotó: Una película de Looney Tunes (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137337.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUCkSoWsL9L77HdLFLCTiEyJlO7.jpg" tvg-name="El Halcón: Sed de Venganza (2023)" ,El Halcón: Sed de Venganza (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137338.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nitJxV5GfaOB44VVOpVx2fOxnuT.jpg" tvg-name="El Padrino II (1974)" ,El Padrino II (1974)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137339.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2uITSC1zZSdWrXryXO4qLOkJce.jpg" tvg-name="El Padrino III (1990)" ,El Padrino III (1990)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137340.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUeZeWzbw37sOIpDsuK8qq8Unor.jpg" tvg-name="El Padrino (1972)" ,El Padrino (1972)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137341.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlo2rGpjjHh3X8XImBdeUayKJ6g.jpg" tvg-name="Encerrado (2025)" ,Encerrado (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137342.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gmk6jpOOe9LCSMVoR68jQM1of6.jpg" tvg-name="Fantasmas del pasado (1996)" ,Fantasmas del pasado (1996)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137343.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2xBe6iKpgGxikSWir8BJOzZK9M.jpg" tvg-name="Felipe Avello: Bien vestido, bien recibido (2023)" ,Felipe Avello: Bien vestido, bien recibido (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137344.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a34SCCO9Mv6YHcciAh8WWw3HxC3.jpg" tvg-name="Foolproof (2003)" ,Foolproof (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137345.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z17yqLUxfyNUGE75uJxFPTCOmvV.jpg" tvg-name="Freaky Tales (2025)" ,Freaky Tales (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137346.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYnpsS5EegEZkLRDPLfMNHpS9L8.jpg" tvg-name="Fugitivos del desierto (1958)" ,Fugitivos del desierto (1958)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137347.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBbyzxIXWvN971geQh7peJ1kjC.jpg" tvg-name="Get a Job (2016)" ,Get a Job (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137348.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLOgFCIRwYfIkdwhQPZfrxvAzfZ.jpg" tvg-name="Camino sin retorno (1997)" ,Camino sin retorno (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137349.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbM7cWkaHpUGiLkjd2ZaJiHLLCr.jpg" tvg-name="Hurry Up Tomorrow: Más allá de los reflectores (2025)" ,Hurry Up Tomorrow: Más allá de los reflectores (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137350.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXSjj8KlgYEigTjcqxgpNWaNDfA.jpg" tvg-name="Idiocracia (2006)" ,Idiocracia (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137351.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52jqJ8JnBIkTchvg6Ho0qRQX9b8.jpg" tvg-name="Intruso (2023)" ,Intruso (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137352.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg" tvg-name="Invicto: Contraataque (2002)" ,Invicto: Contraataque (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137353.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAy2yUav8QPnDzfOGihNI527NjY.jpg" tvg-name="Viaje 2: La Isla Misteriosa (2012)" ,Viaje 2: La Isla Misteriosa (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137354.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub9DfwfRe8SAM4fA3zO3RakK8IA.jpg" tvg-name="Journey to the Center of the Earth (2008)" ,Journey to the Center of the Earth (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137355.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cVWyFowwC5X04JpmuKVOy0bfIt.jpg" tvg-name="La noche es nuestra (2007)" ,La noche es nuestra (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137357.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pIxa7pfrdG6vz9AnTFATkIX9il.jpg" tvg-name="Patinando a la Gloria (2007)" ,Patinando a la Gloria (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145827.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkDi6nAQzSy5lex7kBaPPTlWx34.jpg" tvg-name="Puerta al infierno (2006)" ,Puerta al infierno (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145828.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l86p3fObjImjm5CLJFAcgVLWm9n.jpg" tvg-name="The Wicker Tree (2011)" ,The Wicker Tree (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145829.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDEH5GsnG774zTS4nhGAki2kUT5.jpg" tvg-name="La cruda verdad (2009)" ,La cruda verdad (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145833.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QeUDCOCaIKHRPxptms8ZWBFUtb.jpg" tvg-name="La vida misma (2018)" ,La vida misma (2018)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145834.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6NvaDusl8urJUlglYgPVSnJjFN.jpg" tvg-name="Área 51 (2011)" ,Área 51 (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145836.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaX7L7h77gQw9T6CajsxD9jB9S6.jpg" tvg-name="Mentes peligrosas (1995)" ,Mentes peligrosas (1995)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145843.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zKG8FBn5AzGHgKLUMCyDLTUgDv.jpg" tvg-name="Una Noche en el Fin del Mundo (2013)" ,Una Noche en el Fin del Mundo (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/146761.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14OEpu5hfcHDqGUdYylVNL8RRvV.jpg" tvg-name="King of California (2007)" ,King of California (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/146762.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHvXqjmgKQWUGvPmD2HjE6KrVoB.jpg" tvg-name="House Broken (2009)" ,House Broken (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/146763.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74mnlHxAYSuXNz7kP84d7qijkxm.jpg" tvg-name="Southland Tales (2007)" ,Southland Tales (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/146999.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMumv55oa7E67pe0AaSHidU84rk.jpg" tvg-name="The Young and Prodigious T.S. Spivet (2013)" ,The Young and Prodigious T.S. Spivet (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147119.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7wZtWuhXS1iYQ1gPWR7WvfFYIk.jpg" tvg-name="Kaw: Venganza animal (2007)" ,Kaw: Venganza animal (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147120.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyV1SZ5tnO3FRUaVHPzD8py6NGW.jpg" tvg-name="Las vidas posibles de Mr. Nobody (2009)" ,Las vidas posibles de Mr. Nobody (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147121.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3kj9rUQ3R8CyFdpZ1Zx09PYiYo.jpg" tvg-name="El chico del periódico (2012)" ,El chico del periódico (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147122.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDbCnYtGf850s9EfU3LOh1gejm4.jpg" tvg-name="Confianza en la cosecha (2006)" ,Confianza en la cosecha (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147123.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2JvLDMMAOSt8mxlIDao3wJsPxo.jpg" tvg-name="Bending The Rules (2012)" ,Bending The Rules (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147250.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alizmPaRHq7sGHW5eoshoYzWjf9.jpg" tvg-name="Cara a cara (1997)" ,Cara a cara (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147251.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgeAE9a5Vucq9ZLAhWHK9WEez3e.jpg" tvg-name="Carta blanca (2011)" ,Carta blanca (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147252.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vvCDotKpAOpA8UpXmZYSoh8Omd.jpg" tvg-name="Passion Play (2011)" ,Passion Play (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147253.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gD60YicJodbPu5xBlTfEjXiTJyT.jpg" tvg-name="Revólver (2005)" ,Revólver (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147254.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlFu0PmXkSjEvGNLQNPFQnM95ve.jpg" tvg-name="Compañeros de copa (2013)" ,Compañeros de copa (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147255.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2JhNsRt06r8uuzYszgYGdLev5J.jpg" tvg-name="El Increíble Burt Wonderstone (2013)" ,El Increíble Burt Wonderstone (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147256.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKNCcG6FwevLyT8sQMP6BNrG6Wc.jpg" tvg-name="La otra hija (2009)" ,La otra hija (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147257.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YqNKABGsqNhhARu1frnUVArOiE.jpg" tvg-name="Mi buena estrella (2012)" ,Mi buena estrella (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147258.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0Jtty2DfbyXZI3zMiDRrpXZNbk.jpg" tvg-name="Mother's Day (2010)" ,Mother's Day (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147259.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEN03TNicYBT8HdJW23e02AWsjZ.jpg" tvg-name="Nadie vive (2013)" ,Nadie vive (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147260.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AhxPyIoj2BPFuRjwJBJEiHgHFo.jpg" tvg-name="¿Y dónde están los Morgan? (2009)" ,¿Y dónde están los Morgan? (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147261.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dz51Grb68ScPpP4z9gKe6CJleXj.jpg" tvg-name="Planeta rojo (2000)" ,Planeta rojo (2000)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147271.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RdPG4TapBdlln9MmYZ7zNCSzjU.jpg" tvg-name="The Making of Daybreakers (2010)" ,The Making of Daybreakers (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147272.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7eCmdLxYnMCEa9Au2N78CRSbkC.jpg" tvg-name="Juez Dredd (1995)" ,Juez Dredd (1995)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147273.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8AHFQtN6qRp4H12QVSvkB0ZTen.jpg" tvg-name="44 Inch Chest (2009)" ,44 Inch Chest (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147305.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7kDLVqhCNcfhESA385WSHwQ0EE.jpg" tvg-name="Darkroom (2013)" ,Darkroom (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147306.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Pop3MwNMzmUWFyKpXeGx22fBqj.jpg" tvg-name="La masacre de Toolbox (2004)" ,La masacre de Toolbox (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147307.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7mwNviXFmsl0ALlKNaNXjRqAOW.jpg" tvg-name="La sombra de la sospecha (2006)" ,La sombra de la sospecha (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147308.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGyeGL033oG4eVaf0CiXNqdUTbH.jpg" tvg-name="El Origen de los Zombies (2012)" ,El Origen de los Zombies (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147309.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWBSH7fvgp8sW3Ujbv3ICSOYTU2.jpg" tvg-name="Secretos de Familia (2005)" ,Secretos de Familia (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147310.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vTY1HxK0gqNBzru8Hsuj7foAiC.jpg" tvg-name="Un buen partido (2012)" ,Un buen partido (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/147311.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7mJJnqQhwFJJGXk7guEawNn8nui.jpg" tvg-name="Espías como nosotros (1985)" ,Espías como nosotros (1985)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148203.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlqTPzlw1tWLly1CBGEAY0OYRFw.jpg" tvg-name="La extraña pareja, otra vez (1998)" ,La extraña pareja, otra vez (1998)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148204.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rs0vEnoR7twIWh4ZYn2zgNtLWIH.jpg" tvg-name="Por rumbas y a lo loco (1997)" ,Por rumbas y a lo loco (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148205.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm09OxuUXQxmoraFEuDsmZVCms1.jpg" tvg-name="Sufridos ciudadanos (1983)" ,Sufridos ciudadanos (1983)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148206.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0tLXS7Hor6jIJvdEPtVjKYRhve.jpg" tvg-name="El hombre del tiempo (2005)" ,El hombre del tiempo (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148207.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74eFHq2ohIUyqDsDbgdnyWEbpjH.jpg" tvg-name="EDtv (1999)" ,EDtv (1999)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148208.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHWDwVlsk2y2FBEG0tyYtdMG5Zz.jpg" tvg-name="Air America (1990)" ,Air America (1990)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148209.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IAXTdZ1F1TltjVEcAMwlD35RPM.jpg" tvg-name="El secreto de los McCann (2003)" ,El secreto de los McCann (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148210.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZSdRdCCkwS77iHz6Sv38fgEnPP.jpg" tvg-name="Cuestión de pelotas (2004)" ,Cuestión de pelotas (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148296.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uqqpeecN2STBzjtwNYENMq7Ab5.jpg" tvg-name="Hecho En América (1993)" ,Hecho En América (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148297.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyvkjImdzdERJnRPwx5Tj39c8a0.jpg" tvg-name="Modigliani (2004)" ,Modigliani (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148298.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMBAcw9Z2Z32qKa5T2zMam1hvGY.jpg" tvg-name="El Sustituto (2015)" ,El Sustituto (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148303.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlY7rRCPpVAjWXHu75PkSIhITdD.jpg" tvg-name="La invención de Cronos (1993)" ,La invención de Cronos (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148304.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg" tvg-name="La isla del Dr. Moreau (1996)" ,La isla del Dr. Moreau (1996)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148305.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blESViAZ6EX7UqyX47ZbUUlWr3V.jpg" tvg-name="Wyatt Earp: La primera aventura (2012)" ,Wyatt Earp: La primera aventura (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148306.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2Jle2c7wTq2yyArV7CdNZk5HDZ.jpg" tvg-name="Drácula 2: Resurrección (2003)" ,Drácula 2: Resurrección (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148307.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTlRIl28vI3Qbv05kgpTCFqC1kA.jpg" tvg-name="Un intruso en Harvard (1994)" ,Un intruso en Harvard (1994)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148310.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8GaIWjLSOQfdrtE8vzuAsng1vs.jpg" tvg-name="Creadores de sombras (1989)" ,Creadores de sombras (1989)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148424.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGp9ghdIcw74K2VJ1Godcsb9MQo.jpg" tvg-name="Inspector Sun y la maldición de la viuda negra (2022)" ,Inspector Sun y la maldición de la viuda negra (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148425.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81s2hTFD4q9BOmaa6FPnx8p2ac0.jpg" tvg-name="La música del silencio (2017)" ,La música del silencio (2017)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148426.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTwAqQBfKUUET77Wyr5NV5lFrMJ.jpg" tvg-name="La solución final (2001)" ,La solución final (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148427.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDUArj1CbTgtnUIzUqBrYup6mhr.jpg" tvg-name="Siempre a tu lado (2001)" ,Siempre a tu lado (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148428.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysyXA46FXVI38f11mNBoc5ZbYRj.jpg" tvg-name="Una Verdad Inquietante (2018)" ,Una Verdad Inquietante (2018)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148435.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7CNkytZsZzQ8ZEr8F4SmrhjI5y.jpg" tvg-name="A tres golpes de la fama (2004)" ,A tres golpes de la fama (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148436.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itnKK37B1czYCkyCrt0yZwA5TYh.jpg" tvg-name="Camino hacia la victoria (2005)" ,Camino hacia la victoria (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148437.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTEWsmiTapFQStdi6vSFu81V7d7.jpg" tvg-name="Dewey Cox: Una vida larga y dura (2007)" ,Dewey Cox: Una vida larga y dura (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148438.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukw6GRab0yuvIwD0TMkCUXmLQgB.jpg" tvg-name="Dos tontos muy tontos: cuando Harry encontró a Lloyd (2003)" ,Dos tontos muy tontos: cuando Harry encontró a Lloyd (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148439.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2Ek82HE7GoffRRy63c3T5ffEex.jpg" tvg-name="El Idolo (1992)" ,El Idolo (1992)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148440.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS6LJ9Mc9dDQg1UP6BcrsgCvIp6.jpg" tvg-name="Harriet, en busca de la libertad (2019)" ,Harriet, en busca de la libertad (2019)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148441.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdP0gc5ehx7iM9j4lzbA0aNQCtS.jpg" tvg-name="Todas somos Jane (2022)" ,Todas somos Jane (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148442.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IBSlJi8Rz7vbluE9XgH4WnJAwE.jpg" tvg-name="Jackass 2 (2006)" ,Jackass 2 (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148452.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOg0axtt1u1HlMuKPkpYJGCtbo8.jpg" tvg-name="La guerra de Charlie Wilson (2007)" ,La guerra de Charlie Wilson (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148453.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obtraX6Pk0XZpjoQMnkzMFhm2me.jpg" tvg-name="El Eco (2008)" ,El Eco (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148789.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iPqWGf8l9oZ9LGYgQsVZypjmHu.jpg" tvg-name="El Doctor Erótico (1983)" ,El Doctor Erótico (1983)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148944.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24zHdUTv3dHOB9VLsPPvx0WGntA.jpg" tvg-name="Los espíritus de la isla (2022)" ,Los espíritus de la isla (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148945.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpqzcMNU3idAlTR9r9DIPaw0bgc.jpg" tvg-name="Hambre de poder (2016)" ,Hambre de poder (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148946.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKxsywzmSeTOCK8unPaSJJEL47n.jpg" tvg-name="My Boyfriend's Back (1993)" ,My Boyfriend's Back (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148947.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FzZPTG3FdeJQOvWkQDaX75duMi.jpg" tvg-name="Crimen en primer grado (2002)" ,Crimen en primer grado (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148964.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU3tnndAme22T5kUplCG8la0dul.jpg" tvg-name="El último rey de Escocia (2006)" ,El último rey de Escocia (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148965.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycPH8DZp6qZ5TJuf95pDGoYDFWo.jpg" tvg-name="Paperback Hero (1999)" ,Paperback Hero (1999)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148969.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haA3YW6ZUosamvBSy570SToi7iz.jpg" tvg-name="Perdidos en Nueva York (1999)" ,Perdidos en Nueva York (1999)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148970.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2gEURN3dQ2JmUjoFRD7m6Ox1rV.jpg" tvg-name="El poder de pocas (2013)" ,El poder de pocas (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149118.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciNVPPg1fi2ua3god576gIxltTj.jpg" tvg-name="Encuentro con el mal (2012)" ,Encuentro con el mal (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149119.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDlPWlc4ei1kG6zAwDlg1KxDdGi.jpg" tvg-name="Behind the Wall (2008)" ,Behind the Wall (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149122.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXM9ko0JvieMPVITaxEY6jo48Pa.jpg" tvg-name="La Pajareada (2011)" ,La Pajareada (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149123.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FPSBKv5gqcpqfzxNLyDsvRvdOJ.jpg" tvg-name="Sin piedad (1999)" ,Sin piedad (1999)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149124.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ta6694HxrPCHrOQgDox6DtoRxX.jpg" tvg-name="Tan perversa como el diablo (2001)" ,Tan perversa como el diablo (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149125.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8DApsyYuY4hyjnteKcJzWm3rCZ.jpg" tvg-name="Van Wilder 3: El Año del Estudiante (2009)" ,Van Wilder 3: El Año del Estudiante (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149126.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RiE4GRCOgSS9OgDi4nUuEvgGyK.jpg" tvg-name="El Tiempo Que Tenemos (2024)" ,El Tiempo Que Tenemos (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149469.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbflBM5FzVldtsDIiezwgcACjwy.jpg" tvg-name="Los Beverly Ricos (1993)" ,Los Beverly Ricos (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149722.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zi37vgWUmbZBFtCMHlLZWGTVAG9.jpg" tvg-name="El expreso del miedo (2013)" ,El expreso del miedo (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149809.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76yQcIZR6NG191Ab38JqKR4JWQL.jpg" tvg-name="Huracán: Categoría 5 (2018)" ,Huracán: Categoría 5 (2018)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149810.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdvw34l1lInfOPh5dOURt41BPmF.jpg" tvg-name="Virgen a los 40 (2005)" ,Virgen a los 40 (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149811.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMjFHzyhamOKdqMhrT4cJ5Hp0cb.jpg" tvg-name="Bad Genius (2017)" ,Bad Genius (2017)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151003.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM1BTeTRoR6ZFzLrF8B648gPVD9.jpg" tvg-name="Car Dogs (2016)" ,Car Dogs (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151004.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e57pNjhWbRos9BTvgeUYUzB8VfO.jpg" tvg-name="Paul (2011)" ,Paul (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151010.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg" tvg-name="Así en la Tierra como en el Infierno (2014)" ,Así en la Tierra como en el Infierno (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151297.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2peQAb3peQdAcaB6gAjpO7mazcG.jpg" tvg-name="La Hija de Mi Jefe (2003)" ,La Hija de Mi Jefe (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151402.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPG8VB1M39tI80z3w8wZveSaMSA.jpg" tvg-name="La sonrisa de Mona Lisa (2003)" ,La sonrisa de Mona Lisa (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151403.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9YQr5NfAgklYUY1niHZp9CKl7i.jpg" tvg-name="Lincoln (2012)" ,Lincoln (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151405.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kLHMO2f2eSNDhrhbuK7S47UXbb.jpg" tvg-name="Life of a King (2013)" ,Life of a King (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151408.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adhG4c0BGd08NGyYMHO3o8UjCtV.jpg" tvg-name="La muerte de un unicornio (2025)" ,La muerte de un unicornio (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137236.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5A4qRZDdD7wYJp8A4Zf1pTmjYms.jpg" tvg-name="Lee Soo Man: The King of K-Pop (2025)" ,Lee Soo Man: The King of K-Pop (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137237.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVLSOnGfNXj7VVGBgOz5cNa0lDz.jpg" tvg-name="Dora en busca del Sol Dorado (2025)" ,Dora en busca del Sol Dorado (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137334.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFpBUlAlHwbm2CwGJQeRbJ8N6Je.jpg" tvg-name="Locos de amor, mi primer amor (2025)" ,Locos de amor, mi primer amor (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145835.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Wb1sOZvFulzzJE5JDWCnFSCvJ5.jpg" tvg-name="Riesgo bajo cero: Venganza (2025)" ,Riesgo bajo cero: Venganza (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/146764.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phJgLFEPACo3cyEqC3c5BoBEjrE.jpg" tvg-name="Los Tortuga (2025)" ,Los Tortuga (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148300.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pp2ho64ah9W9jCCIHavXUCuqISr.jpg" tvg-name="Together: Juntos hasta la muerte (2025)" ,Together: Juntos hasta la muerte (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/148456.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIyIiJCss0HpychoUKFQYKiZiBH.jpg" tvg-name="Blindado (2025)" ,Blindado (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/151009.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDtIMbLXSIyQoYx8OQdjpzpQCF3.jpg" tvg-name="Breathe In (2013)" ,Breathe In (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152093.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poutdsUsZkeKfB7C6XxuoUb88ol.jpg" tvg-name="Fuerzas especiales (2011)" ,Fuerzas especiales (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152094.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygHet5JjO4rEp75GpjfdlrGOeag.jpg" tvg-name="Pago justo (2010)" ,Pago justo (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152095.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BcMnohsTt48YfoU2B86MROi36w.jpg" tvg-name="Son of a Gun (2014)" ,Son of a Gun (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152096.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uUaQ5zn9neK1VLqO2sGClbJrb9.jpg" tvg-name="El último gran día (2010)" ,El último gran día (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152104.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niPhe84qeGapLbqt9x3XZSKEaOq.jpg" tvg-name="La ciudad de tu destino final (2009)" ,La ciudad de tu destino final (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152105.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onTRR76lvifz8mLmhzDgns932Ws.jpg" tvg-name="La huella (2007)" ,La huella (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152106.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYU7uvHvaJSKLQn46RFV1d2F0HB.jpg" tvg-name="La sentencia (2003)" ,La sentencia (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152107.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVa0CpOy33np4BD3seuE6HtLDEx.jpg" tvg-name="Experta en Bodas (2001)" ,Experta en Bodas (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152108.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5wE05STbRVDqoBUmqFOPK1QcJx.jpg" tvg-name="Sanatorium (2013)" ,Sanatorium (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152109.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3o6YJvg46YofK1r62UoaB6i7Dk.jpg" tvg-name="Sin Ley (Lawless) (2012)" ,Sin Ley (Lawless) (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152110.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w71BH21CNLOzZiAXMrom5ZZNzfi.jpg" tvg-name="Un asunto real (2012)" ,Un asunto real (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152111.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg" tvg-name="Los miserables (2012)" ,Los miserables (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152121.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jpHARENcsRaGvGC2OrzWTlO0uY.jpg" tvg-name="Locura en el paraíso (2012)" ,Locura en el paraíso (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152122.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGPDYWbFBIRcWp9eRzx5RFmXTc9.jpg" tvg-name="La Casa Rusia (1990)" ,La Casa Rusia (1990)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152923.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdhUHVEwpfsutJ7gJPqsOTOf2i2.jpg" tvg-name="Mantenimiento requerido (2025)" ,Mantenimiento requerido (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152928.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1x6IEK3GwKzMfmYi1sgF4sh7yPU.jpg" tvg-name="Culpa nuestra (2025)" ,Culpa nuestra (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152930.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg" tvg-name="V/H/S/Halloween (2025)" ,V/H/S/Halloween (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/152983.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meW6r54Ml00Cr8BPVPkKbIDI4ad.jpg" tvg-name="No Hay Héroe Pequeño (2006)" ,No Hay Héroe Pequeño (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/153986.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tIE8BcUfousuV3pxyRxuRCptDM.jpg" tvg-name="La evaluación (2025)" ,La evaluación (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154171.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljeWnqoxhW0CR2QEoIrWDRghSUk.jpg" tvg-name="Eden (2025)" ,Eden (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154329.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYFqEwKglMtIEta4u1PJNl5rZUX.jpg" tvg-name="Your Host (2025)" ,Your Host (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154488.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDiJC8UG97rBR8qCLnzrqGej3Tl.jpg" tvg-name="Partes Privadas (1997)" ,Partes Privadas (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/154489.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CSdwqOUMH23cEBodqAJynMFz7c.jpg" tvg-name="Jefes de Estado (2025)" ,Jefes de Estado (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132148.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hmZfIhKl84b4z40Vl9F06p4eWd.jpg" tvg-name="Infiltrada en el búnker (2025)" ,Infiltrada en el búnker (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132357.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg" tvg-name="El secreto de Adaline (2015)" ,El secreto de Adaline (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/132575.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVE18oyPTFX3h7ufL6N4w2D4vL8.jpg" tvg-name="Buenos vecinos 2 (2016)" ,Buenos vecinos 2 (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149848.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4XNSun7PHrbNNlTGbb4iGGtW6s.jpg" tvg-name="Buenos vecinos (2014)" ,Buenos vecinos (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149847.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iifD7y743xDX5cCRaNIsv3cUFZp.jpg" tvg-name="Ammonite (2020)" ,Ammonite (2020)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149951.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCvA4Cw7lsYGR5fatVcoPEIYolU.jpg" tvg-name="Unidad de élite (2012)" ,Unidad de élite (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149952.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAOMsErfXkFUS81vdhOcOlAEo8X.jpg" tvg-name="Entre el loco y el monstruo (2024)" ,Entre el loco y el monstruo (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/149955.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rttPiOhkk3mnVuU4a8jeeZvC8Zh.jpg" tvg-name="TRON: The Next Day (2011)" ,TRON: The Next Day (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150805.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLUrpKQIv6myYmSsjgd9CCOogHz.jpg" tvg-name="Caos (2005)" ,Caos (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150878.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmz9ySdCqW9FiHpM9JdSCkjQzFA.jpg" tvg-name="El Archivo (2020)" ,El Archivo (2020)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150886.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRSEs2Wkb8b0BpoKfu488vi0t9B.jpg" tvg-name="Micmacs à tire-larigot (2009)" ,Micmacs à tire-larigot (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150887.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65aDPoEpgFvnAK1bgZysjxgSgyG.jpg" tvg-name="Nada Que Temer (2013)" ,Nada Que Temer (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150888.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXreaFYNKyI7JAAHzOKGOO94lO.jpg" tvg-name="Parking 2 (2007)" ,Parking 2 (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150889.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1EYkjGcBOK2X0wDudp0AlFqarS.jpg" tvg-name="El dilema (2011)" ,El dilema (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150890.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ly21ihtCecagHpcaiUNBq516Ck.jpg" tvg-name="A la caza del lobo rojo (1989)" ,A la caza del lobo rojo (1989)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150898.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kv8tLMxL3OkotgmESuTVM0ihb5.jpg" tvg-name="El asesino de Craigslist (2011)" ,El asesino de Craigslist (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150899.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVuAEloskv8GDNJwNRUtCV7aHDk.jpg" tvg-name="The Crazies (2010)" ,The Crazies (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150900.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkhCFtWfC4R5EirCGQh5rp9mNg4.jpg" tvg-name="The Great Ghost Rescue (2011)" ,The Great Ghost Rescue (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/150901.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eZkAWx3Qk9BzxfdK97ugqlgzvU.jpg" tvg-name="La trampa del ratón (2024)" ,La trampa del ratón (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137358.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTtdBrZOaczS4ZcBJ0ZCzG65A4L.jpg" tvg-name="Lo Imposible (2012)" ,Lo Imposible (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137359.mp4
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMj2D70gb337zoCNRM4ShwRCYDm.jpg" tvg-name="Los locos del taxi (1983)" ,Los locos del taxi (1983)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137360.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KJccQNYn7FCtfnVkTt81Svg0u2.jpg" tvg-name="Perdidos en Londres (2017)" ,Perdidos en Londres (2017)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137361.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGCv1t8McPOFnHdUgDIiFv9c5GW.jpg" tvg-name="Made Men (1999)" ,Made Men (1999)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137362.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6fY8CZH2UyFlFi8r8odbJR0YEt.jpg" tvg-name="Matando Cabos (2004)" ,Matando Cabos (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137363.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxdKa1467pktAILLbfw6kZyQlbW.jpg" tvg-name="Matando Cabos 2: La Máscara del Máscara (2021)" ,Matando Cabos 2: La Máscara del Máscara (2021)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137364.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpUFowlZitohC06voHrIyDAPVZ5.jpg" tvg-name="Amores materialistas (2025)" ,Amores materialistas (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137365.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqtVDFxTe982267gUDlkebGy9Zv.jpg" tvg-name="Mujer fatal (2002)" ,Mujer fatal (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137366.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roVIAEmJRBc4UAyu3RxveJGmGxH.jpg" tvg-name="Payasos Asesinos del Espacio Exterior (1988)" ,Payasos Asesinos del Espacio Exterior (1988)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137367.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyd8yTJ8nF7uob9bq1zKDCuKOhb.jpg" tvg-name="Peter Pan: Pesadilla  en la tierra del nunca jamás (2025)" ,Peter Pan: Pesadilla  en la tierra del nunca jamás (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137368.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" tvg-name="Ricky Stanicky: El Impostor (2024)" ,Ricky Stanicky: El Impostor (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137372.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z9msb7PzlnvTow8F0bv1yTQesq.jpg" tvg-name="Saltburn (2023)" ,Saltburn (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137373.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOiWHv3kDbMl6ce4LBQJdc3xG2L.jpg" tvg-name="Señora Influencer (2023)" ,Señora Influencer (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137374.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ub7iEniSi23Ms3RcF551Sozb1MH.jpg" tvg-name="Slumdog Millionaire (2008)" ,Slumdog Millionaire (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137375.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TO5pxxPfp6jy2Ap8GWukV48MR8.jpg" tvg-name="蛇形刁手鬥螳螂 (1978)" ,蛇形刁手鬥螳螂 (1978)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137376.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKfNw4vqbI62HAMI04imwAPjC05.jpg" tvg-name="Sound of Freedom (2023)" ,Sound of Freedom (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137377.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urmwWHh76hacY7yQA5lkX0By6oN.jpg" tvg-name="South Park: Bienvenidos al Complaciverso (2023)" ,South Park: Bienvenidos al Complaciverso (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137378.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shtw8xUzQW3re090TdIaViHUndp.jpg" tvg-name="Suspiria: El maligno (2018)" ,Suspiria: El maligno (2018)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137379.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBlzr3Vg2qZvCNIxefOwZDjSkLz.jpg" tvg-name="Tank (1984)" ,Tank (1984)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137380.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bE9UlJZj3l0Qfp6IBxOvgaHmXmo.jpg" tvg-name="Tank Girl (1995)" ,Tank Girl (1995)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137381.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s16By5DjE1QJDPDfmTnbGozak0H.jpg" tvg-name="Tengo ganas de ti (2012)" ,Tengo ganas de ti (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137382.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tiub1UB4KF9zpacEldfbWAXDi6.jpg" tvg-name="The equalizer (El protector) (2014)" ,The equalizer (El protector) (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137383.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzOMMHrMqvRSLlmsXIlbTJT8vFj.jpg" tvg-name="The Equalizer 2 (2018)" ,The Equalizer 2 (2018)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137384.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg" tvg-name="The Equalizer 3 (2023)" ,The Equalizer 3 (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137385.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpATW9o83IwYqPkiT7WLqL2jxlF.jpg" tvg-name="The Last Rodeo (2025)" ,The Last Rodeo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137386.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyz9qcZdIrUqVrwly3KB5oPUKZO.jpg" tvg-name="La Leyenda de Ochi (2025)" ,La Leyenda de Ochi (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137387.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRiQMT9STU4L5Mydej9KE2JJc2i.jpg" tvg-name="The Real McCoy (1993)" ,The Real McCoy (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137388.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hykONDejqyakDsJuEgWeZwdOAOI.jpg" tvg-name="Sin Previo Aviso (2025)" ,Sin Previo Aviso (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137389.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZA8y4A5O4qbLGkfj94VCm6S3tw.jpg" tvg-name="Un policía y medio (1993)" ,Un policía y medio (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137390.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg" tvg-name="V/H/S/99 (2022)" ,V/H/S/99 (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137391.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXaf6VGNHIGU7qivapGOF7o4o4N.jpg" tvg-name="V/H/S/Beyond (2024)" ,V/H/S/Beyond (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137392.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkVpNJugieKeTu7Se8uQRqRag2M.jpg" tvg-name="Tiempo de guerra (2025)" ,Tiempo de guerra (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137393.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzPvgrmNWi2iMhjGHAhRElHnPsw.jpg" tvg-name="Vencedores y vencidos (1983)" ,Vencedores y vencidos (1983)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137394.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTQIU3kJBPI5BG5WGVnUuU5yAnB.jpg" tvg-name="¡Hasta la Madre de la Navidad! (2024)" ,¡Hasta la Madre de la Navidad! (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137395.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjgSlNGECNgVeMJaOdDAXmGh7ZM.jpg" tvg-name="La guerra de los mundos (2025)" ,La guerra de los mundos (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137440.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQO3rAI99al99VaaD0o4s9oYs18.jpg" tvg-name="Noches de tormenta (2008)" ,Noches de tormenta (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137441.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K9yBlqqUkEnZeA0jyfu6QAQdnQ.jpg" tvg-name="2 Ladrones Y Medio (2006)" ,2 Ladrones Y Medio (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137754.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYxBSKEpjfFzvZWkNabgBkMCC5i.jpg" tvg-name="Fantasmas de Marte (2001)" ,Fantasmas de Marte (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137755.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjO1uOtR91o0LaCKXJHaiThIao.jpg" tvg-name="Renegados (1989)" ,Renegados (1989)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137756.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWT8exDZ3kq4b7gSyN84sIVt3bY.jpg" tvg-name="El maestro de los dragones (Lord Dragón) (1982)" ,El maestro de los dragones (Lord Dragón) (1982)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137920.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aUtnEjdcnkskic6BKVZybRBajFV.jpg" tvg-name="Hollywood: Departamento De Homicidios (2003)" ,Hollywood: Departamento De Homicidios (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137921.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SSauP7tx3rwTThb30svJFy9BFA.jpg" tvg-name="Hasta el final (1996)" ,Hasta el final (1996)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137922.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9aZyGeRnfbO4EdohOtuc0Txbvo.jpg" tvg-name="Pelotas en juego (2007)" ,Pelotas en juego (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137923.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icWoM0HYf4VqKvqFnPbQvHbDLbp.jpg" tvg-name="Sólo amigos (2005)" ,Sólo amigos (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137928.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tptisxjbdI4LInxdjrU95DYCXnT.jpg" tvg-name="Insomnia (2002)" ,Insomnia (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137929.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Cbga0wED7VWmqLywUnLWlltVz9.jpg" tvg-name="Little Monsters (1989)" ,Little Monsters (1989)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137930.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBd3kfOLGmHSGrEh40ZvWPdC5do.jpg" tvg-name="Luna sin miel (1996)" ,Luna sin miel (1996)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137931.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pieQvWsYOGxFhWo1MNajzJzh2Ip.jpg" tvg-name="40 Days and Nights (2012)" ,40 Days and Nights (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137932.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVwSRbIhARb6r8CswX0WW5YvlCU.jpg" tvg-name="Cabeza de muerte (Fungus Mortalitas) (2007)" ,Cabeza de muerte (Fungus Mortalitas) (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137953.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QtYSwv8C6RSN7FkAHe2tp8Xqm6.jpg" tvg-name="El secreto: Atrévete a soñar (2020)" ,El secreto: Atrévete a soñar (2020)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137954.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXFhU90O5ZvgsGaaqUFWFaszEls.jpg" tvg-name="Trece días (2000)" ,Trece días (2000)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137955.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTpukhbUletIECeoMtPtFZphenW.jpg" tvg-name="Espías sin fronteras (1991)" ,Espías sin fronteras (1991)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137974.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zr9FWAFnjeBugw725udOypnXXMY.jpg" tvg-name="Mejor... Imposible (1997)" ,Mejor... Imposible (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137975.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdj2KH0DQ9CQictX6hIUN79kGmF.jpg" tvg-name="La guarida (1999)" ,La guarida (1999)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137976.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qup755rk1zDeNmQrYOJg3B45ik.jpg" tvg-name="Transylmania (2009)" ,Transylmania (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138000.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HBpFXvylps4DsLaQKidTAFp8n.jpg" tvg-name="Ghost Ship (Barco fantasma) (2002)" ,Ghost Ship (Barco fantasma) (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138001.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTORUO55aACt0jPCXwyH1WdJHKC.jpg" tvg-name="Una buena mentira (2014)" ,Una buena mentira (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138024.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ninIAsvBAPs3u62bQdcL0H9eTKp.jpg" tvg-name="Vidas al Limite (1999)" ,Vidas al Limite (1999)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138032.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgflUOfwrhlC6pfWm794okPPcsN.jpg" tvg-name="Buenas Noches, Mami (2022)" ,Buenas Noches, Mami (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138033.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WiaVbWcRhVItfJc5ZNQUwJwigZ.jpg" tvg-name="Erin Brockovich, una mujer audaz (2000)" ,Erin Brockovich, una mujer audaz (2000)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138035.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rFtpX7HQoyIlXbenlovUVVObwp.jpg" tvg-name="Platoon (1986)" ,Platoon (1986)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138065.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DteuuOubo3bZPgrmvrTb5mgNxw.jpg" tvg-name="El Triángulo de la Tristeza (2022)" ,El Triángulo de la Tristeza (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138068.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okYOor2hdF7EFjxs2TxSzwGeKEQ.jpg" tvg-name="Kaiju No. 8: Misión de reconocimiento (2025)" ,Kaiju No. 8: Misión de reconocimiento (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138079.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHd3YgFQf2CvyDgeUVV2TgAxl3R.jpg" tvg-name="Azul de niño (2025)" ,Azul de niño (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138080.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnqvxOgcEYaePEFkIqRPovpsBl.jpg" tvg-name="La furia (2025)" ,La furia (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/138081.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5n6pHAmx051Qe6qKJKEOtJXWLz.jpg" tvg-name="¿Bailamos? (2004)" ,¿Bailamos? (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140261.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AQlj4fIeZoDO74xhBKsEVPUa8m.jpg" tvg-name="Un gran chico (2002)" ,Un gran chico (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140262.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muXispJMra9HHYPkWIFO711OOLE.jpg" tvg-name="Invisibles (2014)" ,Invisibles (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140265.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP5cmzflg0SrebT2QeFNYzxtw4M.jpg" tvg-name="Reflejos (2008)" ,Reflejos (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140496.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZKnILVV7VRniPrD981LOJCiAz4.jpg" tvg-name="Reflejos 2 (2010)" ,Reflejos 2 (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140497.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llwP4XOyBfQSGXANuuCJJoQmtn5.jpg" tvg-name="Bosque Sangriento (2009)" ,Bosque Sangriento (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140822.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6USWKkOjS40KY19Q0gPEelEiDhc.jpg" tvg-name="Buscadores de oro: El secreto de la montaña de los osos (1995)" ,Buscadores de oro: El secreto de la montaña de los osos (1995)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140823.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqMNyKVQII7FWpW3QSe3H6sbhex.jpg" tvg-name="El intercambio (2008)" ,El intercambio (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140824.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/254Xd4rQLEzktnlYNVqmBfZ2CSg.jpg" tvg-name="Nunca más (2002)" ,Nunca más (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140826.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hXBEKyqqGl95a91XDgiDFGPYxN.jpg" tvg-name="Sospecha mortal (1990)" ,Sospecha mortal (1990)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140828.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMUPDJpinX1dmtt3tpuRcL4vebr.jpg" tvg-name="Willard - La revolución de las Ratas (2003)" ,Willard - La revolución de las Ratas (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140829.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvuutiVW3i66VA4R9KnGJiCEytu.jpg" tvg-name="3 dias para matar (2014)" ,3 dias para matar (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140830.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MZIiRECV2tolHCajGmjD172OjN.jpg" tvg-name="Art of the Devil 2 (2005)" ,Art of the Devil 2 (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140831.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgkdYtFVnO0bRKak29qrGE4dJwm.jpg" tvg-name="Imágenes del más allá (2008)" ,Imágenes del más allá (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140835.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2by4DHPmfaTqJ9YJZJK5tPxHpuk.jpg" tvg-name="Remando Como Un Solo Hombre (2023)" ,Remando Como Un Solo Hombre (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140837.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnQb5AHAQQjS9hrfJ37dODukz8U.jpg" tvg-name="12 Angry Men (1997)" ,12 Angry Men (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140838.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trRogG9CFk6fAAd4eNbaesmXu0p.jpg" tvg-name="Love Field (1992)" ,Love Field (1992)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140839.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rFtpX7HQoyIlXbenlovUVVObwp.jpg" tvg-name="Platoon (1986)" ,Platoon (1986)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140843.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRJnI4HPz7ydtITdvtmtvPp6Yp0.jpg" tvg-name="A Warrior's Heart (2011)" ,A Warrior's Heart (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140845.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbpyI9nwzSVDjS7OnE0uC41UciP.jpg" tvg-name="El último encargo (2025)" ,El último encargo (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140846.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQV6zCW42ww8rakbvNoKjHCwLy6.jpg" tvg-name="La Enfermera (2013)" ,La Enfermera (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140847.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXs5ukMRqf5ETvs7Ghin4hKE6xn.jpg" tvg-name="La hija de la luz (2000)" ,La hija de la luz (2000)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140854.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLLaCqbTqRBdVkTweMzffzxYHvC.jpg" tvg-name="La fuerza de una promesa (2011)" ,La fuerza de una promesa (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140855.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hMBhDknvIDFtkohTcggXvIwYxg.jpg" tvg-name="Black Hole: destrucción de la Tierra (2010)" ,Black Hole: destrucción de la Tierra (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140891.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69I7QTUZN1VErFeqD9GsgW611ZI.jpg" tvg-name="Casa de Mi Padre (2012)" ,Casa de Mi Padre (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140892.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0iKp8tLOvltFDYFFh5y8rJB2Lw.jpg" tvg-name="Dragonwolf (2013)" ,Dragonwolf (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144314.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf4Q6ufm3Ds8Se0aDgbCgpZdNt5.jpg" tvg-name="Celeste and Jesse Forever (2012)" ,Celeste and Jesse Forever (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144315.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAgqsgDBkLrnWpp3xuNrShDcn8o.jpg" tvg-name="La huida (2012)" ,La huida (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144316.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTBK4Sf1fJs9XzdhgT7hNJZwNU9.jpg" tvg-name="The Iceman (El hombre de hielo) (2012)" ,The Iceman (El hombre de hielo) (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144317.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UCh4rmXPhhoJJ2kgTxUVLlIyg5.jpg" tvg-name="Un plan no tan perfecto (2012)" ,Un plan no tan perfecto (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144318.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9VizOOadBJixcbpswSqM0bb30c.jpg" tvg-name="El grito de la lechuza (2009)" ,El grito de la lechuza (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144319.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLIj0HJcGl0OCyEdGE3PjGz8tpn.jpg" tvg-name="Chicas Armadas y Peligrosas (2013)" ,Chicas Armadas y Peligrosas (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144320.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxOiZZYevx6hSfVa2UxtHW2qkab.jpg" tvg-name="El paso Dyatlov (2013)" ,El paso Dyatlov (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144321.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcfnIgb0Ti3i4bjq6IZ1nA3GJHh.jpg" tvg-name="Infectados (2009)" ,Infectados (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144322.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eH92tHb7A3jrPw0OBgwZeBWKlk1.jpg" tvg-name="La habitación del frente (2009)" ,La habitación del frente (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144323.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FTCU2QyoUGNAlBVK8woDOO7mSy.jpg" tvg-name="Mañana cuando la guerra comience (2010)" ,Mañana cuando la guerra comience (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144324.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSZNGRyUKYpUlbWrHoNHkgsByo1.jpg" tvg-name="Una niñera en apuros (2007)" ,Una niñera en apuros (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144325.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nObxgSY3TlXb4ewYpDRi6i0fmDl.jpg" tvg-name="Cracks (2009)" ,Cracks (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144326.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DAu1doEjr7PKSb9nIxjTv5X1j0.jpg" tvg-name="Flor de nieve y el abanico secreto (2011)" ,Flor de nieve y el abanico secreto (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144327.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCzDfCJiNESfsLZv0IrjtRvO8cL.jpg" tvg-name="Married Life (2008)" ,Married Life (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144328.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kduP0T4xs7mW0uhUwhOfSAEN86l.jpg" tvg-name="El amor es lo que tiene (2005)" ,El amor es lo que tiene (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144391.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcTuyqsQVbSFz8kw9FGcNhN3AJu.jpg" tvg-name="Crimen perfecto (2007)" ,Crimen perfecto (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144392.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93MDuMlhMBAKYXrEH3YN9dpjiqR.jpg" tvg-name="Un camino hacia mí (2013)" ,Un camino hacia mí (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144393.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wvMMyFshpP0gKnYQkHXTuAY8ep.jpg" tvg-name="Goats (2012)" ,Goats (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144394.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1GJBX0RPkYuA77WujLyyLAoDAn.jpg" tvg-name="In My Sleep (2010)" ,In My Sleep (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144395.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v1FZAXQdtLs9Mf3Y0sMxm7q8qd.jpg" tvg-name="La familia Jones (2010)" ,La familia Jones (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144396.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYL8Lm3hMJPfZut5OiS5B1xU0SJ.jpg" tvg-name="Michael Clayton (2007)" ,Michael Clayton (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144397.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SHwCJ2tgokHDrL6H1UYfBRRr6N.jpg" tvg-name="Lecciones de amor (2014)" ,Lecciones de amor (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144398.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5KpNrp8jPaNTkyENgQ9aPrM20V.jpg" tvg-name="Blanco humano (1993)" ,Blanco humano (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144399.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2rT32cqn6WQFaSCRPYRdAUAtcl.jpg" tvg-name="Blanco humano 2 (2016)" ,Blanco humano 2 (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144400.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lStFr3EHTNbnyOdOk2QDCqYGnlR.jpg" tvg-name="Roll Bounce: Fiesta Sobre Ruedas (2005)" ,Roll Bounce: Fiesta Sobre Ruedas (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144401.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmcoCfKMLgPYtCXrmzz1wgtSYO9.jpg" tvg-name="Eternamente enamorados (2019)" ,Eternamente enamorados (2019)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144689.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPqQ4lM1f4bkbpJ9J5Gt8QJRY5D.jpg" tvg-name="La visita del rey (2012)" ,La visita del rey (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144690.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRnUC60trqoRZuAtM8M3gOFT6ED.jpg" tvg-name="Gentlemen Broncos (2009)" ,Gentlemen Broncos (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144995.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzGlXNrecqcLnYhKRlzU7lk97vA.jpg" tvg-name="Confesiones de una compradora compulsiva (2009)" ,Confesiones de una compradora compulsiva (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144997.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXIVndJFBr3zTy7jvCUUTxqGwgk.jpg" tvg-name="El espía (2007)" ,El espía (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144998.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aNTj1TdjK0Xs9Yx1v1W4Gx8pj0.jpg" tvg-name="Mandela: El largo camino hacia la libertad (2013)" ,Mandela: El largo camino hacia la libertad (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/144999.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egzIA1QOVYiVzAlOKj7dDM5F2io.jpg" tvg-name="Odd Thomas: Cazador de fantasmas (2013)" ,Odd Thomas: Cazador de fantasmas (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145000.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tb1jZGi23w2pIittaBBdaN6CGRI.jpg" tvg-name="Perfect (1985)" ,Perfect (1985)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145001.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jELPDldI60yzDdodvRXq4LQUhEe.jpg" tvg-name="Golpe en Hawai (2004)" ,Golpe en Hawai (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145208.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nf6n8mRfUM7C9rnw7m79LWrs2oX.jpg" tvg-name="Hick (2012)" ,Hick (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145209.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYyxouNI4j0LaGDxlRzmYMAtnxb.jpg" tvg-name="Solos con nuestro tío (1989)" ,Solos con nuestro tío (1989)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145483.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2z6jtS2dVTbM73USNEewBh7kwX3.jpg" tvg-name="El Maquinista (2004)" ,El Maquinista (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145484.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qzAwS3p3Y43GTw3Bw5FH4OXZQk.jpg" tvg-name="Dan, en la vida real (2007)" ,Dan, en la vida real (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145737.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0FrAsLdcnCbvbT9Ofj31UkmcNe.jpg" tvg-name="Los chicos del coro (2004)" ,Los chicos del coro (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145738.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7g3QFYZmZYcbdubC3sWCZvVJ8y.jpg" tvg-name="Mas alla de la duda (2009)" ,Mas alla de la duda (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145739.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLQffRNSkl3HJ5x0mX6XKRSvTev.jpg" tvg-name="Casa de arena y niebla" ,Casa de arena y niebla
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145741.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ix6kUUS6UkbzzTb3gVzHk9QcNxY.jpg" tvg-name="Extrañas criaturas (1998)" ,Extrañas criaturas (1998)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/145742.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jqfEjhMzk5I7xPxwmSDcfnBhsf.jpg" tvg-name="El cuerpo (2001)" ,El cuerpo (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140894.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rimW62jSFC5mF2DzIxSkiOPe5A3.jpg" tvg-name="La mano que mece la cuna (1992)" ,La mano que mece la cuna (1992)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140895.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxovoMQAZLHVrz534olIfm2iSud.jpg" tvg-name="Magia más allá de las palabras (2011)" ,Magia más allá de las palabras (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140896.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrliBu5npZPnWay211QeNUd6kAb.jpg" tvg-name="Noche loca (2010)" ,Noche loca (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140897.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6V2HH8vzcpLIPvOGD2F1w8E4b25.jpg" tvg-name="Perseguidas: 4 mujeres y un destino (1994)" ,Perseguidas: 4 mujeres y un destino (1994)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140898.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7K5DIDhCwqDD9VIMVCMdDld9pK.jpg" tvg-name="The Skeptic (2009)" ,The Skeptic (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140899.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyYVlUKz1tFxLMdXGAZWhIkcT8A.jpg" tvg-name="¡Por fin solos! (2012)" ,¡Por fin solos! (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140900.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxZUEk791MeoXlC6eCOKcZaRQl6.jpg" tvg-name="Dime con cuántos (2011)" ,Dime con cuántos (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140903.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6V2HH8vzcpLIPvOGD2F1w8E4b25.jpg" tvg-name="Perseguidas: 4 mujeres y un destino (1994)" ,Perseguidas: 4 mujeres y un destino (1994)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140908.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7K5DIDhCwqDD9VIMVCMdDld9pK.jpg" tvg-name="The Skeptic (2009)" ,The Skeptic (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140909.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg" tvg-name="Adios Mundo (2013)" ,Adios Mundo (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140914.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fv29GwNS1NOgsr4NAdghOlQXkup.jpg" tvg-name="Desde el Infierno (2001)" ,Desde el Infierno (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140915.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXIKoLIVNij1bgeQFo5y68t7qP4.jpg" tvg-name="Dos hermanos (2010)" ,Dos hermanos (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140916.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1DtEqMzlerRn9m3AK4VDZaRxGx.jpg" tvg-name="Zack y Miri hacen una porno (2008)" ,Zack y Miri hacen una porno (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140917.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRJnI4HPz7ydtITdvtmtvPp6Yp0.jpg" tvg-name="A Warrior's Heart (2011)" ,A Warrior's Heart (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/140919.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6s0i5GpGIcJAgIeOAlC0d4cvJE.jpg" tvg-name="Calles de fuego (1984)" ,Calles de fuego (1984)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141426.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grolIiQjCFeXCTUGe5vWx85uyw0.jpg" tvg-name="Legend (2015)" ,Legend (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/141554.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otSIz3xUkDU6NFjEEZyV3V5sz2x.jpg" tvg-name="Blood: El último vampiro (2009)" ,Blood: El último vampiro (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143463.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pmCBxhF9ulxZpewzY5EyakpRAa.jpg" tvg-name="Un amor inconcluso (1997)" ,Un amor inconcluso (1997)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143464.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bG7wdte8enWVc1uuLX6Ys7ckxwd.jpg" tvg-name="Bounty Killer (2013)" ,Bounty Killer (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143465.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KEj6KfWBtrmOfptWslBFTN8zvM.jpg" tvg-name="Batallas Navales Americanas (2012)" ,Batallas Navales Americanas (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143466.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IkcVLgAdDvbycaOkb0t6PCIYbd.jpg" tvg-name="Bullett Raja (2013)" ,Bullett Raja (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143467.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFpxXDFAToDAh0jyZDaq3t4fGfd.jpg" tvg-name="Butter (2012)" ,Butter (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143468.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85qHIUmwDltI0j54sK8Wktc8LH1.jpg" tvg-name="Café (2011)" ,Café (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143469.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/douNMdMtLtJUOKC1YUNKpWNVfXL.jpg" tvg-name="Caliber 9 (2011)" ,Caliber 9 (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143470.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTCAjT6sOVG2LReVdBr7od8boGw.jpg" tvg-name="Camino a la libertad (2010)" ,Camino a la libertad (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143471.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f44uKUirx40nL1IXVkfP6egnsVK.jpg" tvg-name="Cat Run (2011)" ,Cat Run (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143472.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3jpXZMwqe8DoGuykyojNIidWNj.jpg" tvg-name="Love Actually (2003)" ,Love Actually (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143473.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN9FYOXf5tUYjgget7yOzu8TlZU.jpg" tvg-name="Amor en la oficina (Beauty & the Briefcase) (2010)" ,Amor en la oficina (Beauty & the Briefcase) (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143572.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZCPl2Du2PRkky4Mzb4YiXk9C1Q.jpg" tvg-name="Beat the World (2011)" ,Beat the World (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143573.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqcRs578GT1kwqjOEcqbDQDf8Z4.jpg" tvg-name="Five Minarets in New York (2010)" ,Five Minarets in New York (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143574.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjb9lDIk7uf5o77MhxRaRFfEEhV.jpg" tvg-name="La conspiración Balibo (2009)" ,La conspiración Balibo (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143575.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilUcCcD3JVplN2OioiOfylK5tJY.jpg" tvg-name="October Baby (2011)" ,October Baby (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143576.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iu62EBzYMdEhLek5gG4EmBhFaH.jpg" tvg-name="Bel Ami, Historia de un seductor (2012)" ,Bel Ami, Historia de un seductor (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143577.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCK00C3L0bM5jphoYU0gFpG3Hly.jpg" tvg-name="Belle (2013)" ,Belle (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143749.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmrb7sFhIka9QmLCobNqWXD2DMW.jpg" tvg-name="Charlie Countryman (2013)" ,Charlie Countryman (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143750.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acPUuKyvdxqWWqrcCU0WqBeaQE0.jpg" tvg-name="Chéri (2009)" ,Chéri (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143751.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nisPkekIFqN7oqwjsU92J5MaC75.jpg" tvg-name="Historias de Manhattan (2007)" ,Historias de Manhattan (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143752.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaY5L2gY60La8ImK7ll7QBXXk26.jpg" tvg-name="Un ciudadano ejemplar (2009)" ,Un ciudadano ejemplar (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143753.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4fkp6KuY55vocpkInbFeXOSrgT.jpg" tvg-name="Chicas perdidas (2012)" ,Chicas perdidas (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143859.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cfTXtNT8nLa3NARN1u7tkLTpFg.jpg" tvg-name="Una pasión oculta (2014)" ,Una pasión oculta (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143860.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3Bdab4I9hNnjU7scxPc7vfxbgR.jpg" tvg-name="El gran torneo (2009)" ,El gran torneo (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143861.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qp7MnXKPFRlhteZ9YWvAGq11OU.jpg" tvg-name="El mundo según Barney (2010)" ,El mundo según Barney (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143862.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDQpXQqmce6vSi43bHR0Wx3EJW2.jpg" tvg-name="Errores del cuerpo humano (2012)" ,Errores del cuerpo humano (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143863.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Ysz1Fh5p9TWt2Mhtg5BUJzpR5J.jpg" tvg-name="Aeon Flux (2005)" ,Aeon Flux (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142034.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pURWCWbVgiIessQleVjkXYY8ZZy.jpg" tvg-name="Mi Vida en Ruinas (2009)" ,Mi Vida en Ruinas (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142036.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNTRi1Zpt5Bkq7HHB4cM7MRfAV5.jpg" tvg-name="Desafío sobre olas (2011)" ,Desafío sobre olas (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142148.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FxYoEV2GXQ7VigESmgNJhusRpM.jpg" tvg-name="Última Parada 174 (2008)" ,Última Parada 174 (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142149.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7zHTW4g4ZFoA4WMWrYZlP4cYYV.jpg" tvg-name="Mongol - The rise of Genghis Khan (2007)" ,Mongol - The rise of Genghis Khan (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142150.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pPQo5AmDpf5fNCxc0aKnxE37et.jpg" tvg-name="Our Family Wedding (2010)" ,Our Family Wedding (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142151.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcjOEPLiI9fnGmznZvQ0lwI06al.jpg" tvg-name="Resucitados (2015)" ,Resucitados (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142152.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvRehIG20VXtwHVaLZbGRguEfuc.jpg" tvg-name="The Horror Bus (2005)" ,The Horror Bus (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142153.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Giv5kuwSUUolawSGmeoaDVnbZ7.jpg" tvg-name="Los 33 (2021)" ,Los 33 (2021)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142716.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afmCNDcIUOcflfd0z7zyENKH8F7.jpg" tvg-name="99 Homes (2015)" ,99 Homes (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142719.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGj6PSu9WLmE750T2OZ0E9iaghl.jpg" tvg-name="Aprendiendo a conducir (2014)" ,Aprendiendo a conducir (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142720.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBzPlhGrrSgQozGMzyoDPXUWdMt.jpg" tvg-name="El Destino de Júpiter (2015)" ,El Destino de Júpiter (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142721.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HapwnFlrCMOhQRjMEuZGUkzz2J.jpg" tvg-name="El exótico Hotel Marigold 2 (2015)" ,El exótico Hotel Marigold 2 (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142722.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAbgvBedg0t8hEV4Aez1lgN8qhl.jpg" tvg-name="La leyenda de las calaveras de cristal (2014)" ,La leyenda de las calaveras de cristal (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142723.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGSNI2UlNhV70ZFxsUYs3qHKrbM.jpg" tvg-name="Secretos de una Obsesión (2015)" ,Secretos de una Obsesión (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142724.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gR4va4171IVlP5E3vElmwZC5XCg.jpg" tvg-name="Hogar dulce infierno (2015)" ,Hogar dulce infierno (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142725.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jfSzQumy9o28Scbfs3ENf32NRt.jpg" tvg-name="Hellion (2014)" ,Hellion (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142727.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gzmyWZX6C29aKNLr5ol17n03nN.jpg" tvg-name="El mapa que me lleva a ti (2025)" ,El mapa que me lleva a ti (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142729.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9eOalWeLTQFY52olih7WENULYG.jpg" tvg-name="Juego de brujas (2024)" ,Juego de brujas (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142730.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6u6N56G3UOfDsXD2uJZeVgDbp3q.jpg" tvg-name="Acción Jackson (1988)" ,Acción Jackson (1988)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143038.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QhXk2eyso4DvB8Viw70fJUWlwB.jpg" tvg-name="Dos pícaros con suerte (1977)" ,Dos pícaros con suerte (1977)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143040.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shvubL3pIrCyEK22ZHrx00oNtCY.jpg" tvg-name="Here on Earth (2000)" ,Here on Earth (2000)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143041.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peNaOp4GTVyk6ew9FfWhihtM8xQ.jpg" tvg-name="Infierno en Black Rock (2012)" ,Infierno en Black Rock (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143042.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBJv7Iygry6QmYLoz9DmOZHCvrs.jpg" tvg-name="La tienda (1993)" ,La tienda (1993)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143043.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3S6tPHqKmuqFIjpAODGJnPZRXK.jpg" tvg-name="Mike y Dave: Los busca novias (2016)" ,Mike y Dave: Los busca novias (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143044.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85pki6OI0QOZEmkc2B9DjssRwvG.jpg" tvg-name="Más Fuerte Que las Bombas (2015)" ,Más Fuerte Que las Bombas (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143045.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ageNvAnhrwOrFjsB8mHqckee503.jpg" tvg-name="Acorralado (2013)" ,Acorralado (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143046.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDALtfkjW24TKknjXxDcy5Yn1pm.jpg" tvg-name="Acorralados (2007)" ,Acorralados (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143047.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D1rIp2FlKCp9GoCwv14twjHfHm.jpg" tvg-name="Regreso a Cold Mountain (2003)" ,Regreso a Cold Mountain (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143048.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LlEFT4yWrWOHMaVYSVk7Dxejer.jpg" tvg-name="Dos pícaros con suerte: Parte 2 (1980)" ,Dos pícaros con suerte: Parte 2 (1980)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143049.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ec6qP3Mn2u2XUqHnkxoZYbM33iF.jpg" tvg-name="Dos pícaros con suerte: Parte 3 (1983)" ,Dos pícaros con suerte: Parte 3 (1983)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143050.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkXa3RYn7hIQPxmgZb4MddeJB3o.jpg" tvg-name="World Trade Center (2006)" ,World Trade Center (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143051.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PMKOPKorJXl7ZLaOyhS5xkoRzh.jpg" tvg-name="Caminando Con Dinosaurios (2013)" ,Caminando Con Dinosaurios (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143052.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vA7TbByUkUeFVuQJYvG0VqnPov1.jpg" tvg-name="Juwanna Mann (2002)" ,Juwanna Mann (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143257.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTEqUP5xeKfbpcp1pU31wvU3d2A.jpg" tvg-name="La pasión de Gabriel (2008)" ,La pasión de Gabriel (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143258.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKlIXSjwXf8Np1DaXyJ3H5LMDHH.jpg" tvg-name="Las manos del diablo (2002)" ,Las manos del diablo (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143259.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pxXF9ovGUGeCtRPv0eBI6mrd3c.jpg" tvg-name="Les Aventures extraordinaires d'Adèle Blanc-Sec (2010)" ,Les Aventures extraordinaires d'Adèle Blanc-Sec (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143260.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg" tvg-name="Adventureland (2009)" ,Adventureland (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143262.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4GoffjMwCbhpRbuZ1k6Icz9gzc.jpg" tvg-name="Altitude (2010)" ,Altitude (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143263.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faUoxdKGMs8GuuaDrGKLVRMX3ic.jpg" tvg-name="America (2009)" ,America (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143264.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Q4DYXhLSRe3iacFTGnBp0r5J1g.jpg" tvg-name="Anna Karenina (2012)" ,Anna Karenina (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143265.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlJTIFUbTBCqpOuLltLC8nlqkvL.jpg" tvg-name="App (2013)" ,App (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143266.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2rpkHF9S0h418K30LN1W0bWnnMs.jpg" tvg-name="Aprendiendo de mí (2007)" ,Aprendiendo de mí (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143267.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAjeuoQeBKkZOUwsWzlHGdJcIWL.jpg" tvg-name="Arrepentimiento (2014)" ,Arrepentimiento (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143268.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4MbH6ZFo7NK9pSumCDsnLtRLW7.jpg" tvg-name="Asalto al camión blindado (2009)" ,Asalto al camión blindado (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143269.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWab3xN5vIxHXvfnMIOSPmd4dGo.jpg" tvg-name="Cisne blanco (2013)" ,Cisne blanco (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143270.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70COGWaauyjuarAnWvvFSC9Q4Nu.jpg" tvg-name="Entrenado para Matar (2012)" ,Entrenado para Matar (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143271.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6ogdhdjP9KDCLJR9i4HG3bplQL.jpg" tvg-name="Looper (2012)" ,Looper (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143272.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Oo1JBLv4aTOtr9dm7H3aYxfZ6l.jpg" tvg-name="Asesinos cibernéticos 2 (2009)" ,Asesinos cibernéticos 2 (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143273.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7LJY2LCcGRLP9E4QbwBkLpZ2W7.jpg" tvg-name="Asuntos de familia (2009)" ,Asuntos de familia (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143274.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKlgyOKltuaY7QaYQi1sSmgdpBa.jpg" tvg-name="Prisioneros de Ghostland: Tierra sin ley (2021)" ,Prisioneros de Ghostland: Tierra sin ley (2021)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/143277.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHMeMg2UBu5aNUFVHYeWsKkwurT.jpg" tvg-name="Apocalipsis en Stonehenge (2010)" ,Apocalipsis en Stonehenge (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142155.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxpmVqh6CNixZ48zVqJY2f8ZcHe.jpg" tvg-name="La Intérprete (2005)" ,La Intérprete (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142156.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nFHqsKj8SAigQpd6bNBOLNuXSv.jpg" tvg-name="Recién graduada (2009)" ,Recién graduada (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142157.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJHnSeawKxPDFS2h2Z7XqUIqFzV.jpg" tvg-name="Terror bajo la nieve (Deshielo) (2009)" ,Terror bajo la nieve (Deshielo) (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142158.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZRNEkDxVDNNVaCPN7jKziMHmk5.jpg" tvg-name="Up in the Air (2009)" ,Up in the Air (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142159.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg" tvg-name="Dr. Dolittle (1998)" ,Dr. Dolittle (1998)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142160.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKuouKg9pHiWe1Nu1YsEREBdGsM.jpg" tvg-name="El rey escorpión (2002)" ,El rey escorpión (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142161.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAjpyj08T5RizLVsxEYoyqtk0Ec.jpg" tvg-name="La llave maestra (2005)" ,La llave maestra (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142162.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sUwXGdlUrb4TSBLCM8IAKwUlnO.jpg" tvg-name="Un Pase De Gracia (2011)" ,Un Pase De Gracia (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142163.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i4FKExsjSWMSHzRmxmsBMtR6gd.jpg" tvg-name="El Rey Escorpión 2: El Ascenso de un Guerrero (2008)" ,El Rey Escorpión 2: El Ascenso de un Guerrero (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142176.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xCBshzQNkaUpiRV23mIGTKaN1k.jpg" tvg-name="El Rey Escorpión 3: Batalla por la redención (2012)" ,El Rey Escorpión 3: Batalla por la redención (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142230.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" tvg-name="El Rey Escorpión 4: La Llave del poder (2015)" ,El Rey Escorpión 4: La Llave del poder (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142231.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycScCKt45DPhpp7IiDWAqfA7SGn.jpg" tvg-name="El mundo en sus manos (2009)" ,El mundo en sus manos (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142303.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TwfNYxj4pHtLioN94kFhjYtKip.jpg" tvg-name="Guardianes De La Noche (2004)" ,Guardianes De La Noche (2004)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142304.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaSc6uJgCTiwQFftv0KUPwlFzoJ.jpg" tvg-name="Hazme reír (2009)" ,Hazme reír (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142305.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0Mc2OzARakkTmnm8sihEQSoVaI.jpg" tvg-name="Imagínatelo (2008)" ,Imagínatelo (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142306.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1chJQ1bNdxPliWcpRgCvRlwgqSc.jpg" tvg-name="Miedo al Amanecer (2008)" ,Miedo al Amanecer (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142307.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg" tvg-name="Pulse (Conexión) (2006)" ,Pulse (Conexión) (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142308.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/si0ZiAa1vM3nBjzVzoFNOEQYhj0.jpg" tvg-name="El enigma del cuervo (2012)" ,El enigma del cuervo (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142320.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8E6zZR5vkL4bWkn5CVpTY2JOKI.jpg" tvg-name="El Retrato de Dorian Gray (2009)" ,El Retrato de Dorian Gray (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142322.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o46Fn0ZOAy5Cev436YPMzeKnIY4.jpg" tvg-name="I Feel Good: La historia de James Brown (2014)" ,I Feel Good: La historia de James Brown (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142323.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzpwCQF9et6ltaw21tSI2gl9wXa.jpg" tvg-name="La boda de mi novia (2008)" ,La boda de mi novia (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142324.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pC3vFdud0POGjxdJ70ocg9iedj.jpg" tvg-name="La duquesa (2008)" ,La duquesa (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142325.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aL3uWn7Hpqm5iFQM72zTR2j59hS.jpg" tvg-name="La Reina Victoria (The Young Victoria) (2009)" ,La Reina Victoria (The Young Victoria) (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142326.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y0qVcht9cJJcpvGscmRhu2PteO.jpg" tvg-name="Premonición (2008)" ,Premonición (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142327.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFXQ4oMJkXAWjyo7Tr5GrLjmk61.jpg" tvg-name="Sleep Dealer (2008)" ,Sleep Dealer (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142328.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5JdaRO2MQHiDARlYNXu3NAnH3S.jpg" tvg-name="Hombres, mujeres y niños (2014)" ,Hombres, mujeres y niños (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142329.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFldOGhTDULI9XzbXE6saRiNx3B.jpg" tvg-name="Idénticos (2014)" ,Idénticos (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142330.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBcwa6DlVVojiT2C76KM8YjfTVQ.jpg" tvg-name="Magia a la Luz de la Luna (2014)" ,Magia a la Luz de la Luna (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142331.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O2wDQD43vKldhYIuMXjMQcVQYR.jpg" tvg-name="Qué pena tu vida (2010)" ,Qué pena tu vida (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142332.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNc3FLV28bGCWXxuLIFCrwcncz.jpg" tvg-name="Miami Magma (2011)" ,Miami Magma (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142484.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4Ny82lizNTdTH2MFLjjyOVDWtk.jpg" tvg-name="Abducción alienígena (2014)" ,Abducción alienígena (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142485.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o30xzZyqVvTTv4qsDkHUdyJFd4Y.jpg" tvg-name="A Birder's Guide to Everything (2013)" ,A Birder's Guide to Everything (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142486.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7z3d7jGwo2m7Jj4gOlGji4I9jJ.jpg" tvg-name="Atrapada en la oscuridad (2013)" ,Atrapada en la oscuridad (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142487.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb0L57p0r25ehV46trx86537ByP.jpg" tvg-name="Un Paseo por las Tumbas (2014)" ,Un Paseo por las Tumbas (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142488.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0qiSWs9phG2rZoH93CuJ09Q0WK.jpg" tvg-name="Colegas en el bosque 4: Una aventura de miedo (2015)" ,Colegas en el bosque 4: Una aventura de miedo (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142489.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15ODu72Q8Z6uFwefH8U0vjYZ75v.jpg" tvg-name="La Entrega (The Drop) (2014)" ,La Entrega (The Drop) (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142490.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jars7xLDIrmZevub1odtHPDhP6V.jpg" tvg-name="La gran seducción (2014)" ,La gran seducción (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142491.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/it2qtHTE5oSXMnKw89BOivTMZ8k.jpg" tvg-name="The Skeleton Twins (2014)" ,The Skeleton Twins (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142492.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZBNL2DykobthDRR4Ae2J4hi43y.jpg" tvg-name="Ahí os quedáis (2014)" ,Ahí os quedáis (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142572.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uVP3EmTfe0NYRsX2U9NBtSGGlP.jpg" tvg-name="La mirada del amor (2013)" ,La mirada del amor (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142573.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRw6Y2acWc3D1YpUMtFnqnupnEn.jpg" tvg-name="Camp X-Ray (2014)" ,Camp X-Ray (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142574.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1TydgBJdf2N2dL1gUo9eXz0I8R.jpg" tvg-name="El séptimo enanito (2014)" ,El séptimo enanito (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142575.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wW5j1k6rN9s6jgwRKBqIHUs4wH.jpg" tvg-name="La Horca (2015)" ,La Horca (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142576.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWYt9JKWOt03yvG6nV4Hg9tju5h.jpg" tvg-name="La última chica (2015)" ,La última chica (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142577.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFiqswUZiKpogx6tbCs7wYLas2D.jpg" tvg-name="Oblivion (2013)" ,Oblivion (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142578.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69JeTquZPBswYLxSH5KyEjz6EGQ.jpg" tvg-name="Road Wars (2015)" ,Road Wars (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142579.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yt0J2mmby3E9Ffnouf6LjR2KiM4.jpg" tvg-name="Testamento de Juventud (2015)" ,Testamento de Juventud (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142580.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHg1JMq3W3cK7NjLKHRPCz2BQWD.jpg" tvg-name="Tracers: Al Límite (2015)" ,Tracers: Al Límite (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142581.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ochcUJTPQSfU5fDMA21y4xoDzeX.jpg" tvg-name="Area 51 (2015)" ,Area 51 (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142582.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3ACos3t4YwXML8keTA0wKN8e36.jpg" tvg-name="Max (2015)" ,Max (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142584.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sbLeFbRxSNXHc1ZO4zxFy3sIgc.jpg" tvg-name="Tras líneas enemigas 2 (2006)" ,Tras líneas enemigas 2 (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142585.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BsYhDCBO7A2bRIk9pt4zz3HfOg.jpg" tvg-name="Los boinas verdes (1968)" ,Los boinas verdes (1968)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142586.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swRD5z1PcRozs43e74xxWu2qHu3.jpg" tvg-name="Héroe a rayas (2005)" ,Héroe a rayas (2005)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142587.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6s0SBrnvjxaHUqhibbD6eN0Xrpj.jpg" tvg-name="Jack Hunter and the Lost Treasure of Ugarit (2008)" ,Jack Hunter and the Lost Treasure of Ugarit (2008)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142588.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9mlSGTIVo9xYWajQ8QjmHZIKZy.jpg" tvg-name="Tras líneas enemigas 3 (2009)" ,Tras líneas enemigas 3 (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142589.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO9RxmeCKwLV1nggbKd9uSw99ZR.jpg" tvg-name="Tras Líneas Enemigas (2001)" ,Tras Líneas Enemigas (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142590.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ansie7dpY5YVQ4zRdZZz6LObTxo.jpg" tvg-name="Tras líneas enemigas: Comando de élite (2014)" ,Tras líneas enemigas: Comando de élite (2014)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142591.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7LU1mrf5bLlbwBEElXCh3UWX7T.jpg" tvg-name="El poder del dinero (2013)" ,El poder del dinero (2013)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142592.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vL4rcQvqClmbTXHJ0zWeAtOF9jh.jpg" tvg-name="Joe Dirt 2: Beautiful Loser (2015)" ,Joe Dirt 2: Beautiful Loser (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142595.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JMiLtYv8rRjoAmbFqdu9EvyC6f.jpg" tvg-name="Cleopatra (1963)" ,Cleopatra (1963)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142634.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tifv0KBpDWCcrIwlScgZeUKwq2m.jpg" tvg-name="Steve Jobs (2015)" ,Steve Jobs (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142635.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLCKK7GcIkBQWEs3HqNQbByMIcO.jpg" tvg-name="Victor Frankenstein (2015)" ,Victor Frankenstein (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142636.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1l1HkjRNsj585PqAdQ2wVO9RlNN.jpg" tvg-name="Orgullo en juego (2012)" ,Orgullo en juego (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142639.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsC85S9nY85r6xOqPIqeCkidDyR.jpg" tvg-name="La otra cara del crimen (2000)" ,La otra cara del crimen (2000)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142640.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYgsPYY3sI6Zvie8NaJeA0vo1PF.jpg" tvg-name="La Princesa Prometida (1987)" ,La Princesa Prometida (1987)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142641.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7sTT0XBUxntIlu2CTtk7eLggi8.jpg" tvg-name="The Six Wives of Henry Lefay (2009)" ,The Six Wives of Henry Lefay (2009)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142642.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tu3uIbULL54pRXuvobGwDjy780n.jpg" tvg-name="Legendary (2010)" ,Legendary (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142643.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44EwZZhkNuuYWAtTeW3HVQ1uL4f.jpg" tvg-name="Los Conquistadores (2007)" ,Los Conquistadores (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142644.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAtssrQbtPVT0yjAK93RKf3vxoL.jpg" tvg-name="Stefan v/s Kramer (2012)" ,Stefan v/s Kramer (2012)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142645.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89DOVIUSu0Jyqulk7xkQRiGMIvG.jpg" tvg-name="Un golpe maestro (2001)" ,Un golpe maestro (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142646.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjKloEexvZcJBbkoX9XKx83B40z.jpg" tvg-name="View from the Top (2003)" ,View from the Top (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142647.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rX7us4Z78XVEX1RMkmIhKqK9DdV.jpg" tvg-name="Premonición (2015)" ,Premonición (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142648.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmTlL0U3NMQFjB1KGnWj2NuAE3g.jpg" tvg-name="Ava's Possessions (2015)" ,Ava's Possessions (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142649.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rem3GC2FtHCItfKqnfzb67YrcrG.jpg" tvg-name="Experta en crisis (2015)" ,Experta en crisis (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142650.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR5XjsTB4zDPaNW1MLnwgcDVN16.jpg" tvg-name="Jem y los Hologramas (2015)" ,Jem y los Hologramas (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142651.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SbIDk0Gkyr0y22ZtydVq9Px423.jpg" tvg-name="La Cumbre Escarlata (2015)" ,La Cumbre Escarlata (2015)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/142652.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pk0wxkrZatW33u5NM3Ix45EqSSZ.jpg" tvg-name="María Callas (2024)" ,María Callas (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/134760.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8E8EqXqETV8ggPiOkHjaBU8H9N.jpg" tvg-name="Viaje de fin de curso: Mallorca (2025)" ,Viaje de fin de curso: Mallorca (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126504.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcV9YfjBRo6occxqeWtEiyWwMoG.jpg" tvg-name="El contador 2 (2025)" ,El contador 2 (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/126794.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg" tvg-name="Acto encubierto (2025)" ,Acto encubierto (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127423.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sj5JljXWvxnxVrIW9oj6U43FgRm.jpg" tvg-name="Mensaje en una botella (2025)" ,Mensaje en una botella (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/127658.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rJGCqrO8MSPdokdMoJB5sxeZ4i.jpg" tvg-name="Geo-Tormenta (2017)" ,Geo-Tormenta (2017)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/1037.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ivpFHJjIecw3liTrdxkcvAdUUs.jpg" tvg-name="Mentes maestras (2016)" ,Mentes maestras (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/5631.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGgQ5Z7FAgrCsBIPQEQQHDA63FK.jpg" tvg-name="El Santuario (2011)" ,El Santuario (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/5864.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWZmq1dbLB2h7r0JRBTBbiWqQke.jpg" tvg-name="Identidad (2003)" ,Identidad (2003)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/46890.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDWU8YyFkPnlVY627QXPvct8bz9.jpg" tvg-name="Thunderbolts* (2025)" ,Thunderbolts* (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/118410.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZr2QCUbsekpiLnZ7788twcLpSn.jpg" tvg-name="Otro pequeño favor (2025)" ,Otro pequeño favor (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/118891.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hrkceHqhMbxfZNb570NzjQWGI7.jpg" tvg-name="A millones de kilómetros (2023)" ,A millones de kilómetros (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/122721.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXw8hYk0z7VgryoaUN3ApjcOoze.jpg" tvg-name="Zona prohibida (2022)" ,Zona prohibida (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/122722.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sqdNhEbXxuMNFRFMXUV7zHm0gR.jpg" tvg-name="Nacido para ganar (2021)" ,Nacido para ganar (2021)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/122723.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AidObUi3HgGzeImeuhJiSHTJKLo.jpg" tvg-name="Atrapada En El Fondo Del Mar (2020)" ,Atrapada En El Fondo Del Mar (2020)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/122832.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2DwQvXWFBBs8M7qsbso9NGTRqj.jpg" tvg-name="Blackout Love (2022)" ,Blackout Love (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/122984.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b52nqFj5XrBNA7MhqcnENvFsHtx.jpg" tvg-name="Get Duked! (2019)" ,Get Duked! (2019)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123025.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82nJLe6waU4dfecC7YuLXr3SOBb.jpg" tvg-name="La idea de ti (2024)" ,La idea de ti (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123032.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5af068Xoa2feazpY5MP3xcW5Mj.jpg" tvg-name="El duro (2024)" ,El duro (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123033.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL1hTzUWgZzphFP1FwfeZiQaGz5.jpg" tvg-name="Muerte en la nieve (2024)" ,Muerte en la nieve (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123497.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg" tvg-name="Role Play (2023)" ,Role Play (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123735.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ukQNnR1OncwVZwRQLYbrPn2vYA.jpg" tvg-name="Lost in the City (2022)" ,Lost in the City (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123758.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" tvg-name="El Hombre de Toronto (2022)" ,El Hombre de Toronto (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123759.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A2owG58gqx8fzRWhVOMAO6lbWq.jpg" tvg-name="Sin Remordimientos (2021)" ,Sin Remordimientos (2021)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123760.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIOlazNiPYhOODUiOep9OnIxETx.jpg" tvg-name="Bodas de plomo (2022)" ,Bodas de plomo (2022)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123761.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" tvg-name="Sayen (2023)" ,Sayen (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123763.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkvIQqHCEE0pj0yGJqsYC97vjjI.jpg" tvg-name="Sayen: La cazadora (2024)" ,Sayen: La cazadora (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123764.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kZS7CcTnIE1IoHkW41KrAFxpkq.jpg" tvg-name="Sayen: La ruta seca (2023)" ,Sayen: La ruta seca (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/123765.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue2W0lfk6DVCQCQc1d2k64xz1xh.jpg" tvg-name="El gran George Foreman (2023)" ,El gran George Foreman (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/131662.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GuvODahvuFqdhuZ16aBLR4UJoP.jpg" tvg-name="¿Quieres ser mi... hijo? (2023)" ,¿Quieres ser mi... hijo? (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/135830.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNmhgNiUzZAknt4sjY1id8nbFCG.jpg" tvg-name="Tropa de élite (2007)" ,Tropa de élite (2007)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/135831.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geK5X7cIWap06q7J2ZiyQr2scrc.jpg" tvg-name="Tropa de élite 2 (2010)" ,Tropa de élite 2 (2010)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/135832.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LY3P2mW82mq9qP0r3ltvhLgRkA.jpg" tvg-name="Nefarious. Cuando habla el diablo (2023)" ,Nefarious. Cuando habla el diablo (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/135833.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiaU5pApM6YN3MIGEFnvJFHVzU.jpg" tvg-name="Taylor Swift: The Eras Tour (2023)" ,Taylor Swift: The Eras Tour (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/135834.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSPeec7sDXl0JBvCtJtVThbIP.jpg" tvg-name="Retroceder Nunca, Rendirse Jamás (1986)" ,Retroceder Nunca, Rendirse Jamás (1986)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/135836.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s91PuVwq8jwDtrCWjkpF63rZgyX.jpg" tvg-name="Juegos de Seducción (2025)" ,Juegos de Seducción (2025)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136588.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gdtkjHKQlvijS5WuUrRIgId406.jpg" tvg-name="3 Ninjas (1992)" ,3 Ninjas (1992)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136944.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kIVvJJpzc4BNms8wBzB9GPvfdE.jpg" tvg-name="3 Ninjas al rescate (1994)" ,3 Ninjas al rescate (1994)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136945.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDsfVcIONy4hHjvPCDo5Usdehx1.jpg" tvg-name="3 Ninjas Contraatacan (1995)" ,3 Ninjas Contraatacan (1995)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136946.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZaul0jrKEl1DqBj95y8d0Aho6d.jpg" tvg-name="3 ninjas: Mediodía en la Mega Montaña (1998)" ,3 ninjas: Mediodía en la Mega Montaña (1998)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136947.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5amZzZjtvVxAAS4fFusFtFu6xL.jpg" tvg-name="Espía por error (2016)" ,Espía por error (2016)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136967.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24RIC1zqkWn4YB1LagpczSFbKvY.jpg" tvg-name="40 Días y 40 noches (2002)" ,40 Días y 40 noches (2002)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136968.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx8yYEchEUancS4gJmJ3QKcd82r.jpg" tvg-name="Érase una vez en China II (1992)" ,Érase una vez en China II (1992)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136970.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD6A6BFYl8crNfZ3vs6LzxD8c1g.jpg" tvg-name="Silver y el libro de los sueños (2023)" ,Silver y el libro de los sueños (2023)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136972.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6AcxsoQny1iqsEVbrR1IjmDZpA.jpg" tvg-name="Mi yo del futuro (2024)" ,Mi yo del futuro (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136973.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXfGJsoB7gcuhP6CTggQ2AKg4I.jpg" tvg-name="Aquí (2024)" ,Aquí (2024)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136974.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4n2UWQtftK3iiEIfg7HYSbJm7d.jpg" tvg-name="El infiltrado del KKKlan (2018)" ,El infiltrado del KKKlan (2018)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/136975.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBH229rMswFIkk3l4C7iZhNKCOB.jpg" tvg-name="Ultravioleta (2006)" ,Ultravioleta (2006)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137235.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBs0ScJQPb2xi0Jt9BGPcdaITvh.jpg" tvg-name="El sicario de Dios (2011)" ,El sicario de Dios (2011)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137241.mkv
+#EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tobmCmAgCNVhqxUN7r58cnoYOco.jpg" tvg-name="13 fantasmas (2001)" ,13 fantasmas (2001)
+http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137321.mkv
