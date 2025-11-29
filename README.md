@@ -4,6 +4,13 @@
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 
 
+#EXTINF:-1 group-title="BOTYTV⭐EVENTOS" tvg-logo="https://i.ibb.co/TD0WvNcn/PPVBotytv.png" ,EVENTOS PPV COL 1
+http://38.41.8.1:8000/play/a0zf
+
+
+#EXTINF:-1 group-title="BOTYTV⭐EVENTOS" tvg-logo="https://i.ibb.co/TD0WvNcn/PPVBotytv.png" ,EVENTOS PPV COLOMBIA 2
+http://38.41.8.1:8000/play/a0tp
+
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 04 (M)(1080)
 http://tv.proyectox.vip:8080/mayleenfunez1/135535683598/8589
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" ,CINEMA PPV-Cinema 07 (M)(1080)
@@ -4330,4 +4337,5 @@ http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137235.mkv
 http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137241.mkv
 #EXTINF:-1 group-title="VOD-AMAZON PRIME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tobmCmAgCNVhqxUN7r58cnoYOco.jpg" tvg-name="13 fantasmas (2001)" ,13 fantasmas (2001)
 http://tv.proyectox.vip:8080/movie/mayleenfunez1/135535683598/137321.mkv
+
 
