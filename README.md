@@ -1,5 +1,10 @@
 
 
+#EXTM3U
+#EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" tvg-name="PPV - Dazn 1 (L)" ,PPV BoTyYV - Dazn 1
+http://tv.proyectox.vip:8080/live/Nyc12520/ba490a4adb6c/156148.m3u8
+
+
 
 
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/NjyNBYT3/Proyecto-X-ppv.png" tvg-name="PPV - Serie A: Dazn Bar 1 (TV)" ,PPV BoTyTV - Serie A: Dazn 1
