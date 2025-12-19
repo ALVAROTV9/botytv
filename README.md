@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" tvg-id="633dtv.co" ,BOTYTV INFORMACION AQUI
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 
+#EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://i.postimg.cc/tRNbSKHV/Dise-o-sin-t-tulo-9.png" tvg-id="ESPN Deportes" ,BOTYTV INFORMACION
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
 #EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" tvg-id="633dtv.co" ,Win Sports SD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13766
 #EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/mgjJ63Lx/Dise-o-sin-t-tulo-2.png" tvg-id="Win Sports.co" ,Win Sports HD
@@ -870,8 +873,7 @@ http://vipboacnn.top:8080/VIP014781739968009343/d5cf0cbd87f3/136547
 #EXTINF:-1 group-title="IT | SKY CALCIO VIP" tvg-logo="https://docdog.top/logo/countries/italy/sky-sport-it.png" ,IT: SKY SPORT 261 HD
 http://vipboacnn.top:8080/VIP014781739968009343/d5cf0cbd87f3/136548
 
-#EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://i.postimg.cc/tRNbSKHV/Dise-o-sin-t-tulo-9.png" tvg-id="ESPN Deportes" ,BOTYTV INFORMACION
-http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
 
 
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsx6PJ3RUPwS6AZ6N9c-u7prUxXTxf8ufGg&s" tvg-id="ESPN2.ar" ,| ESPN 1 AR | HD |
@@ -3052,6 +3054,7 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596997
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596998
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://restream.tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPi-vcC_1uQj7S-uBWqQaGJW9344MxtrPmZXTNRqlfy-X_jTzzTHTs00rDYOkxVlDIF.png" ,VERIFIED AMATEURS: YINYLEON
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596999
+
 
 
 
