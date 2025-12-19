@@ -2,6 +2,122 @@
 
 
 
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" ,BOTYTV INFORMACION
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/A24_2025.svg/revision/latest/scale-to-width-down/250?cb=20250110233152" ,A24
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712701
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/A24_2025.svg/revision/latest/scale-to-width-down/250?cb=20250110233152" ,A24 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712702
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Am%C3%A9rica_Canal_2_2020.svg/revision/latest/scale-to-width-down/1000?cb=20230314210517&path-prefix=es" ,America TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712703
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Am%C3%A9rica_Canal_2_2020.svg/revision/latest/scale-to-width-down/1000?cb=20230314210517&path-prefix=es" ,America TV FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712704
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/200?cb=20210526223002&path-prefix=es" ,C5N FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712705
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Cr%C3%B3nica_HD_(2018-3D).png/revision/latest/scale-to-width-down/1000?cb=20210806040652" ,CRONICA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712706
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Cr%C3%B3nica_HD_(2018-3D).png/revision/latest/scale-to-width-down/1000?cb=20210806040652" ,Crónica TV HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712707
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Canal_9_ar.png/revision/latest?cb=20161217222324" ,El Nueve
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712708
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Canal_9_ar.png/revision/latest?cb=20161217222324" ,El Nueve HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712709
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Eltrece.svg/revision/latest/scale-to-width-down/200?cb=20231211013313&path-prefix=es" ,El Trece
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712710
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Eltrece.svg/revision/latest/scale-to-width-down/200?cb=20231211013313&path-prefix=es" ,El Trece FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712711
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/LANACION_20002.png/revision/latest?cb=20201124050113" ,La Nación +
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712712
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/LANACION_20002.png/revision/latest?cb=20201124050113" ,La Nación + HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712713
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Telefe_2018.svg/revision/latest/scale-to-width-down/250?cb=20210919151022&path-prefix=es" ,TELEFE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712714
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Telefe_2018.svg/revision/latest/scale-to-width-down/250?cb=20210919151022&path-prefix=es" ,Telefe FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712715
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.postimg.cc/0NYPqK0s/cropped-icono.png" ,MULTIVISION
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712716
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/TN_2011.png/revision/latest?cb=20200121023240&path-prefix=es" ,TN Noticias
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712717
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/TN_2011.png/revision/latest?cb=20200121023240&path-prefix=es" ,TN NOTICIAS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712718
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/TV_P%C3%BAblica_2009_%282D%29.svg/revision/latest/scale-to-width-down/219?cb=20230715005528&path-prefix=es" ,TV Publica
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712719
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/TV_P%C3%BAblica_2009_%282D%29.svg/revision/latest/scale-to-width-down/219?cb=20230715005528&path-prefix=es" ,TV Publica FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712720
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/B2d9a-argentinisima.gif/revision/latest/scale-to-width-down/250?cb=20210526005047&path-prefix=es" ,ARGENTINISIMA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712721
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/59bxgz2/litus.png" ,Litus
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712722
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/C13_logo_2020.png/revision/latest?cb=20210526010959&path-prefix=es" ,Canal 13 La Rioja
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712723
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Canal_26.png/revision/latest?cb=20210513002427&path-prefix=es" ,Canal 26
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712724
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Canal_26.png/revision/latest?cb=20210513002427&path-prefix=es" ,Canal 26 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712725
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" ,Canal 4 Posadas
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712726
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/514px-Canal_Siete_Jujuy_%28Logo_2015%29.png/revision/latest?cb=20191126073719" ,Canal 7 Jujuy
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712727
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_9_Litoral_(Logo_2021).png/revision/latest?cb=20220305163041" ,Canal 9 Litoral
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712728
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" ,13 Max HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712730
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://visionalista.digital:8080/images/31c7a58183425cb440c00c7179c70d6c.png" ,CIUDAD MAGAZINE HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712732
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/W6xkB9w/santafe.png" ,5RTV Santa Fe
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712733
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI" ,Multivision HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712734
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Neo_TV_Florencio_Varela.png/revision/latest/scale-to-width-down/1000?cb=20250702200816" ,Neo TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712735
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest/scale-to-width-down/1000?cb=20210315130135&path-prefix=es" ,NET TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712736
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/PakaPaka2025.svg/revision/latest/scale-to-width-down/300?cb=20250620182652" ,Paka Paka HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712737
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://visionalista.digital:8080/images/2923f0d4f94f081f1d99b761ca585b94.jpg" ,RTN Neuquén
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712739
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png/revision/latest?cb=20220113152551&path-prefix=es" ,Telemax
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712740
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" ,Volver HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712741
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/DeporTV_%282020%29.png/revision/latest/scale-to-width-down/1000?cb=20210101172130&path-prefix=es" ,Deportv FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712742
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" ,ESPN  FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712743
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" ,ESPN 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712744
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" ,ESPN 3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712745
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest/scale-to-width-down/250?cb=20211120193957" ,ESPN 5 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712746
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" ,ESPN Premium FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712747
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230305142851&path-prefix=es" ,Fox Sports
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712748
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" ,Fox Sports 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712749
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FOX_Sports_3_Argentina_%282023%29.png/revision/latest?cb=20230207140224&path-prefix=es" ,Fox Sports 3 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712750
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" ,Garage TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712751
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" ,TNT Sports Premium
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712752
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://213.145.87.11/Logos/4rgentina/tntsportpremium.png" ,TNT Sports Premium HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712753
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" ,TyC Sports
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712754
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest?cb=20190620182054&path-prefix=es" ,TYC SPORTS HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712755
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.googleusercontent.com/STQw5eL5UEmA9XnnFslBoZBnxjjjUdVAN4WIk56ReP2mvk8fFhIoK60WQXglaM1ZQ240gmeXZw=s900-c-k-c0x00ffffff-no-rj" ,DSPORTS 1 ARG
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712756
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://futboltvlibre.liveblog365.com/wp-content/uploads/2023/11/dsports2.png" ,DSPORTS 2 ARG
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712757
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.postimg.cc/x8ZmQmjz/DSports-2B-2022.png" ,DSPORTS +1 AR
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/722195
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ibb.co/LS29sRf/tycsportinterna.png" ,TYC SPORTS INTERNACIONAL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/722820
 
 #EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj" ,DAZN 01 HD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195667
@@ -1503,5 +1619,6 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596997
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596998
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://restream.tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPi-vcC_1uQj7S-uBWqQaGJW9344MxtrPmZXTNRqlfy-X_jTzzTHTs00rDYOkxVlDIF.png" ,VERIFIED AMATEURS: YINYLEON
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596999
+
 
 
