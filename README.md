@@ -1,4 +1,93 @@
+#EXTM3U
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" tvg-id="633dtv.co" ,BOTYTV INFORMACION AQUI
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" tvg-id="633dtv.co" ,Win Sports SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13766
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/mgjJ63Lx/Dise-o-sin-t-tulo-2.png" tvg-id="Win Sports.co" ,Win Sports HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13767
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" ,Win Sports + SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13768
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" tvg-id="Win Sports+.co" ,Win Sports + HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13769
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" ,Win Sports + HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13770
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" ,Win Sports + FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13771
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.postimg.cc/LXncPqFj/Dise-o-sin-t-tulo-5.png" ,Win Sports + HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13772
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" ,Canal 1 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13773
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/dtKfsN3x/CANAL-1-CO-removebg-preview.png" ,Canal 1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13774
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/g0nVL2S3/Dise-o-sin-t-tulo-7.png" tvg-id="Caracol.co" ,Caracol
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13775
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" tvg-id="Caracol.co" ,Caracol HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13776
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/tJnBqWQm/Dise-o-sin-t-tulo-7.png" tvg-id="Caracol.co" ,Caracol FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13777
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" ,Caracol Internacional HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13778
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/GPM1FwT/caracol-int.png" ,Caracol Internacional FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13779
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" tvg-id="RCN.co" ,RCN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13780
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/WpfqM6LT/Dise-o-sin-t-tulo-11-removebg-preview.png" ,RCN HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13781
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/bNCvcnNj/Dise-o-sin-t-tulo-11-removebg-preview.png" tvg-id="130dtv.co" ,RCN FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13782
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" ,RCN Internacional
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13783
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/RCNNuestraTeleInternacional_2023.png/revision/latest?cb=20240424223607" tvg-id="135dtv.co" ,RCN Nuestra Tele Int
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13784
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/76HvZBKr/resize.png" ,Cable Noticias HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13786
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/cC3cyWfs/TRECE.png" ,El Trece
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13787
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/0e/75/bf/0e75bf22-ac97-1460-f4f2-e2dd59b8612c/source/512x512bb.jpg" ,NTN24
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13788
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/5gTJrS78/Canal-RCNNovelas2019-removebg-preview.png" ,RCN Novelas
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13789
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/cCFbC0rn/1000-2.png" tvg-id="140dtv.co" ,Teleantioquia
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13790
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/CaracolHD22025.svg/revision/latest/scale-to-width-down/1000?cb=20250112231503&path-prefix=es" ,CO | CARACOL HD2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13791
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/KzSShGMh/latest-8.png" ,Canal Capital
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13792
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest/scale-to-width-down/1000?cb=20240319231356&path-prefix=es" tvg-id="2M Maroc" ,City TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13793
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/SKwqQLH1/1000-1.png" ,Canal TRO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13794
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Wzd4YbLJ/latest-7.png" ,Señal Colombia
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13795
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png/revision/latest/scale-to-width-down/1000?cb=20201219143033&path-prefix=es" tvg-id="Telecafé.co" ,Telecafe
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13796
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/DPFpvgJN/Dise-o-sin-t-tulo-12-removebg-preview.png" ,Telecaribe
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13797
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/MTr45zmb/1000.png" tvg-id="TELEMEDELLIN.co" ,Telemedellin
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13798
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Telecaf%C3%A9_2020.png/revision/latest/scale-to-width-down/1000?cb=20201219143033&path-prefix=es" tvg-id="Telecafé.co" ,TeleCafe HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13800
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/rFz47MCF/Dise-o-sin-t-tulo-12-removebg-preview.png" tvg-id="142dtv.co" ,Telecaribe HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13801
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Telepac%C3%ADfico2019.png/revision/latest/scale-to-width-down/1000?cb=20210213133514&path-prefix=es" tvg-id="141dtv.co" ,TelePacifico HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13802
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Citytv2024posiblelogo.svg/revision/latest/scale-to-width-down/1000?cb=20240319231356&path-prefix=es" ,City TV HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13805
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Cosmovisi%C3%B3n_2023.png/revision/latest/scale-to-width-down/1000?cb=20221230224315&path-prefix=es" ,Cosmovision
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13806
+#EXTINF:-1 group-title="COLOMBIA1" tvg-logo="https://i.ibb.co/5F5Nxtm/vallenatos.png" ,RADIO VALLENATOS CLASICOS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/40740
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/fRMT9v2V/latest-9.png" ,CALI TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/117012
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.ibb.co/CshKYKYr/MJzu-RAN-1-removebg-preview.png" ,RCN Mas
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/529355
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://www.pngfind.com/pngs/m/148-1481543_seal-colombia-logo-seal-colombia-hd-png-download.png" ,Señal Colombia
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/606312
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" ,CO: Red+ Noticias FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/606651
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://play-lh.googleusercontent.com/WHwToQxa3xfF1hYl-Q3_BtcXVCDqzjxM5_0GIfATzvzANmnCo-U4MExY31y95Zq12GZ9" ,CO| LA KALLE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/667840
 
 #EXTINF:-1 group-title="BOTYTV2026" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar CoN BoTyYV
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
@@ -2733,6 +2822,7 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596997
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596998
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://restream.tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPi-vcC_1uQj7S-uBWqQaGJW9344MxtrPmZXTNRqlfy-X_jTzzTHTs00rDYOkxVlDIF.png" ,VERIFIED AMATEURS: YINYLEON
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596999
+
 
 
 
