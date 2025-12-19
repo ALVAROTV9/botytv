@@ -3,6 +3,651 @@
 
 
 
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj" ,DAZN 01 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195667
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj" ,DAZN 02 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195668
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj" ,DAZN 02 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195669
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj" ,DAZN 1 | 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195670
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj" ,DAZN 2 | 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195671
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj" ,DAZN | 720P
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195672
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/media/FytQLIxXgAATtYC.jpg:large" ,ESPN EXTRA HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195673
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195674
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195675
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195676
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN2  SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195677
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195678
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195679
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN3 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195680
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195681
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN3 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195682
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN4 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195683
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN4 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195684
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" ,ESPN4 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195685
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV  | H.264 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195686
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV 2  | H.264 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195687
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV 2 | 720p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195688
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV 3  | H.264 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195689
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV 3 | 720p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195690
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV | 1080p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195691
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV | 720p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195692
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV2 | 1080p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195693
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" ,SPORTV3 | 1080p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195694
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" ,TNT SPORTS 01 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195695
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" ,TNT SPORTS 02 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195696
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" ,TNT SPORTS 03 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195697
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" ,NBA LEAGUE PASS HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195698
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" ,NBA | League Pass 02
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195699
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" ,NBA | League Pass 03
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195700
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" ,NBA | League Pass 04
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195701
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" ,NBA | League Pass 05
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195702
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" ,NBA | League Pass 06
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195703
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" ,NBA | League Pass 07
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195704
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXJ4iobeBF1VMuiugrBmhJuB8otIJV4sCz8XiDY5V5A&s" ,NBA | League Pass 09
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195705
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/NRC6t2nQd8JuC__XnwrjtuAtg5OKslzj-w7AcAmXUe_awlyyrBelvas6pcquK_nfhvTTmjDRgQ=s900-c-k-c0x00ffffff-no-rj" ,NSPORTS 01 HD [ALT]
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195707
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/NRC6t2nQd8JuC__XnwrjtuAtg5OKslzj-w7AcAmXUe_awlyyrBelvas6pcquK_nfhvTTmjDRgQ=s900-c-k-c0x00ffffff-no-rj" ,NSPORTS 01 SC HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195708
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/NRC6t2nQd8JuC__XnwrjtuAtg5OKslzj-w7AcAmXUe_awlyyrBelvas6pcquK_nfhvTTmjDRgQ=s900-c-k-c0x00ffffff-no-rj" ,NSPORTS 02 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195709
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/NRC6t2nQd8JuC__XnwrjtuAtg5OKslzj-w7AcAmXUe_awlyyrBelvas6pcquK_nfhvTTmjDRgQ=s900-c-k-c0x00ffffff-no-rj" ,NSPORTS 02 HD [ALT]
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195710
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/NRC6t2nQd8JuC__XnwrjtuAtg5OKslzj-w7AcAmXUe_awlyyrBelvas6pcquK_nfhvTTmjDRgQ=s900-c-k-c0x00ffffff-no-rj" ,NSPORTS 02 SC HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195711
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/NRC6t2nQd8JuC__XnwrjtuAtg5OKslzj-w7AcAmXUe_awlyyrBelvas6pcquK_nfhvTTmjDRgQ=s900-c-k-c0x00ffffff-no-rj" ,NSPORTS 03 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195712
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://yt3.googleusercontent.com/NRC6t2nQd8JuC__XnwrjtuAtg5OKslzj-w7AcAmXUe_awlyyrBelvas6pcquK_nfhvTTmjDRgQ=s900-c-k-c0x00ffffff-no-rj" ,NSPORTS 03 HD [ALT]
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195713
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 2 FHD 1080p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195715
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 2 | 720p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195716
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 3  | H.264 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195717
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 3 FHD 1080P
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195718
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 3 | 720p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195719
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 4  | H.264 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195720
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 4 FHD 1080P
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195721
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 4 | 720p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195722
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 5  | H.264 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195723
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 5 | 720p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195724
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 6 FHD 1080P
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195725
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 7  | H.264 480p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195726
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE 7 FHD 1080P
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195727
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE CLUBES | 1080p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195730
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" ,PREMIERE CLUBES | 720p
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195731
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 01 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195732
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 01 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195734
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 01 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195736
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 02 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195737
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 02 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195738
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 02 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195739
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 02 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195740
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 02 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195741
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 03 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195742
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 03 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195743
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 03 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195744
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 03 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195745
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 03 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195746
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 04 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195747
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 04 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195748
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 04 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195749
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 04 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195750
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 04 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195751
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195752
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195753
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195754
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195755
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 3
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195756
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL 3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195757
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL TV 1 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195758
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL TV 1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195759
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL TV 1 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195760
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL TV 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195762
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL TV 2 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195763
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL TV 3 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195764
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL TV 3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195765
+#EXTINF:-1 group-title="BRASIL SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1306011414897856512/yNOtGme9_400x400.jpg" ,CONMEBOL TV 3 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/195766
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" ,PREMIER LEAGUE | DAZN 1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/205613
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" ,PREMIER LEAGUE | DAZN 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/205614
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" ,1PREMIER LEAGUE | DAZN 3
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/205615
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" ,PREMIER LEAGUE | DAZN 4
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/205616
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" ,1PREMIER LEAGUE | ESPN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/205617
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" ,1PREMIER LEAGUE | NBC UNIVERSO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/205618
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" ,PREMIER LEAGUE | SKY SPORTS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/205621
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/dDgKFVj/proerws232.png" ,||DE|| Sky Sport Premier League HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/205622
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://i.ibb.co/jJSFbLp/wwpea.png" ,Peacock Live | WWE Network
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222127
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock Event 5 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654487
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock Event 6 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654490
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654493
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 10
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654496
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 11
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654499
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 12
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654502
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 13
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654505
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 14
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654508
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 15
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654511
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654514
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 3
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654517
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 4
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654520
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 7
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654523
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 8
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654526
+#EXTINF:-1 group-title="PREMIER LEAGUE & PEACOCK" tvg-logo="https://cdn.livesoccertv.com/tt/images/articles/36/36560-peacock-1.jpg?q=75&w=634" ,Peacock | Event 9
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/654529
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" ,DAZN F1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155616
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="DAZN F1" ,DAZN F1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155617
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" ,DAZN F1 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155619
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" tvg-id="AandE Network Canada" ,DAZN 1 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155620
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" tvg-id="dazn1.es" ,DAZN 1 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155621
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png" ,DAZN 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155622
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M2SD.png" ,DAZN 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155623
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN3.png" tvg-id="DAZN 3" ,DAZN 3 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155624
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZN4.png" ,DAZN 4 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/155625
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" tvg-id="DAZN F1 4K" ,DAZN F1 4K
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/147267
+#EXTINF:-1 group-title="DAZN  ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" ,DAZN 1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/221519
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://i.ibb.co/Gs3TQvV/movistar-es-multideporte.png" ,MULTIDEPORTES INFO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327972
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus+_2022_logo.svg/1024px-Vamos_por_Movistar_Plus+_2022_logo.svg.png" ,VAMOS SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327931
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus+_2022_logo.svg/1024px-Vamos_por_Movistar_Plus+_2022_logo.svg.png" ,VAMOS HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327926
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://i.postimg.cc/sxNBWh5d/1200px-Vamos-por-Movistar-Plus-2023-Logo-svg.png" ,M+ VAMOS FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327965
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus+_2022_logo.svg/1024px-Vamos_por_Movistar_Plus+_2022_logo.svg.png" ,M+ VAMOS FHD (FIBRA)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327949
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus+_2022_logo.svg/1024px-Vamos_por_Movistar_Plus+_2022_logo.svg.png" ,M+ VAMOS FHD (OP B)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327968
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" tvg-id="M+ Deportes" ,M+ DEPORTES SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327974
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" tvg-id="M+ Deportes" ,M+ DEPORTES HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327935
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" tvg-id="M+ Deportes" ,M+ DEPORTES FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327976
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" ,M+  DEPORTES 1 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327941
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES 1 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327952
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" tvg-id="M+ Deportes 2" ,M+ DEPORTES 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327939
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" tvg-id="M+ Deportes 2" ,M+ DEPORTES 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327977
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES 3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327933
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES 3 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327936
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES 4 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327947
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES 4 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327961
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES  5 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327942
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES 5 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327932
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES 6 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327940
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,M+ DEPORTES 6 Fhd
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327937
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo-2004-2010.jpg" ,#ELLAS HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327955
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" ,#Ellas FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327983
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" ,M+ GOLF HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327971
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" ,M+ GOLF FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327944
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" ,M+ GOLF 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327959
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" ,M+ GOLF 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327970
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,EUROSPORT 1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327938
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" tvg-id="Eurosport 1" ,EUROSPORT FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327982
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" ,EUROSPORT 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327964
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" tvg-id="Eurosport 2" ,EUROSPORT 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327954
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="http://www.automobilsport.com/uploads/_neustart20/4april-2017/Teledeporte_logo.jpg" ,TELEDEPORTES
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327966
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/320px-Tve_teledeporte.png" ,TELEDEPORTES HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327953
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="http://www.automobilsport.com/uploads/_neustart20/4april-2017/Teledeporte_logo.jpg" ,TELEDEPORTES FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327981
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" ,MUNDOTORO HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327973
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" ,MUNDOTORO HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327978
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" ,ONETORO FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327969
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxlRxRL2mogXK6A1TiVG2GrpezD3ktzzCXqw&s" ,EL TORO TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327943
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://i.postimg.cc/prpbmh2S/image.png" ,CAZA Y PESCA HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327929
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://i.postimg.cc/prpbmh2S/image.png" ,CAZA Y PESCA FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327930
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://i.postimg.cc/Vvn9WwWr/227650.png" ,IBERALIA 100% PESCA FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327951
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUHV-xKO0xxQJd2ICQPcWXb.png" ,IBERALIA TV HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327979
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" ,IBERALIA TV FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327960
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tFuFURkdXMRX2c894GJEzo5w.png" ,IBERALIA 100% CAZA FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327934
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://i.postimg.cc/XYQvBF3n/image.png" ,CAZAVISION SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327963
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" ,CAZAVISION HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327946
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/86a892c3e955eafb4f58bb24b5882113.png" ,REAL MADRID TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327980
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/86a892c3e955eafb4f58bb24b5882113.png" ,REAL MADRID FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327957
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="http://de.live-tv-channels.net/pt-data/uploads/logo/sevilla_fc_tv_es.png" ,BETIS TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327922
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/MyPadelTV_1000x1000_Circle.png?$296_164_PNG" ,MY PADEL TV HD (OFFLINE)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/327924
+#EXTINF:-1 group-title="DEPORTES ESPAÑA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6yQx-SeRO77SL9O0aeLuPJlERxrr_LGhv7RHY63-VKmoQ1akSjZwDXyV2pT-G3NruRk&usqp=CAU" ,DAZN ACB
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/717975
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" tvg-id="M+ LALIGA TV" ,LaLiga TV POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584954
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" tvg-id="M+ LALIGA TV" ,LaLiga TV POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584955
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" tvg-id="M+ LALIGA TV" ,LaLiga TV POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584956
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175335" ,LaLiga TV 2 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584958
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175335" ,LaLiga TV 2 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584959
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175335" ,LaLiga TV 2 por M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584960
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LaLigaTV_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175336" tvg-id="M+ LALIGA TV 3" ,LaLiga TV 3 por M+  HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584962
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LaLigaTV_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175336" tvg-id="M+ LALIGA TV 3" ,LaLiga TV 3 por M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584963
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/LaLigaTV_4_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175337" tvg-id="M+ LALIGA TV 4" ,LaLiga TV 4 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584964
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaLigaTV_5_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175338" ,LaLiga TV 5 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584966
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaLigaTV_6_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175339" ,LaLiga TV 6 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584968
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/LaLigaTV_7_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175340" ,LALIGA TV 7 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584970
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-id="LALIGA TV HYPERMOTION" ,LaLiga TV HYPERMOTION SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584971
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-id="LALIGA TV HYPERMOTION" ,LaLiga TV HYPERMOTION HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584972
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-id="LALIGA TV HYPERMOTION" ,LaLiga TV HYPERMOTION FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584974
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" tvg-id="LALIGA TV HYPERMOTION 2" ,LaLiga TV HYPERMOTION 2 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584975
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" tvg-id="LALIGA TV HYPERMOTION 2" ,LaLiga TV HYPERMOTION 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584976
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV HYPERMOTION 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584977
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" tvg-id="LALIGA TV HYPERMOTION 3" ,LaLiga TV HYPERMOTION 3 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584979
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" tvg-id="LALIGA TV HYPERMOTION 3" ,LaLiga TV HYPERMOTION  3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584980
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS4.png" ,LaLiga TV HYPERMOTION 4 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584984
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" ,LaLiga TV HYPERMOTION 5
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584985
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.postimg.cc/7ZNzxRJT/Screenshot-2024-08-13-124254.png" tvg-id="LA 1" ,LIGATV BAR SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584987
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.postimg.cc/7ZNzxRJT/Screenshot-2024-08-13-124254.png" ,LALIGA TV BAR FHD (SOLO EVENTOS)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584989
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.postimg.cc/7ZNzxRJT/Screenshot-2024-08-13-124254.png" ,LALIGA TV BAR 2 (SOLO EVENTOS)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584990
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA" ,DAZN LALIGA SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584992
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA" ,DAZN LALIGA HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584993
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" tvg-id="DAZN LALIGA" ,DAZN LALIGA FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584995
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.postimg.cc/5ycjJrxC/LA-liga.png" tvg-id="DAZN LALIGA 2" ,DAZN LALIGA 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584996
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.postimg.cc/5ycjJrxC/LA-liga.png" tvg-id="DAZN LALIGA 2" ,DAZN LALIGA 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584997
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/DAZN_LaLiga_3_2023.png/revision/latest?cb=20230708174531" ,DAZN LALIGA 3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584999
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/DAZN_LaLiga_3_2023.png/revision/latest?cb=20230708174531" ,Dazn LaLiga 3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585000
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/DAZN_LaLiga_4_2023.png/revision/latest?cb=20230708174532" ,DAZN LA LIGA 4 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585001
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/DAZN_LaLiga_4_2023.png/revision/latest?cb=20230708174532" ,DAZN LALIGA 4 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585002
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/DAZN_LaLiga_5_2023.png/revision/latest?cb=20230708174533" ,DAZN LALIGA 5
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585003
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.postimg.cc/3x1Lx01r/Liga-de-Campeones-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ Liga de Campeones" ,LIGA DE CAMPEONE POR M+ SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585006
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.postimg.cc/3x1Lx01r/Liga-de-Campeones-por-Movistar-Plus-2023-Logo-svg.png" ,LIGADECAMPEONES POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585007
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.postimg.cc/3x1Lx01r/Liga-de-Campeones-por-Movistar-Plus-2023-Logo-svg.png" tvg-id="M+ Liga de Campeones" ,LIGA DE CAMPEONES POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585009
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-id="1+1 Internacional" ,LIGA DE CAMPEONES 2 POR M+ SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585010
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-id="1+1 Internacional" ,LIGA DE CAMPEONE 2 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585011
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" ,LIGA DE CAMPEONES 2 POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585012
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193609" tvg-id="M+ Liga de Campeones 3" ,LIGA DE CAMPEONE 3 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585013
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193609" tvg-id="M+ Liga de Campeones 3" ,LIGA DE CAMPEONES 3 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585014
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193609" tvg-id="M+ Liga de Campeones 3" ,LIGA DE CAMPEONES 3 POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585015
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Liga_de_Campeones_4_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193610" tvg-id="M+ Liga de Campeones 4" ,LIGA DE CAMPEONES 4 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585016
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Liga_de_Campeones_4_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193610" tvg-id="M+ Liga de Campeones 4" ,LIGA DE CAMPEONES 4 POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585017
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Liga_de_Campeones_5_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193611" ,LIGA DE CAMPEONES 5 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585018
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Liga_de_Campeones_5_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193611" ,LIGA DE CAMPEONES 5 POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585019
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Liga_de_Campeones_6_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193612" ,LIGA DE CAMPEONES 6 SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585020
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Liga_de_Campeones_6_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193612" ,LIGA DE CAMPEONES 6 POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585021
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Liga_de_Campeones_7_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193614" ,LIGA DE CAMPEONES 7 POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585022
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Liga_de_Campeones_8_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193615" ,LIGA DE CAMPEONES 8 POR M+ SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585023
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Liga_de_Campeones_8_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193615" ,LIGA DE CAMPEONES 8 POR M+ HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585024
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Liga_de_Campeones_9_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193616" ,LIGA DE CAMPEONES 9 POR M+ SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585025
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Liga_de_Campeones_9_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193616" ,LIGA DE CAMPEONES 9 POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585026
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Liga_de_Campeones_10_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193617" ,LIGA DE CAMPEONES 10 POR M+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585028
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Liga_de_Campeones_11_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193618" ,LIGA DE CAMPEONES 11 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585029
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Liga_de_Campeones_12_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193619" ,LIGA DE CAMPEONES 12 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585030
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Liga_de_Campeones_13_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193620" ,LIGA DE CAMPEONES 13 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585031
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Liga_de_Campeones_14_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193621" ,LIGA DE CAMPEONES  14 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585032
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Liga_de_Campeones_15_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193623" ,LIGA DE CAMPEONES 15 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585033
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Liga_de_Campeones_16_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193624" ,LIGA DE CAMPEONES 16 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585034
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Liga_de_Campeones_17_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193625" ,LIGA DE CAMPEONES 17 POR M+
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585035
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" ,Dazn Liga Femenina 1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585036
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" ,Dazn Liga Femenina 1 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585037
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" ,Dazn Liga Femenina 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585038
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" ,Dazn Liga Femenina 2 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585039
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" ,Dazn Liga Femenina 3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585040
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" ,Dazn Liga Femenina 3 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585041
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" ,Dazn Liga Femenina 4 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585042
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" ,Dazn Liga Femenina 4 HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585043
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://s3.dixtin.com/Logos-ES/golplay.png" tvg-id="GOL PLAY" ,GOL PLAY FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585044
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://s3.dixtin.com/Logos-ES/rm.png" tvg-id="Real Madrid TV" ,Real Madrid TV FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585045
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://contenidostv.b-cdn.net/images/betis.png" ,BETIS TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585046
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://contenidostv.b-cdn.net/images/logos512/sevillaFC.png" ,SEVILLA FC
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585047
+#EXTINF:-1 group-title="FUTBOL ESPAÑA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" ,SKY SPORTS LALIGA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/585048
+#EXTINF:-1 group-title="LIGA ENDESA" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" ,LIGA ENDESA 1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/721172
+#EXTINF:-1 group-title="LIGA ENDESA" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" ,LIGA ENDESA 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/721173
+#EXTINF:-1 group-title="LIGA ENDESA" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" ,LIGA ENDESA 3
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/721174
+#EXTINF:-1 group-title="LIGA ENDESA" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" ,LIGA ENDESA 4
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/721175
+#EXTINF:-1 group-title="LIGA ENDESA" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" ,LIGA ENDESA 5
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/721176
+#EXTINF:-1 group-title="LIGUE 1 FRANCIA" tvg-logo="http://fanc.tmsimg.com/assets/s76955_ll_h3_aa.png" ,USA: BEIN SPORTS EN ESPANOL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/89811
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 01  | Venezia vs Torino   | 12.30PM ET | FRI
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219733
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 02:
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219734
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 03:
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219735
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 04:
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219736
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 05:
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219737
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 06: OFFLINE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219738
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 07: OFFLINE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219739
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 08: OFFLINE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219740
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 09: OFFLINE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219741
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 01  | Venezia vs Torino   | 12.30PM ET | FRI
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222133
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 02  | Inter vs Atalanta  | 2.45PM ET | FRI
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222136
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 03:
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222128
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 04:
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222135
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 05:
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222131
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" , Serie A 06: OFFLINE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222129
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 07: OFFLINE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222132
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 08: OFFLINE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222130
+#EXTINF:-1 group-title="SERIE A -  EVENTS -" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" ,Serie A 09: OFFLINE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/222134
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" ,Champions 00 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595597
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" ,Champions 01 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595598
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" ,Champions 02 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595599
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" ,Champions 03 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595600
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" ,Champions 04 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595601
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" ,Champions 05 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595602
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" ,Champions 06 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595603
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://w7.pngwing.com/pngs/819/352/png-transparent-uefa-champions-league-logo-2018-uefa-champions-league-final-uefa-europa-league-europe-2012-uefa-champions-league-final-champions-league-text-sport-team-thumbnail.png" ,Champions 07 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595604
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://w7.pngwing.com/pngs/819/352/png-transparent-uefa-champions-league-logo-2018-uefa-champions-league-final-uefa-europa-league-europe-2012-uefa-champions-league-final-champions-league-text-sport-team-thumbnail.png" ,Champions 08 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595605
+#EXTINF:-1 group-title="⚽️⭐CHAMPIONS LEAGUE⭐⚽️" tvg-logo="https://w7.pngwing.com/pngs/819/352/png-transparent-uefa-champions-league-logo-2018-uefa-champions-league-final-uefa-europa-league-europe-2012-uefa-champions-league-final-champions-league-text-sport-team-thumbnail.png" ,Champions 09 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595606
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 00 | Paok FC vs. Brann 12.45 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714384
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 01 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714385
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 02 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714386
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 03 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714387
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 04 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714388
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 05 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714389
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 06 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714390
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 07 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714391
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 08 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714392
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 09 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714393
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 10 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714394
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 11 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714395
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 12 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714396
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 14 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714397
+#EXTINF:-1 group-title="⚽️EUROPA LEAGUE⚽️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" ,Europa League 15 |
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714398
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 00 | Rayo Vallecano vs Drita 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714402
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 01 | Dynamo Kyiv vs Noah 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714403
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 02 | AZ vs Jagiellonia Białystok 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714404
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 03 | AEK Athens vs CSU Craiova 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714405
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 04 | Sparta Praha vs Aberdeen 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714406
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 05 | Strasbourg vs Breidablik 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714407
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 06 | Crystal Palace vs KuPS 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714408
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 07 | Shakhtar Donetsk vs Rijeka 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714409
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 08 | Lausanne Sport vs Fiorentina 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714410
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 09 | Mainz 05 vs Samsunspor 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714411
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 10 |  Shamrock Rovers vs Hamrun Spartans 3 PM ET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714412
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 11 |  AEK Athens vs. Universitatea Craiova
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714413
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 12 |  NK Celje vs. Shelbourne
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714414
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 13 |  Legia Warsaw vs. Lincoln Red Imps
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714415
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 14 | AC Omonia vs. Rakow Czestochowa
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714416
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 17 |  Zrinjski vs. SK Rapid Wlen
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714419
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 15 | Sigma Olomouc vs. Lech Poznan
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714417
+#EXTINF:-1 group-title="⚽️CONFERENCE LEAGUE⚽️" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" ,UEFA Conference League 16 |  Sk Slovan Bratislava vs. BK Hacken
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/714418
+
 #EXTINF:-1 group-title="☕NOTICIAS☕" tvg-logo="https://i.pinimg.com/736x/d9/65/43/d96543eb081b35485b525a486c57be3b.jpg" ,TVE INTERNACIONAL
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/440628
 #EXTINF:-1 group-title="☕NOTICIAS☕" tvg-logo="https://i.ibb.co/fpLR220/rtespa.png" ,RT Español
@@ -858,4 +1503,5 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596997
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596998
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://restream.tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPi-vcC_1uQj7S-uBWqQaGJW9344MxtrPmZXTNRqlfy-X_jTzzTHTs00rDYOkxVlDIF.png" ,VERIFIED AMATEURS: YINYLEON
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596999
+
 
