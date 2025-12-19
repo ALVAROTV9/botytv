@@ -2,6 +2,136 @@
 
 
 
+
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/J0MtHDy9/TNT-Sports-2023-2.png" tvg-id="AandE Network Canada" ,BOTYYV INFO
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/J0MtHDy9/TNT-Sports-2023-2.png" tvg-id="AandE Network Canada" ,TNT SPORTS  »2«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417209
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/J0MtHDy9/TNT-Sports-2023-2.png" tvg-id="tntsports.cl" ,TNT SPORTS  »3«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417208
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" tvg-id="AandE Network Canada" ,TNT SPORTS PREMIUM »1«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417206
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" tvg-id="2M Maroc" ,TNT SPORTS PREMIUM »2«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417204
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/wMmydQdY/descarga-2.png" tvg-id="2M Maroc" ,TNT SPORTS PREMIUM »3«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417202
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »2«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417199
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »1«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417198
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,FCL• ESPN (HD) »1«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417183
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,FCL• ESPN (HD) »2«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/417182
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" ,CHI | ETC TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9814
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest?cb=20190903233759&path-prefix=es" ,CHI | TELETRAK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9815
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" ,CHI | LA RED
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9816
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" ,CHI | LA REDᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9817
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/TVN2020.svg/revision/latest/scale-to-width-down/1000?cb=20210906211313" ,CHI | TVN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9820
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/TVN2020.svg/revision/latest/scale-to-width-down/1000?cb=20210906211313" ,CHI | TVNᴴᴰ (E)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9821
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/TVN2020.svg/revision/latest/scale-to-width-down/1000?cb=20210906211313" ,CHI | TVN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9822
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/1000?cb=20230331024750&path-prefix=es" tvg-id="Mega.cl" ,CHI | MEGA OP1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9823
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/1000?cb=20230331024750&path-prefix=es" ,CHI | MEGA OP2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9824
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/1000?cb=20230331024750&path-prefix=es" ,CHI | MEGA OP3
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9825
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/qMYhfTCW/chilevision7955-removebg-preview.png" ,CHI | CHILEVISION
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9826
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/qMYhfTCW/chilevision7955-removebg-preview.png" tvg-id="ChileVision.cl" ,CHI | CHILEVISIONᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9827
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/qMYhfTCW/chilevision7955-removebg-preview.png" tvg-id="chv.cl" ,CHI | CHILEVISIONᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9828
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" ,CHI | CANAL 13
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9829
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" ,CHI | CANAL 13ᴴᴰ (E)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9830
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Emblema_del_Canal_13_Chile.png" ,CHI | CANAL 13ᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9831
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Canal_13C_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415234114" tvg-id="13C.cl" ,CHI | CANAL 13Cᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9832
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" ,CHI | 24 HORASᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9833
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest?cb=20190903233759&path-prefix=es" ,CHI | TELETRAKᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33113
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Logoteletrak2008.png/revision/latest?cb=20190903233759&path-prefix=es" ,CHI | TELETRAKᴴᴰ (E)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33114
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" ,CHI | ETC TVᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33115
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" ,CHI | ETC TVᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33116
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb=20210517191249&path-prefix=es" ,CHI | LA REDᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33117
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Canal_13C_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415234114" ,CHI | CANAL 13C
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33118
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Canal_13C_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415234114" ,CHI | CANAL 13Cᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33119
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" ,CHI | 24 HORAS (DTV)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33120
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" ,CHI | 24 HORASᴴᴰ
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/33121
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" ,CH: TV+ (E)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/42445
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Canal_13_Chile_2018_impreso.svg/revision/latest/scale-to-width-down/250?cb=20210501153859&path-prefix=es" ,CH: 13T (Teleserie)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/86788
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSVaJOzP0wCV-BLQPyo7bd7vlTlJm8Vb8OgKqWoeQ=s900-c-k-c0x00ffffff-no-rj" ,CH: CAMARA DE DIPUTADOS HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/86790
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/TV_Senado_%282000%29.png/revision/latest?cb=20180408155336&path-prefix=es" ,CH: TV SENADO HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/86791
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" tvg-id="RecTV.cl" ,CHI || Rec TV FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/150315
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" tvg-id="RecTV.cl" ,CHILE | REC TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/150316
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d0460027068c00001f446ea/6415207f-a0ca-4f3f-b6d8-cb8de44b7cf4/LOGO-CDO_WEB.png" tvg-id="637dtv.cl" ,CH: CDO Premium HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/150398
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d0460027068c00001f446ea/6415207f-a0ca-4f3f-b6d8-cb8de44b7cf4/LOGO-CDO_WEB.png" tvg-id="CDOBasico" ,CH: CDO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/150399
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Canal-13-Logo-2010-2018.png" ,CL: Canal 13E HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/166702
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Canal-13-Logo-2010-2018.png" ,CL: Canal 13E SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/166703
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Canal-13-Logo-2010-2018.png" tvg-id="13C" ,CL: Canal 13P HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/166704
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Canal-13-Logo-2010-2018.png" ,CL: Canal 13P SD (S)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/166705
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/TVN2020.svg/revision/latest/scale-to-width-down/1000?cb=20210906211313" tvg-id="149dtv.cl" ,CH: TVN FHD(E)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/171590
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://logo.iptveditor.com/totv.png" ,VIa X
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235662
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.ytimg.com/vi/VdG9vCns-LA/sddefault.jpg" ,Mega Go ( eventos)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/487973
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/BQ2tK9vJ/Logo-de-TV-Chile.png" ,TV CHILE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/542570
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/BQ2tK9vJ/Logo-de-TV-Chile.png" ,TV CHILE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/542571
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" ,ZAPPING FUNCIONA SOLO EN EVENTOS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584193
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/63a079313acce157b7573dd7_zappingsports.jpg" ,ZAPPING EVENTOS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/584194
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/zDRH1VgY/senpai.png" ,Senpai TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/710335
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TpmeLVvfRgRt57eEnafP7rViLBeNIElAtQ&s" ,ZONA LATINA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/715105
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/QdB9Q6tn/Logotipo-de-Teletrece-2019-2022.png" ,CHI | T13
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/719956
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/y8C59SC4/Pantallazo-25-10-2025-12-55-43.jpg" ,Itv PATAGONIA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/721150
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" ,LA LIGA 2D (SOLO EVENTOS)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/581835
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" ,LA LIGA 2D OP2 (SOLO EVENTOS)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/581836
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" ,LA LIGA 2D OP3 (SOLO EVENTOS)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/712134
+
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" ,BOTYTV INFORMACION
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 
@@ -1619,6 +1749,7 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596997
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596998
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://restream.tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPi-vcC_1uQj7S-uBWqQaGJW9344MxtrPmZXTNRqlfy-X_jTzzTHTs00rDYOkxVlDIF.png" ,VERIFIED AMATEURS: YINYLEON
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596999
+
 
 
 
