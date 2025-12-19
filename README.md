@@ -2,6 +2,290 @@
 
 
 
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/512x512bb.jpg" ,Directv Sports Perú
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9462
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://www.directv.com.pe/content/dam/public-sites/channels/613.png" ,Directv Sports 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9463
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/DirecTV_Plus_2005_logo.png/revision/latest?cb=20201023183946&path-prefix=es" ,Directv Sports + Plus
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9464
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/76/36/8f763642-25ea-74f8-9305-203aee521d55/source/512x512bb.jpg" ,Movistar Deportes HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9465
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/76/36/8f763642-25ea-74f8-9305-203aee521d55/source/512x512bb.jpg" ,Movistar Deportes HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9466
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" ,Movistar Plus SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9468
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" ,Movistar Plus SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9469
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" ,Gol Perú HD DIRECTO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9470
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" tvg-id="11mvstr.pe" ,Gol Perú HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9471
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" tvg-id="11mvstr.pe" ,Gol Perú SD DIRECTO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9472
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1813.png" ,LIGA 1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/9498
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1813.png" ,LIGA 1 op2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/193163
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" ,LIGA MAX 1 opc2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208114
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" ,LIGA MAX 1 (P)
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208115
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" ,LIGA MAX 1 opc 4
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208116
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" ,LIGA 1 MAX opc 5
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208117
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" ,LIGA 1 MAX opc 6
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208118
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://seeklogo.com/images/E/espn-deportes-logo-822209EBA3-seeklogo.com.png" tvg-id="621dtv.pe" ,ESPN PE HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208119
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://seeklogo.com/images/E/espn-deportes-logo-822209EBA3-seeklogo.com.png" ,ESPN PE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208120
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://seeklogo.com/images/E/espn-deportes-logo-822209EBA3-seeklogo.com.png" ,ESPN PE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208121
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" ,ESPN 2 PE
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208122
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" ,ESPN 2 PE SD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208123
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png" ,ESPN 2 PE HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/208124
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Monterrico_TV_%282006_-%29.jpg/revision/latest/scale-to-width-down/340?cb=20150330182601" ,Monterrico TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/309769
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nativa.png/revision/latest/scale-to-width-down/330?cb=20220711233101&path-prefix=es" ,NATIVA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/598556
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1813.png" ,LIGA 1 opc3
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/204745
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" ,LIGA 1 MAX
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/204746
+#EXTINF:-1 group-title="DEPORTES PERU" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/398ecb70182885.Y3JvcCw4ODAsNjg4LDI0OCwzOQ.jpg" ,EVENTOS HD DIRECTO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/219365
+#EXTINF:-1 group-title="DEPORTES HONDURAS" tvg-logo="data:image/jpeg;base64,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" ,Deportes TVC Opc 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/502427
+#EXTINF:-1 group-title="DEPORTES HONDURAS" tvg-logo="https://hondurascdn.b-cdn.net/wp-content/uploads/2022/10/Logotipo-Vertical-con-Soporte.png" ,Eventos Futbol Honduras 01
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/502429
+#EXTINF:-1 group-title="DEPORTES HONDURAS" tvg-logo="https://hondurascdn.b-cdn.net/wp-content/uploads/2022/10/Logotipo-Vertical-con-Soporte.png" ,Eventos Futbol Honduras 02
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/502430
+#EXTINF:-1 group-title="DEPORTES HONDURAS" tvg-logo="data:image/jpeg;base64,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" ,Deportes TVC Opc 1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/502428
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAFyC9esTKiqBqjmtqYdaBd7WFw86NPTTbfve3iVWqDfxDl1IX13gtEEqV92rjnvuHBM&usqp=CAU" ,USA: ESPN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595816
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" ,USA: ESPN 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595817
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" ,USA: ESPN DEPORTES
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595818
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuZHmLePTK-qxz2o2JAqAb4VNpm_MMC5Iqw&s" ,USA: ESPN NEWS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595819
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://media.licdn.com/dms/image/v2/D4E22AQG7L3_thHljBg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1700002306392?e=2147483647&v=beta&t=nYg3wEKOv5Ntgi11sK_l1S2qP2eAsmtK8MzY9hmGYFo" tvg-id="ESPNU" ,USA: ESPN U
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595820
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/EUKKPQX43NGPVF4GDBQPEV67DI.png" ,USA | ARIZONA FAMILY SPORTS NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595821
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/ACCNetwork.us.png" ,USA: ACC NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595822
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://monumentalsports.com/wp-content/uploads/2019/06/MSN.png" ,USA: MONUMENTAL SPORTS NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595823
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/AltitudeSports.us.png" ,USA: ALTITUDE SPORTS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595824
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/AltitudeSports.us.png" ,USA: ALTITUDE SPORTS 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595825
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2023/05/Untitled-design-91.jpg" ,USA: AT&T SPORTSNET PITTSBURGH
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595826
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2023/05/Untitled-design-91.jpg" ,USA: ATT SPORTSNET PITSBURG ALT
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595827
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2023/05/Untitled-design-91.jpg" ,USA: AT&T SPORTSNET SOUTHWEST
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595828
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://i.postimg.cc/DZb80g4t/Fan-Duel-Sports-Network-Detroit-logo.png" ,USA: FANDUEL SPORTS NETWORK DETROIT
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595829
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/FanDuel_Sports_Network_Detroit_logo.svg/1200px-FanDuel_Sports_Network_Detroit_logo.svg.png" ,USA: FANDUEL SPORTS NETWORK DETROIT
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595830
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/florida.jpg/Zz04ZjllNGJjODdhYzUxMWVmYjMxZTNlZmZkZWMzZWYxYQ==?width=768&height=430" ,USA: FANDUEL SPORT NETWORK FLORIDA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595831
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsGreatLakes.us.png" ,USA: BALLY SPORTS GREAT LAKES
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595832
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsIndiana.us.png" ,USA: BALLY SPORTS INDIANA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595833
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsIndianaPlus.us.png" ,USA: BALLY  SPORTS INDIANA PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595834
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FanDuel_Sports_Network_Kansas_City_logo.svg/1200px-FanDuel_Sports_Network_Kansas_City_logo.svg.png" ,USA: FANDUEL SPORTS NETWORK KANSAS CITY
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595835
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsKansasCityPlus.us.png" ,USA: BALLY SPORTS KANSAS CITY PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595836
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/FanDuel_Sports_Network_Midwest_2024.svg/revision/latest/scale-to-width-down/300?cb=20241021180400" ,USA: FANDUEL MIDWEST
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595837
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5bVTw75UM3k3_eNYRw5a2txBKjieRHWTOw&s" ,USA: FANDUEL  NEW ORLEANS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595839
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsNorth.us.png" ,USA: BALLY SPORTS NORTH
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595841
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="data:image/png;base64,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" ,USA: FANDUEL OHIO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595843
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsOhioPlus.us.png" ,USA: BALLY SPORTS OHIO PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595844
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/FanDuel_Sports_Network_Oklahoma_2024.svg/revision/latest/scale-to-width-down/300?cb=20241021180353" ,USA: FANDUEL OKLAHOMA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595845
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsOklahomaPlus.us.png" ,USA: BALLY SPORTS OKLAHOMA PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595846
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh3NiUyIlKg30b7Ftf4CBQIFkR-aBNqpr2Rw&s" ,USA: FANDUEL SPORTS NETWORK SO CAL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595848
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://storage.googleapis.com/ballysports_team_assets-prod/icons/bly_sprt_socal_lg_hrz_rgb_pos_210121.png" ,USA: BALLY SPORTS SOCAL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595849
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsSouth.us.png" ,USA: BALLY SPORTS SOUTH
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595850
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsSouthPlus.us.png" ,USA: BALLY SPORTS SOUTH PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595851
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsSoutheast.us.png" ,USA: BALLY SPORTS SOUTHEAST
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595852
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FanDuel_Sports_Network_Southeast_logo.svg/1200px-FanDuel_Sports_Network_Southeast_logo.svg.png" ,USA: FANDUEL SPORTS NETWORK SOUTHEAST
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595853
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4gZhsZ0H2qvHJBEEFm28S4bwykHD1t9Aww&s" ,USA: FANDUEL SOUTHWEST
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595854
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsSouthwestPlus.us.png" ,USA: BALLY SPORTS SOUTHWEST PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595855
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://images-cdn2.welcomesoftware.com/assets/Sun.jpg/Zz0xMGJkZWUxMDdiNTMxMWVmODA0ZTQyNWM0NjE4Y2U3MQ==?width=768&height=430" ,USA: FANDUEL SUN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595856
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsWest.us.png" ,USA: BALLY SPORTS WEST
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595857
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://iptvboss.xyz/logos/USA/BallySportsWisconsin.us.png" ,USA: BALLY SPORTS WISCONSIN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595858
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://images-cdn1.welcomesoftware.com/assets/wisconson.jpg/Zz01ZGEwNDM4YzdiNDgxMWVmYjBjNWMyMGJmOTcxNTM5Yw==?width=768&height=430" ,USA: FANDUEL WISCONSIN PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595859
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/10/space-city-home-network.jpg" ,USA: ATTSPORTSNET SOUTHWEST ALT
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595860
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1eHN0iyOn0rawZCtwzRqk8Tbf_vd58vYuWeL36EDhbLzd=s900-c-k-c0x00ffffff-no-rj" ,USA: BEIN SPORTS 4
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595861
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_5_US.png" ,USA: BEIN SPORTS 5
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595862
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQItlXUDzjh_BtgIN7UKfDsP3WE19CK3VJA&s" ,USA: BEIN SPORTS 6
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595863
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/BeIn_Sports_7_US.png" ,USA: BEIN SPORTS 7
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595864
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3xzubr-LwPBW6wuKxtj2_eLMuETQbF857Kg&s" ,USA: BEIN SPORTS 8
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595865
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSM588p-_y3XCHnmmhtVTEbBMVGjMV9XcmA&s" ,USA: BEIN SPORTS ESPANOL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595866
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://undergroundservice.xyz:8080/images/t6s7xn0v30CDcGEVlgq8Lg_UQvgTIf8mpjcARB8C6cBPVYlMboyn21ZGiaHHFNSJ66a5rXxqY1JUSXBPQP_0zA.png" ,USA: BEIN SPORTS LALIGA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595867
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sport-XTRA-380x264.png" ,USA: BEIN SPORTS XTRA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595868
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://w7.pngwing.com/pngs/135/52/png-transparent-bein-sports-1-bein-sports-2-television-channel-bein-sport-purple-television-violet.png" ,USA: BEIN SPORTS USA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595869
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj" ,USA: BIG TEN NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595870
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj" ,USA: BIG TEN OVERFLOW 1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595871
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj" ,USA: BIG TEN OVERFLOW 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595872
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj" ,USA: BIG TEN OVERFLOW 3
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595873
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://www.cbssports.com/_next/static/media/sportsLogoLandscape.665affb0.png" ,USA: CBS SPORTS NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595874
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3xI9Asj34b8lfCt5awgfFjz8nCykd4E8Czw&s" ,USA: THE FIGHT NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595875
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg" ,USA | FIGHT SPORTS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595876
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://yt3.googleusercontent.com/pDqOiqe4pEdRRRpRIW9cJrdiMLYy0ZLCbVP8p82tWGgovqNXS9qidVEGGLRI5HNDuTVcMDq1fQ=s900-c-k-c0x00ffffff-no-rj" ,USA | FUBO Sports Network HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595877
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://www.foxdeportes.com/assets/images/logo-fox.png" ,USA: FOX DEPORTES FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595878
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://undergroundservice.xyz:8080/images/t6s7xn0v30CDcGEVlgq8LmdkhrfDio-U3HtHTm0hpq54YkmhkhhnF4lPnfskt8M7.png" ,USA: FOX SOCCER PLUS FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595879
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_7085.png.71dfc9eed07b3cb914541dc9687a631e.png" ,USA: FOX SPORTS 1 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595880
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://w7.pngwing.com/pngs/634/692/png-transparent-fox-sports-2-fox-sports-networks-television-channel-fox-sports-1-fs-television-blue-angle-thumbnail.png" ,USA: FOX SPORTS 2 FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595881
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSvxR3q73e5lO7D_N-D1_O6wO9GcKpGDmfrw&s" ,USA:  GOLTV English HD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595882
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://undergroundservice.xyz:8080/images/t6s7xn0v30CDcGEVlgq8LmmpoZuuC-Fb8co4Q9m4C3KLhD6RFvXu30AniZbS-EWm.png" ,USA: HUNT CHANNEL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595883
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://play-lh.googleusercontent.com/rZiGEL6QKhWvViErW3lw9Ma_yturUVTfvUg-elSolVYPlP4ZrghmrYTgzn-FgrYT8zw" ,USA: MARQUEE SPORTS NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595884
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://play-lh.googleusercontent.com/sBBgmMPhzVkEIyA_6s0oKjtcxg2V60LxN8iLmjPHsnvm9IkwxOfBpYGN6d69BTU_Dg" ,USA: MASN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595885
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe4fKko1JLHUkVn1yBEvXVpJun9aTQWA263Q&s" ,USA: MASN 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595886
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://motorsportsnewswire.com/wp-content/uploads/2023/10/MAVTV-Logo-678.jpg" ,USA: MAVTV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595887
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png" ,USA: MOTORTREND
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595888
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://sportsnaut.com/wp-content/uploads/2023/08/msglogo_msg.jpg?w=788&h=444&crop=1" ,USA: MSG
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595889
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgJAzC1eJlmROLMTVgUBETYXie421Pcp7PA&s" ,USA: MSGSN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595890
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2022/04/MSGPlus.png" ,USA: MSG 2 PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595891
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2022/04/MSGPlus.png" ,USA: MSG PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595892
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLVY7lqBn9wFLgsaxLIikQeiu9FujgVwReIw&s" ,USA: GOLF CHANNEL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595893
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-bay-area.png" ,USA: NBC SPORTS BAY AREA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595894
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/NBC+sports+bay+area.png/Zz04YWIwOTNlMmI5NDYxMWVkYTU3Nzk2ZmI0Y2NmY2IzMg==?width=1200" ,USA: NBC SPORTS BAY AREA PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595895
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://yt3.googleusercontent.com/-R9B7GUcdOK6NgAO8nNXns2EbhLoCGFi2ojeFw2DtpOHnXVuTAW_9TCk6n9vsaW-5IqNI4Rg=s900-c-k-c0x00ffffff-no-rj" ,USA: NBC SPORTS BOSTON
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595896
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi8eHlOCatjvnJex8YednqLhqbCG556XnZQ&s" ,USA: NBC SPORTS CALIFORNIA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595897
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi8eHlOCatjvnJex8YednqLhqbCG556XnZQ&s" ,USA: NBC SPORTS CALIFORNIA +
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595898
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiK-6dHjkx2vwJaCdfRKpLo2Dq9_kFr6IbEg&s" ,USA: NBC SPORTS CHICAGO
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595899
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-Chicago-logo.png" ,USA: NBC SPORTS CHICAGO PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595900
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKJ7fPgUXe7PWurABh-APTkWsBpQQ04XBDGA&s" ,USA: NBC SPORTS PHILADELPHIA
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595901
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://media.nbcsportsphiladelphia.com/2023/05/nbc-sports-philadelphia-640-8.png?resize=1200,675&quality=85&strip=all" ,USA: NBC SPORTS PHILLY PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595902
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLlWjPujJ5rroWDm2u8TuER0gNfgnd7dJvGA&s" ,USA: NBC SPORTS WASHINGTON
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595903
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/2b/Nbcswas_pri_fc_neg.png/revision/latest/scale-to-width-down/1200?cb=20210407004032" ,USA: NBC SPORTS WASHINGTON PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595904
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://media.licdn.com/dms/image/v2/D4E16AQHBWhkYcOsHXA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1680620929964?e=2147483647&v=beta&t=RwW1x4x74xvViAn9W__yZhx1GkymSK7YUdgs3zrsIoI" ,USA: NESN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595905
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://media.licdn.com/dms/image/v2/D4E16AQHBWhkYcOsHXA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1680620929964?e=2147483647&v=beta&t=RwW1x4x74xvViAn9W__yZhx1GkymSK7YUdgs3zrsIoI" ,USA: NESN PLUS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595906
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" ,USA: OUTDOOR CHANNEL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595907
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_rhEEm5Vl7HSuAY6V3_nV7ntPdNkJw8_QA&s" ,USA: ROOT SPORTS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595908
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://pbs.twimg.com/profile_images/1807511369710817280/9cy0EI66_400x400.jpg" ,USA: SEC NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595909
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://www.tvguide.com/a/img/resize/e828a0b5578d39f5543c1a5eef7d14b9879ac0a6/hub/2023/03/28/fed8a139-fdb3-47b5-b785-f8619a1e9c53/spectrumsportsnetlogo.png?auto=webp&width=1092" ,USA: SPECTRUM SPORTSNET DODGERS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595910
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://www.tvguide.com/a/img/resize/e828a0b5578d39f5543c1a5eef7d14b9879ac0a6/hub/2023/03/28/fed8a139-fdb3-47b5-b785-f8619a1e9c53/spectrumsportsnetlogo.png?auto=webp&width=1092" ,USA: SPECTRUM SPORTSNET LAKERS
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595911
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://undergroundservice.xyz:8080/images/IfOp6czxkyRSMGJ3B6ShYKwdkslcHlUaN1wkLCnN4pzKVu7FamY6LPxH4a7Tax6L4sBkzevBuEnyqJ26LSHEtGczVk7V3q8_rWFVkFwleEbaxOvRWgB6RbxXUn86_Bh2leag1lsd6jnASFb_1lsSHoJxHjFqYXB2b4ZKJZ_sp7kYmxbT1vy2zglsh7oNqABEoxiZC5_nBzI3LNGsv3XJdQ.png" ,USA: ATT SportsNet
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595912
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://archerytag.com/site-images/licensee_logos/the-sportsman-channel.jpg" ,USA: SPORTSMAN CHANNEL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595914
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUl21_vIobIT-y0XFFIDhN9v4dUnjngi0NQ&s" ,USA: SPORTSNET NEW YORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595915
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://cdn-icons-png.flaticon.com/512/88/88961.png" ,USA: STADIUM 1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595916
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://undergroundservice.xyz:8080/images/t6s7xn0v30CDcGEVlgq8LgwLAvdzp21EtX9D02YxTQz-Uv_eNX2Pms8f1DBEcVC4.png" ,USA: STADIUM 2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595917
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="http://undergroundservice.xyz:8080/images/t6s7xn0v30CDcGEVlgq8LgwLAvdzp21EtX9D02YxTQz-Uv_eNX2Pms8f1DBEcVC4.png" ,USA: STADIUM 3
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595918
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://media.licdn.com/dms/image/v2/D4E22AQEc60kwQdFumA/feedshare-shrink_800/feedshare-shrink_800/0/1717790818260?e=2147483647&v=beta&t=eEfYLXfhnYT81lMw_aBC2ZMDPSx8ToPtxnuTGrZG2v0" ,USA: TENNIS CHANNEL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595919
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaw9lclFB6NhD9x4BMH9g8sAHUgV_RMQ6Y9Q&s" ,USA: THE COWBOY CHANNEL
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595920
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUXDNMoTq4hiU9ArcMZgwUNRnqchC1DJJ6w&s" ,USA: TUDN
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595921
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Fanduel_TV_2022.svg/revision/latest/scale-to-width-down/300?cb=20220906010255" ,USA: FANDUEL TV
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595922
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://play-lh.googleusercontent.com/siKYQcQ2TGdO2QBGtfC0XX6PRlLZKMtvWGqTVO7onyFoyhfL4RQ-y1gei-CG6p6ETw" ,USA: FANDUEL RACING
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595923
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_rhEEm5Vl7HSuAY6V3_nV7ntPdNkJw8_QA&s" ,USA: ROOT SPORTS +
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595924
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://static.toiimg.com/thumb/msid-98738864,width-1280,height-720,resizemode-4/98738864.jpg" ,USA: WILLOW CRICKET
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595925
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNh4IfGhpa3umJnFvuHZfcvaQWyqjhuvedw&s" ,USA: WORLD FISHING NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595926
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://logodix.com/logo/33540.png" ,USA: WWE NETWORK
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595927
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzrZDselDYSoyJuBiJtX9GNa1sXh7Sz9RAw&s" ,USA: YES NETWORK FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/595928
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://mma.prnewswire.com/media/1607948/pokergo_Logo.jpg?p=facebook" ,POKERGO OP1
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/694432
+#EXTINF:-1 group-title="SPORTS - USA -" tvg-logo="https://mma.prnewswire.com/media/1607948/pokergo_Logo.jpg?p=facebook" ,POKERGO OP2
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/694433
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/J0MtHDy9/TNT-Sports-2023-2.png" tvg-id="AandE Network Canada" ,BOTYYV INFO
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
@@ -1749,6 +2033,7 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596997
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596998
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://restream.tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPi-vcC_1uQj7S-uBWqQaGJW9344MxtrPmZXTNRqlfy-X_jTzzTHTs00rDYOkxVlDIF.png" ,VERIFIED AMATEURS: YINYLEON
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/596999
+
 
 
 
