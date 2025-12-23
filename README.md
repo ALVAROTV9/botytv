@@ -1,8 +1,7 @@
 
-
-
-
 #EXTM3U
+
+
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://i.postimg.cc/tRNbSKHV/Dise-o-sin-t-tulo-9.png" tvg-id="ESPN Deportes" ,ESPN DEPORTES
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/591971
 
