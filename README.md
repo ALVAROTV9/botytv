@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" ,PPV - Dazn 1 (L)
 http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156148
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" ,PPV - Dazn 1 (L)
