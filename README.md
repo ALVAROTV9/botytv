@@ -77,6 +77,34 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/591986
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/591987
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" ,| ESPN 3 MEX | HD |
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/591988
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" ,COL-Claro Sports (M)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/8488
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png" tvg-id="DSPORTS.(COL).(DTSC).co" ,COL-Directv Sports (TV)(720)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/8489
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" tvg-id="Win.Sports.Premium.HD(Win+HD).co" ,COL-Winsport + (i)(720)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/84897
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-id="Win.Sports.co" ,COL-WinSports (L)(720)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/8505
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-id="Win.Sports.co" ,COL-WinSports (L)(SD)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/8506
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-id="Win.Sports.co" ,COL-WinSports (M)(1080)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/8507
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-id="Win.Sports.co" ,COL-WinSports (M)(SD)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/8508
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" tvg-id="Win.Sports+.co" ,COL-WinSports + (L)(720)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/8510
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" tvg-id="Win.Sports.Premium(Win+).co" ,COL-WinSports + (M)(1080)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/8511
+#EXTINF:-1 group-title="⭐COLOMBIA-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-id="Win.Sports.co" ,COL-Winsports + (T)(720)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/84896
+
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" ,| ESPN 3 MX | FHD |
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/591989
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest/scale-to-width-down/250?cb=20211120194330" ,| ESPN 4 SUR |
