@@ -6,6 +6,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" ,PPV - Dazn 1
 http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156150
+
+
+
+
+#EXTINF:-1 group-title="DEPORTESVIP" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,CoNtAcTar CoN BoTyYV
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 #EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" ,PPV - Dazn 2
 http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156151
 #EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" ,PPV - Dazn 2 (TV)
