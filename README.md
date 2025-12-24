@@ -2,6 +2,25 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" ,PPV - Dazn 1
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156150
+#EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" ,PPV - Dazn 2
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156151
+#EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" ,PPV - Dazn 2 (TV)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156152
+#EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dazn_LaLiga_logo.svg/1280px-Dazn_LaLiga_logo.svg.png" ,PPV - Dazn La Liga
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156156
+#EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/mDTNzGz7/Proyecto-X-espana-29.png" ,PPV - Dazn LaLiga 1 (TV)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156157
+#EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/bJqHDjDh/Proyecto-X-espana-28.png" ,PPV - Dazn LaLiga 2 (TV)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156159
+#EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/NjyNBYT3/Proyecto-X-ppv.png" ,PPV - Serie A: Dazn Bar 1 (TV)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156172
+#EXTINF:-1 group-title="⭐EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" ,PPV - Serie A: Dazn Sport 1 (TV)
+http://tv.proyectox.vip:8080/Nyc12520/ba490a4adb6c/156173
+
+
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://i.postimg.cc/tRNbSKHV/Dise-o-sin-t-tulo-9.png" tvg-id="ESPN Deportes" ,ESPN DEPORTES
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/591971
 
