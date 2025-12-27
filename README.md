@@ -1,58 +1,8 @@
 #EXTM3U
-
-
 #EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV INFO
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 #EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 1
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/733568
-
-
-
-
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" ,AMAZON PRIME FHD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235571
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/359
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/360
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/361
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/362
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13767
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/364
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/365
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/366
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »6«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/367
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »7«
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13767
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »8«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/369
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" ,AMAZON PRIME FHD
-
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" ,DISNEY+ FHD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235579
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" ,NETFLIX FHD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235580
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" ,PARAMOUNT+ FHD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235589
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" ,STAR+ FHD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235575
-#EXTINF:-1 group-title="2COLOMBIA" tvg-logo="https://i.postimg.cc/GmDg8z4c/Dise-o-sin-t-tulo-2.png" tvg-id="633dtv.co" ,Win Sports SD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13766
-#EXTINF:-1 group-title="2COLOMBIA" tvg-logo="https://i.postimg.cc/mgjJ63Lx/Dise-o-sin-t-tulo-2.png" tvg-id="Win Sports.co" ,Win Sports HD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13767
-#EXTINF:-1 group-title="2COLOMBIA" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" ,Win Sports + SD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13768
-#EXTINF:-1 group-title="2COLOMBIA" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" tvg-id="Win Sports+.co" ,Win Sports + HD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13769
-#EXTINF:-1 group-title="2COLOMBIA" tvg-logo="https://i.postimg.cc/50ssdRRm/Dise-o-sin-t-tulo-5.png" ,Win Sports + FHD
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13771
 #EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 3
 http://nocable.cc:8080/b2U9nd/520098/167742
 #EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 4
@@ -81,6 +31,60 @@ http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2517/index.m3u8
 http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/7322/index.m3u8
 #EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 16
 http://nocable.cc:8080/b2U9nd/520098/35264
+#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" ,AMAZON PRIME FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235571
+#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" ,DISNEY+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235579
+#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" ,NETFLIX FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235580
+#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" ,PARAMOUNT+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235589
+#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" ,STAR+ FHD
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235575
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/359
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/360
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/361
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/362
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13767
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/364
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/365
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/366
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »6«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/367
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »7«
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13767
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »8«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/369
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/359
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/360
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/361
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/362
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/363
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/364
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/365
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/366
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »6«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/367
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »7«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/368
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »8«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/369
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,BoTyYTv DEP 2 (5agt)
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,16AGOST2026• TNT SPORTS AR (HD) »1«
@@ -711,142 +715,6 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/592044
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/592045
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://expoispperu.com/wp-content/uploads/2022/03/tchchch.jpg" ,TITAN CHANNEL HD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/722792
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO I (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/86
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO I (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/87
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO I (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/88
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO I (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/89
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO II (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/61274
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO II (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/61275
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO II (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/61276
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" tvg-id="tntsports.cl" ,FCL• TNT SPORTS PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/92
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" tvg-id="tntsports.cl" ,FCL• TNT SPORTS PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/93
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" tvg-id="tntsports2.cl" ,FCL• TNT SPORTS PREMIUM 2 (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/96
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" tvg-id="tntsports2.cl" ,FCL• TNT SPORTS PREMIUM 2 (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/97
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" tvg-id="tntsports3.cl" ,FCL• TNT SPORTS (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/98
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" tvg-id="tntsports3.cl" ,FCL• TNT SPORTS (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/99
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" tvg-id="tntsports3.cl" ,FCL• TNT SPORTS (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/56659
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" tvg-id="tntsports3.cl" ,FCL• TNT SPORTS (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/56660
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,FCL• ESPN (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/67188
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,FCL• ESPN (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/67190
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,FCL• ESPN (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/67191
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" ,FCL• D13 (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/60957
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" ,FCL• D13 (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/60958
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" ,FCL• D13 (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/60959
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" ,FCL• D13 (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/60960
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/247836
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/58289
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/248240
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/247839
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" ,FCL• TNT SPORTS PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/248242
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" ,FCL• TNT SPORTS PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/247844
-#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" ,FCL• TNT SPORTS PREMIUM 2 (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/248243
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png" ,PE• LIGA 1 (HD)
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/14826
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/14827
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/61474
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/63060
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/63061
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »5«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/63062
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »6«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/63059
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/303
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/304
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/320
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/321
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »5«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/305
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" ,PE• M. PLUS (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/306
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" ,PE• M. PLUS (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/319
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/307
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/308
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/309
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/310
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »5«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/311
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »6«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/312
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »7«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/313
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »8«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/322
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »9«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/323
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »10«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/324
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,PE• DIRECTV SPORTS (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/317
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,PE• DIRECTV SPORTS (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/318
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/kGwnyv1z/Direc-TV-Sports-Latin-America-2018-png.png" ,PE• DIRECTV SPORTS+ (HD)
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/315
-#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/kgY2Cqyz/Direc-TV-Sports-2-Latin-America-2018.png" ,PE• DIRECTV SPORTS 2 (HD)
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/316
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/359
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/360
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/361
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/362
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/363
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/364
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/365
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/366
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »6«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/367
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »7«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/368
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »8«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/369
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DOCUMENTALES
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://i.ibb.co/0jn8NPbt/BoTyTv2L.png" ,MX | Discovery Channel
