@@ -1,5 +1,444 @@
 
 
+
+
+
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,16AGOST2026• TNT SPORTS AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/459
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,DEP• TNT SPORTS AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/460
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,DEP• TNT SPORTS AR (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/461
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" ,DEP• TYC SPORTS AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/554
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" ,DEP• TYC SPORTS AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/462
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" ,DEP• TYC SPORTS AR (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/555
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo_cl_basico.png" ,DEP• CDO BASICO CL (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/74106
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" ,DEP• CDO PREMIUM CL (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/26000
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" ,DEP• CDO PREMIUM CL (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/25999
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN CL (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/501
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN CL (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/502
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/518
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/520
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN LAT (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/522
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN LAT (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/524
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN MX (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/519
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN MX (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/521
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,DEP• ESPN MX (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/523
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 CL (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/452
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 CL (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/503
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 CL (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/504
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/506
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/507
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 LAT (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/508
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 LAT (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/510
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 MX (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/505
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" ,DEP• ESPN 2 MX (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/509
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" ,DEP• ESPN 3 CL (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/512
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" ,DEP• ESPN 3 AR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/513
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" ,DEP• ESPN 3 LAT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/514
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" ,DEP• ESPN 3 MX (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/511
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" ,DEP• ESPN 4 LAT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/517
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" ,DEP• ESPN 4 MX (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/515
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" ,DEP• ESPN 4 MX (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/516
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" ,DEP• FOX SPORTS 1 AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/456
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" ,DEP• FOX SPORTS 1 AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/457
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" ,DEP• FOX SPORTS 1 AR (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/458
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" ,DEP• FOX SPORTS 1 AR (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/525
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" ,DEP• ESPN 5 (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/526
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" ,DEP• ESPN 5 (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/527
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" ,DEP• ESPN 5 (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/528
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" ,DEP• ESPN 5 (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/541
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" ,DEP• ESPN PREMIUM (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/542
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" ,DEP• ESPN PREMIUM (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/543
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" ,DEP• ESPN PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/544
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" ,DEP• ESPN PREMIUM (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/545
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" ,DEP• FOX SPORTS 1 MX (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/540
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" ,DEP• FOX SPORTS 1 MX (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/534
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" ,DEP• ESPN 7 (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/453
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" ,DEP• ESPN 7 (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/454
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" ,DEP• ESPN 7 (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/530
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" ,DEP• ESPN 7 (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/532
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" ,DEP• ESPN 7 (HD) »5«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/533
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" ,DEP• FOX SPORTS 2 MX (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/529
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" ,DEP• FOX SPORTS 2 MX (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/531
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" ,DEP• FOX SPORTS 2 MX (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/535
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" ,DEP• FOX SPORTS 3 AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/455
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" ,DEP• FOX SPORTS 3 AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/537
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" ,DEP• FOX SPORTS 3 AR (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/538
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" ,DEP• ESPN 6 (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/539
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" ,DEP• ESPN 6 (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/536
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS CL (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/481
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS CL (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/465
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS CL (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/484
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/480
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/483
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS CO (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/482
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS CO (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/485
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS PE (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/479
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 CL (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/464
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 CL (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/478
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 CL (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/475
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/473
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/474
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 CO (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/476
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 PE (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/477
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ CL (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/472
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ CL (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/469
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ AR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/467
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ AR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/466
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ AR (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/468
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ CO (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/470
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ PE (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/471
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE CLUBES BR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/568
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE CLUBES BR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/569
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE 1 BR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/561
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE 2 BR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/562
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE 3 BR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/563
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE 4 BR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/564
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE 5 BR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/565
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/566
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP• PREMIERE 7 BR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/567
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" ,DEP• ECDF EC (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/585
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" ,DEP• GOL TV EC (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/486
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" ,DEP• GOL TV EC (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/489
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" ,DEP• GOL TV EC (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/488
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" ,DEP• GOL TV EC (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/487
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" ,DEP• VTV UR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/558
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" ,DEP• VTV UR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/557
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" ,DEP• VTV UR (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/556
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" ,DEP• VTV+ UR (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/560
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" ,DEP• VTV+ UR (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/559
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" ,DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/550
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" ,DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/490
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/3RCNhs2r/pngwing-com-3.png" ,DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/587
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F572%2Flaliga-tv-bar-2.png" ,DEP• LA LIGA TV BAR ES (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/491
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" ,DEP• M. LA LIGA ES (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/497
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" ,DEP• M. LA LIGA ES (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/496
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" ,DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/495
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" ,DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/492
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" ,DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/493
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" ,DEP• M. LA LIGA 3 ES (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/494
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP• M. LA LIGA DE CAMPEONES ES (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/500
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP• M. LA LIGA DE CAMPEONES ES (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/499
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP• M. LA LIGA DE CAMPEONES ES (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/498
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" ,DEP• ELEVEN SPORTS 1 PT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/570
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" ,DEP• ELEVEN SPORTS 2 PT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/571
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" ,DEP• SPORT TV 1 PT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/573
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png" ,DEP• SPORT TV 2 PT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/574
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/nLnBDGTL/sport-tv3.png" ,DEP• SPORT TV 3 PT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/575
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" ,DEP• SPORT TV 4 PT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/576
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/1zWBRdPS/sport-tv-plus.png" ,DEP• SPORT TV+ PT (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/572
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" ,DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/577
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" ,DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/578
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,DEP• TUDN MX (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/553
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" ,DEP• TUDN MX (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/552
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" ,DEP• AFIZZIONADOS MX (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/579
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" ,DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/549
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" ,DEP• CLARO SPORTS CO (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/463
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" ,DEP• UFC (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/580
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" ,DEP• UFC (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/586
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" ,DEP• UFC FIGHT PASS (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/581
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" ,DEP• WWE NETWORK (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/583
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" ,DEP• TENNIS CHANNEL (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/551
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" ,DEP• COMBATE BR (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/582
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.postimg.cc/BnB141sf/pngegg-1.png" ,DEP• RED BULL TV (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/584
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,DEP• TYC SPORTS AR DASH
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/254232
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,Premiere FC FHD
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/256392
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,UNBEATEN FHD
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/256396
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" ,Tennis Channel 2 FHD
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/256409
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://pictr.com/images/2023/09/03/EWPVL9.png" ,RED BULL TV DASH
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/256433
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,[alias] BA: Arena Sport Premium 3 (Serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252108
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,[alias] BA: Arena Sport 1 (serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252109
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,[alias] BA: Arena Sport 2 (Serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252110
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,[alias] BA: Arena Sport 3 (Serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252111
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,BA: Arena Sport 4 (Serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252112
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,[alias] BA: Arena Sport 5 (Serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252113
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,[alias] BA: Arena Sport 6 (Serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252114
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,[alias] BA: Arena Sport Premium 1 (Serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252115
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" ,[alias]  BA: Arena Sport Premium 2 (Serbia)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/252116
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO I (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/86
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO I (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/87
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/88
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO I (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/89
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/61274
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/61275
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" tvg-id="tntsports.cl" ,FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/61276
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" tvg-id="tntsports.cl" ,FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/92
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" tvg-id="tntsports.cl" ,FCL• TNT SPORTS PREMIUM (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/93
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" tvg-id="tntsports2.cl" ,FCL• TNT SPORTS PREMIUM 2 (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/96
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" tvg-id="tntsports2.cl" ,FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/97
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" tvg-id="tntsports3.cl" ,FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/98
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" tvg-id="tntsports3.cl" ,FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/99
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" tvg-id="tntsports3.cl" ,FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/56659
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" tvg-id="tntsports3.cl" ,FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/56660
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,FCL• ESPN (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/67188
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/67190
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" ,FCL• ESPN (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/67191
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" ,FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/60957
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" ,FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/60958
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" ,FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/60959
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" ,FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/60960
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/247836
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/58289
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/248240
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" ,FCL• DIRECTV SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/247839
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" ,FCL• TNT SPORTS PREMIUM (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/248242
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" ,FCL• TNT SPORTS PREMIUM (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/247844
+#EXTINF:-1 group-title="→ FUTBÓL CHILE ←" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" ,FCL• TNT SPORTS PREMIUM 2 (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/248243
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png" ,PE• LIGA 1 (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/14826
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/14827
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/61474
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/63060
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/63061
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »5«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/63062
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" ,PE• LIGA 1 MAX (HD) »6«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/63059
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/303
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/304
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/320
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/321
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" ,PE• M. DEPORTES (HD) »5«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/305
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" ,PE• M. PLUS (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/306
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" ,PE• M. PLUS (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/319
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/307
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/308
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/309
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/310
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »5«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/311
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »6«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/312
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »7«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/313
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »8«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/322
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »9«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/323
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" ,PE• GOL PERU (HD) »10«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/324
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,PE• DIRECTV SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/317
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,PE• DIRECTV SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/318
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/kGwnyv1z/Direc-TV-Sports-Latin-America-2018-png.png" ,PE• DIRECTV SPORTS+ (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/315
+#EXTINF:-1 group-title="→ FÚTBOL PERÚ ←" tvg-logo="https://i.postimg.cc/kgY2Cqyz/Direc-TV-Sports-2-Latin-America-2018.png" ,PE• DIRECTV SPORTS 2 (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/316
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/359
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/360
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/361
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/362
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/363
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/364
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/365
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/366
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »6«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/367
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »7«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/368
+#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »8«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/369
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://i.postimg.cc/tRNbSKHV/Dise-o-sin-t-tulo-9.png" tvg-id="ESPN Deportes" ,26ABR2026 ESPN DEPORTES 
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/591971
 #EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsx6PJ3RUPwS6AZ6N9c-u7prUxXTxf8ufGg&s" tvg-id="ESPN2.ar" ,| ESPN 1 AR | HD |
