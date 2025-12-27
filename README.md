@@ -14,7 +14,8 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235589
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" ,STAR+ FHD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235575
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »1«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/248464
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223
+
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »2«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/248465
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »3«
