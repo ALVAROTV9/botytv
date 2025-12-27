@@ -13,23 +13,26 @@ http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235580
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235589
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" ,STAR+ FHD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235575
-#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »1«
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223
 
-#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »2«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/248465
-#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »3«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/248466
-#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 1 (HD)
+
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS 1 (HD)
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/20203
-#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 2 (HD)
+
+
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS 2 (HD)
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/20220
-#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 3 (HD)
+
+
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS 3 (HD)
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/20233
-#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 4 (HD)
+
+
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS 4 (HD)
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/20285
+
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 5
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/733568
+
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 6
 http://nocable.cc:8080/b2U9nd/520098/167742
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 7
