@@ -3,6 +3,54 @@
 
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV INFO
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+
+
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »1«
+http://38.41.8.1:8000/play/a0zg
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »2«
+http://38.41.8.1:8000/play/a133
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »3
+http://38.41.8.1:8000/play/a0ze
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »4«
+http://38.41.8.1:8000/play/a0t0
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »5«
+http://38.41.8.1:8000/play/a0rp
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »6«
+http://38.41.8.1:8000/play/a07q
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »7«
+http://38.41.8.1:8000/play/a0sm
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »8«
+http://38.41.8.1:8000/play/a0sw
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »9«
+http://38.41.8.1:8000/play/a0sl
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »10«
+http://38.41.8.1:8000/play/a07b
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »11«
+http://38.41.8.1:8000/play/a0sv
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »12«
+http://38.41.8.1:8000/play/a13o
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »13«
+http://38.41.8.1:8000/play/a0rm
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »14«
+http://38.41.8.1:8000/play/a0sk
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »15«
+http://38.41.8.1:8000/play/a0sx
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »17«
+http://38.41.8.1:8000/play/a14m
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »18«
+http://38.41.8.1:8000/play/a0t3
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »19«
+http://38.41.8.1:8000/play/a0rv
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »1«PREMIUM
+http://38.41.8.1:8000/play/a0t7
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »1«TNT Sports Premiun HD
+http://38.41.8.1:8000/play/a0rn
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »1«FUT ARG
+http://38.41.8.1:8000/play/a07t
+#EXTINF:-1 group-title="⭐EVENTOS_DISNEY+BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »1«Win Sports
+http://38.41.8.1:8000/play/a0zf
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" ,AMAZON PRIME FHD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235571
 #EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" ,DISNEY+ FHD
