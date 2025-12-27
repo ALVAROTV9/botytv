@@ -1,4 +1,24 @@
 #EXTM3U
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,BoTyYV DEP 1 
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+
+
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,BoTyYTv DEP 2 (5agt)
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,BOTYTV DEP 3 (5may)
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES PREMIUM" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,BoTyYV DEP 4 (5abr)
+http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDvB8xZn/Bo-Ty-Tv-Whatsapp.png" ,CoNtAcTar BoTyYV PreMiuM DEPORTES
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 
