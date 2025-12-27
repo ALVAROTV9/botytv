@@ -1,90 +1,95 @@
 #EXTM3U
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV INFO
+
+
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV INFO
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 1
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/733568
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 3
-http://nocable.cc:8080/b2U9nd/520098/167742
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 4
-http://nocable.cc:8080/b2U9nd/520098/167743
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 5
-http://nocable.cc:8080/b2U9nd/520098/167744
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 6
-http://nocable.cc:8080/b2U9nd/520098/167745
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 7
-http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/9334/index.m3u8
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 8
-http://nocable.cc:8080/b2U9nd/520098/35243
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 9
-http://nocable.cc:8080/b2U9nd/520098/35241
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 10
-http://nocable.cc:8080/b2U9nd/520098/167748
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 11
-http://nocable.cc:8080/b2U9nd/520098/167749
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 12
-http://145.239.5.177:80/566/index.m3u8
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 13
-http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2518/index.m3u8
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 14
-http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2517/index.m3u8
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 15
-http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/7322/index.m3u8
-#EXTINF:-1 group-title="✮✮[Eventos BoTyTV | Exclusivos]✮✮" tvg-logo="https://i.postimg.cc/dVSNryww/24.png" ,EVENTOS BOTYTV 16
-http://nocable.cc:8080/b2U9nd/520098/35264
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" ,AMAZON PRIME FHD
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" ,AMAZON PRIME FHD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235571
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" ,DISNEY+ FHD
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" ,DISNEY+ FHD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235579
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" ,NETFLIX FHD
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" ,NETFLIX FHD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235580
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" ,PARAMOUNT+ FHD
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" ,PARAMOUNT+ FHD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235589
-#EXTINF:-1 group-title="1EXTRA CINE" tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" ,STAR+ FHD
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" ,STAR+ FHD
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/235575
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »1«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/248464
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »2«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/248465
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://i.ibb.co/VwBPdL8/Aurora-Logo-627x627-1.png" ,EVENTOS DISNEY+ »3«
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/248466
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 1 (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/20203
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 2 (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/20220
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 3 (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/20233
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 4 (HD)
+http://tvhomesmart.xyz:8080/966789938tv/rm486e/20285
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 5
+http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/733568
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 6
+http://nocable.cc:8080/b2U9nd/520098/167742
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 7
+http://nocable.cc:8080/b2U9nd/520098/167743
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 8
+http://nocable.cc:8080/b2U9nd/520098/167744
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 9
+http://nocable.cc:8080/b2U9nd/520098/167745
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 10
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/9334/index.m3u8
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 11
+http://nocable.cc:8080/b2U9nd/520098/35243
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 12
+http://nocable.cc:8080/b2U9nd/520098/35241
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 13
+http://nocable.cc:8080/b2U9nd/520098/167748
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 14
+http://nocable.cc:8080/b2U9nd/520098/167749
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 15
+http://145.239.5.177:80/566/index.m3u8
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 16
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2518/index.m3u8
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 17
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/2517/index.m3u8
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 18
+http://xv5myned.otttv.pw/iptv/88EYGGKCK5RASE2LR8XWTRTR/7322/index.m3u8
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" ,PPV• EVENTOS 19
+http://nocable.cc:8080/b2U9nd/520098/35264
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/359
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/360
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/361
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/362
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
 http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13767
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/364
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/365
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/366
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »6«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/367
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »7«
-http://fhh54d.vidacristiana.info:80/Bzmakatxl1223/2023FredyR/13767
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »8«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/369
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »1«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/359
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »2«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/360
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" ,COL• WIN SPORTS+ (HD) »3«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/361
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »1«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/362
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »2«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/363
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »3«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/364
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »4«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/365
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
+#EXTINF:-1 group-title="⭐PPV_EVENTOS_BOTYTV⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »5«
 http://tvhomesmart.xyz:8080/966789938tv/rm486e/366
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »6«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/367
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »7«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/368
-#EXTINF:-1 group-title="→ FÚTBOL COLOMBIA ←" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" ,COL• WIN SPORTS (HD) »8«
-http://tvhomesmart.xyz:8080/966789938tv/rm486e/369
+
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://i.ibb.co/xSxh9cQh/BoTyTv1L.png" ,BoTyYTv DEP 2 (5agt)
 http://embed-cloudfront.wistia.com/deliveries/c588a8fbe7f1b3836260fe658fab4107d52ea8ec.m3u8
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,16AGOST2026• TNT SPORTS AR (HD) »1«
